@@ -1,20 +1,25 @@
 import { useEffect, useState } from "react";
 
-const SwiperPadding: React.FC = () => {
+interface SwiperPaddingProps {
+    rootSelector?: string; // Selector của phần tử gốc để lấy padding
+    targetSelector?: string; // Selector của phần tử cần set padding
+}
+
+const SwiperPadding: React.FC<SwiperPaddingProps> = ({ rootSelector = ".swipper-root", targetSelector = ".box-swiper-padding" }) => {
     const [leftPadding, setLeftPadding] = useState(0);
 
     useEffect(() => {
         const updatePadding = () => {
-            const swipperRoot = document.querySelector(".swipper-root") as HTMLElement | null;
+            const swiperRoot = document.querySelector(rootSelector) as HTMLElement | null;
             let padding = 0;
 
-            if (swipperRoot) {
-                padding = swipperRoot.getBoundingClientRect().left;
+            if (swiperRoot) {
+                padding = swiperRoot.getBoundingClientRect().left;
             }
 
-            const boxSwiperPadding = document.querySelector(".box-swiper-padding") as HTMLElement | null;
-            if (boxSwiperPadding) {
-                boxSwiperPadding.style.paddingLeft = `${padding}px`;
+            const targetElement = document.querySelector(targetSelector) as HTMLElement | null;
+            if (targetElement) {
+                targetElement.style.paddingLeft = `${padding}px`;
             }
 
             setLeftPadding(padding);
@@ -26,7 +31,7 @@ const SwiperPadding: React.FC = () => {
         return () => {
             window.removeEventListener("resize", updatePadding);
         };
-    }, []);
+    }, [rootSelector, targetSelector]);
 
     return null;
 };
