@@ -201,7 +201,7 @@ export default function Section6() {
 							<h6 className="mb-0 text-anime-style-2">Become a Astrax eLearning platform instructor.</h6>
 							<Link href="/contact" className="btn btn-white bg-green-3 text-primary hover-up">
 								<span className="text-primary">join us today</span>
-								<img src="/assets/imgs/pages/learning/icon/arrow-right.svg" alt="AstraX" />
+								<img src="/assets/img/elearning-img/pages/learning/icon/arrow-right.svg" alt="AstraX" />
 							</Link>
 						</div>
 					</div>

@@ -14,7 +14,7 @@ export default function Section1() {
 					<div className="vertical-effect border-opacity-10 border-end border-white d-none d-lg-block" />
 				</div>
 				<div className="position-absolute bottom-0 end-0 mb-80 me-10 z-0">
-					<img className="w-100" src="/assets/imgs/pages/learning/page-home/home-section-1/pattern.png" alt="AstraX" />
+					<img className="w-100" src="/assets/img/elearning-img/pages/learning/page-home/home-section-1/pattern.png" alt="AstraX" />
 				</div>
 				<div className="container position-relative pt-lg-10 text-lg-start text-center">
 					<div className="row align-items-center">
@@ -61,7 +61,7 @@ export default function Section1() {
 				<div className="banner-girl position-absolute bottom-0 start-50 z-2 d-none d-lg-block">
 					<div className="position-relative z-1 overflow-hidden">
 						<div className="parallax-item">
-							<img src="/assets/imgs/pages/learning/page-home/home-section-1/banner-girl.png" alt="AstraX" />
+							<img src="/assets/img/elearning-img/pages/learning/page-home/home-section-1/banner-girl.png" alt="AstraX" />
 						</div>
 					</div>
 				</div>

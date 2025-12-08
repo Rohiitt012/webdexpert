@@ -24,10 +24,10 @@ export default function Section3() {
 								</span>
 							</h2>
 							<div className="d-flex align-items-center py-3">
-								<img className="icon-shape icon-50 rounded-circle border border-2 border-white" src="/assets/imgs/pages/learning/page-home/home-section-2/avatar-1.png" alt="AstraX" />
-								<img className="icon-shape icon-50 rounded-circle border border-2 border-white ms--10" src="/assets/imgs/pages/learning/page-home/home-section-2/avatar-2.png" alt="AstraX" />
-								<img className="icon-shape icon-50 rounded-circle border border-2 border-white ms--10" src="/assets/imgs/pages/learning/page-home/home-section-2/avatar-3.png" alt="AstraX" />
-								<img className="icon-shape icon-50 rounded-circle border border-2 border-white ms--10" src="/assets/imgs/pages/learning/page-home/home-section-2/avatar-4.png" alt="AstraX" />
+								<img className="icon-shape icon-50 rounded-circle border border-2 border-white" src="/assets/img/elearning-img/pages/learning/page-home/home-section-2/avatar-1.png" alt="AstraX" />
+								<img className="icon-shape icon-50 rounded-circle border border-2 border-white ms--10" src="/assets/img/elearning-img/pages/learning/page-home/home-section-2/avatar-2.png" alt="AstraX" />
+								<img className="icon-shape icon-50 rounded-circle border border-2 border-white ms--10" src="/assets/img/elearning-img/pages/learning/page-home/home-section-2/avatar-3.png" alt="AstraX" />
+								<img className="icon-shape icon-50 rounded-circle border border-2 border-white ms--10" src="/assets/img/elearning-img/pages/learning/page-home/home-section-2/avatar-4.png" alt="AstraX" />
 								<div className=" ms-4">
 									<div className="d-flex gap-2">
 										<i className="bi bi-star-fill text-yellow fs-7" />

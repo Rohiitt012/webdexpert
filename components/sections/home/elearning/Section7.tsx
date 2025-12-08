@@ -15,7 +15,7 @@ export default function Section7() {
 					<div className="row align-items-center">
 						<div className="col-lg-8 pe-lg-8">
 							<div className="position-relative d-inline-block rounded-5 overflow-hidden">
-								<img className="wow img-custom-anim-left" src="/assets/imgs/pages/learning/page-home/home-section-6/img-1.png" alt="AstraX" />
+								<img className="wow img-custom-anim-left" src="/assets/img/elearning-img/pages/learning/page-home/home-section-6/img-1.png" alt="AstraX" />
 								<div className="position-absolute top-0 start-0">
 									<h2 className="text-white ms-4">
 										with

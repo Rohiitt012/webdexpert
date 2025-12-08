@@ -29,7 +29,7 @@ export default function Section4() {
 						<div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={0}>
 							<div className="card-news position-relative hover-up">
 								<Link href="/single-courses" className="card-news-img position-relative d-block">
-									<img className="w-100 rounded-top-3" src="/assets/imgs/pages/learning/page-home/home-section-3/img-1.png" alt="AstraX" />
+									<img className="w-100 rounded-top-3" src="/assets/img/elearning-img/pages/learning/page-home/home-section-3/img-1.png" alt="AstraX" />
 									<span className="text-uppercase text-dark bg-green-3 rounded-2 px-2 py-1 position-absolute top-100 end-0 translate-middle-y me-5 fs-8 fw-bold">price:
 										$39</span>
 								</Link>
@@ -59,7 +59,7 @@ export default function Section4() {
 									</div>
 									<div className="d-flex align-items-center mt-4">
 										<div className="d-flex align-items-center gap-2">
-											<img className="icon-shape icon-40 rounded-circle" src="/assets/imgs/pages/learning/page-home/home-section-3/author-1.png" alt="AstraX" />
+											<img className="icon-shape icon-40 rounded-circle" src="/assets/img/elearning-img/pages/learning/page-home/home-section-3/author-1.png" alt="AstraX" />
 											<p className="fs-7 mb-0 text-uppercase fw-medium">
 												<Link href="/#" className="text-primary">ronald d.</Link>
 											</p>
@@ -76,7 +76,7 @@ export default function Section4() {
 						<div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={200}>
 							<div className="card-news position-relative hover-up">
 								<Link href="/single-courses" className="card-news-img position-relative d-block">
-									<img className="w-100 rounded-top-3" src="/assets/imgs/pages/learning/page-home/home-section-3/img-2.png" alt="AstraX" />
+									<img className="w-100 rounded-top-3" src="/assets/img/elearning-img/pages/learning/page-home/home-section-3/img-2.png" alt="AstraX" />
 									<span className="text-uppercase text-dark bg-green-3 rounded-2 px-2 py-1 position-absolute top-100 end-0 translate-middle-y me-5 fs-8 fw-bold">price:
 										$39</span>
 								</Link>
@@ -106,7 +106,7 @@ export default function Section4() {
 									</div>
 									<div className="d-flex align-items-center mt-4">
 										<div className="d-flex align-items-center gap-2">
-											<img className="icon-shape icon-40 rounded-circle" src="/assets/imgs/pages/learning/page-home/home-section-3/author-2.png" alt="AstraX" />
+											<img className="icon-shape icon-40 rounded-circle" src="/assets/img/elearning-img/pages/learning/page-home/home-section-3/author-2.png" alt="AstraX" />
 											<p className="fs-7 mb-0 text-uppercase fw-medium">
 												<Link href="/#" className="text-primary">ronald d.</Link>
 											</p>
@@ -123,7 +123,7 @@ export default function Section4() {
 						<div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={400}>
 							<div className="card-news position-relative hover-up">
 								<Link href="/single-courses" className="card-news-img position-relative d-block">
-									<img className="w-100 rounded-top-3" src="/assets/imgs/pages/learning/page-home/home-section-3/img-3.png" alt="AstraX" />
+									<img className="w-100 rounded-top-3" src="/assets/img/elearning-img/pages/learning/page-home/home-section-3/img-3.png" alt="AstraX" />
 									<span className="text-uppercase text-dark bg-green-3 rounded-2 px-2 py-1 position-absolute top-100 end-0 translate-middle-y me-5 fs-8 fw-bold">price:
 										$39</span>
 								</Link>
@@ -153,7 +153,7 @@ export default function Section4() {
 									</div>
 									<div className="d-flex align-items-center mt-4">
 										<div className="d-flex align-items-center gap-2">
-											<img className="icon-shape icon-40 rounded-circle" src="/assets/imgs/pages/learning/page-home/home-section-3/author-3.png" alt="AstraX" />
+											<img className="icon-shape icon-40 rounded-circle" src="/assets/img/elearning-img/pages/learning/page-home/home-section-3/author-3.png" alt="AstraX" />
 											<p className="fs-7 mb-0 text-uppercase fw-medium">
 												<Link href="/#" className="text-primary">ronald d.</Link>
 											</p>
@@ -170,7 +170,7 @@ export default function Section4() {
 						<div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={0}>
 							<div className="card-news position-relative hover-up">
 								<Link href="/single-courses" className="card-news-img position-relative d-block">
-									<img className="w-100 rounded-top-3" src="/assets/imgs/pages/learning/page-home/home-section-3/img-4.png" alt="AstraX" />
+									<img className="w-100 rounded-top-3" src="/assets/img/elearning-img/pages/learning/page-home/home-section-3/img-4.png" alt="AstraX" />
 									<span className="text-uppercase text-dark bg-green-3 rounded-2 px-2 py-1 position-absolute top-100 end-0 translate-middle-y me-5 fs-8 fw-bold">price:
 										$39</span>
 								</Link>
@@ -200,7 +200,7 @@ export default function Section4() {
 									</div>
 									<div className="d-flex align-items-center mt-4">
 										<div className="d-flex align-items-center gap-2">
-											<img className="icon-shape icon-40 rounded-circle" src="/assets/imgs/pages/learning/page-home/home-section-3/author-4.png" alt="AstraX" />
+											<img className="icon-shape icon-40 rounded-circle" src="/assets/img/elearning-img/pages/learning/page-home/home-section-3/author-4.png" alt="AstraX" />
 											<p className="fs-7 mb-0 text-uppercase fw-medium">
 												<Link href="/#" className="text-primary">ronald d.</Link>
 											</p>
@@ -217,7 +217,7 @@ export default function Section4() {
 						<div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={200}>
 							<div className="card-news position-relative hover-up">
 								<Link href="/single-courses" className="card-news-img position-relative d-block">
-									<img className="w-100 rounded-top-3" src="/assets/imgs/pages/learning/page-home/home-section-3/img-5.png" alt="AstraX" />
+									<img className="w-100 rounded-top-3" src="/assets/img/elearning-img/pages/learning/page-home/home-section-3/img-5.png" alt="AstraX" />
 									<span className="text-uppercase text-dark bg-green-3 rounded-2 px-2 py-1 position-absolute top-100 end-0 translate-middle-y me-5 fs-8 fw-bold">price:
 										$39</span>
 								</Link>
@@ -247,7 +247,7 @@ export default function Section4() {
 									</div>
 									<div className="d-flex align-items-center mt-4">
 										<div className="d-flex align-items-center gap-2">
-											<img className="icon-shape icon-40 rounded-circle" src="/assets/imgs/pages/learning/page-home/home-section-3/author-5.png" alt="AstraX" />
+											<img className="icon-shape icon-40 rounded-circle" src="/assets/img/elearning-img/pages/learning/page-home/home-section-3/author-5.png" alt="AstraX" />
 											<p className="fs-7 mb-0 text-uppercase fw-medium">
 												<Link href="/#" className="text-primary">ronald d.</Link>
 											</p>
@@ -264,7 +264,7 @@ export default function Section4() {
 						<div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={400}>
 							<div className="card-news position-relative hover-up">
 								<Link href="/single-courses" className="card-news-img position-relative d-block">
-									<img className="w-100 rounded-top-3" src="/assets/imgs/pages/learning/page-home/home-section-3/img-6.png" alt="AstraX" />
+									<img className="w-100 rounded-top-3" src="/assets/img/elearning-img/pages/learning/page-home/home-section-3/img-6.png" alt="AstraX" />
 									<span className="text-uppercase text-dark bg-green-3 rounded-2 px-2 py-1 position-absolute top-100 end-0 translate-middle-y me-5 fs-8 fw-bold">price:
 										$39</span>
 								</Link>
@@ -294,7 +294,7 @@ export default function Section4() {
 									</div>
 									<div className="d-flex align-items-center mt-4">
 										<div className="d-flex align-items-center gap-2">
-											<img className="icon-shape icon-40 rounded-circle" src="/assets/imgs/pages/learning/page-home/home-section-3/author-6.png" alt="AstraX" />
+											<img className="icon-shape icon-40 rounded-circle" src="/assets/img/elearning-img/pages/learning/page-home/home-section-3/author-6.png" alt="AstraX" />
 											<p className="fs-7 mb-0 text-uppercase fw-medium">
 												<Link href="/#" className="text-primary">ronald d.</Link>
 											</p>
@@ -313,7 +313,7 @@ export default function Section4() {
 						<div className="text-center" data-aos="fade-up" data-aos-delay={200}>
 							<Link href="/courses" className="btn btn-white bg-green-3 mt-8 text-primary hover-up">
 								<span className="text-primary">more courses</span>
-								<img src="/assets/imgs/pages/learning/icon/arrow-right.svg" alt="AstraX" />
+								<img src="/assets/img/elearning-img/pages/learning/icon/arrow-right.svg" alt="AstraX" />
 							</Link>
 						</div>
 					</div>

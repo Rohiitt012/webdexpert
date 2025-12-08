@@ -51,7 +51,7 @@ export default function Section5() {
 							</div>
 						</div>
 					</div>
-					<img className="pt-120" data-aos="zoom-in" src="/assets/imgs/pages/learning/page-home/home-section-4/img-1.png" alt="AstraX" />
+					<img className="pt-120" data-aos="zoom-in" src="/assets/img/elearning-img/pages/learning/page-home/home-section-4/img-1.png" alt="AstraX" />
 					<div className="text-center">
 						<Link href="/contact" className="btn btn-outline-secondary hover-up">
 							<span> join us today </span>

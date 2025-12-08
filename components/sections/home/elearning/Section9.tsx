@@ -34,7 +34,7 @@ export default function Section9() {
 								</div>
 								<div className="rounded-4 overflow-hidden my-5 d-inline-flex position-relative">
 									<Link href="/blog-details" className="zoom-img">
-										<img src="/assets/imgs/pages/learning/page-home/home-section-8/img-1.png" alt="AstraX" />
+										<img src="/assets/img/elearning-img/pages/learning/page-home/home-section-8/img-1.png" alt="AstraX" />
 									</Link>
 									<div className="position-absolute top-0 end-0 m-4">
 										<div className="icon-shape icon-80 rounded-4 bg-green-3 text-center d-flex flex-column justify-content-center">
@@ -56,7 +56,7 @@ export default function Section9() {
 								</div>
 								<div className="rounded-4 overflow-hidden my-5 d-inline-flex position-relative">
 									<Link href="/blog-details" className="zoom-img">
-										<img src="/assets/imgs/pages/learning/page-home/home-section-8/img-2.png" alt="AstraX" />
+										<img src="/assets/img/elearning-img/pages/learning/page-home/home-section-8/img-2.png" alt="AstraX" />
 									</Link>
 									<div className="position-absolute top-0 end-0 m-4">
 										<div className="icon-shape icon-80 rounded-4 bg-green-3 text-center d-flex flex-column justify-content-center">
@@ -78,7 +78,7 @@ export default function Section9() {
 								</div>
 								<div className="rounded-4 overflow-hidden my-5 d-inline-flex position-relative">
 									<Link href="/blog-details" className="zoom-img">
-										<img src="/assets/imgs/pages/learning/page-home/home-section-8/img-3.png" alt="AstraX" />
+										<img src="/assets/img/elearning-img/pages/learning/page-home/home-section-8/img-3.png" alt="AstraX" />
 									</Link>
 									<div className="position-absolute top-0 end-0 m-4">
 										<div className="icon-shape icon-80 rounded-4 bg-green-3 text-center d-flex flex-column justify-content-center">
