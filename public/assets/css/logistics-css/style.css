@@ -106,10 +106,10 @@
   gap: 10px;
 }
 .logistics-home-section-5 .box-bottom-search .username-2 {
-  background-image: url(../../img/logistics-img/template/icons/user-w.svg);
+  background-image: url(/assets/img/logistics-img/template/icons/user-w.svg);
 }
 .logistics-home-section-5 .box-bottom-search .email-2 {
-  background-image: url(../../img/logistics-img/template/icons/email-white.svg);
+  background-image: url(/assets/img/logistics-img/template/icons/email-white.svg);
 }
 .logistics-home-section-5 .dropdown-toggle::after {
   margin-left: 35px;
@@ -119,7 +119,7 @@
   display: inline-block;
   width: 16px;
   height: 16px;
-  background: url(../../img/logistics-img/pages/pages/logistics/template/type-box.svg) no-repeat left center;
+  background: url(/assets/img/logistics-img/pages/logistics/template/type-box.svg) no-repeat left center;
 }
 .logistics-home-section-5 .btn.show {
   color: var(--tc-system-white);
@@ -237,7 +237,7 @@
   border-color: var(--tc-theme-primary) !important;
 }
 .section-footer-20 .form-control {
-  background-image: url(../../img/logistics-img/template/icons/pen-w.svg);
+  background-image: url(/assets/img/logistics-img/template/icons/pen-w.svg);
   background-position: left 18px center;
   background-repeat: no-repeat;
   padding-left: 45px;

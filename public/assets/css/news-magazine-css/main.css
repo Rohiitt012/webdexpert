@@ -1674,13 +1674,13 @@ img {
     width: 24px;
     display: inline-block;
     opacity: 1;
-    background: url(../../img/news-magazine-img/template/icons/arrow-right-big.svg) no-repeat center;
+    background: url(/assets/img/news-magazine-img/template/icons/arrow-right-big.svg) no-repeat center;
 }
 .mobile-header-wrapper-style .mobile-header-wrapper-inner .mobile-header-content-area .mobile-menu-wrap nav .mobile-menu li.has-children.active > .menu-expand {
     background: rgba(255, 255, 255, 0.2);
 }
 .mobile-header-wrapper-style .mobile-header-wrapper-inner .mobile-header-content-area .mobile-menu-wrap nav .mobile-menu li.has-children.active > .menu-expand i {
-    background: url(../../img/news-magazine-img/template/icons/arrow-down-big.svg) no-repeat center;
+    background: url(/assets/img/news-magazine-img/template/icons/arrow-down-big.svg) no-repeat center;
 }
 .mobile-header-wrapper-style .mobile-header-wrapper-inner .mobile-header-content-area .mobile-menu-wrap nav .mobile-menu li a {
     font-size: 16px;
@@ -3871,104 +3871,104 @@ label.text-sm-medium {
 }
 
 input.username {
-    background-image: url(../../img/news-magazine-img/template/icons/user.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/user.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 input.username:focus {
-    background-image: url(../../img/news-magazine-img/template/icons/user.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/user.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 
 input.username-2 {
-    background-image: url(../../img/news-magazine-img/template/icons/user-yellow.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/user-yellow.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 input.username-2:focus {
-    background-image: url(../../img/news-magazine-img/template/icons/user-yellow.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/user-yellow.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 
 input.username-white {
-    background-image: url(../../img/news-magazine-img/template/icons/user-w.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/user-w.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 input.username-white:focus {
-    background-image: url(../../img/news-magazine-img/template/icons/user-w.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/user-w.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 
 input.phone {
-    background-image: url(../../img/news-magazine-img/template/icons/phone.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/phone.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 input.phone:focus {
-    background-image: url(../../img/news-magazine-img/template/icons/phone.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/phone.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 
 input.phone-white {
-    background-image: url(../../img/news-magazine-img/template/icons/phone-white.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/phone-white.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 input.phone-white:focus {
-    background-image: url(../../img/news-magazine-img/template/icons/phone-white.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/phone-white.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 
 input.email {
-    background-image: url(../../img/news-magazine-img/template/icons/email.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/email.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 input.email:focus {
-    background-image: url(../../img/news-magazine-img/template/icons/email.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/email.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 
 input.email-2 {
-    background-image: url(../../img/news-magazine-img/template/icons/email-yellow.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/email-yellow.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 input.email-2:focus {
-    background-image: url(../../img/news-magazine-img/template/icons/email-yellow.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/email-yellow.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 
 input.email-3 {
-    background-image: url(../../img/news-magazine-img/template/icons/email-green.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/email-green.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 input.email-3:focus {
-    background-image: url(../../img/news-magazine-img/template/icons/email-green.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/email-green.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
@@ -3976,14 +3976,14 @@ input.email-3:focus {
 
 input.email-white {
     background-color: #00282e;
-    background-image: url(../../img/news-magazine-img/template/icons/email-white.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/email-white.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
     color: #fff !important;
 }
 input.email-white:focus {
-    background-image: url(../../img/news-magazine-img/template/icons/email-white.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/email-white.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
@@ -3991,39 +3991,39 @@ input.email-white:focus {
 }
 
 input.generate {
-    background-image: url(../../img/news-magazine-img/template/icons/message.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/message.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 input.generate:focus {
-    background-image: url(../../img/news-magazine-img/template/icons/message.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/message.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 
 input.search {
-    background-image: url(../../img/news-magazine-img/template/icons/message.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/message.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 input.search:focus {
-    background-image: url(../../img/news-magazine-img/template/icons/message.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/message.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 
 input.search-2 {
-    background-image: url(../../img/news-magazine-img/template/icons/search.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/search.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
 }
 input.search-2:focus {
-    background-image: url(../../img/news-magazine-img/template/icons/search.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/search.svg);
     background-position: left 18px center;
     background-repeat: no-repeat;
     padding-left: 45px;
@@ -4046,14 +4046,14 @@ input.search-2:focus {
 }
 
 textarea {
-    background-image: url(../../img/news-magazine-img/template/icons/message.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/message.svg);
     background-position: left 18px top;
     background-position-y: top 18px;
     background-repeat: no-repeat;
     padding-left: 45px !important;
 }
 textarea:focus {
-    background-image: url(../../img/news-magazine-img/template/icons/message.svg);
+    background-image: url(/assets/img/news-magazine-img/template/icons/message.svg);
     background-position: left 18px top;
     background-position-y: top 18px;
     background-repeat: no-repeat;

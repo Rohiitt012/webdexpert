@@ -76,21 +76,21 @@
     display: inline-block;
     width: 16px;
     height: 16px;
-    background: url(../../img/coworking-space-img/pages/pages/coworking-space/template/location.svg) no-repeat left center;
+    background: url(/assets/img/coworking-space-img/pages/coworking-space/template/location.svg) no-repeat left center;
 }
 .coworking-space-home-section-1 .table-search::before {
     content: "";
     display: inline-block;
     width: 16px;
     height: 16px;
-    background: url(../../img/coworking-space-img/pages/pages/coworking-space/template/table.svg) no-repeat left center;
+    background: url(/assets/img/coworking-space-img/pages/coworking-space/template/table.svg) no-repeat left center;
 }
 .coworking-space-home-section-1 .dollar-search::before {
     content: "";
     display: inline-block;
     width: 16px;
     height: 16px;
-    background: url(../../img/coworking-space-img/pages/pages/coworking-space/template/dollar.svg) no-repeat left center;
+    background: url(/assets/img/coworking-space-img/pages/coworking-space/template/dollar.svg) no-repeat left center;
 }
 .coworking-space-home-section-1 .btn.show {
     color: var(--tc-system-black);

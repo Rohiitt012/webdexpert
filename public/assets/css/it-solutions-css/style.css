@@ -189,7 +189,7 @@
   width: 100%;
   height: 100%;
   transition: all 0.2s linear;
-  background-image: url(../../img/it-solutions-img/pages/pages/it-solutions/page-about/circle-card-team.png);
+  background-image: url(/assets/img/it-solutions-img/pages/it-solutions/page-about/circle-card-team.png);
   background-repeat: no-repeat;
 }
 .card-team .card-img .social-group {

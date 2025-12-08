@@ -39,7 +39,7 @@
   transition: all 0.3s ease-in-out;
 }
 .digital-agency-home-section-4 .card-portfolio-bg:hover {
-  background-image: url(../../img/digital-agency-img/pages/pages/digital-agency/page-home/home-section-4/img-bg-card.png);
+  background-image: url(/assets/img/digital-agency-img/pages/digital-agency/page-home/home-section-4/img-bg-card.png);
 }
 .digital-agency-home-section-4 .card-portfolio-bg:hover .portfolio-card-icon {
   background: var(--tc-theme-primary);
