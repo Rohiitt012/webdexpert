@@ -31,57 +31,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: MobileMen
                 <div className="mobile-header-wrapper-inner">
                     <div className="mobile-header-logo">
                         <Link className="d-flex align-items-center gap-2" href="/">
-                            <svg xmlns="http://www.w3.org/2000/svg" width={40} height={40} viewBox="0 0 40 40" fill="none">
-                                <g clipPath="url(#clip0_2220_28334)">
-                                    <path d="M24.5043 9.79627L22.7082 18.3971L35.2929 17.1938L37.1117 7.00508L24.5043 9.79627Z" fill="url(#paint0_linear_2220_28334)" />
-                                    <path d="M31.9171 17.6827L23.2697 20.618L30.6333 30.3856L40.723 26.6535L31.9171 17.6827Z" fill="url(#paint1_linear_2220_28334)" />
-                                    <path d="M28.4204 27.859L21.4605 22.2303L16.332 33.3239L24.7296 39.7337L28.4204 27.859Z" fill="url(#paint2_linear_2220_28334)" />
-                                    <path d="M17.5913 29.997L19.1912 21.3623L6.63465 22.8278L5.04812 33.0501L17.5913 29.997Z" fill="url(#paint3_linear_2220_28334)" />
-                                    <path d="M10.2917 22.1767L18.8717 19.0623L11.2859 9.45248L1.28177 13.3935L10.2917 22.1767Z" fill="url(#paint4_linear_2220_28334)" />
-                                    <path d="M13.7243 12.2233L20.8121 17.7044L25.6875 6.50841L17.1442 0.276579L13.7243 12.2233Z" fill="url(#paint5_linear_2220_28334)" />
-                                </g>
-                                <defs>
-                                    <linearGradient id="paint0_linear_2220_28334" x1="37.506" y1="0.189907" x2="-2.52908" y2="9.62" gradientUnits="userSpaceOnUse">
-                                        <stop stopColor="#23EFEF" />
-                                        <stop offset="0.349611" stopColor="#37B8BE" />
-                                        <stop offset="0.701514" stopColor="#2DA0FF" />
-                                        <stop offset={1} stopColor="#B172FE" />
-                                    </linearGradient>
-                                    <linearGradient id="paint1_linear_2220_28334" x1="37.506" y1="0.189907" x2="-2.52908" y2="9.62" gradientUnits="userSpaceOnUse">
-                                        <stop stopColor="#23EFEF" />
-                                        <stop offset="0.349611" stopColor="#37B8BE" />
-                                        <stop offset="0.701514" stopColor="#2DA0FF" />
-                                        <stop offset={1} stopColor="#B172FE" />
-                                    </linearGradient>
-                                    <linearGradient id="paint2_linear_2220_28334" x1="37.506" y1="0.189907" x2="-2.52908" y2="9.62" gradientUnits="userSpaceOnUse">
-                                        <stop stopColor="#23EFEF" />
-                                        <stop offset="0.349611" stopColor="#37B8BE" />
-                                        <stop offset="0.701514" stopColor="#2DA0FF" />
-                                        <stop offset={1} stopColor="#B172FE" />
-                                    </linearGradient>
-                                    <linearGradient id="paint3_linear_2220_28334" x1="37.506" y1="0.189907" x2="-2.52908" y2="9.62" gradientUnits="userSpaceOnUse">
-                                        <stop stopColor="#23EFEF" />
-                                        <stop offset="0.349611" stopColor="#37B8BE" />
-                                        <stop offset="0.701514" stopColor="#2DA0FF" />
-                                        <stop offset={1} stopColor="#B172FE" />
-                                    </linearGradient>
-                                    <linearGradient id="paint4_linear_2220_28334" x1="37.506" y1="0.189907" x2="-2.52908" y2="9.62" gradientUnits="userSpaceOnUse">
-                                        <stop stopColor="#23EFEF" />
-                                        <stop offset="0.349611" stopColor="#37B8BE" />
-                                        <stop offset="0.701514" stopColor="#2DA0FF" />
-                                        <stop offset={1} stopColor="#B172FE" />
-                                    </linearGradient>
-                                    <linearGradient id="paint5_linear_2220_28334" x1="37.506" y1="0.189907" x2="-2.52908" y2="9.62" gradientUnits="userSpaceOnUse">
-                                        <stop stopColor="#23EFEF" />
-                                        <stop offset="0.349611" stopColor="#37B8BE" />
-                                        <stop offset="0.701514" stopColor="#2DA0FF" />
-                                        <stop offset={1} stopColor="#B172FE" />
-                                    </linearGradient>
-                                    <clipPath id="clip0_2220_28334">
-                                        <rect width={40} height={40} fill="white" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
+                            <img src="/assets/img/ai-solutions-img/template/icons/logo.svg" alt="Astrax Logo" width={40} height={40} />
                             <h5 className="mb-0">Astrax</h5>
                         </Link>
                         <div className={`burger-icon burger-icon-white border rounded-circle ${isMobileMenu ? "burger-close" : ""}`} onClick={handleMobileMenu}>
