@@ -17,7 +17,7 @@ const swiperOptions = {
         disableOnInteraction: false,
         reverseDirection: true,
     },
-    loop: true,
+    loop: true,\n    watchOverflow: true,
     direction: "horizontal" as const,
 };
 

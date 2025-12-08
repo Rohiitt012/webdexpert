@@ -9,7 +9,7 @@ const swiperOptions = {
         delay: 2500,
         disableOnInteraction: false,
     },
-    loop: true,
+    loop: true,\n    watchOverflow: true,
     pagination: {
         el: ".swiper-pagination",
         clickable: true,
