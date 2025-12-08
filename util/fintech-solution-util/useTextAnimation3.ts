@@ -23,56 +23,71 @@ export default function useTextAnimation3() {
 	>([])
 
 	useEffect(() => {
-		if (typeof window === "undefined") return
+    if (typeof window === "undefined") return;
 
-		// Cast querySelectorAll result to HTMLElement
-		elementsRef.current = Array.from(
-			document.querySelectorAll(".text-anime-style-3") as NodeListOf<HTMLElement>
-		)
+    let isMounted = true;
 
-		if (elementsRef.current.length === 0) {
-			return
-		}
+    const init = async () => {
+        if (document.fonts?.ready) {
+            try {
+                await document.fonts.ready;
+            } catch (e) {
+                // ignore font load errors
+            }
+        }
+        if (!isMounted) return;
 
-		elementsRef.current.forEach((element) => {
-			if (element.animation) {
-				element.animation.progress(1).kill()
-			}
-			if (element.split) {
-				element.innerHTML = element.split.originalHTML
-			}
+        elementsRef.current = Array.from(
+            document.querySelectorAll(".text-anime-style-3") as NodeListOf<HTMLElement>
+        );
 
-			element.split = splitText(element)
+        if (elementsRef.current.length === 0) {
+            return;
+        }
 
-			gsap.set(element, { perspective: 400 })
-			gsap.set(element.split.chars, { opacity: 0, x: 50 })
+        elementsRef.current.forEach((element) => {
+            if (element.animation) {
+                element.animation.progress(1).kill();
+            }
+            if (element.split) {
+                element.innerHTML = element.split.originalHTML;
+            }
 
-			element.animation = gsap.to(element.split.chars, {
-				scrollTrigger: {
-					trigger: element,
-					start: "top 80%",
-					toggleActions: "play none none reverse",
-				},
-				x: 0,
-				opacity: 1,
-				duration: 1,
-				ease: "back.out(1.7)",
-				stagger: 0.03,
-			})
-		})
+            element.split = splitText(element);
 
-		return () => {
-			elementsRef.current.forEach((element) => {
-				if (element.animation) {
-					element.animation.kill()
-				}
-				if (element.split) {
-					element.innerHTML = element.split.originalHTML
-				}
-			})
-			ScrollTrigger.getAll().forEach((trigger) => trigger.kill())
-		}
-	}, [])
+            gsap.set(element, { perspective: 400 });
+            gsap.set(element.split.chars, { opacity: 0, x: 50 });
+
+            element.animation = gsap.to(element.split.chars, {
+                scrollTrigger: {
+                    trigger: element,
+                    start: "top 80%",
+                    toggleActions: "play none none reverse",
+                },
+                x: 0,
+                opacity: 1,
+                duration: 1,
+                ease: "back.out(1.7)",
+                stagger: 0.03,
+            });
+        });
+    };
+
+    init();
+
+    return () => {
+        isMounted = false;
+        elementsRef.current.forEach((element) => {
+            if (element.animation) {
+                element.animation.kill();
+            }
+            if (element.split) {
+                element.innerHTML = element.split.originalHTML;
+            }
+        });
+        ScrollTrigger.getAll().forEach((trigger) => trigger.kill());
+    };
+}, []);
 
 	const splitText = (element: HTMLElement) => {
 		const originalHTML = element.innerHTML
