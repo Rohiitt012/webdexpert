@@ -4,7 +4,16 @@ export default function Section8() {
 	return (
 		<>
 
-			<section className="elearning-home-section-7 bg-secondary-2 mt--20 pt-80 pb-80 overflow-hidden rounded-bottom-4 z-25 wow img-custom-anim-top" data-background="assets/imgs/pages/learning/page-home/home-section-6/img-bg.png">
+			<section
+				className="elearning-home-section-7 bg-secondary-2 mt--20 pt-80 pb-80 overflow-hidden rounded-bottom-4 z-25 wow img-custom-anim-top"
+				data-background="/assets/img/elearning-img/pages/learning/page-home/home-section-6/img-bg.png"
+				style={{
+					backgroundImage: "url(/assets/img/elearning-img/pages/learning/page-home/home-section-6/img-bg.png)",
+					backgroundSize: "cover",
+					backgroundPosition: "center",
+					backgroundRepeat: "no-repeat",
+				}}
+			>
 				<div className="container position-relative z-2 pt-3">
 					<div className="row">
 						<div className="d-flex flex-lg-nowrap flex-wrap justify-content-center justify-content-lg-between gap-5">
