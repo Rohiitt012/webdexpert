@@ -31,7 +31,6 @@ export default function useTextAnimation3() {
 		)
 
 		if (elementsRef.current.length === 0) {
-			console.warn("No elements with class 'text-anime-style-3' found.")
 			return
 		}
 

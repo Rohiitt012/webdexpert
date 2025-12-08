@@ -22,8 +22,17 @@ const swiperOptions = {
 };
 
 export default function CarouselTickerrtl({ slides }: CarouselTickerProps) {
+    // Only enable loop if we have enough slides
+    const minSlidesForLoop = 4; // Based on slidesPerView
+    const shouldLoop = slides.length >= minSlidesForLoop;
+    
+    const options = {
+        ...swiperOptions,
+        loop: shouldLoop,
+    };
+    
     return (
-        <Swiper {...swiperOptions} className="carouselTicker carouselTicker-left position-relative z-1">
+        <Swiper {...options} className="carouselTicker carouselTicker-left position-relative z-1">
             <div className="carouselTicker__list">
                 {slides.map((slide, index) => (
                     <SwiperSlide key={index} className="carouselTicker__item overflow-visible">

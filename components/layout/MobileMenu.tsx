@@ -133,10 +133,10 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: MobileMen
                         <div className="contact-info">
                             <ul className="list-wrap">
                                 <li>
-                                    <span className="opacity-50">Mail:</span> <Link href="/mailto:info@valom.com">info@astrax.com</Link>
+                                    <span className="opacity-50">Mail:</span> <Link href="mailto:info@astrax.com">info@astrax.com</Link>
                                 </li>
                                 <li>
-                                    <span className="opacity-50">Phone:</span> <Link href="/tel:0123456789">+123 888 9999</Link>
+                                    <span className="opacity-50">Phone:</span> <Link href="tel:+1238889999">+123 888 9999</Link>
                                 </li>
                             </ul>
                         </div>

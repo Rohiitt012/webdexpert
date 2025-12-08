@@ -29,7 +29,16 @@ export default function Section6() {
 				<div className="pricing__area pricing__bg">
 					<div className="accordion section-portfolio-2 d-flex flex-column flex-lg-row align-items-center">
 						<div className="accordion-item wow img-custom-anim-top expand">
-							<div className="accordion-img" data-background="assets/imgs/pages/learning/page-home/home-section-5/portrait.png" />
+							<div
+								className="accordion-img"
+								data-background="/assets/img/elearning-img/pages/learning/page-home/home-section-5/portrait.png"
+								style={{
+									backgroundImage: "url(/assets/img/elearning-img/pages/learning/page-home/home-section-5/portrait.png)",
+									backgroundSize: "cover",
+									backgroundPosition: "center",
+									backgroundRepeat: "no-repeat",
+								}}
+							/>
 							<div className="accordion-link">
 								<div className="accordion-link-item">
 									<span className="btn-text text-primary opacity-50">cto</span>
@@ -84,7 +93,16 @@ export default function Section6() {
 							</div>
 						</div>
 						<div className="accordion-item wow img-custom-anim-top">
-							<div className="accordion-img" data-background="assets/imgs/pages/learning/page-home/home-section-5/portrait-2.png" />
+							<div
+								className="accordion-img"
+								data-background="/assets/img/elearning-img/pages/learning/page-home/home-section-5/portrait-2.png"
+								style={{
+									backgroundImage: "url(/assets/img/elearning-img/pages/learning/page-home/home-section-5/portrait-2.png)",
+									backgroundSize: "cover",
+									backgroundPosition: "center",
+									backgroundRepeat: "no-repeat",
+								}}
+							/>
 							<div className="accordion-link">
 								<div className="accordion-link-item">
 									<span className="btn-text text-primary opacity-50">cto</span>
@@ -139,7 +157,16 @@ export default function Section6() {
 							</div>
 						</div>
 						<div className="accordion-item wow img-custom-anim-top">
-							<div className="accordion-img" data-background="assets/imgs/pages/learning/page-home/home-section-5/portrait-3.png" />
+							<div
+								className="accordion-img"
+								data-background="/assets/img/elearning-img/pages/learning/page-home/home-section-5/portrait-3.png"
+								style={{
+									backgroundImage: "url(/assets/img/elearning-img/pages/learning/page-home/home-section-5/portrait-3.png)",
+									backgroundSize: "cover",
+									backgroundPosition: "center",
+									backgroundRepeat: "no-repeat",
+								}}
+							/>
 							<div className="accordion-link">
 								<div className="accordion-link-item">
 									<span className="btn-text text-primary opacity-50">cto</span>

@@ -64,16 +64,16 @@ export default function Header({ scroll, isMobileMenu, handleMobileMenu }: any) 
                         </div>
                     </div>
                     <div className="offCanvas__social-icon mt-30">
-                        <Link href="/javascript:void(0)">
+                        <Link href="#">
                             <i className="bi bi-facebook" />
                         </Link>
-                        <Link href="/javascript:void(0)">
+                        <Link href="#">
                             <i className="bi bi-twitter-x" />
                         </Link>
-                        <Link href="/javascript:void(0)">
+                        <Link href="#">
                             <i className="bi bi-linkedin" />
                         </Link>
-                        <Link href="/javascript:void(0)">
+                        <Link href="#">
                             <i className="bi bi-behance" />
                         </Link>
                     </div>

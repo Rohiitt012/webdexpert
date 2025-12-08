@@ -46,8 +46,17 @@ const swiperOptions = {
 };
 
 export default function CarouselTicker({ slides }: CarouselTickerProps) {
+    // Only enable loop if we have enough slides
+    const minSlidesForLoop = 6; // Based on max slidesPerView
+    const shouldLoop = slides.length >= minSlidesForLoop;
+    
+    const options = {
+        ...swiperOptions,
+        loop: shouldLoop,
+    };
+    
     return (
-        <Swiper {...swiperOptions} className="carouselTicker carouselTicker-left pt-4 position-relative z-1 wow img-custom-anim-top">
+        <Swiper {...options} className="carouselTicker carouselTicker-left pt-4 position-relative z-1 wow img-custom-anim-top">
             <div className="carouselTicker__list">
                 {slides.map((slide, index) => (
                     <SwiperSlide key={index} className=" mx-3">
