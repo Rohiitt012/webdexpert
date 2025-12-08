@@ -21,7 +21,7 @@ export default function Section1() {
                                         </h1>
                                     </div>
                                 </div>
-                                <Link href="/become-a-volunteer" className="btn btn-dark">
+                                <Link href="/contact" className="btn btn-dark">
                                     <span>explore causes</span>
                                     <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">
                                         <g clipPath="url(#clip0_1121_817)">
