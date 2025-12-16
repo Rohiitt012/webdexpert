@@ -71,6 +71,7 @@ Table of contents
     --tc-black-bg-stroke: #5a5a5a;
     --tc-black-bg-body-text: #a8a8a8;
     --tc-linear-1: linear-gradient(260deg, #23efef 2.2%, #37b8be 35.5%, #2da0ff 69.1%, #b172fe 97.6%);
+    --tc-linear-3: linear-gradient(260deg, #23efef 2.2%, #37b8be 35.5%, #2da0ff 69.1%, #b172fe 97.6%);
     --tc-fw-black: 900;
     --tc-fw-extra-bold: 800;
     --tc-fw-bold: 700;
@@ -943,20 +944,25 @@ img {
 
 .btn-linear {
     --bs-btn-color: var(--tc-system-white);
-    --bs-btn-bg: var(--tc-linear-1);
+    --bs-btn-bg: var(--tc-linear-3);
     --bs-btn-border-color: transparent;
     --bs-btn-hover-color: var(--tc-system-white);
-    --bs-btn-hover-bg: var(--tc-linear-1);
+    --bs-btn-hover-bg: var(--tc-linear-3);
     --bs-btn-hover-border-color: transparent;
     --bs-btn-focus-shadow-rgb: 49, 132, 253;
     --bs-btn-active-color: var(--tc-system-white);
-    --bs-btn-active-bg: var(--tc-linear-1);
+    --bs-btn-active-bg: var(--tc-linear-3);
     --bs-btn-active-border-color: transparent;
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     --bs-btn-disabled-color: var(--tc-system-black);
     --bs-btn-disabled-bg: var(--tc-theme-primary);
     --bs-btn-disabled-border-color: var(--tc-theme-primary);
     --bs-btn-border-width: 0px;
+}
+.btn-linear.hover-up,
+.btn-linear.hover-up:hover {
+    transform: none !important;
+    transition: none !important;
 }
 
 .btn-dark {
@@ -1646,7 +1652,7 @@ img {
     background: #020202 !important;
 }
 .navbar-dark .navbar-nav .nav-item.menu-item-has-children .nav-link::after {
-    background: var(--tc-linear-1);
+    background: var(--tc-linear-3);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -1655,7 +1661,7 @@ img {
     color: var(--tc-system-black);
 }
 .navbar-dark .navbar-nav .nav-item .dropdown-menu .dropdown-item:hover {
-    background: var(--tc-linear-1);
+    background: var(--tc-linear-3);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -1667,13 +1673,13 @@ img {
     box-shadow: none;
 }
 .navbar-dark .navbar-nav .nav-item .nav-link:hover span {
-    background: var(--tc-linear-1);
+    background: var(--tc-linear-3);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .navbar-dark .navbar-nav .nav-item .nav-link.active span {
-    background: var(--tc-linear-1);
+    background: var(--tc-linear-3);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;

@@ -8,7 +8,7 @@ export default function Section3() {
                 <div className="container position-relative z-1">
                     <div className="row align-items-center">
                         <div className="col-lg-6 order-3 order-lg-1 mt-lg-0 mt-8 d-none d-lg-block">
-                            <img className="wow img-custom-anim-top" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-services/img-2.png" alt="AstraX" />
+                            <img className="wow img-custom-anim-top" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-services/img-2.png" alt="Xzect Labs" />
                         </div>
                         <div className="col-lg-6 col-md-12 order-2 ">
                             <div className="d-flex align-items-center gap-3">

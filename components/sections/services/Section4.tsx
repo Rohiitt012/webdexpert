@@ -7,7 +7,7 @@ export default function Section4() {
             <section className="ai-solutions-services-section-4 position-relative overflow-hidden pt-120">
                 <div className="container">
                     <div className="py-80 bg-secondary-2 rounded-5 text-center position-relative overflow-hidden px-5">
-                        <img className="position-absolute bottom-0 start-50 translate-middle-x z-0" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-services/img-3.png" alt="AstraX" />
+                        <img className="position-absolute bottom-0 start-50 translate-middle-x z-0" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-services/img-3.png" alt="Xzect Labs" />
                         <span className="bg-white rounded-pill p-3 btn-text">
                             🚀 <span className="d-none d-lg-block">EXCLUSIVE OFFER:</span> UNLIMITED ACCESS FOR $49
                         </span>

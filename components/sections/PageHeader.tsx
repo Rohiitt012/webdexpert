@@ -10,7 +10,7 @@ export default function PageHeader({ title, current_page }: PageHeaderProps) {
         <>
             {/*tax-software section header*/}
             <section className="ai-solutions-section-header position-relative bg-dark-1">
-                <img className="position-absolute bottom-0 end-0" data-aos="fade-left" data-aos-delay={400} src="/assets/img/ai-solutions-img/pages/ai-solutions/page-home/banner-header.png" alt="AstraX" />
+                <img className="position-absolute bottom-0 end-0" data-aos="fade-left" data-aos-delay={400} src="/assets/img/ai-solutions-img/pages/ai-solutions/page-home/banner-header.png" alt="Xzect Labs" />
 
                 <div className="position-relative">
                     <div className="container position-relative">

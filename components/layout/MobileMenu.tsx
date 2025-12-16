@@ -31,8 +31,8 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: MobileMen
                 <div className="mobile-header-wrapper-inner">
                     <div className="mobile-header-logo">
                         <Link className="d-flex align-items-center gap-2" href="/">
-                            <img src="/assets/img/ai-solutions-img/template/icons/logo.svg" alt="Astrax Logo" width={40} height={40} />
-                            <h5 className="mb-0">Astrax</h5>
+                            <img src="/assets/img/ai-solutions-img/template/icons/logo.svg" alt="Xzect Labs Logo" width={40} height={40} />
+                            <h5 className="mb-0">Xzect Labs</h5>
                         </Link>
                         <div className={`burger-icon burger-icon-white border rounded-circle ${isMobileMenu ? "burger-close" : ""}`} onClick={handleMobileMenu}>
                             <span className="burger-icon-top" />

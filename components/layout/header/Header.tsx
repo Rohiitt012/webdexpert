@@ -9,8 +9,8 @@ export default function Header({ scroll, isMobileMenu, handleMobileMenu }: any) 
                 <nav className={`navbar navbar-expand-lg navbar-dark z-5 ${scroll ? "navbar-stick top-0 position-fixed" : ""}`}>
                     <div className="container mt-3 mb-3">
                         <Link className="navbar-brand d-flex align-items-center gap-2" href="/">
-                            <img src="/assets/img/ai-solutions-img/template/icons/logo.svg" alt="Astrax Logo" width={40} height={40} />
-                            <h5 className="mb-0 text-white">Astrax</h5>
+                            <img src="/assets/img/ai-solutions-img/template/icons/logo.svg" alt="Xzect Labs Logo" width={40} height={40} />
+                            <h5 className="mb-0 text-white">Xzect Labs</h5>
                         </Link>
                         <div className="d-none d-lg-flex">
                             <MainMenu />
@@ -38,10 +38,10 @@ export default function Header({ scroll, isMobileMenu, handleMobileMenu }: any) 
                             <i className="ri-close-line" />
                         </button>
                     </div>
-                    <div className="offCanvas__logo mb-30">
+                        <div className="offCanvas__logo mb-30">
                         <Link className="d-flex align-items-center gap-2" href="/">
-                            <img src="/assets/img/ai-solutions-img/template/icons/logo.svg" alt="Astrax Logo" width={40} height={40} />
-                            <h5 className="mb-0 text-dark">Astrax</h5>
+                            <img src="/assets/img/ai-solutions-img/template/icons/logo.svg" alt="Xzect Labs Logo" width={40} height={40} />
+                            <h5 className="mb-0 text-dark">Xzect Labs</h5>
                         </Link>
                     </div>
                     <div className="offCanvas__side-info mb-30">

@@ -10,7 +10,7 @@ export default function Section2() {
                         <div className="col-lg-5" data-aos="fade-up" data-aos-delay={0}>
                             <div className="card-about">
                                 <div className="zoom-img overflow-hidden rounded-5">
-                                    <img className=" w-100" src="/assets/img/conference-img/pages/conference/page-home/home-section-2/img-1.png" alt="AstraX" />
+                                    <img className=" w-100" src="/assets/img/conference-img/pages/conference/page-home/home-section-2/img-1.png" alt="Xzect Labs" />
                                 </div>
                                 <p className="btn-text text-primary pt-6">about conference</p>
                                 <Link href="/event-details">
@@ -25,7 +25,7 @@ export default function Section2() {
                                 <div className="col-lg-6 order-2 order-lg-1" data-aos="fade-up" data-aos-delay={200}>
                                     <div className="position-relative">
                                         <div className="zoom-img overflow-hidden rounded-5 d-inline-block">
-                                            <img src="/assets/img/conference-img/pages/conference/page-home/home-section-2/img-2.png" alt="AstraX" />
+                                            <img src="/assets/img/conference-img/pages/conference/page-home/home-section-2/img-2.png" alt="Xzect Labs" />
                                         </div>
                                         <div className="position-absolute bottom-0 start-0 z-2 ms-5 mb-5">
                                             <Link href="https://www.youtube.com/watch?v=2GOTlI8pYeo" className="fw-semibold bg-white rounded-circle popup-video play-btn  hover-up icon-shape icon-80">
@@ -36,7 +36,7 @@ export default function Section2() {
                                 </div>
                                 <div className="col-lg-6 order-1 order-lg-2" data-aos="fade-up" data-aos-delay={400}>
                                     <div className="zoom-img overflow-hidden rounded-5 mix-blend-mode">
-                                        <img className="w-100" src="/assets/img/conference-img/pages/conference/page-home/home-section-2/img-3.png" alt="AstraX" />
+                                        <img className="w-100" src="/assets/img/conference-img/pages/conference/page-home/home-section-2/img-3.png" alt="Xzect Labs" />
                                     </div>
                                     <p className="py-4">A forward-thinking and clever approach to maintaining sales tax compliance amidst the digital era.</p>
                                     <Link href="/contact" className="btn btn-primary btn-slide-bottom btn-slide-bottom--red-2 hover-up">

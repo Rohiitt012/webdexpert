@@ -62,7 +62,7 @@ export default function Section2() {
                             </div>
                         </div>
                         <div className="col-lg-6 ms-auto wow img-custom-anim-right d-none d-lg-block">
-                            <img src="/assets/img/ai-solutions-img/pages/ai-solutions/page-services/img-1.png" alt="AstraX" />
+                            <img src="/assets/img/ai-solutions-img/pages/ai-solutions/page-services/img-1.png" alt="Xzect Labs" />
                         </div>
                     </div>
                 </div>

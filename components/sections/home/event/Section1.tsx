@@ -6,9 +6,9 @@ export default function Section1() {
             {/*event-home home section 1*/}
             <section className="event-home-section-1 position-relative pt-120 pb-120 overflow-hidden">
                 <div className="container">
-                    <div className="parallax-item">
+                        <div className="parallax-item">
                         <div className="position-relative d-inline-block" data-aos="zoom-in">
-                            <img src="/assets/img/event-img/pages/event/page-home/home-section-1/img-tag.png" alt="AstraX" />
+                            <img src="/assets/img/event-img/pages/event/page-home/home-section-1/img-tag.png" alt="Xzect Labs" />
                             <div className="position-absolute top-50 start-50 translate-middle w-100 h-100 d-flex flex-column justify-content-between p-4">
                                 <span className="text-white fw-semibold fs-7">
                                     20-21th <br className="d-block" />
@@ -21,7 +21,7 @@ export default function Section1() {
                     <div className="position-relative">
                         <h1 className="fs-200 mb-0 position-relative z-1 text-anime-style-2">Cyborg</h1>
                         <h1 className="fs-200 stroke text-white mb-0 text-anime-style-2">Conference</h1>
-                        <img className="position-absolute bottom-0 end-0 mb-10 pb-6 z-0 d-none d-lg-block wow img-custom-anim-left" data-wow-delay=".8s" src="/assets/img/event-img/pages/event/page-home/home-section-1/img-1.png" alt="AstraX" />
+                        <img className="position-absolute bottom-0 end-0 mb-10 pb-6 z-0 d-none d-lg-block wow img-custom-anim-left" data-wow-delay=".8s" src="/assets/img/event-img/pages/event/page-home/home-section-1/img-1.png" alt="Xzect Labs" />
                     </div>
                     <div className="d-flex justify-content-end">
                         <a href="/ticket" data-text="buy ticket" className="btn-primary btn-change-text bdr-0" data-aos="fade-up">

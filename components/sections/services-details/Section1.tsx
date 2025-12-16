@@ -26,7 +26,7 @@ export default function Section1() {
                     <div className="row g-4">
                         <div className="col-lg-6">
                             <div>
-                                <img data-aos="flip-left" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-services-details/img-1.png" alt="AstraX" />
+                                <img data-aos="flip-left" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-services-details/img-1.png" alt="Xzect Labs" />
                                 <h6 className="mt-5 mb-4 text-anime-style-2">Custom ML Model Development</h6>
                                 <ul className="list-unstyled">
                                     <li>
@@ -44,7 +44,7 @@ export default function Section1() {
                         </div>
                         <div className="col-lg-6">
                             <div>
-                                <img data-aos="flip-left" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-services-details/img-2.png" alt="AstraX" />
+                                <img data-aos="flip-left" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-services-details/img-2.png" alt="Xzect Labs" />
                                 <h6 className="mt-5 mb-4 text-anime-style-2">Pre-Built AI Solutions</h6>
                                 <ul className="list-unstyled">
                                     <li>

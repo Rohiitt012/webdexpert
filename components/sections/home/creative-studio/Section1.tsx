@@ -4,19 +4,19 @@ import CarouselTicker from "@/components/elements/CarouselTicker";
 import Link from "next/link";
 
 const slidesContent = [
-    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-1.png" alt="AstraX" />,
-    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-2.png" alt="AstraX" />,
-    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-3.png" alt="AstraX" />,
-    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-4.png" alt="AstraX" />,
-    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-3.png" alt="AstraX" />,
+    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-1.png" alt="Xzect Labs" />,
+    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-2.png" alt="Xzect Labs" />,
+    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-3.png" alt="Xzect Labs" />,
+    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-4.png" alt="Xzect Labs" />,
+    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-3.png" alt="Xzect Labs" />,
 ];
 
 const slidesContent2 = [
-    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-5.png" alt="AstraX" />,
-    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-6.png" alt="AstraX" />,
-    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-7.png" alt="AstraX" />,
-    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-8.png" alt="AstraX" />,
-    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-6.png" alt="AstraX" />,
+    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-5.png" alt="Xzect Labs" />,
+    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-6.png" alt="Xzect Labs" />,
+    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-7.png" alt="Xzect Labs" />,
+    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-8.png" alt="Xzect Labs" />,
+    <img className="rounded-4" data-aos="zoom-in" data-aos-delay={0} src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-6.png" alt="Xzect Labs" />,
 ];
 
 export default function Section1() {
@@ -59,19 +59,19 @@ export default function Section1() {
                                 <div className="d-flex flex-wrap align-items-center gap-3" data-aos="fade-up" data-aos-delay={200}>
                                     <div className="d-flex align-items-center">
                                         <div className="avatar m--4 icon-shape rounded-circle overflow-hidden border border-white border-2">
-                                            <img src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/author-1.png" alt="AstraX" />
+                                            <img src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/author-1.png" alt="Xzect Labs" />
                                         </div>
                                         <div className="avatar m--4 icon-shape rounded-circle overflow-hidden border border-white border-2">
-                                            <img src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/author-2.png" alt="AstraX" />
+                                            <img src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/author-2.png" alt="Xzect Labs" />
                                         </div>
                                         <div className="avatar m--4 icon-shape rounded-circle overflow-hidden border border-white border-2">
-                                            <img src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/author-3.png" alt="AstraX" />
+                                            <img src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/author-3.png" alt="Xzect Labs" />
                                         </div>
                                         <div className="avatar m--4 icon-shape rounded-circle overflow-hidden border border-white border-2">
-                                            <img src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/author-4.png" alt="AstraX" />
+                                            <img src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/author-4.png" alt="Xzect Labs" />
                                         </div>
                                         <div className="avatar m--4 icon-shape rounded-circle overflow-hidden border border-white border-2">
-                                            <img src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/author-5.png" alt="AstraX" />
+                                            <img src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/author-5.png" alt="Xzect Labs" />
                                         </div>
                                     </div>
                                     <p className="mb-0">

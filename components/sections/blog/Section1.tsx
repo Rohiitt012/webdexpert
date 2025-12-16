@@ -11,7 +11,8 @@ const swiperOptions = {
         delay: 2500,
         disableOnInteraction: false,
     },
-    loop: true,\n    watchOverflow: true,
+    loop: true,
+    watchOverflow: true,
     breakpoints: {
         320: {
             slidesPerView: 1,
@@ -60,7 +61,7 @@ export default function Section1() {
                                 <div className="row align-items-center g-lg-5 g-4">
                                     <div className="col-lg-6 wow img-custom-anim-left">
                                         <Link href="/blog-details" className="position-relative d-inline-block">
-                                            <img className="rounded-4" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-blog/img-1.png" alt="AstraX" />
+                                            <img className="rounded-4" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-blog/img-1.png" alt="Xzect Labs" />
                                         </Link>
                                     </div>
                                     <div className="col-lg-6 col-md-12 wow img-custom-anim-top">
@@ -70,11 +71,11 @@ export default function Section1() {
                                         </Link>
                                         <div className="d-flex card-news-information mt-3 gap-4">
                                             <div className="d-flex align-items-center gap-1">
-                                                <img src="/assets/img/ai-solutions-img/template/icons/icon-1.svg" alt="AstraX" />
+                                                <img src="/assets/img/ai-solutions-img/template/icons/icon-1.svg" alt="Xzect Labs" />
                                                 <p className="mb-0">December 21, 2025</p>
                                             </div>
                                             <div className="d-flex align-items-center gap-1">
-                                                <img src="/assets/img/ai-solutions-img/template/icons/icon-2.svg" alt="AstraX" />
+                                                <img src="/assets/img/ai-solutions-img/template/icons/icon-2.svg" alt="Xzect Labs" />
                                                 <span className="opacity-50">By</span>
                                                 <Link href="#" className="mb-0">
                                                     Admin
@@ -93,7 +94,7 @@ export default function Section1() {
                                 <div className="row align-items-center g-lg-5 g-4">
                                     <div className="col-lg-6 wow img-custom-anim-left">
                                         <Link href="/blog-details" className="position-relative d-inline-block">
-                                            <img className="rounded-4" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-blog/img-1.png" alt="AstraX" />
+                                            <img className="rounded-4" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-blog/img-1.png" alt="Xzect Labs" />
                                         </Link>
                                     </div>
                                     <div className="col-lg-6 col-md-12 wow img-custom-anim-top">
@@ -103,11 +104,11 @@ export default function Section1() {
                                         </Link>
                                         <div className="d-flex card-news-information mt-3 gap-4">
                                             <div className="d-flex align-items-center gap-1">
-                                                <img src="/assets/img/ai-solutions-img/template/icons/icon-1.svg" alt="AstraX" />
+                                                <img src="/assets/img/ai-solutions-img/template/icons/icon-1.svg" alt="Xzect Labs" />
                                                 <p className="mb-0">December 21, 2025</p>
                                             </div>
                                             <div className="d-flex align-items-center gap-1">
-                                                <img src="/assets/img/ai-solutions-img/template/icons/icon-2.svg" alt="AstraX" />
+                                                <img src="/assets/img/ai-solutions-img/template/icons/icon-2.svg" alt="Xzect Labs" />
                                                 <span className="opacity-50">By</span>
                                                 <Link href="#" className="mb-0">
                                                     Admin
@@ -126,7 +127,7 @@ export default function Section1() {
                                 <div className="row align-items-center g-lg-5 g-4">
                                     <div className="col-lg-6 wow img-custom-anim-left">
                                         <Link href="/blog-details" className="position-relative d-inline-block">
-                                            <img className="rounded-4" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-blog/img-1.png" alt="AstraX" />
+                                            <img className="rounded-4" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-blog/img-1.png" alt="Xzect Labs" />
                                         </Link>
                                     </div>
                                     <div className="col-lg-6 col-md-12 wow img-custom-anim-top">
@@ -136,11 +137,11 @@ export default function Section1() {
                                         </Link>
                                         <div className="d-flex card-news-information mt-3 gap-4">
                                             <div className="d-flex align-items-center gap-1">
-                                                <img src="/assets/img/ai-solutions-img/template/icons/icon-1.svg" alt="AstraX" />
+                                                <img src="/assets/img/ai-solutions-img/template/icons/icon-1.svg" alt="Xzect Labs" />
                                                 <p className="mb-0">December 21, 2025</p>
                                             </div>
                                             <div className="d-flex align-items-center gap-1">
-                                                <img src="/assets/img/ai-solutions-img/template/icons/icon-2.svg" alt="AstraX" />
+                                                <img src="/assets/img/ai-solutions-img/template/icons/icon-2.svg" alt="Xzect Labs" />
                                                 <span className="opacity-50">By</span>
                                                 <Link href="#" className="mb-0">
                                                     Admin

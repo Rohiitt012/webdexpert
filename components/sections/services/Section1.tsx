@@ -28,7 +28,7 @@ export default function Section1({ title, display, ds_btn }: any) {
                     <div className="row align-items-center g-4">
                         <div className="col-lg-4 col-md-6 align-self-stretch" data-aos="fade-up" data-aos-delay={0}>
                             <div className="p-5 bg-secondary-2 card-services hover-up h-100">
-                                <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/icon-1.svg" alt="AstraX" />
+                                <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/icon-1.svg" alt="Xzect Labs" />
                                 <Link href="/services-details">
                                     <h6 className="mt-4 mb-3">AI Consulting</h6>
                                 </Link>
@@ -40,7 +40,7 @@ export default function Section1({ title, display, ds_btn }: any) {
                         </div>
                         <div className="col-lg-4 col-md-6 align-self-stretch" data-aos="fade-up" data-aos-delay={200}>
                             <div className="p-5 bg-secondary-2 card-services hover-up h-100">
-                                <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/icon-2.svg" alt="AstraX" />
+                                <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/icon-2.svg" alt="Xzect Labs" />
                                 <Link href="/services-details">
                                     <h6 className="mt-4 mb-3">Data Analytics</h6>
                                 </Link>
@@ -52,7 +52,7 @@ export default function Section1({ title, display, ds_btn }: any) {
                         </div>
                         <div className="col-lg-4 col-md-6 align-self-stretch" data-aos="fade-up" data-aos-delay={400}>
                             <div className="p-5 bg-secondary-2 card-services hover-up h-100">
-                                <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/icon-1.svg" alt="AstraX" />
+                                <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/icon-1.svg" alt="Xzect Labs" />
                                 <Link href="/services-details">
                                     <h6 className="mt-4 mb-3">Machine Learning</h6>
                                 </Link>
@@ -64,7 +64,7 @@ export default function Section1({ title, display, ds_btn }: any) {
                         </div>
                         <div className="col-lg-4 col-md-6 align-self-stretch" data-aos="fade-up" data-aos-delay={600}>
                             <div className="p-5 bg-secondary-2 card-services hover-up h-100">
-                                <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/icon-1.svg" alt="AstraX" />
+                                <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/icon-1.svg" alt="Xzect Labs" />
                                 <Link href="/services-details">
                                     <h6 className="mt-4 mb-3">Natural Language</h6>
                                 </Link>
@@ -76,7 +76,7 @@ export default function Section1({ title, display, ds_btn }: any) {
                         </div>
                         <div className="col-lg-4 col-md-6 align-self-stretch" data-aos="fade-up" data-aos-delay={800}>
                             <div className="p-5 bg-secondary-2 card-services hover-up h-100">
-                                <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/icon-1.svg" alt="AstraX" />
+                                <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/icon-1.svg" alt="Xzect Labs" />
                                 <Link href="/services-details">
                                     <h6 className="mt-4 mb-3">Process Automation</h6>
                                 </Link>
@@ -88,7 +88,7 @@ export default function Section1({ title, display, ds_btn }: any) {
                         </div>
                         <div className="col-lg-4 col-md-6 align-self-stretch" data-aos="fade-up" data-aos-delay={1000}>
                             <div className="p-5 bg-secondary-2 card-services hover-up h-100">
-                                <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/icon-1.svg" alt="AstraX" />
+                                <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/icon-1.svg" alt="Xzect Labs" />
                                 <Link href="/services-details">
                                     <h6 className="mt-4 mb-3">Robotic Solutions</h6>
                                 </Link>

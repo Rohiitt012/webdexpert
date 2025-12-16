@@ -4,7 +4,7 @@ export default function Section5() {
     return (
         <>
             {/*ai-solutions-home section 5*/}
-            <section className="ai-solutions-home-section-5 position-relative overflow-hidden py-120 bg-dark">
+            <section className="ai-solutions-home-section-5 position-relative overflow-hidden py-30 bg-dark">
                 <div className="container position-relative z-1">
                     <div className="text-center">
                         <div className="d-flex align-items-center gap-3 justify-content-center">
@@ -66,21 +66,21 @@ export default function Section5() {
                                     <img className="position-absolute top-50 start-50 translate-middle" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-home/home-section-5/icon-5.svg" alt="AstraX" />
                                     <span className="icon-shape icon-100 rounded-circle" />
                                 </div>
-                                <span className="btn-text text-white">apple</span>
+                                <span className="btn-text text-white">Shopify</span>
                             </div>
                             <div className="d-flex align-items-center gap-4 justify-content-start">
                                 <div className="work-icon position-relative">
                                     <img className="position-absolute top-50 start-50 translate-middle" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-home/home-section-5/icon-6.svg" alt="AstraX" />
                                     <span className="icon-shape icon-100 rounded-circle" />
                                 </div>
-                                <span className="btn-text text-white">Bing</span>
+                                <span className="btn-text text-white">Wix</span>
                             </div>
                         </div>
                     </div>
                     <div className="d-flex align-items-center justify-content-center mt-8 wow img-custom-anim-left">
-                        <span className="btn-text text-white opacity-50">can’t see your favorite platform? Let us know by &nbsp;</span>
+                        <span className="btn-text text-white opacity-50"></span>
                         <Link href="#" className="btn-text text-white text-uppercase">
-                            submitting a ticket.
+                            
                         </Link>
                     </div>
                 </div>

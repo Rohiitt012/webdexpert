@@ -99,11 +99,7 @@ export default function Footer() {
                             </div>
                             <div className="d-flex flex-column flex-lg-row gap-3 align-items-center py-4 border-top justify-content-between">
                                 <p className="m-0 text-center">
-                                    Copyright &amp; design by
-                                    <Link href="/contact" className=" ">
-                                        <span className="text-white fw-medium">©Alithemes</span>
-                                    </Link>
-                                    2025, All Rights Reserved
+                                    <span className="text-white fw-medium">© 2025. XZECTLABS</span>. All Rights Reserved
                                 </p>
                                 <ul className="list-unstyled d-flex mb-0 justify-content-center ms-lg-auto">
                                     <li>

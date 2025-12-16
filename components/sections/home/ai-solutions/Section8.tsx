@@ -104,7 +104,7 @@ export default function Section8() {
                                                 <i className="bi bi-star-fill text-primary" />
                                                 <i className="bi bi-star-fill text-primary" />
                                             </div>
-                                            <h6 className="mb-0 mt-4 fw-medium">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</h6>
+                                            <h6 className="mb-0 mt-4 fw-medium">Knowledge, skill and excellent communication. Has helped me tremendously with my website and SEO. Webdexpert's team is professional, responsive, and always goes above and beyond to ensure client satisfaction.</h6>
                                             <div className="d-flex align-items-center mt-5">
                                                 <Link href="#">
                                                     <img className="rounded-circle icon-shape icon-50" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-home/home-section-8/avatar-1.png" alt="AstraX" />
@@ -127,7 +127,7 @@ export default function Section8() {
                                                 <i className="bi bi-star-fill text-primary" />
                                                 <i className="bi bi-star-fill text-primary" />
                                             </div>
-                                            <h6 className="mb-0 mt-4 fw-medium">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</h6>
+                                            <h6 className="mb-0 mt-4 fw-medium">It was an extremely good work environment and the way treating clients it was phenomenal. I made numbers of changes in my website, they did without any irritation. I personally recommend Webdexpert.</h6>
                                             <div className="d-flex align-items-center mt-5">
                                                 <Link href="#">
                                                     <img className="rounded-circle icon-shape icon-50" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-home/home-section-8/avatar-2.png" alt="AstraX" />
@@ -150,7 +150,7 @@ export default function Section8() {
                                                 <i className="bi bi-star-fill text-primary" />
                                                 <i className="bi bi-star-fill text-primary" />
                                             </div>
-                                            <h6 className="mb-0 mt-4 fw-medium">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</h6>
+                                            <h6 className="mb-0 mt-4 fw-medium">Great customer service and very good results in terms of advertising campaigns! Knowledgeable and skilled team! Webdexpert exceeded our expectations with their expertise.</h6>
                                             <div className="d-flex align-items-center mt-5">
                                                 <Link href="#">
                                                     <img className="rounded-circle icon-shape icon-50" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-home/home-section-8/avatar-3.png" alt="AstraX" />
@@ -158,6 +158,29 @@ export default function Section8() {
                                                 <div className="text-start ms-3">
                                                     <Link href="#">
                                                         <span className="btn-text">Guy Hawkins</span>
+                                                    </Link>
+                                                    <p className="mb-0 fs-7">Head Of Idea, Treve LLC</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </SwiperSlide>
+                                    <SwiperSlide>
+                                        <div className="card-testimonial mb-lg-0 mb-5 border p-5 rounded-4" data-aos="fade-up" data-aos-delay={600}>
+                                            <div className="d-flex gap-2">
+                                                <i className="bi bi-star-fill text-primary" />
+                                                <i className="bi bi-star-fill text-primary" />
+                                                <i className="bi bi-star-fill text-primary" />
+                                                <i className="bi bi-star-fill text-primary" />
+                                                <i className="bi bi-star-fill text-primary" />
+                                            </div>
+                                            <h6 className="mb-0 mt-4 fw-medium">Long overdue review for a truly exceptional team. I have had the pleasure of working with Webdexpert for some time now and they are honest, diligent and effective. I would highly recommend their digital marketing services.</h6>
+                                            <div className="d-flex align-items-center mt-5">
+                                                <Link href="#">
+                                                    <img className="rounded-circle icon-shape icon-50" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-home/home-section-8/avatar-1.png" alt="AstraX" />
+                                                </Link>
+                                                <div className="text-start ms-3">
+                                                    <Link href="#">
+                                                        <span className="btn-text">Pita D.</span>
                                                     </Link>
                                                     <p className="mb-0 fs-7">Head Of Idea, Treve LLC</p>
                                                 </div>

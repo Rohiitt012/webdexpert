@@ -11,8 +11,8 @@ export default function Section1() {
                 <div className="container position-relative z-1">
                     <div className="row align-items-center">
                         <div className="col-10 mx-auto">
-                            <h1 className="text-white fs-120 mb-0 text-anime-style-2">Generate quality</h1>
-                            <h1 className="text-white fs-120 mb-0 text-lg-end text-anime-style-1">texts. Instantly.</h1>
+                            <h1 className="text-white fs-120 mb-0 text-anime-style-2" aria-label="Modern Websites">Transforming</h1>
+                            <h1 className="text-white fs-120 mb-0 text-lg-end text-anime-style-1" aria-label="built. Professionally.">Vision Into Action.</h1>
                         </div>
                     </div>
                     <div className="row">

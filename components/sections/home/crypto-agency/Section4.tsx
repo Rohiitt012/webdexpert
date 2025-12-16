@@ -11,7 +11,8 @@ const swiperOptions = {
         disableOnInteraction: false,
     },
     reverseDirection: true,
-    loop: true,\n    watchOverflow: true,
+    loop: true,
+    watchOverflow: true,
     breakpoints: {
         320: {
             slidesPerView: 1,

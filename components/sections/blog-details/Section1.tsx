@@ -10,7 +10,7 @@ export default function Section1() {
                         </div>
                     </div>
                     <div className="row my-8">
-                        <img className="wow img-custom-anim-top" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-blog/img-17.png" alt="AstraX" />
+                        <img className="wow img-custom-anim-top" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-blog/img-17.png" alt="Xzect Labs" />
                     </div>
                     <div className="row">
                         <div className="col-lg-8 mx-lg-auto">
@@ -54,7 +54,7 @@ export default function Section1() {
                                 <p>AI is revolutionizing healthcare by enabling early disease detection, personalized treatment plans, and robotic-assisted surgeries. In 2025, AI-powered drug discovery, medical imaging analysis, and virtual health assistants will continue to drive innovation, improving patient outcomes and optimizing healthcare operations.</p>
                             </div>
                             <div className="text-center">
-                                <img className="wow img-custom-anim-top mb-6" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-blog/banner.png" alt="AstraX" />
+                                <img className="wow img-custom-anim-top mb-6" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-blog/banner.png" alt="Xzect Labs" />
                             </div>
                             <div className="mb-6 wow img-custom-anim-top">
                                 <h6>AI and the Metaverse</h6>

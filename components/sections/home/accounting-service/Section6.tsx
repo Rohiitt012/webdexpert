@@ -27,11 +27,11 @@ export default function Section6() {
                                 <div className="card-news-body">
                                     <div className="d-flex card-news-information mt-5 gap-4">
                                         <div className="d-flex align-items-center gap-1">
-                                            <img src="/assets/img/accounting-service-img/pages/accounting-service/page-home/home-section-6/icon-1.svg" alt="AstraX" />
+                                                <img src="/assets/img/accounting-service-img/pages/accounting-service/page-home/home-section-6/icon-1.svg" alt="Xzect Labs" />
                                             <p className="mb-0">December 21, 2025</p>
                                         </div>
                                         <div className="d-flex align-items-center gap-1">
-                                            <img src="/assets/img/accounting-service-img/pages/accounting-service/page-home/home-section-6/icon-2.svg" alt="AstraX" />
+                                                <img src="/assets/img/accounting-service-img/pages/accounting-service/page-home/home-section-6/icon-2.svg" alt="Xzect Labs" />
                                             <span className="opacity-50">By</span>
                                             <Link href="#" className="mb-0">
                                                 Admin
@@ -55,11 +55,11 @@ export default function Section6() {
                                 <div className="card-news-body">
                                     <div className="d-flex card-news-information mt-5 gap-4">
                                         <div className="d-flex align-items-center gap-1">
-                                            <img src="/assets/img/accounting-service-img/pages/accounting-service/page-home/home-section-6/icon-1.svg" alt="AstraX" />
+                                                <img src="/assets/img/accounting-service-img/pages/accounting-service/page-home/home-section-6/icon-1.svg" alt="Xzect Labs" />
                                             <p className="mb-0">December 21, 2025</p>
                                         </div>
                                         <div className="d-flex align-items-center gap-1">
-                                            <img src="/assets/img/accounting-service-img/pages/accounting-service/page-home/home-section-6/icon-2.svg" alt="AstraX" />
+                                                <img src="/assets/img/accounting-service-img/pages/accounting-service/page-home/home-section-6/icon-2.svg" alt="Xzect Labs" />
                                             <span className="opacity-50">By</span>
                                             <Link href="#" className="mb-0">
                                                 Admin
@@ -79,11 +79,11 @@ export default function Section6() {
                                 <div className="card-news-body">
                                     <div className="d-flex card-news-information gap-4">
                                         <div className="d-flex align-items-center gap-1">
-                                            <img src="/assets/img/accounting-service-img/pages/accounting-service/page-home/home-section-6/icon-1.svg" alt="AstraX" />
+                                                <img src="/assets/img/accounting-service-img/pages/accounting-service/page-home/home-section-6/icon-1.svg" alt="Xzect Labs" />
                                             <p className="mb-0">December 21, 2025</p>
                                         </div>
                                         <div className="d-flex align-items-center gap-1">
-                                            <img src="/assets/img/accounting-service-img/pages/accounting-service/page-home/home-section-6/icon-2.svg" alt="AstraX" />
+                                                <img src="/assets/img/accounting-service-img/pages/accounting-service/page-home/home-section-6/icon-2.svg" alt="Xzect Labs" />
                                             <span className="opacity-50">By</span>
                                             <Link href="#" className="mb-0">
                                                 Admin

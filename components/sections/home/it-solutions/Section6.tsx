@@ -9,9 +9,9 @@ export default function Section6() {
                     <div className="row align-items-center">
                         <div className="col-lg-6 order-3 order-lg-1 mt-lg-0 mt-8">
                             <div className="position-relative d-inline-block">
-                                <img className="rounded-3 wow img-custom-anim-left" src="/assets/img/it-solutions-img/pages/it-solutions/page-home/home-section-6/img-1.png" alt="AstraX" />
+                                <img className="rounded-3 wow img-custom-anim-left" src="/assets/img/it-solutions-img/pages/it-solutions/page-home/home-section-6/img-1.png" alt="Xzect Labs" />
                                 <div data-aos="fade-up" data-aos-delay={200}>
-                                    <img className="rounded-3 position-absolute top-100 start-100 translate-middle d-none d-md-block border border-4 border-white shadow" src="/assets/img/it-solutions-img/pages/it-solutions/page-home/home-section-6/img-2.png" alt="AstraX" />
+                                    <img className="rounded-3 position-absolute top-100 start-100 translate-middle d-none d-md-block border border-4 border-white shadow" src="/assets/img/it-solutions-img/pages/it-solutions/page-home/home-section-6/img-2.png" alt="Xzect Labs" />
                                 </div>
                             </div>
                         </div>

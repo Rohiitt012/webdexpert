@@ -18,17 +18,17 @@ export default function Section9({ bordertop }: any) {
                         <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={200}>
                             <div className="card-news position-relative mb-lg-0 mb-5 hover-up">
                                 <Link href="/blog-details" className="card-news-img position-relative d-block">
-                                    <img className="w-100 rounded-3 rounded-bottom-0" src="/assets/img/accounting-service-img/pages/ai-solutions/page-home/home-section-8/img-1.png" alt="AstraX" />
+                                    <img className="w-100 rounded-3 rounded-bottom-0" src="/assets/img/accounting-service-img/pages/ai-solutions/page-home/home-section-8/img-1.png" alt="Xzect Labs" />
                                     <span className="text-uppercase text-white bg-linear-1 rounded-2 px-2 py-1 position-absolute top-0 start-0 m-4 fs-8 fw-semibold">ai</span>
                                 </Link>
                                 <div className="card-news-body border p-4 rounded-3 rounded-top-0 border-top-0">
                                     <div className="d-flex card-news-information gap-4">
                                         <div className="d-flex align-items-center gap-1">
-                                            <img src="/assets/img/accounting-service-img/template/icons/icon-1.svg" alt="AstraX" />
+                                            <img src="/assets/img/accounting-service-img/template/icons/icon-1.svg" alt="Xzect Labs" />
                                             <p className="mb-0">December 21, 2025</p>
                                         </div>
                                         <div className="d-flex align-items-center gap-1">
-                                            <img src="/assets/img/accounting-service-img/template/icons/icon-2.svg" alt="AstraX" />
+                                            <img src="/assets/img/accounting-service-img/template/icons/icon-2.svg" alt="Xzect Labs" />
                                             <span className="opacity-50">By</span>
                                             <Link href="#" className="mb-0">
                                                 Admin
@@ -46,17 +46,17 @@ export default function Section9({ bordertop }: any) {
                         <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={400}>
                             <div className="card-news position-relative mb-lg-0 mb-5 hover-up">
                                 <Link href="/blog-details" className="card-news-img position-relative d-block">
-                                    <img className="w-100 rounded-3 rounded-bottom-0" src="/assets/img/accounting-service-img/pages/ai-solutions/page-home/home-section-8/img-2.png" alt="AstraX" />
+                                    <img className="w-100 rounded-3 rounded-bottom-0" src="/assets/img/accounting-service-img/pages/ai-solutions/page-home/home-section-8/img-2.png" alt="Xzect Labs" />
                                     <span className="text-uppercase text-white bg-linear-1 rounded-2 px-2 py-1 position-absolute top-0 start-0 m-4 fs-8 fw-semibold">automation</span>
                                 </Link>
                                 <div className="card-news-body border p-4 rounded-3 rounded-top-0 border-top-0">
                                     <div className="d-flex card-news-information gap-4">
                                         <div className="d-flex align-items-center gap-1">
-                                            <img src="/assets/img/accounting-service-img/template/icons/icon-1.svg" alt="AstraX" />
+                                            <img src="/assets/img/accounting-service-img/template/icons/icon-1.svg" alt="Xzect Labs" />
                                             <p className="mb-0">December 21, 2025</p>
                                         </div>
                                         <div className="d-flex align-items-center gap-1">
-                                            <img src="/assets/img/accounting-service-img/template/icons/icon-2.svg" alt="AstraX" />
+                                            <img src="/assets/img/accounting-service-img/template/icons/icon-2.svg" alt="Xzect Labs" />
                                             <span className="opacity-50">By</span>
                                             <Link href="#" className="mb-0">
                                                 Admin
@@ -74,17 +74,17 @@ export default function Section9({ bordertop }: any) {
                         <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={600}>
                             <div className="card-news position-relative mb-lg-0 mb-5 hover-up">
                                 <Link href="/blog-details" className="card-news-img position-relative d-block">
-                                    <img className="w-100 rounded-3 rounded-bottom-0" src="/assets/img/accounting-service-img/pages/ai-solutions/page-home/home-section-8/img-3.png" alt="AstraX" />
+                                    <img className="w-100 rounded-3 rounded-bottom-0" src="/assets/img/accounting-service-img/pages/ai-solutions/page-home/home-section-8/img-3.png" alt="Xzect Labs" />
                                     <span className="text-uppercase text-white bg-linear-1 rounded-2 px-2 py-1 position-absolute top-0 start-0 m-4 fs-8 fw-semibold">software</span>
                                 </Link>
                                 <div className="card-news-body border p-4 rounded-3 rounded-top-0 border-top-0">
                                     <div className="d-flex card-news-information gap-4">
                                         <div className="d-flex align-items-center gap-1">
-                                            <img src="/assets/img/accounting-service-img/template/icons/icon-1.svg" alt="AstraX" />
+                                            <img src="/assets/img/accounting-service-img/template/icons/icon-1.svg" alt="Xzect Labs" />
                                             <p className="mb-0">December 21, 2025</p>
                                         </div>
                                         <div className="d-flex align-items-center gap-1">
-                                            <img src="/assets/img/accounting-service-img/template/icons/icon-2.svg" alt="AstraX" />
+                                            <img src="/assets/img/accounting-service-img/template/icons/icon-2.svg" alt="Xzect Labs" />
                                             <span className="opacity-50">By</span>
                                             <Link href="#" className="mb-0">
                                                 Admin

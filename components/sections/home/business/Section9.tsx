@@ -13,7 +13,7 @@ export default function Section9() {
                             <path opacity="0.4" d="M37.0312 3.63281H22.9687C20.061 3.63281 17.6953 5.99854 17.6953 8.90625V10.6641H3.02441L9.65421 30.5562C9.89453 31.2753 10.5656 31.7578 11.3228 31.7578H21.2109V30C21.2109 29.0286 21.9973 28.2422 22.9687 28.2422H37.0312C38.0026 28.2422 38.789 29.0286 38.789 30V31.7578H48.6772C49.4343 31.7578 50.1054 31.2753 50.3457 30.5562L56.976 10.6641H42.3047V8.90625C42.3047 5.99854 39.9389 3.63281 37.0312 3.63281ZM21.2109 10.6641V8.90625C21.2109 7.93625 21.9987 7.14844 22.9687 7.14844H37.0312C38.0012 7.14844 38.789 7.93625 38.789 8.90625V10.6641H21.2109Z" fill="white" />
                         </svg>
                         <h2 className="text-white pt-4 text-anime-style-3">
-                            Astrax on a journey of <br />
+                            Xzect Labs on a journey of <br />
                             learning and skill-building today
                         </h2>
                         <p className="text-white py-3">Build your next landing page fast &amp; easy</p>
@@ -30,8 +30,8 @@ export default function Section9() {
                             </div>
                         </div>
                     </div>
-                    <div className="position-absolute bottom-0 end-0 me-lg-10 z-0">
-                        <img src="/assets/img/business-img/pages/business/page-home/home-section-9/img-bg.png" alt="AstraX" />
+                        <div className="position-absolute bottom-0 end-0 me-lg-10 z-0">
+                        <img src="/assets/img/business-img/pages/business/page-home/home-section-9/img-bg.png" alt="Xzect Labs" />
                     </div>
                 </div>
                 <div className="bg-light-2 position-absolute bottom-0 start-0 w-100 h-50 z-0" />

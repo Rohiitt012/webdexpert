@@ -7,13 +7,13 @@ export default function Section1() {
             <section className="yoga-section-1 position-relative overflow-hidden bg-primary">
                 <div className=" position-relative pt-250 pb-250 m-3 rounded-4 overflow-hidden">
                     <div className="position-absolute top-50 start-50 translate-middle w-100 h-100 m-3">
-                        <img className="w-100 h-100" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-1/img-dot.png" alt="AstraX" />
+                        <img className="w-100 h-100" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-1/img-dot.png" alt="Xzect Labs" />
                     </div>
                     <div className="container position-relative z-1 text-lg-start text-center">
                         <div className="row align-items-center position-relative">
                             <div className="col-lg-5 col-md-12 px-md-0 position-relative">
                                 <div className="icon">
-                                    <img src="/assets/img/yoga-img/pages/yoga/page-home/home-section-1/icon.svg" alt="AstraX" />
+                                    <img src="/assets/img/yoga-img/pages/yoga/page-home/home-section-1/icon.svg" alt="Xzect Labs" />
                                 </div>
                                 <h1 className="mb-8 text-white text-anime-style-2">
                                     Yoga for easy <br />
@@ -34,9 +34,9 @@ export default function Section1() {
                         </div>
                     </div>
                     <div className="position-absolute top-50 end-0 translate-middle-y me-10">
-                        <img className="position-relative z-1 wow img-custom-anim-top" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-1/img-1.png" alt="AstraX" />
+                        <img className="position-relative z-1 wow img-custom-anim-top" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-1/img-1.png" alt="Xzect Labs" />
                         <div className="position-absolute top-50 start-50 translate-middle z-0">
-                            <img className="flickering" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-1/img-2.png" alt="AstraX" />
+                            <img className="flickering" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-1/img-2.png" alt="Xzect Labs" />
                         </div>
                     </div>
                 </div>

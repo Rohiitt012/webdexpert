@@ -7,11 +7,7 @@ export default function ProjectCard({ link, description, type, img, categorie, t
             <div className="card-listing bg-white rounded-4 hover-up border overflow-hidden">
                 <div className="position-relative">
                     <Link href={`${link}`}>
-                        <img
-                            className="w-100"
-                            src={`/assets/img/charity-img/pages/charity/page-home/home-section-4/${img}`}
-                            alt="AstraX"
-                        />
+                        <img className="w-100" src={`assets/imgs/pages/charity/page-home/home-section-4/${img}`} alt="AstraX" />
                     </Link>
                     <Link href={`${link}`}>
                         <span className="badge bg-primary border border-dark fs-7 position-absolute top-100 end-0 translate-middle-y me-8 text-dark">{categorie}</span>

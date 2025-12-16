@@ -18,83 +18,78 @@ export default function MainMenu() {
                 <Link className="nav-link text-uppercase" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     <span>Services</span>
                 </Link>
-                <ul className="dropdown-menu mega-menu" style={{ backgroundColor: '#ffffff', padding: '2rem 1rem', minWidth: '800px' }}>
+                <ul className="dropdown-menu mega-menu" style={{ backgroundColor: '#ffffff', padding: '1.5rem 1rem', minWidth: '850px', maxWidth: '950px' }}>
                     <li>
-                        <div className="container">
-                            <div className="row g-3">
+                        <div className="container-fluid px-0">
+                            <div className="row g-2">
                                 <div className="col-lg-3 col-md-4 col-sm-6">
-                                    <Link className="dropdown-item text-capitalize" href="/service/ai-solutions">
+                                    <Link className="dropdown-item text-capitalize" href="/service/website-design-development" style={{ padding: '0.5rem 0.75rem', lineHeight: '1.4', whiteSpace: 'normal', wordWrap: 'break-word' }}>
+                                        <span>Website Design & Development</span>
+                                    </Link>
+                                </div>
+                                <div className="col-lg-3 col-md-4 col-sm-6">
+                                    <Link className="dropdown-item text-capitalize" href="/service/website-redesign-optimization" style={{ padding: '0.5rem 0.75rem', lineHeight: '1.4', whiteSpace: 'normal', wordWrap: 'break-word' }}>
+                                        <span>Website Redesign & Optimization</span>
+                                    </Link>
+                                </div>
+                                <div className="col-lg-3 col-md-4 col-sm-6">
+                                    <Link className="dropdown-item text-capitalize" href="/service/website-maintenance-support" style={{ padding: '0.5rem 0.75rem', lineHeight: '1.4', whiteSpace: 'normal', wordWrap: 'break-word' }}>
+                                        <span>Website Maintenance & Support</span>
+                                    </Link>
+                                </div>
+                                <div className="col-lg-3 col-md-4 col-sm-6">
+                                    <Link className="dropdown-item text-capitalize" href="/service/wordpress-cms-development" style={{ padding: '0.5rem 0.75rem', lineHeight: '1.4', whiteSpace: 'normal', wordWrap: 'break-word' }}>
+                                        <span>WordPress & CMS Development</span>
+                                    </Link>
+                                </div>
+                                <div className="col-lg-3 col-md-4 col-sm-6">
+                                    <Link className="dropdown-item text-capitalize" href="/service/automation-integrations" style={{ padding: '0.5rem 0.75rem', lineHeight: '1.4', whiteSpace: 'normal', wordWrap: 'break-word' }}>
+                                        <span>Automation & Integrations</span>
+                                    </Link>
+                                </div>
+                                <div className="col-lg-3 col-md-4 col-sm-6">
+                                    <Link className="dropdown-item text-capitalize" href="/service/ai-solutions" style={{ padding: '0.5rem 0.75rem', lineHeight: '1.4', whiteSpace: 'normal', wordWrap: 'break-word' }}>
                                         <span>AI Solutions</span>
                                     </Link>
                                 </div>
                                 <div className="col-lg-3 col-md-4 col-sm-6">
-                                    <Link className="dropdown-item text-capitalize" href="/service/digital-agency">
-                                        <span>Digital Agency</span>
+                                    <Link className="dropdown-item text-capitalize" href="/service/crm-development" style={{ padding: '0.5rem 0.75rem', lineHeight: '1.4', whiteSpace: 'normal', wordWrap: 'break-word' }}>
+                                        <span>CRM Development</span>
                                     </Link>
                                 </div>
                                 <div className="col-lg-3 col-md-4 col-sm-6">
-                                    <Link className="dropdown-item text-capitalize" href="/service/business">
-                                        <span>Business</span>
+                                    <Link className="dropdown-item text-capitalize" href="/service/saas-web-apps-mobile-apps" style={{ padding: '0.5rem 0.75rem', lineHeight: '1.4', whiteSpace: 'normal', wordWrap: 'break-word' }}>
+                                        <span>SaaS, Web Apps & Mobile Apps</span>
                                     </Link>
                                 </div>
                                 <div className="col-lg-3 col-md-4 col-sm-6">
-                                    <Link className="dropdown-item text-capitalize" href="/service/accounting-service">
-                                        <span>Accounting Service</span>
+                                    <Link className="dropdown-item text-capitalize" href="/service/performance-marketing" style={{ padding: '0.5rem 0.75rem', lineHeight: '1.4', whiteSpace: 'normal', wordWrap: 'break-word' }}>
+                                        <span>Performance Marketing</span>
                                     </Link>
                                 </div>
                                 <div className="col-lg-3 col-md-4 col-sm-6">
-                                    <Link className="dropdown-item text-capitalize" href="/service/application">
-                                        <span>Application</span>
+                                    <Link className="dropdown-item text-capitalize" href="/service/seo-services" style={{ padding: '0.5rem 0.75rem', lineHeight: '1.4', whiteSpace: 'normal', wordWrap: 'break-word' }}>
+                                        <span>SEO Services</span>
                                     </Link>
                                 </div>
                                 <div className="col-lg-3 col-md-4 col-sm-6">
-                                    <Link className="dropdown-item text-capitalize" href="/service/charity">
-                                        <span>Charity</span>
+                                    <Link className="dropdown-item text-capitalize" href="/service/social-media-management-marketing" style={{ padding: '0.5rem 0.75rem', lineHeight: '1.4', whiteSpace: 'normal', wordWrap: 'break-word' }}>
+                                        <span>Social Media Management & Marketing</span>
                                     </Link>
                                 </div>
                                 <div className="col-lg-3 col-md-4 col-sm-6">
-                                    <Link className="dropdown-item text-capitalize" href="/service/conference">
-                                        <span>Conference</span>
+                                    <Link className="dropdown-item text-capitalize" href="/service/branding-graphics-content" style={{ padding: '0.5rem 0.75rem', lineHeight: '1.4', whiteSpace: 'normal', wordWrap: 'break-word' }}>
+                                        <span>Branding, Graphics & Content</span>
                                     </Link>
                                 </div>
                                 <div className="col-lg-3 col-md-4 col-sm-6">
-                                    <Link className="dropdown-item text-capitalize" href="/service/coworking-space">
-                                        <span>Coworking Space</span>
+                                    <Link className="dropdown-item text-capitalize" href="/service/hosting-domain-email-setup" style={{ padding: '0.5rem 0.75rem', lineHeight: '1.4', whiteSpace: 'normal', wordWrap: 'break-word' }}>
+                                        <span>Hosting, Domain & Email Setup</span>
                                     </Link>
                                 </div>
                                 <div className="col-lg-3 col-md-4 col-sm-6">
-                                    <Link className="dropdown-item text-capitalize" href="/service/creative-studio">
-                                        <span>Creative Studio</span>
-                                    </Link>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-sm-6">
-                                    <Link className="dropdown-item text-capitalize" href="/service/crypto-agency">
-                                        <span>Crypto Agency</span>
-                                    </Link>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-sm-6">
-                                    <Link className="dropdown-item text-capitalize" href="/service/data-analysis">
-                                        <span>Data Analysis</span>
-                                    </Link>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-sm-6">
-                                    <Link className="dropdown-item text-capitalize" href="/service/elearning">
-                                        <span>E-Learning</span>
-                                    </Link>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-sm-6">
-                                    <Link className="dropdown-item text-capitalize" href="/service/event">
-                                        <span>Event</span>
-                                    </Link>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-sm-6">
-                                    <Link className="dropdown-item text-capitalize" href="/service/finance-consultant">
-                                        <span>Finance Consultant</span>
-                                    </Link>
-                                </div>
-                                <div className="col-lg-3 col-md-4 col-sm-6">
-                                    <Link className="dropdown-item text-capitalize" href="/service/fintech-app">
-                                        <span>Fintech App</span>
+                                    <Link className="dropdown-item text-capitalize" href="/service/security-performance" style={{ padding: '0.5rem 0.75rem', lineHeight: '1.4', whiteSpace: 'normal', wordWrap: 'break-word' }}>
+                                        <span>Security & Performance</span>
                                     </Link>
                                 </div>
                             </div>

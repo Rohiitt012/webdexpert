@@ -11,7 +11,8 @@ const swiperOptions = {
         delay: 2500,
         disableOnInteraction: false,
     },
-    loop: true,\n    watchOverflow: true,
+    loop: true,
+    watchOverflow: true,
     breakpoints: {
         320: {
             slidesPerView: 1,
@@ -87,7 +88,7 @@ export default function Section8() {
                                                 <p className="mb-0 mt-4">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</p>
                                                 <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                     <Link href="#">
-                                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/conference-img/pages/conference/page-home/home-section-8/avatar-1.png" alt="AstraX" />
+                                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/conference-img/pages/conference/page-home/home-section-8/avatar-1.png" alt="Xzect Labs" />
                                                     </Link>
                                                     <div className="text-start ms-3">
                                                         <Link href="#">
@@ -120,7 +121,7 @@ export default function Section8() {
                                                 <p className="mb-0 mt-4">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</p>
                                                 <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                     <Link href="#">
-                                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/conference-img/pages/conference/page-home/home-section-8/avatar-2.png" alt="AstraX" />
+                                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/conference-img/pages/conference/page-home/home-section-8/avatar-2.png" alt="Xzect Labs" />
                                                     </Link>
                                                     <div className="text-start ms-3">
                                                         <Link href="#">
@@ -153,7 +154,7 @@ export default function Section8() {
                                                 <p className="mb-0 mt-4">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</p>
                                                 <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                     <Link href="#">
-                                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/conference-img/pages/conference/page-home/home-section-8/avatar-3.png" alt="AstraX" />
+                                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/conference-img/pages/conference/page-home/home-section-8/avatar-3.png" alt="Xzect Labs" />
                                                     </Link>
                                                     <div className="text-start ms-3">
                                                         <Link href="#">
@@ -186,7 +187,7 @@ export default function Section8() {
                                                 <p className="mb-0 mt-4">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</p>
                                                 <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                     <Link href="#">
-                                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/conference-img/pages/conference/page-home/home-section-8/avatar-2.png" alt="AstraX" />
+                                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/conference-img/pages/conference/page-home/home-section-8/avatar-2.png" alt="Xzect Labs" />
                                                     </Link>
                                                     <div className="text-start ms-3">
                                                         <Link href="#">

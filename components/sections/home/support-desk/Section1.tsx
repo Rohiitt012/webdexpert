@@ -8,9 +8,9 @@ export default function Section1() {
                 <div className="container position-relative z-1">
                     <div className="row g-4 align-items-center">
                         <div className="col-lg-4 col-md-12">
-                            <span className="border-bottom border-primary btn-text">support desk</span>
+                            <span className="border-bottom border-primary btn-text">Security & Performance</span>
                             <h1 className="text-dark mt-3 text-anime-style-3">
-                                Your ready &amp; Integrated support <span className="border-bottom border-primary border-4">desk.</span>
+                                Secure &amp; High-Performance <span className="border-bottom border-primary border-4">Solutions.</span>
                             </h1>
                             <div className="d-flex align-items-center gap-4 mt-4">
                                 <Link href="/pricing" className="btn btn-primary hover-up">

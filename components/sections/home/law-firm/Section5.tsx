@@ -10,7 +10,8 @@ const swiperOptions = {
 		delay: 2500,
 		disableOnInteraction: false,
 	},
-	loop: true,\n    watchOverflow: true,
+	loop: true,
+	watchOverflow: true,
 	breakpoints: {
 		320: {
 			slidesPerView: 1,

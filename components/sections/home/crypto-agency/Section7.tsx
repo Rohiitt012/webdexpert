@@ -17,16 +17,16 @@ export default function Section7() {
                                 <path d="M19.7213 22.2243L26.8091 27.7054L31.6846 16.5094L23.1413 10.2776L19.7213 22.2243Z" fill="#50EEFA" />
                             </svg>
                             <h2 className="pt-4 text-anime-style-3">
-                                Astrax on a journey of <br />
+                                Xzect Labs on a journey of <br />
                                 learning and skill-building today
                             </h2>
                             <p className="text-white py-3 text-uppercase">Download our app from here:</p>
                             <div className="d-flex align-items-center justify-content-center gap-4">
                                 <Link href="#" className="shadow rounded-4 overflow-hidden hover-up">
-                                    <img data-aos="fade-up" data-aos-delay={200} src="/assets/img/crypto-agency-img/template/icons/app-1.png" alt="AstraX" />
+                                    <img data-aos="fade-up" data-aos-delay={200} src="/assets/img/crypto-agency-img/template/icons/app-1.png" alt="Xzect Labs" />
                                 </Link>
                                 <Link href="#" className="shadow rounded-4 overflow-hidden hover-up">
-                                    <img data-aos="fade-up" data-aos-delay={400} src="/assets/img/crypto-agency-img/template/icons/app-2.png" alt="AstraX" />
+                                    <img data-aos="fade-up" data-aos-delay={400} src="/assets/img/crypto-agency-img/template/icons/app-2.png" alt="Xzect Labs" />
                                 </Link>
                             </div>
                         </div>

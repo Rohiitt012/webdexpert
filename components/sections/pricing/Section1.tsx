@@ -9,8 +9,8 @@ export default function Section1() {
                     <div className="row align-items-center g-4">
                         <div className="col-lg-6 mt-lg-0 mt-8 wow img-custom-anim-left">
                             <div className="position-relative d-inline-block">
-                                <img className="rounded-4" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-services-details/img-4.png" alt="AstraX" />
-                                <img className="position-absolute top-0 start-0 p-5 alltuchtopdown" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-home/home-section-4/img-2.png" alt="AstraX" />
+                                <img className="rounded-4" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-services-details/img-4.png" alt="Xzect Labs" />
+                                <img className="position-absolute top-0 start-0 p-5 alltuchtopdown" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-home/home-section-4/img-2.png" alt="Xzect Labs" />
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-12">

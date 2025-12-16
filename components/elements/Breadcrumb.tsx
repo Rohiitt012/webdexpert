@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Breadcrumb({ page }: any) {
     return (
         <div className="d-flex align-items-center gap-2">
-            <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/home.svg" alt="AstraX" />
+            <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/home.svg" alt="Xzect Labs" />
             <Link href="/">
                 <span className="fw-semibold text-capitalize text-white">home</span>
             </Link>

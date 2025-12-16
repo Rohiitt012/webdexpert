@@ -42,7 +42,7 @@ export default function Section3() {
                             <div className="rounded-3 overflow-hidden h-100 wow" data-aos="fade-up" data-aos-delay={200}>
                                 <div className="position-relative">
                                     <Link href="/about">
-                                        <img className="w-100 h-100" src="/assets/img/digital-agency-img/pages/digital-agency/page-home/home-section-3/img-1.png" alt="AstraX" />
+                                        <img className="w-100 h-100" src="/assets/img/digital-agency-img/pages/digital-agency/page-home/home-section-3/img-1.png" alt="Xzect Labs" />
                                     </Link>
                                     <div className="position-absolute top-100 end-0 me-8 translate-middle-y icon-shape icon-80 rounded-circle bg-white">
                                         <svg xmlns="http://www.w3.org/2000/svg" width={34} height={34} viewBox="0 0 34 34" fill="none">

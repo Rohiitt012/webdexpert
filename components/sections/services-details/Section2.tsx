@@ -34,7 +34,7 @@ export default function Section2() {
                     <div className="row mt-7 position-relative">
                         <div className="col-lg-6">
                             <div className="d-flex align-items-center gap-3 mb-5">
-                                <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/icon-key.svg" alt="AstraX" />
+                                <img src="/assets/img/ai-solutions-img/pages/ai-solutions/icons/icon-key.svg" alt="Xzect Labs" />
                                 <h5 className="mb-0">Key Values</h5>
                             </div>
                             <div className="bg-white py-2 mb-3" data-aos="fade-left" data-aos-delay={0}>
@@ -58,7 +58,7 @@ export default function Section2() {
                         </div>
                         <div className="col-lg-6 position-relative d-none d-lg-block">
                             <div className="position-absolute top-0 end-0">
-                                <img data-aos="zoom-in" className="image-bg" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-services-details/img-3.png" alt="AstraX" />
+                                <img data-aos="zoom-in" className="image-bg" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-services-details/img-3.png" alt="Xzect Labs" />
                                 <div className="position-absolute top-50 start-50 translate-middle z-2">
                                     <Link
                                         href="#"

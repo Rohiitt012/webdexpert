@@ -10,12 +10,12 @@ export default function Section1() {
                         <div className="row">
                             <div className="col">
                                 <div className="text-center">
-                                    <span className="text-primary btn-text">Tax Software</span>
+                                    <span className="text-primary btn-text">Website Design & Development</span>
                                     <h1 className="mb-2 wow img-custom-anim-left">
-                                        The all-in-one <span className="text-primary text-decoration-underline">tax a</span>
-                                        <span className="text-primary">pp</span>
+                                        The all-in-one <span className="text-primary text-decoration-underline">Website Design</span>
+                                        <span className="text-primary"> & Development</span>
                                     </h1>
-                                    <p className="text-anime-style-3">Build a home for your community, events, and courses — all under your own brand.</p>
+                                    <p className="text-anime-style-3">We design and develop modern, responsive websites that grow your business.</p>
                                     <Link href="/contact" className="btn btn-outline-dark mt-6" data-aos="fade-up" data-aos-delay={200}>
                                         <span>Get Started</span>
                                         <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">

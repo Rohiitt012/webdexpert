@@ -4,7 +4,7 @@ export default function Section6() {
     return (
         <>
             {/*ai-solutions-home section 6*/}
-            <section className="ai-solutions-home-section-6 position-relative overflow-hidden py-120">
+            <section className="ai-solutions-home-section-6 position-relative overflow-hidden py-80">
                 <div className="container position-relative z-1">
                     <div className="row">
                         <div className="col-lg-auto me-lg-auto">
@@ -36,8 +36,8 @@ export default function Section6() {
                             <div className="card-pricing card-basic rounded-4 p-md-6 p-4" data-aos="fade-up" data-aos-delay={200}>
                                 <span className="text-primary btn-text">Basic</span>
                                 <div className="d-flex mb-3">
-                                    <h1 className="mb-0">$</h1>
-                                    <h1 className="mb-0 text-price-basic">99</h1>
+                                    <h1 className="mb-0">₹</h1>
+                                    <h1 className="mb-0 text-price-basic">14999</h1>
                                 </div>
                                 <p className="fs-7 mb-5">Best for small business owners, startups who needes landing page.</p>
                                 <span className="btn-text">What’s included:</span>
@@ -68,8 +68,8 @@ export default function Section6() {
                             <div className="card-pricing card-advanced rounded-4 p-md-6 p-4 position-relative" data-aos="fade-up" data-aos-delay={400}>
                                 <span className="text-primary btn-text">advanced</span>
                                 <div className="d-flex mb-3">
-                                    <h1 className="mb-0">$</h1>
-                                    <h1 className="mb-0 text-price-advanced">199</h1>
+                                    <h1 className="mb-0">₹</h1>
+                                    <h1 className="mb-0 text-price-advanced">21999</h1>
                                 </div>
                                 <p className="fs-7 mb-5">Best for small business owners, startups who needes landing page.</p>
                                 <span className="btn-text">What’s included:</span>
@@ -101,8 +101,8 @@ export default function Section6() {
                             <div className="card-pricing card-team rounded-4 p-md-6 p-4" data-aos="fade-up" data-aos-delay={600}>
                                 <span className="text-primary btn-text">team</span>
                                 <div className="d-flex mb-3">
-                                    <h1 className="mb-0">$</h1>
-                                    <h1 className="mb-0 text-price-team">499</h1>
+                                    <h1 className="mb-0">₹</h1>
+                                    <h1 className="mb-0 text-price-team">49999</h1>
                                 </div>
                                 <p className="fs-7 mb-5">Best for small business owners, startups who needes landing page.</p>
                                 <span className="btn-text">What’s included:</span>

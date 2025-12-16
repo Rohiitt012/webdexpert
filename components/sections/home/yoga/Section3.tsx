@@ -3,7 +3,7 @@
 import CarouselTicker from "@/components/elements/CarouselTicker";
 import Link from "next/link";
 
-const slidesContent = [<img className="h-100 d-block" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/logo-1.png" alt="AstraX" />, <img className="h-100 d-block" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/logo-2.png" alt="AstraX" />, <img className="h-100 d-block" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/logo-3.png" alt="AstraX" />, <img className="h-100 d-block" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/logo-1.png" alt="AstraX" />, <img className="h-100 d-block" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/logo-2.png" alt="AstraX" />, <img className="h-100 d-block" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/logo-3.png" alt="AstraX" />];
+const slidesContent = [<img className="h-100 d-block" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/logo-1.png" alt="Xzect Labs" />, <img className="h-100 d-block" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/logo-2.png" alt="Xzect Labs" />, <img className="h-100 d-block" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/logo-3.png" alt="Xzect Labs" />, <img className="h-100 d-block" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/logo-1.png" alt="Xzect Labs" />, <img className="h-100 d-block" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/logo-2.png" alt="Xzect Labs" />, <img className="h-100 d-block" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/logo-3.png" alt="Xzect Labs" />];
 export default function Section3() {
     return (
         <>
@@ -26,16 +26,16 @@ export default function Section3() {
                             <div className="d-flex align-items-center gap-3">
                                 <div className="d-flex align-items-center" data-aos="fade-right">
                                     <div className="avatar m--4 icon-shape rounded-circle overflow-hidden border border-white border-2">
-                                        <img src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/author-1.png" alt="AstraX" />
+                                        <img src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/author-1.png" alt="Xzect Labs" />
                                     </div>
                                     <div className="avatar m--4 icon-shape rounded-circle overflow-hidden border border-white border-2">
-                                        <img src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/author-2.png" alt="AstraX" />
+                                        <img src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/author-2.png" alt="Xzect Labs" />
                                     </div>
                                     <div className="avatar m--4 icon-shape rounded-circle overflow-hidden border border-white border-2">
-                                        <img src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/author-3.png" alt="AstraX" />
+                                        <img src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/author-3.png" alt="Xzect Labs" />
                                     </div>
                                     <div className="avatar m--4 icon-shape rounded-circle overflow-hidden border border-white border-2">
-                                        <img src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/author-4.png" alt="AstraX" />
+                                        <img src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/author-4.png" alt="Xzect Labs" />
                                     </div>
                                 </div>
                                 <div className="wow img-custom-anim-left">
@@ -54,10 +54,10 @@ export default function Section3() {
                         </div>
                         <div className="col-lg-4">
                             <div className="position-relative">
-                                <img className="h-100 d-block" data-aos="zoom-in" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/img-1.png" alt="AstraX" />
+                                <img className="h-100 d-block" data-aos="zoom-in" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/img-1.png" alt="Xzect Labs" />
 
                                 <div className="position-absolute start-0 top-100 translate-middle d-none d-lg-block">
-                                    <img data-aos="fade-up" className="h-100 d-block" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/img-2.png" alt="AstraX" />
+                                    <img data-aos="fade-up" className="h-100 d-block" src="/assets/img/yoga-img/pages/yoga/page-home/home-section-3/img-2.png" alt="Xzect Labs" />
                                 </div>
                             </div>
                         </div>

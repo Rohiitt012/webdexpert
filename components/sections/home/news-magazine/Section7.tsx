@@ -9,7 +9,8 @@ const swiperOptions = {
         delay: 2500,
         disableOnInteraction: false,
     },
-    loop: true,\n    watchOverflow: true,
+    loop: true,
+    watchOverflow: true,
     pagination: {
         el: ".swiper-pagination",
         clickable: true,
@@ -94,7 +95,7 @@ export default function Section7({ pt, display }: any) {
                             {postlist.map((post, index) => (
                                 <div key={index} className="post d-flex flex-column flex-md-row align-items-center gap-md-5 gap-3 border-bottom border-dark border-opacity-10 pb-5 mb-5">
                                     <Link href="#" className="zoom-img">
-                                        <img src={post.img} alt="AstraX" />
+                                        <img src={post.img} alt="Xzect Labs" />
                                     </Link>
                                     <div className="pe-md-8">
                                         <div className="d-flex card-article-information mb-3 gap-3">
@@ -113,7 +114,7 @@ export default function Section7({ pt, display }: any) {
                                         <p className="fs-7">{post.description}</p>
                                         <div className="d-flex align-items-center mt-5">
                                             <Link href="#">
-                                                <img className="rounded-circle icon-shape icon-50" src={post.avatar} alt="AstraX" />
+                                                <img className="rounded-circle icon-shape icon-50" src={post.avatar} alt="Xzect Labs" />
                                             </Link>
                                             <div className="text-start ms-3">
                                                 <Link href="#">
@@ -135,7 +136,7 @@ export default function Section7({ pt, display }: any) {
                                         <SwiperSlide>
                                             <div className="p-3 text-center">
                                                 <Link href="#">
-                                                    <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-13.png" alt="AstraX" />
+                                                      <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-13.png" alt="Xzect Labs" />
                                                 </Link>
                                                 <div className="d-flex card-article-information justify-content-center mb-3 gap-3 mt-4">
                                                     <div className="d-flex align-items-center gap-2">
@@ -155,7 +156,7 @@ export default function Section7({ pt, display }: any) {
                                         <SwiperSlide>
                                             <div className="p-3 text-center">
                                                 <Link href="#">
-                                                    <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-13.png" alt="AstraX" />
+                                                      <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-13.png" alt="Xzect Labs" />
                                                 </Link>
                                                 <div className="d-flex card-article-information justify-content-center mb-3 gap-3 mt-4">
                                                     <div className="d-flex align-items-center gap-2">
@@ -175,7 +176,7 @@ export default function Section7({ pt, display }: any) {
                                         <SwiperSlide>
                                             <div className="p-3 text-center">
                                                 <Link href="#">
-                                                    <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-13.png" alt="AstraX" />
+                                                      <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-13.png" alt="Xzect Labs" />
                                                 </Link>
                                                 <div className="d-flex card-article-information justify-content-center mb-3 gap-3 mt-4">
                                                     <div className="d-flex align-items-center gap-2">
@@ -195,7 +196,7 @@ export default function Section7({ pt, display }: any) {
                                         <SwiperSlide>
                                             <div className="p-3 text-center">
                                                 <Link href="#">
-                                                    <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-13.png" alt="AstraX" />
+                                                      <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-13.png" alt="Xzect Labs" />
                                                 </Link>
                                                 <div className="d-flex card-article-information justify-content-center mb-3 gap-3 mt-4">
                                                     <div className="d-flex align-items-center gap-2">
@@ -226,6 +227,7 @@ export default function Section7({ pt, display }: any) {
                                             <div className="d-inline-block img-card">
                                                 <Link href="#">
                                                     <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-8.png" alt="AstraX" />
+                                                                                             <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-8.png" alt="Xzect Labs" />
                                                 </Link>
                                             </div>
                                             <div className="d-block">
@@ -256,6 +258,14 @@ export default function Section7({ pt, display }: any) {
                                             <div className="d-inline-block img-card">
                                                 <Link href="#">
                                                     <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-9.png" alt="AstraX" />
+                                                                                             <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-9.png" alt="Xzect Labs" />
+                                                                                             <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-1.png" alt="Xzect Labs" />
+                                                                                             <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-2.png" alt="Xzect Labs" />
+                                                                                             <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-3.png" alt="Xzect Labs" />
+                                                                                             <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-4.png" alt="Xzect Labs" />
+                                                                                             <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-5.png" alt="Xzect Labs" />
+                                                                                             <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-6.png" alt="Xzect Labs" />
+                                                                                             <img src="/assets/img/news-magazine-img/pages/news-magazine/page-home/home-section-6/img-7.png" alt="Xzect Labs" />
                                                 </Link>
                                             </div>
                                             <div className="d-block">

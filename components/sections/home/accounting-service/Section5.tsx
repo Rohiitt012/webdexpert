@@ -77,12 +77,6 @@ export default function Section5() {
                             </div>
                         </div>
                     </div>
-                    <div className="d-flex align-items-center justify-content-center mt-8 wow img-custom-anim-left">
-                        <span className="btn-text text-white opacity-50">can't see your favorite platform? Let us know by &nbsp;</span>
-                        <Link href="#" className="btn-text text-white text-uppercase">
-                            submitting a ticket.
-                        </Link>
-                    </div>
                 </div>
                 <div className="position-absolute bottom-0 start-50 translate-middle-x z-0 w-100">
                     <img className="w-100" data-aos="fade-up" src="/assets/img/accounting-service-img/pages/ai-solutions/page-home/home-section-5/bg-bottom.png" alt="AstraX" />
