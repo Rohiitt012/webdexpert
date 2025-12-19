@@ -4,12 +4,12 @@ export default function Section12() {
     return (
         <>
             {/*fintech-solution home faq section*/}
-            <section className="fintech-solution-home-section-12 position-relative overflow-hidden py-120" style={{ backgroundColor: "#eff4f9" }}>
+            <section className="fintech-solution-home-section-12 position-relative overflow-hidden py-120" style={{ backgroundColor: "#eff4f9", minHeight: '400px' }}>
                 <div className="container position-relative z-1">
                     <div className="text-center">
                         <div className="d-flex align-items-center justify-content-center gap-3">
                             <span className="small-line" />
-                            <span className="btn-text text-primary">faq &amp; a.</span>
+                            <span className="btn-text text-primary">FAQs.</span>
                             <span className="small-line" />
                         </div>
                         <h2 className="text-dark mt-3 mb-8 text-anime-style-2">Get every single answer</h2>

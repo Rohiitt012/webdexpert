@@ -13,7 +13,7 @@ export default function Section5() {
                     </div>
                     <div className="row g-4">
                         <div className="col-lg-6">
-                            <div className="card border rounded-4 p-5 h-100 shadow-sm">
+                            <div className="card border rounded-4 p-5 h-100 shadow-sm bg-white">
                                 <div className="text-center mb-4">
                                     <div className="icon-shape icon-120 rounded-circle bg-light d-inline-flex align-items-center justify-content-center mb-4">
                                         <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -74,7 +74,7 @@ export default function Section5() {
                             </div>
                         </div>
                         <div className="col-lg-6">
-                            <div className="card border rounded-4 p-5 h-100 shadow-sm">
+                            <div className="card border rounded-4 p-5 h-100 shadow-sm bg-white">
                                 <div className="text-center mb-4">
                                     <div className="icon-shape icon-120 rounded-circle bg-light d-inline-flex align-items-center justify-content-center mb-4">
                                         <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">

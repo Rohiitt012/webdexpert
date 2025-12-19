@@ -16,9 +16,9 @@ export default function Section10() {
                     </div>
                     <div className="row g-4">
                         <div className="col-lg-6">
-                            <div className="card border rounded-4 p-5 h-100 shadow-sm bg-light-subtle">
+                            <div className="card border rounded-4 p-5 h-100 shadow-sm bg-white">
                                 <div className="text-center mb-4">
-                                    <div className="icon-shape icon-120 rounded-circle bg-white d-inline-flex align-items-center justify-content-center mb-4">
+                                    <div className="icon-shape icon-120 rounded-circle bg-light d-inline-flex align-items-center justify-content-center mb-4">
                                         <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M30 5C16.2 5 5 16.2 5 30C5 43.8 16.2 55 30 55C43.8 55 55 43.8 55 30C55 16.2 43.8 5 30 5ZM30 50C18.5 50 10 41.5 10 30C10 18.5 18.5 10 30 10C41.5 10 50 18.5 50 30C50 41.5 41.5 50 30 50Z" fill="#794AFF" fillOpacity="0.2"/>
                                             <circle cx="25" cy="25" r="8" fill="#FFD700" fillOpacity="0.3"/>
@@ -35,9 +35,9 @@ export default function Section10() {
                             </div>
                         </div>
                         <div className="col-lg-6">
-                            <div className="card border rounded-4 p-5 h-100 shadow-sm bg-light-subtle">
+                            <div className="card border rounded-4 p-5 h-100 shadow-sm bg-white">
                                 <div className="text-center mb-4">
-                                    <div className="icon-shape icon-120 rounded-circle bg-white d-inline-flex align-items-center justify-content-center mb-4">
+                                    <div className="icon-shape icon-120 rounded-circle bg-light d-inline-flex align-items-center justify-content-center mb-4">
                                         <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M30 5C16.2 5 5 16.2 5 30C5 43.8 16.2 55 30 55C43.8 55 55 43.8 55 30C55 16.2 43.8 5 30 5ZM30 50C18.5 50 10 41.5 10 30C10 18.5 18.5 10 30 10C41.5 10 50 18.5 50 30C50 41.5 41.5 50 30 50Z" fill="#794AFF" fillOpacity="0.2"/>
                                             <path d="M20 25L25 30L30 25L35 30L40 25" stroke="#794AFF" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>

@@ -15,7 +15,7 @@ export default function Section2() {
                                 <span className="small-line" />
                                 <span className="btn-text text-primary">Why choose us</span>
                             </div>
-                            <h2 className="mb-8 text-anime-style-2">Your finances, safe and secure</h2>
+                            <h2 className="mb-8 text-anime-style-2">Custom CRM <br /> Development</h2>
                             <div className="d-flex gap-4 py-5 border-bottom" data-aos="fade-up" data-aos-delay={0}>
                                 <Link href="/project-details" className="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width={50} height={50} viewBox="0 0 50 50" fill="none">
@@ -29,9 +29,9 @@ export default function Section2() {
                                 </Link>
                                 <div className="content">
                                     <h6>
-                                        <Link href="/project-details">Investment Planning</Link>
+                                        <Link href="/project-details">Custom CRM Development</Link>
                                     </h6>
-                                    <p className="mb-0">A forward thinking &amp; clever approach to maintaining sales is running away.</p>
+                                    <p className="mb-0">We design scalable custom CRM systems that manage &amp; leads, pipelines, clients, and sales efficiently while improving team productivity.</p>
                                 </div>
                             </div>
                             <div className="d-flex gap-4 py-5 border-bottom" data-aos="fade-up" data-aos-delay={400}>
@@ -47,14 +47,14 @@ export default function Section2() {
                                 </Link>
                                 <div className="content">
                                     <h6>
-                                        <Link href="/project-details">Budgeting Assistant</Link>
+                                        <Link href="/project-details">Smart Automation & Integrations</Link>
                                     </h6>
-                                    <p className="mb-0">A forward thinking &amp; clever approach to maintaining sales is running away.</p>
+                                    <p className="mb-0">Automated WhatsApp and email follow-ups with &amp; Meta, Google, and API integrations streamline workflows and boost conversions effortlessly.</p>
                                 </div>
                             </div>
                             <div className="d-flex justify-content-between align-items-center mt-3">
                                 <p className="text-anime-style-2">
-                                    Happy users rating: <span className="text-dark">4.9</span>
+                                    Happy users rating: <span className="text-dark">5</span>
                                 </p>
                                 <div className="d-flex gap-2 wow img-custom-anim-left">
                                     <i className="bi bi-star-fill text-primary fs-7" />
@@ -80,7 +80,7 @@ export default function Section2() {
                                         <path fillRule="evenodd" clipRule="evenodd" d="M11.9834 21.9268C16.2006 15.3305 22.8738 10.1083 31.0119 9.38978C29.9915 0.948352 13.8928 2.69842 12.0826 20.6926C12.0407 21.1133 12.0072 21.5243 11.9834 21.9254" fill="#0D6EFD" />
                                     </g>
                                 </svg>
-                                <h5 className=" mb-0 fw-regular fs-30 fw-bold text-dark ms-2">Astro</h5>
+                                <h5 className=" mb-0 fw-regular fs-30 fw-bold text-dark ms-2">WEBDEXPERT</h5>
                             </Link>
                             <Link href="#" className="d-flex align-items-center" data-aos="fade-up" data-aos-delay={200}>
                                 <svg className="fill-primary" xmlns="http://www.w3.org/2000/svg" width={36} height={40} viewBox="0 0 36 40" fill="none">
