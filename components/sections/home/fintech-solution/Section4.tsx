@@ -66,27 +66,6 @@ export default function Section4() {
                                     </div>
                                 </div>
                             </div>
-                            <div className="card-testimonial mb-4 border p-5 rounded-4">
-                                <div className="d-flex gap-2">
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                </div>
-                                <h6 className="fs-20 mt-3 mb-4">Great UI &amp; UX</h6>
-                                <p className="mb-0">“ Hands down one of the best shirts I’ve ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. “</p>
-                                <div className="d-flex align-items-center mt-5">
-                                    <Link href="#">
-                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/fintech-solution-img/pages/fintech-solution/page-home/home-section-4/author-3.png" alt="AstraX" />
-                                    </Link>
-                                    <div className="text-start ms-3">
-                                        <Link href="#">
-                                            <span className="fw-semibold">Victoria L. Davis</span>
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                         <div className="col-lg-4 mt-5">
                             <div className="card-testimonial mb-4 border p-5 rounded-4">
@@ -131,27 +110,6 @@ export default function Section4() {
                                     </div>
                                 </div>
                             </div>
-                            <div className="card-testimonial mb-4 border p-5 rounded-4">
-                                <div className="d-flex gap-2">
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                </div>
-                                <h6 className="fs-20 mt-3 mb-4">Quick conversation</h6>
-                                <p className="mb-0">“ Hands down one of the best shirts I’ve ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. “</p>
-                                <div className="d-flex align-items-center mt-5">
-                                    <Link href="#">
-                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/fintech-solution-img/pages/fintech-solution/page-home/home-section-4/author-6.png" alt="AstraX" />
-                                    </Link>
-                                    <div className="text-start ms-3">
-                                        <Link href="#">
-                                            <span className="fw-semibold">Olivia R. Bennett</span>
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                         <div className="col-lg-4">
                             <div className="card-testimonial mb-4 border p-5 rounded-4">
@@ -192,27 +150,6 @@ export default function Section4() {
                                     <div className="text-start ms-3">
                                         <Link href="#">
                                             <span className="fw-semibold">Isabella F. Monroe</span>
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="card-testimonial mb-4 border p-5 rounded-4">
-                                <div className="d-flex gap-2">
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                </div>
-                                <h6 className="fs-20 mt-3 mb-4">Support Detail</h6>
-                                <p className="mb-0">“ Hands down one of the best shirts I’ve ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. “</p>
-                                <div className="d-flex align-items-center mt-5">
-                                    <Link href="#">
-                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/fintech-solution-img/pages/fintech-solution/page-home/home-section-4/author-9.png" alt="AstraX" />
-                                    </Link>
-                                    <div className="text-start ms-3">
-                                        <Link href="#">
-                                            <span className="fw-semibold">Penelope N. Harris</span>
                                         </Link>
                                     </div>
                                 </div>
