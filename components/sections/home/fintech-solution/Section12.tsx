@@ -17,7 +17,7 @@ export default function Section12() {
                     <div className="row flex-wrap align-items-end">
                         <div className="col-lg-12 col-md-12">
                             <div className="accordion-2">
-                                <div className="px-0 card border-bottom-0 rounded-bottom-0 collapse-custom bg-transparent">
+                                <div className="px-0 card border-bottom-0 rounded-bottom-0 collapse-custom bg-transparent mb-3">
                                     <div className="p-0 card-header border-0 rounded-3 bg-transparent">
                                         <Link className="collapsed p-4 fw-bold d-flex align-items-center" data-bs-toggle="collapse" href="#fs-faq-1">
                                             <h6 className="text-primary mb-0">
@@ -32,7 +32,7 @@ export default function Section12() {
                                         </p>
                                     </div>
                                 </div>
-                                <div className="px-0 card border-bottom-0 rounded-0 collapse-custom bg-transparent">
+                                <div className="px-0 card border-bottom-0 rounded-0 collapse-custom bg-transparent mb-3">
                                     <div className="p-0 card-header border-0 rounded-3 bg-transparent">
                                         <Link className="collapsed p-4 fw-bold d-flex align-items-center" data-bs-toggle="collapse" href="#fs-faq-2">
                                             <h6 className="text-primary mb-0">
@@ -47,7 +47,7 @@ export default function Section12() {
                                         </p>
                                     </div>
                                 </div>
-                                <div className="px-0 card border-bottom-0 rounded-0 collapse-custom bg-transparent">
+                                <div className="px-0 card border-bottom-0 rounded-0 collapse-custom bg-transparent mb-3">
                                     <div className="p-0 card-header border-0 rounded-3 bg-transparent">
                                         <Link className="collapsed p-4 fw-bold d-flex align-items-center" data-bs-toggle="collapse" href="#fs-faq-3">
                                             <h6 className="text-primary mb-0">
@@ -62,7 +62,7 @@ export default function Section12() {
                                         </p>
                                     </div>
                                 </div>
-                                <div className="px-0 card border-bottom-0 rounded-0 collapse-custom bg-transparent">
+                                <div className="px-0 card border-bottom-0 rounded-0 collapse-custom bg-transparent mb-3">
                                     <div className="p-0 card-header border-0 rounded-3 bg-transparent">
                                         <Link className="collapsed p-4 fw-bold d-flex align-items-center" data-bs-toggle="collapse" href="#fs-faq-4">
                                             <h6 className="text-primary mb-0">
@@ -77,7 +77,7 @@ export default function Section12() {
                                         </p>
                                     </div>
                                 </div>
-                                <div className="px-0 card border-bottom-0 rounded-0 collapse-custom bg-transparent">
+                                <div className="px-0 card border-bottom-0 rounded-0 collapse-custom bg-transparent mb-3">
                                     <div className="p-0 card-header border-0 rounded-3 bg-transparent">
                                         <Link className="collapsed p-4 fw-bold d-flex align-items-center" data-bs-toggle="collapse" href="#fs-faq-5">
                                             <h6 className="text-primary mb-0">
@@ -92,7 +92,7 @@ export default function Section12() {
                                         </p>
                                     </div>
                                 </div>
-                                <div className="px-0 card border-bottom-0 rounded-0 collapse-custom bg-transparent">
+                                <div className="px-0 card border-bottom-0 rounded-0 collapse-custom bg-transparent mb-3">
                                     <div className="p-0 card-header border-0 rounded-3 bg-transparent">
                                         <Link className="collapsed p-4 fw-bold d-flex align-items-center" data-bs-toggle="collapse" href="#fs-faq-6">
                                             <h6 className="text-primary mb-0">
@@ -107,7 +107,7 @@ export default function Section12() {
                                         </p>
                                     </div>
                                 </div>
-                                <div className="px-0 card border-bottom-0 rounded-0 collapse-custom bg-transparent">
+                                <div className="px-0 card border-bottom-0 rounded-0 collapse-custom bg-transparent mb-3">
                                     <div className="p-0 card-header border-0 rounded-3 bg-transparent">
                                         <Link className="collapsed p-4 fw-bold d-flex align-items-center" data-bs-toggle="collapse" href="#fs-faq-7">
                                             <h6 className="text-primary mb-0">
@@ -122,7 +122,7 @@ export default function Section12() {
                                         </p>
                                     </div>
                                 </div>
-                                <div className="px-0 card border-bottom-0 rounded-bottom-3 collapse-custom bg-transparent">
+                                <div className="px-0 card border-bottom-0 rounded-bottom-3 collapse-custom bg-transparent mb-0">
                                     <div className="p-0 card-header border-0 rounded-3 bg-transparent">
                                         <Link className="collapsed p-4 fw-bold d-flex align-items-center" data-bs-toggle="collapse" href="#fs-faq-8">
                                             <h6 className="text-primary mb-0">
