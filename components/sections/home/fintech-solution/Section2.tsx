@@ -69,7 +69,7 @@ export default function Section2() {
                 </div>
                 <div className="container position-relative pt-120 z-1 border-top">
                     <div className="row position-relative">
-                        <div className="d-flex flex-lg-nowrap flex-wrap justify-content-center justify-content-lg-between gap-5">
+                        <div className="d-flex flex-lg-nowrap flex-wrap justify-content-center justify-content-lg-between gap-4 gap-lg-5">
                             <Link href="#" className="d-flex align-items-center rounded-start-lg-3" data-aos="fade-up" data-aos-delay={0}>
                                 <svg className="fill-primary" xmlns="http://www.w3.org/2000/svg" width={40} height={40} viewBox="0 0 40 40" fill="none">
                                     <g clipPath="url(#clip0_349_684)">
