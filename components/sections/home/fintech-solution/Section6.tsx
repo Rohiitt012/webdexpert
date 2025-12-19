@@ -4,7 +4,7 @@ export default function Section6({ pt }: any) {
     return (
         <>
             {/*fintech-solution section 6 - CRM Development & Support */}
-            <section className={`fintech-solution-section-6 position-relative overflow-hidden py-120 bg-light-2 ${pt}`}>
+            <section className={`fintech-solution-section-6 position-relative overflow-hidden py-120 bg-white ${pt}`}>
                 <div className="container position-relative z-1">
                     <div className="row g-4">
                         <div className="col-lg-6">
