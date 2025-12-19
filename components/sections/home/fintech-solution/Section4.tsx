@@ -6,7 +6,6 @@ export default function Section4() {
             {/*fintech-solution section 4*/}
             <section className="fintech-solution-section-4 position-relative overflow-hidden pb-120">
                 <div className="pb-80 pt-120 d-flex align-items-center justify-content-between position-relative z-1">
-                    <div className="bg-blur position-absolute w-100 h-100 top-0 start-0 bottom-0 end-0" />
                     <div className="container d-flex flex-wrap align-items-center justify-content-between">
                         <div className="text-start">
                             <span className="content-top btn-text text-primary d-flex align-items-center">
@@ -25,6 +24,27 @@ export default function Section4() {
                 <div className="container wow img-custom-anim-top">
                     <div className="row group-card-testimonial position-relative z-0">
                         <div className="col-lg-4">
+                            <div className="card-testimonial mb-4 border p-5 rounded-4">
+                                <div className="d-flex gap-2">
+                                    <i className="bi bi-star-fill text-primary fs-10" />
+                                    <i className="bi bi-star-fill text-primary fs-10" />
+                                    <i className="bi bi-star-fill text-primary fs-10" />
+                                    <i className="bi bi-star-fill text-primary fs-10" />
+                                    <i className="bi bi-star-fill text-primary fs-10" />
+                                </div>
+                                <h6 className="fs-20 mt-3 mb-4">Amazing design solution</h6>
+                                <p className="mb-0">" Hands down one of the best shirts I've ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. "</p>
+                                <div className="d-flex align-items-center mt-5">
+                                    <Link href="#">
+                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/fintech-solution-img/pages/fintech-solution/page-home/home-section-4/author-1.png" alt="AstraX" />
+                                    </Link>
+                                    <div className="text-start ms-3">
+                                        <Link href="#">
+                                            <span className="fw-semibold">Eliana M. Thompson</span>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
                             <div className="card-testimonial mb-4 border p-5 rounded-4">
                                 <div className="d-flex gap-2">
                                     <i className="bi bi-star-fill text-primary fs-10" />
@@ -69,6 +89,27 @@ export default function Section4() {
                             </div>
                         </div>
                         <div className="col-lg-4 mt-5">
+                            <div className="card-testimonial mb-4 border p-5 rounded-4">
+                                <div className="d-flex gap-2">
+                                    <i className="bi bi-star-fill text-primary fs-10" />
+                                    <i className="bi bi-star-fill text-primary fs-10" />
+                                    <i className="bi bi-star-fill text-primary fs-10" />
+                                    <i className="bi bi-star-fill text-primary fs-10" />
+                                    <i className="bi bi-star-fill text-primary fs-10" />
+                                </div>
+                                <h6 className="fs-20 mt-3 mb-4">Amazing design solution</h6>
+                                <p className="mb-0">" Hands down one of the best shirts I've ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. "</p>
+                                <div className="d-flex align-items-center mt-5">
+                                    <Link href="#">
+                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/fintech-solution-img/pages/fintech-solution/page-home/home-section-4/author-4.png" alt="AstraX" />
+                                    </Link>
+                                    <div className="text-start ms-3">
+                                        <Link href="#">
+                                            <span className="fw-semibold">Amelia K. Hamilton</span>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
                             <div className="card-testimonial mb-4 border p-5 rounded-4">
                                 <div className="d-flex gap-2">
                                     <i className="bi bi-star-fill text-primary fs-10" />
@@ -122,7 +163,28 @@ export default function Section4() {
                                     <i className="bi bi-star-fill text-primary fs-10" />
                                 </div>
                                 <h6 className="fs-20 mt-3 mb-4">Amazing design solution</h6>
-                                <p className="mb-0">“ Hands down one of the best shirts I’ve ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. “</p>
+                                <p className="mb-0">" Hands down one of the best shirts I've ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. "</p>
+                                <div className="d-flex align-items-center mt-5">
+                                    <Link href="#">
+                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/fintech-solution-img/pages/fintech-solution/page-home/home-section-4/author-7.png" alt="AstraX" />
+                                    </Link>
+                                    <div className="text-start ms-3">
+                                        <Link href="#">
+                                            <span className="fw-semibold">Gabriella S. Adams</span>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="card-testimonial mb-4 border p-5 rounded-4">
+                                <div className="d-flex gap-2">
+                                    <i className="bi bi-star-fill text-primary fs-10" />
+                                    <i className="bi bi-star-fill text-primary fs-10" />
+                                    <i className="bi bi-star-fill text-primary fs-10" />
+                                    <i className="bi bi-star-fill text-primary fs-10" />
+                                    <i className="bi bi-star-fill text-primary fs-10" />
+                                </div>
+                                <h6 className="fs-20 mt-3 mb-4">Amazing design solution</h6>
+                                <p className="mb-0">" Hands down one of the best shirts I've ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. "</p>
                                 <div className="d-flex align-items-center mt-5">
                                     <Link href="#">
                                         <img className="rounded-circle icon-shape icon-50" src="/assets/img/fintech-solution-img/pages/fintech-solution/page-home/home-section-4/author-8.png" alt="AstraX" />
