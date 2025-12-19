@@ -33,27 +33,6 @@ export default function Section4() {
                                     <i className="bi bi-star-fill text-primary fs-10" />
                                     <i className="bi bi-star-fill text-primary fs-10" />
                                 </div>
-                                <h6 className="fs-20 mt-3 mb-4">Amazing design solution</h6>
-                                <p className="mb-0">“ Hands down one of the best shirts I’ve ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. “</p>
-                                <div className="d-flex align-items-center mt-5">
-                                    <Link href="#">
-                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/fintech-solution-img/pages/fintech-solution/page-home/home-section-4/author-1.png" alt="AstraX" />
-                                    </Link>
-                                    <div className="text-start ms-3">
-                                        <Link href="#">
-                                            <span className="fw-semibold">Eliana M. Thompson</span>
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="card-testimonial mb-4 border p-5 rounded-4">
-                                <div className="d-flex gap-2">
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                </div>
                                 <h6 className="fs-20 mt-3 mb-4">Quality service</h6>
                                 <p className="mb-0">“ Hands down one of the best shirts I’ve ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. “</p>
                                 <div className="d-flex align-items-center mt-5">
@@ -98,27 +77,6 @@ export default function Section4() {
                                     <i className="bi bi-star-fill text-primary fs-10" />
                                     <i className="bi bi-star-fill text-primary fs-10" />
                                 </div>
-                                <h6 className="fs-20 mt-3 mb-4">Amazing design solution</h6>
-                                <p className="mb-0">“ Hands down one of the best shirts I’ve ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. “</p>
-                                <div className="d-flex align-items-center mt-5">
-                                    <Link href="#">
-                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/fintech-solution-img/pages/fintech-solution/page-home/home-section-4/author-4.png" alt="AstraX" />
-                                    </Link>
-                                    <div className="text-start ms-3">
-                                        <Link href="#">
-                                            <span className="fw-semibold">Amelia K. Hamilton</span>
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="card-testimonial mb-4 border p-5 rounded-4">
-                                <div className="d-flex gap-2">
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                </div>
                                 <h6 className="fs-20 mt-3 mb-4">On-time delivery</h6>
                                 <p className="mb-0">“ Hands down one of the best shirts I’ve ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. “</p>
                                 <div className="d-flex align-items-center mt-5">
@@ -155,27 +113,6 @@ export default function Section4() {
                             </div>
                         </div>
                         <div className="col-lg-4">
-                            <div className="card-testimonial mb-4 border p-5 rounded-4">
-                                <div className="d-flex gap-2">
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                    <i className="bi bi-star-fill text-primary fs-10" />
-                                </div>
-                                <h6 className="fs-20 mt-3 mb-4">Amazing design solution</h6>
-                                <p className="mb-0">“ Hands down one of the best shirts I’ve ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. “</p>
-                                <div className="d-flex align-items-center mt-5">
-                                    <Link href="#">
-                                        <img className="rounded-circle icon-shape icon-50" src="/assets/img/fintech-solution-img/pages/fintech-solution/page-home/home-section-4/author-7.png" alt="AstraX" />
-                                    </Link>
-                                    <div className="text-start ms-3">
-                                        <Link href="#">
-                                            <span className="fw-semibold">Gabriella S. Adams</span>
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
                             <div className="card-testimonial mb-4 border p-5 rounded-4">
                                 <div className="d-flex gap-2">
                                     <i className="bi bi-star-fill text-primary fs-10" />
