@@ -104,20 +104,6 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: MobileMen
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li className="has-children">
-                                            <Link href="#">Blog</Link>
-                                            <span className="menu-expand" onClick={() => handleAccordion(2)}>
-                                                <i className="arrow-small-down" />
-                                            </span>
-                                            <ul className="sub-menu" style={{ display: `${isAccordion == 2 ? "block" : "none"}` }}>
-                                                <li>
-                                                    <Link href="/blog">Blog</Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="/blog-details">Blog Details</Link>
-                                                </li>
-                                            </ul>
-                                        </li>
                                         <li>
                                             <Link href="/pricing">Pricing</Link>
                                         </li>
