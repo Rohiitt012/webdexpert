@@ -7,6 +7,7 @@ import Section4 from "@/components/sections/home/fintech-solution/Section4";
 import Section5 from "@/components/sections/home/fintech-solution/Section5";
 import Section6 from "@/components/sections/home/fintech-solution/Section6";
 import Section7 from "@/components/sections/home/fintech-solution/Section7";
+import Section12 from "@/components/sections/home/fintech-solution/Section12";
 export default function Home() {
     return (
         <>
@@ -19,6 +20,7 @@ export default function Home() {
                 <Section5 />
                 <Section6 />
                 <Section7 />
+                <Section12 />
             </Layout>
         </>
     );
