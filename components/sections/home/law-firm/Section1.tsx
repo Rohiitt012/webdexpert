@@ -13,12 +13,12 @@ export default function Section1() {
 					<div className="row align-items-center">
 						<div className="col-lg-5 col-md-12 px-md-0 pb-lg-0 pb-10">
 							<span className="content-top btn-text text-primary fw-semibold rounded-pill border border-primary px-3 py-2">
-								#01 law firm &amp; agency
+							WordPress & &amp; CMS Development
 							</span>
 							<h1 className="text-white ds-1 mt-4 text-anime-style-222">
-								We stand for the voice of
+							WordPress & CMS
 								<strong className="position-relative text-anime-style-3 ms-5">
-									justice.
+								Development.
 									<span className="position-absolute top-50 start-50 translate-middle d-none d-md-block">
 										<svg
 											xmlns="http://www.w3.org/2000/svg"

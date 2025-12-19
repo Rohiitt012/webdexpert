@@ -53,7 +53,7 @@ export default function Section3() {
                 </div>
                 <div className="wow img-custom-anim-left mask-image @@classlist">
                     <div className="scroll-move-left pt-120 d-none d-lg-block">
-                        <h1 className="fs-140 text-nowrap mb-0">Imposed on individuals &amp; businesses based on their income</h1>
+                        <h1 className="fs-140 text-nowrap mb-0">Businesses based on their income</h1>
                     </div>
                 </div>
             </section>

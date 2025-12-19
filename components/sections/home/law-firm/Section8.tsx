@@ -4,7 +4,7 @@ export default function Section8() {
 	return (
 		<>
 			{/*law-firm home section 8*/}
-			<section className="law-firm-home-section-8 pt-120 pb-120 position-relative overflow-hidden bg-dark">
+			<section className="law-firm-home-section-8 pt-120 pb-120 position-relative overflow-hidden bg-white">
 				<div className="container">
 					<div className="newsletter-bg rounded-top-5 position-relative">
 						<div className="container pt-120 pb-120">
@@ -13,7 +13,7 @@ export default function Section8() {
 									<span className="content-top btn-text text-primary fw-semibold rounded-pill border border-primary px-3 py-2 bg-transparent">
 										get in touch
 									</span>
-									<h2 className="mt-3 text-white text-anime-style-2">
+									<h2 className="mt-3 text-dark text-anime-style-2">
 										Contact us
 										<strong className="position-relative">
 											anytime
@@ -94,11 +94,11 @@ export default function Section8() {
 												</svg>
 											</div>
 											<Link href="#">
-												<h6 className="mt-5 mb-3 fs-20 text-white">
-													info@astrax.com
+												<h6 className="mt-5 mb-3 fs-20 text-dark">
+													Email: contact@xzect.com
 												</h6>
 											</Link>
-											<p className="mb-0">
+											<p className="mb-0 text-dark text-opacity-75">
 												Media strategy encapsulates your intentions.
 											</p>
 										</div>
@@ -159,11 +159,11 @@ export default function Section8() {
 												</svg>
 											</div>
 											<a href="telto:(123) 456 789 00">
-												<h6 className="mt-5 mb-3 fs-20 text-white">
-													+(123) 456 789 00
+												<h6 className="mt-5 mb-3 fs-20 text-dark">
+													Contact: +91 98188 06393
 												</h6>
 											</a>
-											<p className="mb-0">
+											<p className="mb-0 text-dark text-opacity-75">
 												Media strategy encapsulates your intentions.
 											</p>
 										</div>
@@ -171,11 +171,11 @@ export default function Section8() {
 									<form className="input-group mt-7 position-relative">
 										<input
 											type="text"
-											className="form-control rounded-start-0 border-0 bg-white bg-opacity-25"
+											className="form-control rounded-start-0 border bg-white"
 											name="name"
 											placeholder="astrax@"
 										/>
-										<div className="border border-0 rounded-end-4 bg-dark">
+										<div className="border border-0 rounded-end-4">
 											<button
 												aria-label="subscribe"
 												className="btn btn-primary h-100"

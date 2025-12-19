@@ -11,7 +11,7 @@ export default function Section2() {
                             <div className="text-center">
                                 <span className="btn-text border-bottom border-primary">get started today</span>
                                 <h2 className="text-dark my-3 text-anime-style-3">
-                                    Build your support base <span className="border-4 border-bottom border-primary">website</span>
+                                Protect, optimize, and accelerate your web infrastructure <span className="border-4 border-bottom border-primary">your web infrastructure.</span>
                                 </h2>
                             </div>
                         </div>

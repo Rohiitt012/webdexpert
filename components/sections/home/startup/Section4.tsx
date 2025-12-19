@@ -9,8 +9,8 @@ export default function Section4() {
                     <div className="row align-items-center">
                         <div className="col-lg-6 pe-lg-5 col-md-10">
                             <span className="text-primary">Why choose us</span>
-                            <h2 className="text-dark my-3 text-anime-style-2">A systematic approach to digital marketing</h2>
-                            <p className="pb-4 wow img-custom-anim-top">We offer a wide range of digital marketing services that cater to businesses of all sizes. A forward-thinking and clever approach to maintaining sales tax compliance amidst the digital era.</p>
+                            <h2 className="text-dark my-3 text-anime-style-2">Smart Digital Solutions <br /> Built for Business Growth</h2>
+                            <p className="pb-4 wow img-custom-anim-top">Choose us for modern design expertise, performance-driven solutions, mobile-first approach, and SEO-optimized websites that enhance user experience, boost engagement, and deliver measurable business growth.</p>
                             <ul className="list-unstyled">
                                 <li className="d-flex align-items-center mb-3 gap-3" data-aos="fade-up" data-aos-delay={0}>
                                     <div className="position-relative">

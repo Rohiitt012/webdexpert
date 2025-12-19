@@ -10,6 +10,47 @@ export default function Section2() {
                     transition: background-color 0.3s ease;
                 }
             `}</style>
+            <style jsx>{`
+                .ticker {
+                    width: 100vw;
+                    overflow: hidden;
+                    background: #000;
+                    color: #fff;
+                    padding: 16px 0;
+                    position: relative;
+                    left: 50%;
+                    margin-left: -50vw;
+                    display: block;
+                }
+                .ticker__track {
+                    display: inline-block;
+                    white-space: nowrap;
+                    will-change: transform;
+                    animation: tickerMove 28s linear infinite;
+                    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+                    font-size: 26px;
+                    font-weight: 600;
+                }
+                .ticker__item { display: inline-block; }
+                .ticker__item + .ticker__item::before {
+                    content: "*";
+                    display: inline-block;
+                    color: #fff;
+                    opacity: 0.95;
+                    margin: 0 36px;
+                    vertical-align: middle;
+                    line-height: 1;
+                    transform: translateY(0.12em);
+                }
+                @keyframes tickerMove {
+                    0% {
+                        transform: translateX(100%);
+                    }
+                    100% {
+                        transform: translateX(-100%);
+                    }
+                }
+            `}</style>
             {/*insurance-consultancy-home home section 2*/}
             <section className="insurance-consultancy-home-section-2 position-relative overflow-hidden pt-120 pb-120">
                 <div className="container">
@@ -86,6 +127,22 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                             </div>
                         </div>
                     </div>
+
+                    <div className="mt-4">
+                        <div className="ticker" aria-label="key-highlights">
+                            <div className="ticker__track">
+                                <span className="ticker__item">1000+ Projects</span>
+                                <span className="ticker__item">20+ Team members</span>
+                                <span className="ticker__item">Top Rated plus on Upwork</span>
+                                <span className="ticker__item">world wide clients</span>
+                                <span className="ticker__item">1000+ Projects</span>
+                                <span className="ticker__item">20+ Team members</span>
+                                <span className="ticker__item">Top Rated plus on Upwork</span>
+                                <span className="ticker__item">world wide clients</span>
+                            </div>
+                        </div>
+                    </div>
+
 
                     {/* New Social Media Management Section */}
                     <div className="row g-5 mt-120 align-items-center">
@@ -508,7 +565,7 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                         </div>
                         <div className="col-lg-6">
                             <div className="text-center">
-                                <img src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-2/content-creation.png" alt="Content Creation" className="img-fluid" style={{ maxWidth: '100%', height: 'auto' }} />
+                                <img src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-2/img-1.png" alt="Content Creation" className="img-fluid" style={{ maxWidth: '100%', height: 'auto' }} />
                             </div>
                         </div>
                     </div>
@@ -616,6 +673,35 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                             <a href="/contact" className="btn btn-dark px-5 py-3" style={{ fontSize: '16px', fontWeight: '500', backgroundColor: '#000', color: '#fff', border: 'none', borderRadius: '4px', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
                                 Get a Quote →
                             </a>
+                        </div>
+                    </div>
+                    
+                    {/* Content Creation Section */}
+                    <div className="row g-5 mt-5 align-items-center">
+                        <div className="col-lg-6">
+                            <div className="text-center">
+                                <img src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-2/content-creation.png" alt="Content Creation" className="img-fluid" style={{ maxWidth: '100%', height: 'auto' }} />
+                            </div>
+                        </div>
+                        <div className="col-lg-6">
+                            <h3 className="mb-4" style={{ fontSize: '32px', lineHeight: '1.3', fontWeight: 'bold', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif' }}>
+                                Content Creation
+                            </h3>
+                            <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif' }}>
+                                We understand the significance of engaging and relevant content in establishing a strong social media presence for your company.
+                            </p>
+                            <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif' }}>
+                                Our content creators take the time to comprehend your brand’s voice and goal in order to make sure our material is in line with your company’s values.
+                            </p>
+                            <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif' }}>
+                                Our group of proficient content creators can produce a range of content, including informational infographics, imaginative carousels, and videos that will engage your audience and keep them captivated.
+                            </p>
+                            <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif' }}>
+                                Our production process also takes into account the increasing demand for visuals in today’s social media landscape. We strive to ensure that all our visuals are of top‑notch quality and are optimized for the platform being used.
+                            </p>
+                            <p className="mb-0" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif' }}>
+                                Whether it’s creating interactive polls or utilizing various design elements, our content creation process will capture your brand’s unique voice and convey it in a way that resonates with your audience.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -902,6 +988,157 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                             </div>
                         </div>
                     </div>
+                </div>
+            </section>
+
+            {/* Our Social Media Management Process Section */}
+            <section style={{ backgroundColor: '#fff', paddingTop: '80px', paddingBottom: '80px' }}>
+                <div className="container">
+                    <div className="row">
+                        <div className="col-12 text-center">
+                            <h2 className="mb-4" style={{ fontSize: '40px', lineHeight: '1.3', fontWeight: 'normal', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+                                Our <span style={{ fontWeight: 'bold' }}>Social Media Management</span> Process
+                            </h2>
+                            <h3 className="mb-5" style={{ fontSize: '32px', lineHeight: '1.4', fontWeight: 'normal', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+                                Managed By Pros. Designed To Sell. <span style={{ fontWeight: 'bold' }}>Powered By Webdexpert Technologies.</span>
+                            </h3>
+                            <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif', maxWidth: '1100px', margin: '0 auto 30px' }}>
+                                It is crucial to follow the right social media management process for the success of any social media campaign. If you plan on hiring a social media agency, then it's crucial to make sure you comprehend how they handle your social media. What tactics do they employ? How are results determined?
+                            </p>
+                            <p style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif', maxWidth: '1100px', margin: '0 auto' }}>
+                                At Webdexpert Technologies, we are known for our transparency and take onus of everything we do. We don't hesitate to share our methodologies and work processes with the entire world. We believe that our clients have the right to know what social media management strategies we follow to make their social media thrive.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            {/* Our Social Media Management Strategy Section */}
+            <section style={{ backgroundColor: '#fff', paddingTop: '80px', paddingBottom: '80px' }}>
+                <div className="container">
+                    <div className="row">
+                        <div className="col-12 text-center mb-5">
+                            <h2 className="mb-3" style={{ fontSize: '40px', lineHeight: '1.3', fontWeight: 'bold', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+                                Our Social Media Management Strategy
+                            </h2>
+                            <p style={{ fontSize: '18px', lineHeight: '1.6', fontWeight: '500', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+                                Here is a detailed review of our social media management process
+                            </p>
+                        </div>
+                    </div>
+
+                    {/* Research and Analysis Section */}
+                    <div className="row g-5 mt-5 align-items-center">
+                        <div className="col-lg-6">
+                            <h3 className="mb-4" style={{ fontSize: '32px', lineHeight: '1.3', fontWeight: 'bold', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+                                Research and Analysis
+                            </h3>
+                            <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+                                Research and analysis are recognized as essential components of social media management. At Webdexpert Technologies, we conduct thorough research and analysis to target the right audience for your business. The success of any social media efforts needs proper research and analysis.
+                            </p>
+                            <p className="mb-0" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+                                We start the social media management process by doing extensive research and analysis. This requires carefully examining the client's industry and target market. By doing this, we ensure that we tailor the plan to the client's requirements rather than using a generic strategy.
+                            </p>
+                        </div>
+                        <div className="col-lg-6">
+                            <div className="text-center">
+                                <img src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-2/research-analysis.png" alt="Research and Analysis" className="img-fluid" style={{ maxWidth: '100%', height: 'auto' }} />
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* Competitive Analysis Section */}
+                    <div className="row g-5 mt-5 align-items-center">
+                        <div className="col-lg-6">
+                            <div className="text-center">
+                                <img src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-2/competitive-analysis.png" alt="Competitive Analysis" className="img-fluid" style={{ maxWidth: '100%', height: 'auto' }} />
+                            </div>
+                        </div>
+                        <div className="col-lg-6">
+                            <p className="mb-3" style={{ fontSize: '18px', lineHeight: '1.6', fontWeight: '500', color: '#666', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+                                Data Analysis
+                            </p>
+                            <h3 className="mb-4" style={{ fontSize: '32px', lineHeight: '1.3', fontWeight: 'bold', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+                                Competitive Analysis
+                            </h3>
+                            <p className="mb-0" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+                                The next step is a comprehensive competitive analysis. This entails paying careful attention to what rivals are doing. The study enables us to comprehend what appeals to target consumers (and what doesn't). Through this, we can easily avoid techniques or tools that don't attract consumers. With the research's comprehensive data on social media trends at our disposal, we create content using the powerful social media tools that resonates with the client's intended audience.
+                            </p>
+                        </div>
+                    </div>
+
+                    {/* Strategy Development Section */}
+                    <div className="row g-5 mt-5 align-items-center">
+                        <div className="col-lg-6">
+                            <h3 className="mb-4" style={{ fontSize: '32px', lineHeight: '1.3', fontWeight: 'bold', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+                                Strategy Development
+                            </h3>
+                            <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+                                The next step in our social media management approach is developing a strategy. It is a plan that outlines our client's social media goals and measures their performance.
+                            </p>
+                            <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+                                Our specialized staff creates customized strategies for each client's use of social media.
+                            </p>
+                            <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+                                We make sure to meet and surpass our clients' goals and objectives while always keeping their bottom line in mind.
+                            </p>
+                            <p className="mb-0" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+                                We outline precisely what has to be done on each platform and demonstrate to our customers the benefits that their social media efforts would have. We ensure that our customers get the most out of their social media efforts by setting clear goals and objectives for them to reach and measuring the outcomes through analytics.
+                            </p>
+                        </div>
+                        <div className="col-lg-6">
+                            <div className="text-center">
+                                <img src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-2/strategy-development.png" alt="Strategy Development" className="img-fluid" style={{ maxWidth: '100%', height: 'auto' }} />
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* Content Creation Section */}
+                    <div className="row g-5 mt-5 align-items-center">
+                        <div className="col-lg-6">
+                            <div className="text-center">
+                                <img src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-2/content-creation.png" alt="Content Creation" className="img-fluid" style={{ maxWidth: '100%', height: 'auto' }} />
+                            </div>
+                        </div>
+                        <div className="col-lg-6">
+                            <h2 className="mb-4" style={{ fontSize: '40px', lineHeight: '1.3', fontWeight: 'bold', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif' }}>
+                                Content Creation
+                            </h2>
+                            <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif' }}>
+                                We understand the significance of engaging and relevant content in establishing a strong social media presence for your company.
+                            </p>
+                            <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif' }}>
+                                Our content creators take the time to comprehend your brand's voice and goal in order to make sure our material is in line with your company's values.
+                            </p>
+                            <p className="mb-0" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif' }}>
+                                Our group of proficient content creators can produce a range of content, including informational infographics, imaginative carousels, and videos that will engage your audience and keep them captivated.
+                            </p>
+                        </div>
+                    </div>
+
+                    {/* Social Media Advertising Section */}
+                    <div className="row g-5 mt-120 align-items-center">
+                        <div className="col-lg-6">
+                            <h2 className="mb-4" style={{ fontSize: '40px', lineHeight: '1.3', fontWeight: 'bold', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif' }}>
+                                Social Media Advertising
+                            </h2>
+                            <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif' }}>
+                                To guarantee our clients get the best outcomes from their advertising campaigns, we create a tailored plan. This enables them to reach their target audience and generate leads for their business. Our team of social media marketing experts has a wealth of expertise in creating and offering insight into the various ad forms. Also, we specialize in maximizing the return on investment from advertising initiatives (ROI).
+                            </p>
+                            <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif' }}>
+                                We put a lot of effort into creating a thorough plan that considers the demographics and psychographics of the target market, financial constraints, platform best practices, and the brand’s own characteristics.
+                            </p>
+                            <p className="mb-0" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif' }}>
+                                The advertising campaigns we create are highly successful and tailored to deliver the highest return on investment, thanks to our thorough research and a team of highly skilled social media ad specialists.
+                            </p>
+                        </div>
+                        <div className="col-lg-6">
+                            <div className="text-center">
+                                <img src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-2/img-1.png" alt="Social Media Advertising" className="img-fluid" style={{ maxWidth: '100%', height: 'auto' }} />
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </section>
         </>

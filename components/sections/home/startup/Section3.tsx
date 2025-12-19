@@ -16,11 +16,10 @@ export default function Section3() {
                                 <div className="col-lg-8" data-aos="fade-up" data-aos-delay={0}>
                                     <div className="bg-white rounded-3 p-5 position-relative hover-up">
                                         <Link href="/carrer">
-                                            <h5 className="mb-3">Brand Strategy</h5>
+                                            <h5 className="mb-3">UI/UX Redesign</h5>
                                         </Link>
                                         <p className="mb-5 pb-2 wow img-custom-anim-top">
-                                            We offer a wide range of digital marketing services that cater to <br />
-                                            business of all sizes.
+                                        Modern UI/UX redesign <br /> for better user experience.
                                         </p>
                                         <Link href="/carrer" className="icon-shape icon-xl rounded-circle border mt-3 ms-auto hover-up">
                                             <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">
@@ -80,7 +79,7 @@ export default function Section3() {
                                     <div className="bg-primary rounded-3 p-4 position-relative text-center hover-up">
                                         <img className="position-relative z-1" src="/assets/img/startup-img/pages/startup/page-home/home-section-3/img-2.png" alt="AstraX" />
                                         <Link href="/carrer">
-                                            <h5 className="text-white position-relative z-1">Game Development</h5>
+                                            <h5 className="text-white position-relative z-1">Mobile Responsiveness</h5>
                                         </Link>
                                         <div className="position-absolute top-50 start-50 translate-middle z-0 pb-3">
                                             <svg xmlns="http://www.w3.org/2000/svg" width={249} height={249} viewBox="0 0 249 249" fill="none">
@@ -98,11 +97,10 @@ export default function Section3() {
                                 <div className="col-lg-8 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay={600}>
                                     <div className="bg-transparent border border-2 rounded-3 p-5 position-relative h-100 hover-up">
                                         <Link href="/carrer">
-                                            <h5 className="mb-3">UI &amp; UX Design</h5>
+                                            <h5 className="mb-3">Speed & Performance Optimization</h5>
                                         </Link>
                                         <p className="mb-5 pb-2">
-                                            Offer a wide range of digital marketing <br />
-                                            services that cater.
+                                        Faster websites with <br /> optimized performance.
                                         </p>
                                         <Link href="/carrer" className="icon-shape icon-xl rounded-circle border mt-3 ms-auto hover-up">
                                             <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">

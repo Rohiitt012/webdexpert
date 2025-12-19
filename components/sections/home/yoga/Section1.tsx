@@ -28,7 +28,7 @@ export default function Section1() {
                                     </svg>
                                 </Link>
                                 <Link href="#" className="btn btn-dark bg-transparent" data-aos="fade-up" data-aos-delay={600}>
-                                    info@astrax.com
+                                    Email: contact@xzect.com
                                 </Link>
                             </div>
                         </div>

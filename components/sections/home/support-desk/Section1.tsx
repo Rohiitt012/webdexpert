@@ -22,7 +22,7 @@ export default function Section1() {
                                     </svg>
                                 </Link>
                                 <Link href="tel:+123456789">
-                                    <span className="fw-bold fs-7">+(123) 456 789 00</span>
+                                    <span className="fw-bold fs-7">+91 98188 06393</span>
                                 </Link>
                             </div>
                         </div>

@@ -113,15 +113,1477 @@ export default function Section2({ bg }: any) {
                             </div>
                         </div>
                     </div>
+
+                    {/* Website Maintenance Section */}
+                    <div className="row mt-80 align-items-center g-5">
+                        <div className="col-lg-5 mb-4 mb-lg-0">
+                            <div className="position-relative">
+                                <img 
+                                    src="/assets/imgs/website-maintenance.png" 
+                                    alt="Website Maintenance Illustration" 
+                                    className="img-fluid w-100"
+                                />
+                            </div>
+                        </div>
+                        <div className="col-lg-7">
+                            <div className="ps-lg-5">
+                                <h2 className="mb-4 fw-normal" style={{ fontSize: '2.75rem', lineHeight: '1.3', fontFamily: 'inherit' }}>
+                                    Is Your Website Under-maintained? Get Best <strong style={{ fontWeight: '700' }}>Website Maintenance</strong> Services in India NOW!
+                                </h2>
+                                <p className="mb-5" style={{ fontSize: '1.125rem', color: '#333' }}>
+                                    Do you know under maintained websites are at risk, not just 1, but many risks!
+                                </p>
+                                <div className="row g-4">
+                                    <div className="col-md-6">
+                                        <div className="d-flex gap-3 align-items-start">
+                                            <div className="flex-shrink-0">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" style={{ marginTop: '2px' }}>
+                                                    <circle cx="10" cy="10" r="9" fill="#E63946" stroke="#E63946" strokeWidth="1.5"/>
+                                                    <path d="M6 10L8.5 12.5L14 7" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                                                </svg>
+                                            </div>
+                                            <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.5' }}>Your website is prone to cyber attacks</p>
+                                        </div>
+                                    </div>
+                                    <div className="col-md-6">
+                                        <div className="d-flex gap-3 align-items-start">
+                                            <div className="flex-shrink-0">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" style={{ marginTop: '2px' }}>
+                                                    <circle cx="10" cy="10" r="9" fill="#E63946" stroke="#E63946" strokeWidth="1.5"/>
+                                                    <path d="M6 10L8.5 12.5L14 7" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                                                </svg>
+                                            </div>
+                                            <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.5' }}>Your website may not recover data; if it gets crashed</p>
+                                        </div>
+                                    </div>
+                                    <div className="col-md-6">
+                                        <div className="d-flex gap-3 align-items-start">
+                                            <div className="flex-shrink-0">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" style={{ marginTop: '2px' }}>
+                                                    <circle cx="10" cy="10" r="9" fill="#E63946" stroke="#E63946" strokeWidth="1.5"/>
+                                                    <path d="M6 10L8.5 12.5L14 7" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                                                </svg>
+                                            </div>
+                                            <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.5' }}>You website will be so slow to load</p>
+                                        </div>
+                                    </div>
+                                    <div className="col-md-6">
+                                        <div className="d-flex gap-3 align-items-start">
+                                            <div className="flex-shrink-0">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" style={{ marginTop: '2px' }}>
+                                                    <circle cx="10" cy="10" r="9" fill="#E63946" stroke="#E63946" strokeWidth="1.5"/>
+                                                    <path d="M6 10L8.5 12.5L14 7" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                                                </svg>
+                                            </div>
+                                            <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.5' }}>You may lost potential clients on their first experience</p>
+                                        </div>
+                                    </div>
+                                    <div className="col-md-6">
+                                        <div className="d-flex gap-3 align-items-start">
+                                            <div className="flex-shrink-0">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" style={{ marginTop: '2px' }}>
+                                                    <circle cx="10" cy="10" r="9" fill="#E63946" stroke="#E63946" strokeWidth="1.5"/>
+                                                    <path d="M6 10L8.5 12.5L14 7" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                                                </svg>
+                                            </div>
+                                            <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.5' }}>Your search engine rankings is prone to decline</p>
+                                        </div>
+                                    </div>
+                                    <div className="col-md-6">
+                                        <div className="d-flex gap-3 align-items-start">
+                                            <div className="flex-shrink-0">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" style={{ marginTop: '2px' }}>
+                                                    <circle cx="10" cy="10" r="9" fill="#E63946" stroke="#E63946" strokeWidth="1.5"/>
+                                                    <path d="M6 10L8.5 12.5L14 7" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                                                </svg>
+                                            </div>
+                                            <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.5' }}>Your conversion rate is prone to decline</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="text-center mt-5">
+                                    <h2 className="mb-0 fw-normal" style={{ fontSize: '2.75rem', lineHeight: '1.3', fontFamily: 'inherit' }}>
+                                        Website Maintenance Company In India You Can Rely On
+                                    </h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* Additional Website Maintenance Content */}
+                    <div className="row mt-80">
+                        {/* Upper Section - White Background */}
+                        <div className="col-12">
+                            <div className="text-center mb-5">
+                                <p className="mb-4" style={{ fontSize: '1.125rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    At Rankon Technologies, we recognize the importance of maintaining a well-functioning website to drive success in today's digital landscape. As a leading website maintenance company, we are dedicated to delivering exceptional services that you can trust.
+                                </p>
+                                <p className="mb-0" style={{ fontSize: '1.125rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    With years of industry experience and a dedicated team of experts, we offer comprehensive website maintenance solutions to ensure your website remains up-to-date, secure, and optimized for peak performance. Get the following solutions and embark on your journey to success:
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* Lower Section - Black Background with Red Abstract Lines - All Services Together */}
+                    <div className="row mt-5 position-relative" style={{ backgroundColor: '#000', padding: '80px 20px', borderRadius: '8px', overflow: 'hidden' }}>
+                        {/* Red Abstract Lines Background */}
+                        <div className="position-absolute top-0 end-0" style={{ width: '200px', height: '200px', opacity: '0.3' }}>
+                            <svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 100 Q50 50, 100 100 T200 100" stroke="#E63946" strokeWidth="2" fill="none"/>
+                                <path d="M0 150 Q50 100, 100 150 T200 150" stroke="#E63946" strokeWidth="2" fill="none"/>
+                            </svg>
+                        </div>
+                        <div className="position-absolute bottom-0 start-0" style={{ width: '150px', height: '150px', opacity: '0.3' }}>
+                            <svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 75 Q37.5 37.5, 75 75 T150 75" stroke="#E63946" strokeWidth="2" fill="none"/>
+                            </svg>
+                        </div>
+                        <div className="position-absolute top-0 start-0" style={{ width: '150px', height: '150px', opacity: '0.3' }}>
+                            <svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 75 Q37.5 37.5, 75 75 T150 75" stroke="#E63946" strokeWidth="2" fill="none"/>
+                            </svg>
+                        </div>
+                        <div className="position-absolute bottom-0 end-0" style={{ width: '200px', height: '200px', opacity: '0.3' }}>
+                            <svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 100 Q50 50, 100 100 T200 100" stroke="#E63946" strokeWidth="2" fill="none"/>
+                                <path d="M0 150 Q50 100, 100 150 T200 150" stroke="#E63946" strokeWidth="2" fill="none"/>
+                            </svg>
+                        </div>
+
+                        <div className="col-12 position-relative">
+                            {/* Heading */}
+                            <div className="text-center mb-5">
+                                <h2 className="mb-0 fw-normal" style={{ fontSize: '2.75rem', lineHeight: '1.3', fontFamily: 'inherit' }}>
+                                    Our <span style={{ color: '#FFC107', fontWeight: '700' }}>Website Maintenance Services</span> Include
+                                </h2>
+                            </div>
+
+                            {/* All Service Offerings - 6 boxes together */}
+                            <div className="row g-4 mt-4">
+                                <div className="col-lg-4 col-md-4 col-sm-12">
+                                    <div className="text-center p-4" style={{ backgroundColor: 'rgba(255, 255, 255, 0.05)', borderRadius: '8px', border: '1px solid rgba(255, 255, 255, 0.1)' }}>
+                                        <div className="d-inline-flex align-items-center justify-content-center mb-3" style={{ width: '80px', height: '80px', borderRadius: '50%', backgroundColor: '#FFC107' }}>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
+                                                <path d="M17.65 6.35C16.2 4.9 14.21 4 12 4C7.58 4 4 7.58 4 12C4 16.42 7.58 20 12 20C15.73 20 18.84 17.45 19.73 14H17.65C16.83 16.33 14.61 18 12 18C8.69 18 6 15.31 6 12C6 8.69 8.69 6 12 6C13.66 6 15.14 6.69 16.22 7.78L13 11H20V4L17.65 6.35Z" fill="white"/>
+                                            </svg>
+                                        </div>
+                                        <p className="mb-0 text-white" style={{ fontSize: '1rem', lineHeight: '1.5', fontFamily: 'inherit' }}>
+                                            Security Updates/ Monitoring
+                                        </p>
+                                    </div>
+                                </div>
+                                <div className="col-lg-4 col-md-4 col-sm-12">
+                                    <div className="text-center p-4" style={{ backgroundColor: 'rgba(255, 255, 255, 0.05)', borderRadius: '8px', border: '1px solid rgba(255, 255, 255, 0.1)' }}>
+                                        <div className="d-inline-flex align-items-center justify-content-center mb-3" style={{ width: '80px', height: '80px', borderRadius: '50%', backgroundColor: '#FFC107' }}>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
+                                                <path d="M3 17.25V21H6.75L17.81 9.94L14.06 6.19L3 17.25ZM20.71 7.04C21.1 6.65 21.1 6.02 20.71 5.63L18.37 3.29C17.98 2.9 17.35 2.9 16.96 3.29L15.12 5.13L18.87 8.88L20.71 7.04Z" fill="white"/>
+                                            </svg>
+                                        </div>
+                                        <p className="mb-0 text-white" style={{ fontSize: '1rem', lineHeight: '1.5', fontFamily: 'inherit' }}>
+                                            Content Management
+                                        </p>
+                                    </div>
+                                </div>
+                                <div className="col-lg-4 col-md-4 col-sm-12">
+                                    <div className="text-center p-4" style={{ backgroundColor: 'rgba(255, 255, 255, 0.05)', borderRadius: '8px', border: '1px solid rgba(255, 255, 255, 0.1)' }}>
+                                        <div className="d-inline-flex align-items-center justify-content-center mb-3" style={{ width: '80px', height: '80px', borderRadius: '50%', backgroundColor: '#FFC107' }}>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
+                                                <path d="M20 8H18V11C18 11.55 17.55 12 17 12S16 11.55 16 11V8H8V11C8 11.55 7.55 12 7 12S6 11.55 6 11V8H4C2.9 8 2 8.9 2 10V20C2 21.1 2.9 22 4 22H20C21.1 22 22 21.1 22 20V10C22 8.9 21.1 8 20 8ZM20 20H4V15H20V20ZM20 13H4V10H20V13Z" fill="white"/>
+                                                <circle cx="8.5" cy="16.5" r="1.5" fill="white"/>
+                                                <circle cx="15.5" cy="16.5" r="1.5" fill="white"/>
+                                            </svg>
+                                        </div>
+                                        <p className="mb-0 text-white" style={{ fontSize: '1rem', lineHeight: '1.5', fontFamily: 'inherit' }}>
+                                            Bug Fixes and Technical Support
+                                        </p>
+                                    </div>
+                                </div>
+                                <div className="col-lg-4 col-md-4 col-sm-12">
+                                    <div className="text-center p-4" style={{ backgroundColor: 'rgba(255, 255, 255, 0.05)', borderRadius: '8px', border: '1px solid rgba(255, 255, 255, 0.1)' }}>
+                                        <div className="d-inline-flex align-items-center justify-content-center mb-3" style={{ width: '80px', height: '80px', borderRadius: '50%', backgroundColor: '#FFC107' }}>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
+                                                <rect x="3" y="3" width="18" height="18" rx="2" stroke="black" strokeWidth="2" fill="none"/>
+                                                <path d="M3 9H21" stroke="black" strokeWidth="2"/>
+                                                <rect x="6" y="12" width="4" height="6" fill="black"/>
+                                                <rect x="12" y="10" width="4" height="8" fill="black"/>
+                                                <circle cx="18" cy="16" r="2" stroke="black" strokeWidth="2" fill="none"/>
+                                            </svg>
+                                        </div>
+                                        <p className="mb-0 text-white" style={{ fontSize: '1rem', lineHeight: '1.5', fontFamily: 'inherit' }}>
+                                            Performance Optimization
+                                        </p>
+                                    </div>
+                                </div>
+                                <div className="col-lg-4 col-md-4 col-sm-12">
+                                    <div className="text-center p-4" style={{ backgroundColor: 'rgba(255, 255, 255, 0.05)', borderRadius: '8px', border: '1px solid rgba(255, 255, 255, 0.1)' }}>
+                                        <div className="d-inline-flex align-items-center justify-content-center mb-3" style={{ width: '80px', height: '80px', borderRadius: '50%', backgroundColor: '#FFC107' }}>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
+                                                <path d="M10 4H4C2.9 4 2 4.9 2 6V20C2 21.1 2.9 22 4 22H18C19.1 22 20 21.1 20 20V14" stroke="black" strokeWidth="2" fill="none"/>
+                                                <path d="M18 2L22 6L18 10" stroke="black" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" fill="none"/>
+                                                <path d="M22 6H12" stroke="black" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" fill="none"/>
+                                            </svg>
+                                        </div>
+                                        <p className="mb-0 text-white" style={{ fontSize: '1rem', lineHeight: '1.5', fontFamily: 'inherit' }}>
+                                            Backup and Restore
+                                        </p>
+                                    </div>
+                                </div>
+                                <div className="col-lg-4 col-md-4 col-sm-12">
+                                    <div className="text-center p-4" style={{ backgroundColor: 'rgba(255, 255, 255, 0.05)', borderRadius: '8px', border: '1px solid rgba(255, 255, 255, 0.1)' }}>
+                                        <div className="d-inline-flex align-items-center justify-content-center mb-3" style={{ width: '80px', height: '80px', borderRadius: '50%', backgroundColor: '#FFC107' }}>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
+                                                <rect x="2" y="4" width="14" height="18" rx="2" stroke="black" strokeWidth="2" fill="none"/>
+                                                <path d="M2 8H16" stroke="black" strokeWidth="2"/>
+                                                <rect x="18" y="6" width="4" height="14" rx="1" stroke="black" strokeWidth="2" fill="none"/>
+                                                <path d="M20 8H22" stroke="black" strokeWidth="2"/>
+                                            </svg>
+                                        </div>
+                                        <p className="mb-0 text-white" style={{ fontSize: '1rem', lineHeight: '1.5', fontFamily: 'inherit' }}>
+                                            Mobile Responsiveness
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* Checklist Section - White Background */}
+                    <div className="row mt-5">
+                        <div className="col-12">
+                            <div className="text-center">
+                                <h2 className="mb-4 fw-normal" style={{ fontSize: '2.75rem', lineHeight: '1.3', fontFamily: 'inherit' }}>
+                                    <strong style={{ fontWeight: '700' }}>Website Maintenance</strong> Checklist We Follow
+                                </h2>
+                                <p className="mb-0" style={{ fontSize: '1.125rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit', maxWidth: '900px', margin: '0 auto' }}>
+                                    A website maintenance checklist is a valuable tool to keep your website running smoothly and effectively. Here's a comprehensive checklist that covers various aspects of website maintenance:
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* Website Maintenance Service Cards */}
+                    <div className="row mt-80 g-4">
+                        <div className="col-lg-4 col-md-6 col-sm-12">
+                            <div className="p-4 bg-white border border-dark rounded h-100">
+                                <div className="mb-4">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="black" strokeWidth="2">
+                                        <rect x="2" y="3" width="20" height="14" rx="2"/>
+                                        <path d="M8 21H16"/>
+                                        <path d="M12 17V21"/>
+                                        <circle cx="12" cy="10" r="3" fill="none"/>
+                                        <path d="M12 7L12 10L14 12" strokeLinecap="round"/>
+                                    </svg>
+                                </div>
+                                <h3 className="mb-3 fw-bold" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    Update Software
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    We regularly update your website's content management system (CMS), plugins, themes, and any other software components to ensure they are running on the latest versions. This helps patch security vulnerabilities and improves performance.
+                                </p>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-md-6 col-sm-12">
+                            <div className="p-4 bg-white border border-dark rounded h-100">
+                                <div className="mb-4">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="black" strokeWidth="2">
+                                        <polyline points="3 6 5 6 21 6"/>
+                                        <path d="M19 6V20C19 21.1 18.1 22 17 22H7C5.9 22 5 21.1 5 20V6"/>
+                                        <path d="M8 6V4C8 2.9 8.9 2 10 2H14C15.1 2 16 2.9 16 4V6"/>
+                                        <path d="M12 10V16"/>
+                                        <path d="M9 13L12 10L15 13"/>
+                                    </svg>
+                                </div>
+                                <h3 className="mb-3 fw-bold" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    Backup Your Website
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    We create regular backups of your website's files and databases. We store them securely in an off-site location or use a reliable backup service. This ensures you have a copy of your website in case of data loss or a security breach.
+                                </p>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-md-6 col-sm-12">
+                            <div className="p-4 bg-white border border-dark rounded h-100">
+                                <div className="mb-4">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="black" strokeWidth="2">
+                                        <path d="M8 10L10 12L12 10" strokeLinecap="round" strokeLinejoin="round"/>
+                                        <path d="M12 10L14 12L16 10" strokeLinecap="round" strokeLinejoin="round"/>
+                                        <path d="M8 14L10 16L12 14" strokeLinecap="round" strokeLinejoin="round"/>
+                                        <path d="M12 14L14 16L16 14" strokeLinecap="round" strokeLinejoin="round"/>
+                                        <circle cx="7" cy="10" r="1" fill="black"/>
+                                        <circle cx="17" cy="10" r="1" fill="black"/>
+                                        <circle cx="7" cy="14" r="1" fill="black"/>
+                                        <circle cx="17" cy="14" r="1" fill="black"/>
+                                    </svg>
+                                </div>
+                                <h3 className="mb-3 fw-bold" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    Check For Broken Links
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    We scan your website for broken links using tools like Xenu Link Sleuth or online link checkers. We fix or remove any broken links to maintain a seamless user experience and improve SEO.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* Additional Website Maintenance Service Cards */}
+                    <div className="row mt-5 g-4">
+                        <div className="col-lg-4 col-md-6 col-sm-12">
+                            <div className="p-4 bg-white border border-dark rounded h-100">
+                                <div className="mb-4">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="black" strokeWidth="2">
+                                        <path d="M4.5 16.5C2.5 15.5 1 13.5 1 11C1 7.5 4 4.5 7.5 4.5C9.5 4.5 11.2 5.5 12.2 7C13.2 5.5 14.9 4.5 16.9 4.5C20.4 4.5 23.4 7.5 23.4 11C23.4 13.5 21.9 15.5 19.9 16.5" strokeLinecap="round" strokeLinejoin="round"/>
+                                        <path d="M12 2L12 8L16 6" strokeLinecap="round" strokeLinejoin="round"/>
+                                        <circle cx="12" cy="10" r="2" fill="black"/>
+                                    </svg>
+                                </div>
+                                <h3 className="mb-3 fw-bold" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    Test Website Speed
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    We use tools like Google PageSpeed Insights or GTmetrix to analyze your website's loading speed. We optimize images, minimize CSS and JavaScript files, and leverage caching to improve page load times.
+                                </p>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-md-6 col-sm-12">
+                            <div className="p-4 bg-white border border-dark rounded h-100">
+                                <div className="mb-4">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="black" strokeWidth="2">
+                                        <circle cx="12" cy="12" r="10"/>
+                                        <rect x="8" y="10" width="8" height="6" rx="1"/>
+                                        <path d="M8 10V8C8 6.9 8.9 6 10 6H14C15.1 6 16 6.9 16 8V10" strokeLinecap="round"/>
+                                    </svg>
+                                </div>
+                                <h3 className="mb-3 fw-bold" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    Review Security Measures
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    We regularly audit your website's security measures. We install an SSL certificate to enable HTTPS, use strong passwords, implement two-factor authentication, and consider a web application firewall to protect against hacking attempts.
+                                </p>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-md-6 col-sm-12">
+                            <div className="p-4 bg-white border border-dark rounded h-100">
+                                <div className="mb-4">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="black" strokeWidth="2">
+                                        <rect x="8" y="2" width="8" height="4" rx="1"/>
+                                        <path d="M12 6V12L16 14"/>
+                                        <circle cx="12" cy="12" r="9"/>
+                                        <path d="M12 8L12 12L16 14" strokeLinecap="round" strokeLinejoin="round"/>
+                                        <circle cx="12" cy="12" r="1" fill="black"/>
+                                        <path d="M12 6L12 8" strokeLinecap="round"/>
+                                        <path d="M12 6L12 8" strokeLinecap="round"/>
+                                        <text x="12" y="16" textAnchor="middle" fontSize="8" fill="black" fontWeight="bold">!</text>
+                                    </svg>
+                                </div>
+                                <h3 className="mb-3 fw-bold" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    Monitor Website Uptime
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    We set up website monitoring tools or services to receive notifications if your website goes down. We promptly address any downtime issues to minimize disruptions and maintain a positive user experience.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* More Website Maintenance Service Cards */}
+                    <div className="row mt-5 g-4">
+                        <div className="col-lg-4 col-md-6 col-sm-12">
+                            <div className="p-4 bg-white border border-dark rounded h-100">
+                                <div className="mb-4">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="black" strokeWidth="2">
+                                        <path d="M14 2H6C5.5 2 5 2.5 5 3V21C5 21.5 5.5 22 6 22H18C18.5 22 19 21.5 19 21V7L14 2Z" strokeLinecap="round" strokeLinejoin="round"/>
+                                        <path d="M14 2V7H19" strokeLinecap="round" strokeLinejoin="round"/>
+                                        <path d="M9 12L11 14L15 10" strokeLinecap="round" strokeLinejoin="round"/>
+                                    </svg>
+                                </div>
+                                <h3 className="mb-3 fw-bold" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    Check Contact Forms
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    We test and verify that all contact forms on your website are functioning correctly. We ensure that form submissions are received, and notifications are sent to the appropriate recipients.
+                                </p>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-md-6 col-sm-12">
+                            <div className="p-4 bg-white border border-dark rounded h-100">
+                                <div className="mb-4">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="black" strokeWidth="2">
+                                        <path d="M14 2H6C5.5 2 5 2.5 5 3V21C5 21.5 5.5 22 6 22H18C18.5 22 19 21.5 19 21V7L14 2Z" strokeLinecap="round" strokeLinejoin="round"/>
+                                        <path d="M14 2V7H19" strokeLinecap="round" strokeLinejoin="round"/>
+                                        <path d="M9 12H15" strokeLinecap="round"/>
+                                        <path d="M9 16H15" strokeLinecap="round"/>
+                                        <circle cx="18" cy="4" r="2" fill="none"/>
+                                        <path d="M17 3L19 5L21 3" strokeLinecap="round" strokeLinejoin="round"/>
+                                    </svg>
+                                </div>
+                                <h3 className="mb-3 fw-bold" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    Review And Update Content
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    We regularly review your website's content for accuracy, relevance, and freshness. We update outdated information, remove obsolete pages, and publish new content to engage visitors and improve search engine rankings.
+                                </p>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-md-6 col-sm-12">
+                            <div className="p-4 bg-white border border-dark rounded h-100">
+                                <div className="mb-4">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="black" strokeWidth="2">
+                                        <rect x="2" y="3" width="20" height="14" rx="2"/>
+                                        <path d="M8 21H16"/>
+                                        <path d="M12 17V21"/>
+                                        <circle cx="9" cy="19" r="1.5" fill="none"/>
+                                        <path d="M9 17.5V19.5" strokeLinecap="round"/>
+                                        <path d="M15 19L17 17L19 19" strokeLinecap="round" strokeLinejoin="round"/>
+                                    </svg>
+                                </div>
+                                <h3 className="mb-3 fw-bold" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    Review Analytics
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    We analyze your website's performance using tools like Google Analytics. We monitor key metrics such as traffic sources, page views, bounce rates, and conversions. Use these insights to identify areas for improvement and make data-driven decisions.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* Final Website Maintenance Service Cards */}
+                    <div className="row mt-5 g-4">
+                        <div className="col-lg-4 col-md-6 col-sm-12">
+                            <div className="p-4 bg-white border border-dark rounded h-100">
+                                <div className="mb-4">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="black" strokeWidth="2">
+                                        <rect x="2" y="4" width="14" height="18" rx="2"/>
+                                        <path d="M2 8H16" strokeLinecap="round"/>
+                                        <rect x="18" y="6" width="4" height="14" rx="1"/>
+                                        <path d="M20 8H22" strokeLinecap="round"/>
+                                    </svg>
+                                </div>
+                                <h3 className="mb-3 fw-bold" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    Evaluate User Experience
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    We continuously assess and enhance the user experience (UX) on your website. We pay attention to navigation, readability, accessibility, and overall design. We gather user feedback and make necessary adjustments to improve usability.
+                                </p>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-md-6 col-sm-12">
+                            <div className="p-4 bg-white border border-dark rounded h-100">
+                                <div className="mb-4">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="black" strokeWidth="2">
+                                        <rect x="2" y="3" width="20" height="14" rx="2"/>
+                                        <path d="M2 7H22" strokeLinecap="round"/>
+                                        <text x="12" y="13" textAnchor="middle" fontSize="10" fill="black" fontWeight="bold">404</text>
+                                        <path d="M4 18L6 20L8 18" strokeLinecap="round" strokeLinejoin="round"/>
+                                        <path d="M5 19L7 19" strokeLinecap="round"/>
+                                    </svg>
+                                </div>
+                                <h3 className="mb-3 fw-bold" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    Check For 404 Errors
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    We scan your website for 404 error pages and broken links. We redirect or fix them to provide a seamless browsing experience and maintain good SEO practices.
+                                </p>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-md-6 col-sm-12">
+                            <div className="p-4 bg-white border border-dark rounded h-100">
+                                <div className="mb-4">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="black" strokeWidth="2">
+                                        <path d="M14 2H6C5.5 2 5 2.5 5 3V21C5 21.5 5.5 22 6 22H18C18.5 22 19 21.5 19 21V7L14 2Z" strokeLinecap="round" strokeLinejoin="round"/>
+                                        <path d="M14 2V7H19" strokeLinecap="round" strokeLinejoin="round"/>
+                                        <path d="M9 12H15" strokeLinecap="round"/>
+                                        <path d="M9 16H15" strokeLinecap="round"/>
+                                        <path d="M20 4L22 6L20 8" strokeLinecap="round" strokeLinejoin="round"/>
+                                    </svg>
+                                </div>
+                                <h3 className="mb-3 fw-bold" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    Review Website Policies
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    We ensure your website's privacy policy, terms of service, and any other legal documents are up to date and comply with relevant regulations, such as GDPR or CCPA.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* Concluding Paragraph */}
+                    <div className="row mt-5">
+                        <div className="col-12">
+                            <p className="text-center mb-0" style={{ fontSize: '1.125rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit', maxWidth: '900px', margin: '0 auto' }}>
+                                By following this website maintenance checklist regularly, we proactively address potential issues, improve security, enhance user experience, and keep your website performing optimally. Remember, a well-maintained website is a valuable asset that contributes to your overall online success.
+                            </p>
+                        </div>
+                    </div>
+
+                    {/* Why is Website Maintenance Crucial Section */}
+                    <div className="row mt-80 align-items-start g-5">
+                        <div className="col-lg-6 position-sticky" style={{ top: '100px', alignSelf: 'flex-start' }}>
+                            <h2 className="mb-4 fw-bold" style={{ fontSize: '3rem', lineHeight: '1.2', fontFamily: 'inherit', color: '#000' }}>
+                                Why is<br />
+                                <span style={{ fontWeight: '700' }}>Website Maintenance Crucial</span>
+                            </h2>
+                            <p className="mb-4" style={{ fontSize: '1.125rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                More than 50% of customers won't do business with a company that has a poorly designed mobile website. 83% believe a website should be as good on mobile through responsive design, and 80% expect sites to load within three seconds for a satisfactory experience.
+                            </p>
+                            <p className="mb-0" style={{ fontSize: '1.125rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                While the above stats might have given you the gist of the cruciality of website maintenance, there are several other reasons why you must opt for website maintenance services:
+                            </p>
+                        </div>
+                        <div className="col-lg-6">
+                            <div className="mb-4 p-4 bg-white border border-dark rounded">
+                                <h3 className="mb-3 fw-bold text-uppercase" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    SECURITY
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    Cybersecurity threats are constantly evolving, and websites are a prime target for hackers. Regular website maintenance helps keep your site secure by installing the latest security patches, updates, and fixes. It reduces the risk of data breaches, malware infections, and unauthorized access to sensitive information.
+                                </p>
+                            </div>
+                            <div className="mb-4 p-4 bg-white border border-dark rounded">
+                                <h3 className="mb-3 fw-bold text-uppercase" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    PERFORMANCE
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    A well-maintained website ensures optimal performance and fast loading times. Regular updates to software, plugins, and themes help improve efficiency, fix bugs, and enhance overall functionality. This translates into a better user experience, increased visitor engagement, and higher conversion rates.
+                                </p>
+                            </div>
+                            <div className="mb-4 p-4 bg-white border border-dark rounded">
+                                <h3 className="mb-3 fw-bold text-uppercase" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    USER EXPERIENCE
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    Users expect seamless navigation, easy access to information, and a pleasant browsing experience. By maintaining your website, you can ensure that all links, forms, and interactive features are functioning properly. Regular content updates and design improvements help provide relevant and engaging experiences for your visitors.
+                                </p>
+                            </div>
+                            <div className="p-4 bg-white border border-dark rounded">
+                                <h3 className="mb-3 fw-bold text-uppercase" style={{ fontSize: '1.5rem', fontFamily: 'inherit', color: '#000' }}>
+                                    SEO
+                                </h3>
+                                <p className="mb-0" style={{ fontSize: '1rem', lineHeight: '1.6', color: '#333', fontFamily: 'inherit' }}>
+                                    Search engines favor websites that are regularly updated, have fresh content, and meet certain technical requirements. Website maintenance helps optimize your site for search engine rankings by improving site speed, fixing broken links, updating meta tags, and enhancing overall user experience. This can lead to higher visibility, increased organic traffic, and better search engine rankings.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* Close container so next section background can span full width */}
+                    </div>
+
+                    {/* Benefits Of Hiring Section and below - white background */}
+                    <div style={{ backgroundColor: "#ffffff" }}>
+                    {/* Benefits Of Hiring Section */}
+                    <div className="mt-120">
+                        <div className="text-center mb-5">
+                            <h2
+                                className="mb-4"
+                                style={{ fontSize: "40px", lineHeight: "1.3", fontWeight: 400, color: "#000", fontFamily: "inherit" }}
+                            >
+                                Benefits Of Hiring A Website{" "}
+                                <span style={{ fontWeight: "bold" }}>Maintenance Company</span> In India
+                            </h2>
+                            <p
+                                className="mx-auto"
+                                style={{
+                                    fontSize: "16px",
+                                    lineHeight: "1.8",
+                                    color: "#333",
+                                    maxWidth: "900px",
+                                    fontFamily: "inherit",
+                                }}
+                            >
+                                Having a website maintenance plan offers numerous benefits for your business or organization. Here
+                                are some key advantages of implementing a website maintenance plan:
+                            </p>
+                        </div>
+
+                        {/* Enhanced Security */}
+                        <div className="row g-5 align-items-center mb-80">
+                            <div className="col-lg-6">
+                                <div className="text-center">
+                                    <img
+                                        src="/assets/img/digital-agency-img/pages/digital-agency/page-home/home-section-1/img-1.png"
+                                        alt="Enhanced Security Illustration"
+                                        className="img-fluid"
+                                        style={{ maxWidth: "100%", height: "auto" }}
+                                    />
+                                </div>
+                            </div>
+                            <div className="col-lg-6">
+                                <h3
+                                    className="mb-4"
+                                    style={{ fontSize: "40px", lineHeight: "1.3", fontWeight: 400, color: "#000", fontFamily: "inherit" }}
+                                >
+                                    Enhanced <span style={{ fontWeight: "bold" }}>Security</span>
+                                </h3>
+                                <p
+                                    className="mb-0"
+                                    style={{ fontSize: "16px", lineHeight: "1.8", color: "#333", fontFamily: "inherit" }}
+                                >
+                                    A website maintenance plan includes regular updates to your website&apos;s software, plugins, and
+                                    themes, which helps patch security vulnerabilities. By staying current with security measures, you can
+                                    reduce the risk of hacking attempts, data breaches, and other cyber threats, safeguarding your website
+                                    and protecting sensitive user information.
+                                </p>
+                            </div>
+                        </div>
+
+                        {/* Improved Performance */}
+                        <div className="row g-5 align-items-center mb-80 flex-lg-row-reverse">
+                            <div className="col-lg-6">
+                                <div className="text-center">
+                                    <img
+                                        src="/assets/img/digital-agency-img/pages/digital-agency/page-home/home-section-3/img-1.png"
+                                        alt="Improved Performance Illustration"
+                                        className="img-fluid"
+                                        style={{ maxWidth: "100%", height: "auto" }}
+                                    />
+                                </div>
+                            </div>
+                            <div className="col-lg-6">
+                                <h3
+                                    className="mb-4"
+                                    style={{ fontSize: "40px", lineHeight: "1.3", fontWeight: 400, color: "#000", fontFamily: "inherit" }}
+                                >
+                                    Improved <span style={{ fontWeight: "bold" }}>Performance</span>
+                                </h3>
+                                <p
+                                    className="mb-0"
+                                    style={{ fontSize: "16px", lineHeight: "1.8", color: "#333", fontFamily: "inherit" }}
+                                >
+                                    Regular maintenance ensures that your website runs smoothly and efficiently. By optimizing code,
+                                    cleaning up databases, and optimizing images and files, you can enhance page loading speed and
+                                    overall performance. This leads to a better user experience, increased visitor engagement, and higher
+                                    conversion rates.
+                                </p>
+                            </div>
+                        </div>
+
+                        {/* Increased Reliability */}
+                        <div className="row g-5 align-items-center mb-80">
+                            <div className="col-lg-6">
+                                <div className="text-center">
+                                    <img
+                                        src="/assets/img/digital-agency-img/pages/digital-agency/page-home/home-section-8/img-1.png"
+                                        alt="Increased Reliability Illustration"
+                                        className="img-fluid"
+                                        style={{ maxWidth: "100%", height: "auto" }}
+                                    />
+                                </div>
+                            </div>
+                            <div className="col-lg-6">
+                                <h3
+                                    className="mb-4"
+                                    style={{ fontSize: "40px", lineHeight: "1.3", fontWeight: 400, color: "#000", fontFamily: "inherit" }}
+                                >
+                                    Increased <span style={{ fontWeight: "bold" }}>Reliability</span>
+                                </h3>
+                                <p
+                                    className="mb-0"
+                                    style={{ fontSize: "16px", lineHeight: "1.8", color: "#333", fontFamily: "inherit" }}
+                                >
+                                    With a maintenance plan in place, you can proactively monitor your website&apos;s uptime and
+                                    performance. By promptly addressing any downtime issues or technical glitches, you minimize
+                                    disruptions and ensure that your website is available to users around the clock. This reliability builds
+                                    trust and credibility among your audience.
+                                </p>
+                            </div>
+                        </div>
+
+                        {/* Better User Experience */}
+                        <div className="row g-5 align-items-center mb-80 flex-lg-row-reverse">
+                            <div className="col-lg-6">
+                                <div className="text-center">
+                                    <img
+                                        src="/assets/img/digital-agency-img/pages/digital-agency/page-home/home-section-8/img-2.png"
+                                        alt="Better User Experience Illustration"
+                                        className="img-fluid"
+                                        style={{ maxWidth: "100%", height: "auto" }}
+                                    />
+                                </div>
+                            </div>
+                            <div className="col-lg-6">
+                                <h3
+                                    className="mb-4"
+                                    style={{ fontSize: "40px", lineHeight: "1.3", fontWeight: 400, color: "#000", fontFamily: "inherit" }}
+                                >
+                                    Better <span style={{ fontWeight: "bold" }}>User Experience</span>
+                                </h3>
+                                <p
+                                    className="mb-0"
+                                    style={{ fontSize: "16px", lineHeight: "1.8", color: "#333", fontFamily: "inherit" }}
+                                >
+                                    A well-maintained website provides a positive and seamless user experience. Regular updates and
+                                    improvements to navigation, functionality, and design make it easier for visitors to find what
+                                    they&apos;re looking for, interact with your content, and achieve their goals on your site. This
+                                    translates into higher satisfaction, longer visit durations, and increased conversion rates.
+                                </p>
+                            </div>
+                        </div>
+
+                        {/* SEO Optimization */}
+                        <div className="row g-5 align-items-center mb-80">
+                            <div className="col-lg-6">
+                                <div className="text-center">
+                                    <img
+                                        src="/assets/img/digital-agency-img/pages/digital-agency/page-home/home-section-8/img-3.png"
+                                        alt="SEO Optimization Illustration"
+                                        className="img-fluid"
+                                        style={{ maxWidth: "100%", height: "auto" }}
+                                    />
+                                </div>
+                            </div>
+                            <div className="col-lg-6">
+                                <h3
+                                    className="mb-4"
+                                    style={{ fontSize: "40px", lineHeight: "1.3", fontWeight: 400, color: "#000", fontFamily: "inherit" }}
+                                >
+                                    SEO <span style={{ fontWeight: "bold" }}>Optimization</span>
+                                </h3>
+                                <p
+                                    className="mb-0"
+                                    style={{ fontSize: "16px", lineHeight: "1.8", color: "#333", fontFamily: "inherit" }}
+                                >
+                                    Search engines favor websites that are regularly updated and provide a great user experience. A
+                                    website maintenance plan allows you to continually optimize your website for search engine rankings
+                                    by updating content, optimizing metadata, improving site speed, and fixing broken links. This helps
+                                    drive organic traffic and improve your overall online presence.
+                                </p>
+                            </div>
+                        </div>
+
+                        {/* Cost Savings */}
+                        <div className="row g-5 align-items-center mb-80 flex-lg-row-reverse">
+                            <div className="col-lg-6">
+                                <div className="text-center">
+                                    <img
+                                        src="/assets/img/digital-agency-img/pages/digital-agency/page-services/img-2.png"
+                                        alt="Cost Savings Illustration"
+                                        className="img-fluid"
+                                        style={{ maxWidth: "100%", height: "auto" }}
+                                    />
+                                </div>
+                            </div>
+                            <div className="col-lg-6">
+                                <h3
+                                    className="mb-4"
+                                    style={{ fontSize: "40px", lineHeight: "1.3", fontWeight: 400, color: "#000", fontFamily: "inherit" }}
+                                >
+                                    Cost <span style={{ fontWeight: "bold" }}>Savings</span>
+                                </h3>
+                                <p
+                                    className="mb-0"
+                                    style={{ fontSize: "16px", lineHeight: "1.8", color: "#333", fontFamily: "inherit" }}
+                                >
+                                    A proactive maintenance plan can save you money in the long run. By regularly monitoring and
+                                    addressing issues, you can prevent major breakdowns, downtime, or security breaches that would
+                                    require expensive emergency fixes. Additionally, maintaining your website prevents the need for a
+                                    complete overhaul or redesign, which can be more costly than ongoing maintenance.
+                                </p>
+                            </div>
+                        </div>
+
+                        {/* Professional Image */}
+                        <div className="row g-5 align-items-center mb-80">
+                            <div className="col-lg-6">
+                                <div className="text-center">
+                                    <img
+                                        src="/assets/img/digital-agency-img/pages/digital-agency/page-services/img-3.png"
+                                        alt="Professional Image Illustration"
+                                        className="img-fluid"
+                                        style={{ maxWidth: "100%", height: "auto" }}
+                                    />
+                                </div>
+                            </div>
+                            <div className="col-lg-6">
+                                <h3
+                                    className="mb-4"
+                                    style={{ fontSize: "40px", lineHeight: "1.3", fontWeight: 400, color: "#000", fontFamily: "inherit" }}
+                                >
+                                    Professional <span style={{ fontWeight: "bold" }}>Image</span>
+                                </h3>
+                                <p
+                                    className="mb-0"
+                                    style={{ fontSize: "16px", lineHeight: "1.8", color: "#333", fontFamily: "inherit" }}
+                                >
+                                    A well-maintained website reflects positively on your brand&apos;s image and professionalism. It
+                                    demonstrates your commitment to quality, attention to detail, and dedication to providing a positive
+                                    online experience for your audience. A polished and up-to-date website helps build trust and
+                                    credibility with visitors, increasing their confidence in your products, services, or information.
+                                </p>
+                            </div>
+                        </div>
+
+                        {/* Compliance With Regulations */}
+                        <div className="row g-5 align-items-center mb-80 flex-lg-row-reverse">
+                            <div className="col-lg-6">
+                                <div className="text-center">
+                                    <img
+                                        src="/assets/img/digital-agency-img/pages/digital-agency/page-services/img-4.png"
+                                        alt="Compliance With Regulations Illustration"
+                                        className="img-fluid"
+                                        style={{ maxWidth: "100%", height: "auto" }}
+                                    />
+                                </div>
+                            </div>
+                            <div className="col-lg-6">
+                                <h3
+                                    className="mb-4"
+                                    style={{ fontSize: "40px", lineHeight: "1.3", fontWeight: 400, color: "#000", fontFamily: "inherit" }}
+                                >
+                                    Compliance With <span style={{ fontWeight: "bold" }}>Regulations</span>
+                                </h3>
+                                <p
+                                    className="mb-0"
+                                    style={{ fontSize: "16px", lineHeight: "1.8", color: "#333", fontFamily: "inherit" }}
+                                >
+                                    Depending on your industry or location, there may be legal requirements and regulations related to
+                                    data privacy, accessibility, and online practices. A website maintenance plan ensures that your website
+                                    remains compliant with these regulations, such as regularly updating privacy policies, implementing
+                                    cookie consent mechanisms, and maintaining accessibility standards.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* A to Z Section */}
+                    <div className="mt-120 py-120" style={{ backgroundColor: "#ffffff" }}>
+                        <div className="container">
+                            <div className="text-center">
+                                <h2
+                                    className="mb-4"
+                                    style={{
+                                        fontSize: "40px",
+                                        lineHeight: "1.3",
+                                        fontWeight: 400,
+                                        color: "#000",
+                                        fontFamily: "inherit",
+                                    }}
+                                >
+                                    A to Z of Our{" "}
+                                    <span style={{ fontWeight: "bold" }}>
+                                        Website Maintenance
+                                    </span>{" "}
+                                    Services in India
+                                </h2>
+                                <p
+                                    className="mx-auto mb-4"
+                                    style={{
+                                        fontSize: "16px",
+                                        lineHeight: "1.8",
+                                        color: "#333",
+                                        maxWidth: "1100px",
+                                        fontFamily: "inherit",
+                                    }}
+                                >
+                                    Website maintenance services encompass a range of tasks and activities
+                                    designed to keep a website running smoothly and efficiently. It involves
+                                    regular updates, bug fixes, security enhancements, content management,
+                                    performance optimization, and more. By availing website maintenance
+                                    services, you can ensure that your website remains secure, up-to-date,
+                                    and provides an optimal user experience.
+                                </p>
+                                <p
+                                    className="mx-auto mb-0"
+                                    style={{
+                                        fontSize: "16px",
+                                        lineHeight: "1.8",
+                                        color: "#333",
+                                        maxWidth: "1100px",
+                                        fontFamily: "inherit",
+                                    }}
+                                >
+                                    Moreover, our website maintenance services are tailored to meet your
+                                    specific needs and requirements. We begin by conducting a thorough
+                                    analysis of your website to identify areas that need improvement or
+                                    attention. Based on the analysis, we create a customized maintenance
+                                    plan. Thereafter, our team of experts works diligently to implement
+                                    these tasks and ensure that your website remains in top shape.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* Website Maintenance Services Process */}
+                    <div className="py-120">
+                        <div className="container">
+                            <div className="text-center mb-5">
+                                <h2
+                                    className="mb-4"
+                                    style={{
+                                        fontSize: "40px",
+                                        lineHeight: "1.3",
+                                        fontWeight: 400,
+                                        color: "#000",
+                                        fontFamily: "inherit",
+                                    }}
+                                >
+                                    Our{" "}
+                                    <span style={{ fontWeight: "bold" }}>
+                                        Website Maintenance Services
+                                    </span>{" "}
+                                    Process
+                                </h2>
+                                <p
+                                    className="mx-auto mb-3"
+                                    style={{
+                                        fontSize: "16px",
+                                        lineHeight: "1.8",
+                                        color: "#333",
+                                        maxWidth: "1000px",
+                                        fontFamily: "inherit",
+                                    }}
+                                >
+                                    The website maintenance process involves a series of steps to ensure the smooth
+                                    functioning, security, and optimal performance of your website.
+                                </p>
+                                <p
+                                    className="mx-auto mb-0"
+                                    style={{
+                                        fontSize: "16px",
+                                        lineHeight: "1.8",
+                                        color: "#333",
+                                        maxWidth: "1000px",
+                                        fontFamily: "inherit",
+                                    }}
+                                >
+                                    Here&apos;s a general outline of the website maintenance process:
+                                </p>
+                            </div>
+
+                            <div className="row g-3 text-start">
+                                {/* Step 1 */}
+                                <div className="col-lg-4">
+                                    <div
+                                        className="h-100 p-5 d-flex flex-column justify-content-between"
+                                        style={{ backgroundColor: "#f6af1a" }}
+                                    >
+                                        <div>
+                                            <h3
+                                                className="mb-3"
+                                                style={{
+                                                    fontSize: "28px",
+                                                    lineHeight: "1.3",
+                                                    fontWeight: 600,
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                Establish A Maintenance Schedule
+                                            </h3>
+                                            <p
+                                                className="mb-0"
+                                                style={{
+                                                    fontSize: "16px",
+                                                    lineHeight: "1.8",
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                We determine the frequency of website maintenance based on the
+                                                complexity of your website, the volume of content updates, and the
+                                                nature of your business. It can be weekly, bi-weekly, monthly, or as
+                                                needed.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                {/* Step 2 */}
+                                <div className="col-lg-4">
+                                    <div
+                                        className="h-100 p-5 d-flex flex-column justify-content-between"
+                                        style={{ backgroundColor: "#000000" }}
+                                    >
+                                        <div>
+                                            <h3
+                                                className="mb-3"
+                                                style={{
+                                                    fontSize: "28px",
+                                                    lineHeight: "1.3",
+                                                    fontWeight: 600,
+                                                    color: "#ffffff",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                Create a Backup
+                                            </h3>
+                                            <p
+                                                className="mb-0"
+                                                style={{
+                                                    fontSize: "16px",
+                                                    lineHeight: "1.8",
+                                                    color: "#ffffff",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                Before making any changes or updates, we create a backup of your
+                                                website&apos;s files and databases. This serves as a safety net in case
+                                                anything goes wrong during the maintenance process.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                {/* Step 3 */}
+                                <div className="col-lg-4">
+                                    <div
+                                        className="h-100 p-5 d-flex flex-column justify-content-between"
+                                        style={{ backgroundColor: "#f6af1a" }}
+                                    >
+                                        <div>
+                                            <h3
+                                                className="mb-3"
+                                                style={{
+                                                    fontSize: "28px",
+                                                    lineHeight: "1.3",
+                                                    fontWeight: 600,
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                Update Software
+                                            </h3>
+                                            <p
+                                                className="mb-0"
+                                                style={{
+                                                    fontSize: "16px",
+                                                    lineHeight: "1.8",
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                We start by updating your website&apos;s CMS, plugins, themes, and other
+                                                software components to their latest versions. We verify compatibility
+                                                with your CMS version and ensure you have adequate backups in place.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            {/* Next Steps Row 2 */}
+                            <div className="row g-3 text-start mt-0">
+                                {/* Test Functionality */}
+                                <div className="col-lg-4">
+                                    <div
+                                        className="h-100 p-5 d-flex flex-column justify-content-between"
+                                        style={{ backgroundColor: "#000000" }}
+                                    >
+                                        <div>
+                                            <h3
+                                                className="mb-3"
+                                                style={{
+                                                    fontSize: "28px",
+                                                    lineHeight: "1.3",
+                                                    fontWeight: 600,
+                                                    color: "#ffffff",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                Test Functionality
+                                            </h3>
+                                            <p
+                                                className="mb-0"
+                                                style={{
+                                                    fontSize: "16px",
+                                                    lineHeight: "1.8",
+                                                    color: "#ffffff",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                After updating the software, we thoroughly test your website&apos;s functionality. We verify
+                                                all links, forms, navigation menus, and interactive elements to ensure they function
+                                                correctly. We test different features and user interactions to catch any potential issues.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                {/* Check Security Measures */}
+                                <div className="col-lg-4">
+                                    <div
+                                        className="h-100 p-5 d-flex flex-column justify-content-between"
+                                        style={{ backgroundColor: "#f6af1a" }}
+                                    >
+                                        <div>
+                                            <h3
+                                                className="mb-3"
+                                                style={{
+                                                    fontSize: "28px",
+                                                    lineHeight: "1.3",
+                                                    fontWeight: 600,
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                Check Security Measures
+                                            </h3>
+                                            <p
+                                                className="mb-0"
+                                                style={{
+                                                    fontSize: "16px",
+                                                    lineHeight: "1.8",
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                We review and strengthen your website&apos;s security measures, including making sure your
+                                                CMS and plugins have the latest security patches, enabling HTTPS with an SSL certificate,
+                                                implementing strong passwords, and considering additional security measures such as a web
+                                                application firewall.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                {/* Scan for Malware */}
+                                <div className="col-lg-4">
+                                    <div
+                                        className="h-100 p-5 d-flex flex-column justify-content-between"
+                                        style={{ backgroundColor: "#000000" }}
+                                    >
+                                        <div>
+                                            <h3
+                                                className="mb-3"
+                                                style={{
+                                                    fontSize: "28px",
+                                                    lineHeight: "1.3",
+                                                    fontWeight: 600,
+                                                    color: "#ffffff",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                Scan for Malware and Vulnerabilities
+                                            </h3>
+                                            <p
+                                                className="mb-0"
+                                                style={{
+                                                    fontSize: "16px",
+                                                    lineHeight: "1.8",
+                                                    color: "#ffffff",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                We run malware scans and security audits to identify any potential threats or
+                                                vulnerabilities. Using security plugins and online scanning tools, we detect malware,
+                                                viruses, and suspicious code injections and take immediate action to resolve them.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            {/* Next Steps Row 3 */}
+                            <div className="row g-3 text-start mt-0">
+                                {/* Optimize Performance */}
+                                <div className="col-lg-4">
+                                    <div
+                                        className="h-100 p-5 d-flex flex-column justify-content-between"
+                                        style={{ backgroundColor: "#f6af1a" }}
+                                    >
+                                        <div>
+                                            <h3
+                                                className="mb-3"
+                                                style={{
+                                                    fontSize: "28px",
+                                                    lineHeight: "1.3",
+                                                    fontWeight: 600,
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                Optimize Performance
+                                            </h3>
+                                            <p
+                                                className="mb-0"
+                                                style={{
+                                                    fontSize: "16px",
+                                                    lineHeight: "1.8",
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                We assess your website&apos;s performance and loading speed, optimize images, minify CSS
+                                                and JavaScript files, leverage caching, and use a content delivery network (CDN) if
+                                                necessary. We test your website&apos;s speed on different devices and browsers to ensure a
+                                                smooth experience for all users.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                {/* Update Content */}
+                                <div className="col-lg-4">
+                                    <div
+                                        className="h-100 p-5 d-flex flex-column justify-content-between"
+                                        style={{ backgroundColor: "#000000" }}
+                                    >
+                                        <div>
+                                            <h3
+                                                className="mb-3"
+                                                style={{
+                                                    fontSize: "28px",
+                                                    lineHeight: "1.3",
+                                                    fontWeight: 600,
+                                                    color: "#ffffff",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                Update Content
+                                            </h3>
+                                            <p
+                                                className="mb-0"
+                                                style={{
+                                                    fontSize: "16px",
+                                                    lineHeight: "1.8",
+                                                    color: "#ffffff",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                We regularly review and update the content of your website&mdash;adding new blog posts,
+                                                updating product or service information, removing outdated content, and refreshing images
+                                                or videos&mdash;to keep everything accurate, relevant, and engaging for your target
+                                                audience.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                {/* Monitor Analytics */}
+                                <div className="col-lg-4">
+                                    <div
+                                        className="h-100 p-5 d-flex flex-column justify-content-between"
+                                        style={{ backgroundColor: "#f6af1a" }}
+                                    >
+                                        <div>
+                                            <h3
+                                                className="mb-3"
+                                                style={{
+                                                    fontSize: "28px",
+                                                    lineHeight: "1.3",
+                                                    fontWeight: 600,
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                Monitor Analytics
+                                            </h3>
+                                            <p
+                                                className="mb-0"
+                                                style={{
+                                                    fontSize: "16px",
+                                                    lineHeight: "1.8",
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                We regularly analyze your website&apos;s performance using tools like Google Analytics.
+                                                Reviewing key metrics such as traffic sources, page views, bounce rates, and conversions
+                                                helps identify trends, track user behavior, and gather insights to make data-driven
+                                                decisions.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            {/* Next Steps Row 4 */}
+                            <div className="row g-3 text-start mt-0">
+                                {/* Test Responsiveness */}
+                                <div className="col-lg-4">
+                                    <div
+                                        className="h-100 p-5 d-flex flex-column justify-content-between"
+                                        style={{ backgroundColor: "#f6af1a" }}
+                                    >
+                                        <div>
+                                            <h3
+                                                className="mb-3"
+                                                style={{
+                                                    fontSize: "28px",
+                                                    lineHeight: "1.3",
+                                                    fontWeight: 600,
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                Test Responsiveness
+                                            </h3>
+                                            <p
+                                                className="mb-0"
+                                                style={{
+                                                    fontSize: "16px",
+                                                    lineHeight: "1.8",
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                We check your website&apos;s responsiveness across devices, screen sizes, and browsers to
+                                                ensure it displays and functions properly on desktops, laptops, tablets, and mobile
+                                                devices, paying attention to touch interactions and mobile-specific features.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                {/* User Experience Evaluation */}
+                                <div className="col-lg-4">
+                                    <div
+                                        className="h-100 p-5 d-flex flex-column justify-content-between"
+                                        style={{ backgroundColor: "#f6af1a" }}
+                                    >
+                                        <div>
+                                            <h3
+                                                className="mb-3"
+                                                style={{
+                                                    fontSize: "28px",
+                                                    lineHeight: "1.3",
+                                                    fontWeight: 600,
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                User Experience Evaluation
+                                            </h3>
+                                            <p
+                                                className="mb-0"
+                                                style={{
+                                                    fontSize: "16px",
+                                                    lineHeight: "1.8",
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                We continuously assess and improve the user experience (UX) of your website through user
+                                                testing, feedback, and design adjustments that enhance navigation, readability,
+                                                accessibility, and overall design.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                {/* Review Legal Compliance */}
+                                <div className="col-lg-4">
+                                    <div
+                                        className="h-100 p-5 d-flex flex-column justify-content-between"
+                                        style={{ backgroundColor: "#000000" }}
+                                    >
+                                        <div>
+                                            <h3
+                                                className="mb-3"
+                                                style={{
+                                                    fontSize: "28px",
+                                                    lineHeight: "1.3",
+                                                    fontWeight: 600,
+                                                    color: "#ffffff",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                Review Legal Compliance
+                                            </h3>
+                                            <p
+                                                className="mb-0"
+                                                style={{
+                                                    fontSize: "16px",
+                                                    lineHeight: "1.8",
+                                                    color: "#ffffff",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                We ensure your website complies with applicable laws and regulations by reviewing your
+                                                privacy policy, terms of service, and cookie policy to keep them up to date and aligned
+                                                with data protection regulations such as GDPR or CCPA.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            {/* Final Steps Row 5 */}
+                            <div className="row g-3 text-start mt-0">
+                                {/* Monitor Website Uptime */}
+                                <div className="col-lg-6">
+                                    <div
+                                        className="h-100 p-5 d-flex flex-column justify-content-between"
+                                        style={{ backgroundColor: "#f6af1a" }}
+                                    >
+                                        <div>
+                                            <h3
+                                                className="mb-3"
+                                                style={{
+                                                    fontSize: "28px",
+                                                    lineHeight: "1.3",
+                                                    fontWeight: 600,
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                Monitor Website Uptime
+                                            </h3>
+                                            <p
+                                                className="mb-0"
+                                                style={{
+                                                    fontSize: "16px",
+                                                    lineHeight: "1.8",
+                                                    color: "#000",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                We utilize website monitoring tools or services to track your website&apos;s uptime and
+                                                receive alerts in the event of any downtime, addressing issues promptly to minimize
+                                                disruptions and provide a seamless user experience.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                {/* Stay Updated */}
+                                <div className="col-lg-6">
+                                    <div
+                                        className="h-100 p-5 d-flex flex-column justify-content-between"
+                                        style={{ backgroundColor: "#000000" }}
+                                    >
+                                        <div>
+                                            <h3
+                                                className="mb-3"
+                                                style={{
+                                                    fontSize: "28px",
+                                                    lineHeight: "1.3",
+                                                    fontWeight: 600,
+                                                    color: "#ffffff",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                Stay Updated
+                                            </h3>
+                                            <p
+                                                className="mb-0"
+                                                style={{
+                                                    fontSize: "16px",
+                                                    lineHeight: "1.8",
+                                                    color: "#ffffff",
+                                                    fontFamily: "inherit",
+                                                }}
+                                            >
+                                                We stay informed about the latest trends, technologies, and security practices related to
+                                                website maintenance and upkeep by following reputable sources and participating in industry
+                                                forums and communities.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                     <div className="text-center mt-7 px-3">
                         <p>
-                            Let’s talk if you have any subject you have.
+                            Let's talk if you have any subject you have.
                             <Link href="/contact" className="fw-bold">
                                 Get In Touch
                             </Link>
                         </p>
                     </div>
-                </div>
+                    </div>
             </section>
         </>
     );

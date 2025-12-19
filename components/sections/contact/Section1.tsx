@@ -54,11 +54,11 @@ export default function Section1() {
                                     <div className="d-flex flex-column mt-3 gap-2 mb-4">
                                         <Link href="#" className="fs-7">
                                             <i className="ri-mail-open-line text-primary" />
-                                            <span className="@@color-text"> &nbsp; info@astrax.com </span>
+                                            <span className="@@color-text"> &nbsp; Email: contact@xzect.com </span>
                                         </Link>
                                         <Link href="telto:(123) 456 789 00" className="fs-7">
                                             <i className="ri-phone-line text-primary" />
-                                            <span className="@@color-text"> +(123) 456 789 00 </span>
+                                            <span className="@@color-text"> Contact: +91 98188 06393 </span>
                                         </Link>
                                     </div>
                                     <Link href="#" className="text-decoration-underline text-uppercase">
@@ -84,11 +84,11 @@ export default function Section1() {
                                     <div className="d-flex flex-column mt-3 gap-2 mb-4">
                                         <Link href="#" className="fs-7">
                                             <i className="ri-mail-open-line text-primary" />
-                                            <span className="@@color-text"> &nbsp; info@astrax.com </span>
+                                            <span className="@@color-text"> &nbsp; Email: contact@xzect.com </span>
                                         </Link>
                                         <Link href="telto:(123) 456 789 00" className="fs-7">
                                             <i className="ri-phone-line text-primary" />
-                                            <span className="@@color-text"> +(123) 456 789 00 </span>
+                                            <span className="@@color-text"> Contact: +91 98188 06393 </span>
                                         </Link>
                                     </div>
                                     <Link href="#" className="text-decoration-underline text-uppercase">

@@ -26,10 +26,10 @@ export default function Section8() {
                                     </div>
                                     <h6 className="mt-5 mb-3 fs-20">Phone &amp; Email</h6>
                                     <Link href="telto:(123) 456 789 00">
-                                        <p className="mb-0">+(123) 456 789 00</p>
+                                        <p className="mb-0">Contact: +91 98188 06393</p>
                                     </Link>
                                     <Link href="#">
-                                        <p className="mb-0">info@astrax.com</p>
+                                        <p className="mb-0">Email: contact@xzect.com</p>
                                     </Link>
                                 </div>
                                 <div className="wow fadeInUp2" data-wow-delay=".8s">

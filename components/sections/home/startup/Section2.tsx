@@ -23,7 +23,7 @@ export default function Section2() {
                                             />
                                         </svg>
                                         <h1 className="count mb-0 mt-5">
-                                            <span className="odometer text-nowrap" data-count={6428} />
+                                            <span className="odometer text-nowrap" data-count={1428} />
                                         </h1>
                                         <p className="mb-0">Project completed</p>
                                     </div>
@@ -31,9 +31,9 @@ export default function Section2() {
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-12 mt-lg-0 mt-md-8 mt-3">
-                            <span className="text-primary">Since from 2000</span>
+                            <span className="text-primary">Since from 2020</span>
                             <h2 className="text-dark my-3 text-anime-style-2">We serve quality service around the world</h2>
-                            <p className="wow img-custom-anim-top">We offer a wide range of digital marketing services that cater to business of all sizes. A forward-thinking and clever approach to maintaining sales tax compliance amidst the digital era.</p>
+                            <p className="wow img-custom-anim-top">We offer comprehensive digital solutions for businesses of all sizes, delivering modern UI/UX redesigns, speed and performance optimization, seamless mobile responsiveness, and SEO-optimized website structures to drive growth in the digital era.</p>
                             <div className="d-flex flex-column mt-8">
                                 <div className="d-flex align-items-center gap-md-4 gap-3 border-bottom pb-4 mb-4">
                                     <div>
@@ -56,7 +56,7 @@ export default function Section2() {
                                         </svg>
                                     </div>
                                     <h2 className="count mb-0">
-                                        <span className="odometer text-nowrap" data-count={43} />
+                                        <span className="odometer text-nowrap" data-count={13} />
                                         k+
                                     </h2>
                                     <p className="mb-0">
@@ -87,7 +87,7 @@ export default function Section2() {
                                     </h2>
                                     <p className="mb-0">
                                         Chats <br className="d-block" />
-                                        in Last 2002
+                                        in Last 2020
                                     </p>
                                     <Link href="#" className="icon-shape icon-xl rounded-circle border mt-3 ms-auto hover-up">
                                         <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">

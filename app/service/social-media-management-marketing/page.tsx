@@ -5,6 +5,7 @@ import Section4 from "@/components/sections/home/insurance-consultancy/Section4"
 import Section5 from "@/components/sections/home/insurance-consultancy/Section5";
 import Section6 from "@/components/sections/home/insurance-consultancy/Section6";
 import Section7 from "@/components/sections/home/insurance-consultancy/Section7";
+import Section8 from "@/components/sections/home/insurance-consultancy/Section8";
 export default function Home() {
     return (
         <>
@@ -15,10 +16,12 @@ export default function Home() {
                 <Section5 />
                 <Section6 />
                 <Section7 />
+                <Section8 />
             </Layout>
         </>
     );
 }
+
 
 
 

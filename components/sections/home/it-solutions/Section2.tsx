@@ -39,8 +39,7 @@ export default function Section2() {
                                     <div className="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab" tabIndex={0}>
                                         <div className="wow img-custom-anim-left">
                                             <h2 className="text-anime-style-1">
-                                                Our team of digital marketing experts <br />
-                                                is dedicated to empowering businesses to thrive basis online.
+                                            Our team of web technology experts is dedicated  to empowering businesses to succeed online
                                             </h2>
                                             <div className="d-flex flex-lg-row flex-column align-items-center justify-content-center gap-5 pt-60">
                                                 <img className="rounded-4" data-aos="flip-right" src="/assets/img/it-solutions-img/pages/it-solutions/page-home/home-section-2/img-1.png" alt="AstraX" />

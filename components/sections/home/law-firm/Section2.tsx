@@ -50,21 +50,13 @@ export default function Section2() {
 						<div className="col-lg-8">
 							<div className="position-relative">
 								<h2 className="text-dark text-anime-style-3">
-									Our team of <span className="text-primary">data</span> analyst
-									experts is dedicated to empowering
+								Our expert team delivers WordPress customization, custom themes, CMS development, and secure website migrations  <span className="text-primary">to build </span> 
+								powerful, scalable, and 
 									<strong className="text-primary text-decoration-underline">
-										businesses
+									performance-driven 
 									</strong>
-									to <span className="text-primary">thrive</span> basis online.
+									to <span className="text-primary"> digital</span> solutions.
 								</h2>
-								<div className="position-absolute top-0 end-0 translate-middle-y d-none d-lg-block">
-									<img
-										data-aos="zoom-in"
-										data-aos-delay={800}
-										src="/assets/img/law-firm-img/pages/law-firm/page-home/home-section-2/img-1.png"
-										alt="AstraX"
-									/>
-								</div>
 							</div>
 						</div>
 					</div>
@@ -90,9 +82,7 @@ export default function Section2() {
 										Success <strong>rate</strong>
 									</h4>
 									<p>
-										We offer a wide range of digital marketing services that cater
-										to business of all sizes. A forward-thinking and clever
-										approach.
+									We provide complete web design, development, and optimization services tailored for businesses of all sizes, using smart strategies and modern technologies to drive growth..
 									</p>
 									<Link
 										href="/contact"
@@ -115,7 +105,7 @@ export default function Section2() {
 										</span>
 									</Link>
 									<Link href="" className="btn">
-										<span className="text-dark">info@astrax.com</span>
+										<span className="text-dark">Email: contact@xzect.com</span>
 									</Link>
 								</div>
 							</div>

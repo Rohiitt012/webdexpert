@@ -31,10 +31,10 @@ export default function Section1() {
                 <div className="info-group position-absolute top-50 start-0 translate-middle-y d-none d-md-block">
                     <div className="d-flex align-items-center justify-content-center gap-4 rotate-90">
                         <Link href="#" className="fs-7 text-white">
-                            info@astrax.com
+                            Email: contact@xzect.com
                         </Link>
                         <Link href="telto:(123) 456 789 00" className="fs-7 text-white">
-                            +(123) 456 789 00
+                            Contact: +91 98188 06393
                         </Link>
                     </div>
                 </div>

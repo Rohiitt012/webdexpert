@@ -177,7 +177,7 @@ export default function Section3({ display, title1, title2, background }: any) {
             <div className={`${display}`}>
                 <div className="py-4 wow img-custom-anim-left overflow-hidden d-none d-lg-block border-bottom">
                     <div className="scroll-move-left">
-                        <h1 className="fs-200 text-nowrap mb-0">Enhancing efficiency &amp; reducing major emissions</h1>
+                        <h1 className="fs-200 text-nowrap mb-0">Reducing major emissions</h1>
                     </div>
                 </div>
             </div>

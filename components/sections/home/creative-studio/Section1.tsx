@@ -26,9 +26,9 @@ export default function Section1() {
             <section className="creative-studio-section-1 pt-120 overflow-hidden">
                 <div className="container">
                     <div className="wow img-custom-anim-left pb-5">
-                        <span className="fs-200 fw-bold mb-0 lh-1 text-dark">Creative</span>
+                        <span className="fs-120 fw-bold mb-0 lh-1 text-dark">Branding, Graphics</span>
                         <div className="d-flex flex-wrap align-items-center gap-4">
-                            <strong className="text-primary fs-200 lh-1">Studio</strong>
+                            <strong className="text-primary fs-120 lh-1">Content</strong>
                             <div className="btn-switch position-relative" data-background="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-1/img-bg.png">
                                 <div className="position-absolute top-50 start-100 translate-middle me-5 pb-8">
                                     <div className="icon-shape icon-80 rounded-circle bg-primary" />

@@ -112,10 +112,10 @@ export default function Section8() {
                         <p className="text-white py-3">Get a free consultation</p>
                         <div className="d-flex align-items-center flex-wrap gap-4 justify-content-center">
                             <Link href="#" data-aos="fade-up" data-aos-delay={200} className="btn btn-white">
-                                info@astrax.com
+                                Email: contact@xzect.com
                             </Link>
                             <Link href="#" data-aos="fade-up" data-aos-delay={400} className="btn btn-dark">
-                                +(123) 456 789 00
+                                Contact: +91 98188 06393
                             </Link>
                         </div>
                     </div>

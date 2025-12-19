@@ -37,9 +37,9 @@ export default function Section6() {
                                         </svg>
                                     </div>
                                     <Link href="#">
-                                        <h6 className="mt-5 mb-3 fs-20">info@astrax.com</h6>
+                                        <h6 className="mt-5 mb-3 fs-20"> contact@xzect.com</h6>
                                     </Link>
-                                    <p className="mb-0">Media strategy encapsulates your intentions.</p>
+                                    <p className="mb-0">Have something to share? Our contact form is the perfect place to send us your thoughts, ideas, or feedback. Our team is always ready to listen and help, so don't hesitate to reach out. Simply fill out the form and we'll get back to you in no time. Thanks for choosing to connect with us!.</p>
                                 </div>
                                 <div data-aos="fade-up" data-aos-delay={400}>
                                     <div className="icon">
@@ -55,7 +55,7 @@ export default function Section6() {
                                         </svg>
                                     </div>
                                     <Link href="telto:(123) 456 789 00">
-                                        <h6 className="mt-5 mb-3 fs-20">+(123) 456 789 00</h6>
+                                        <h6 className="mt-5 mb-3 fs-20">+91 98188 06393</h6>
                                     </Link>
                                     <p className="mb-0">Media strategy encapsulates your intentions.</p>
                                 </div>

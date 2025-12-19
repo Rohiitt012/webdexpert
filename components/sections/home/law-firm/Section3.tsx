@@ -1,7 +1,7 @@
-'use client'
-import { Swiper, SwiperSlide } from "swiper/react"
-import { Autoplay, Navigation, Pagination } from "swiper/modules"
-import Link from 'next/link'
+"use client";
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Autoplay, Navigation, Pagination } from "swiper/modules";
+import Link from "next/link";
 
 const swiperOptions = {
 	modules: [Autoplay, Pagination, Navigation],
@@ -38,8 +38,8 @@ const swiperOptions = {
 			slidesPerView: 3,
 			spaceBetween: 30,
 		},
-	}
-}
+	},
+};
 
 export default function Section3() {
 	return (
@@ -49,10 +49,10 @@ export default function Section3() {
 				<div className="container">
 					<div className="mb-80 swipper-root">
 						<span className="content-top btn-text text-primary fw-semibold rounded-pill border border-primary px-3 py-2">
-							#01 law firm &amp; agency
+						WordPress &amp; & CMS Development
 						</span>
 						<h2 className="text-white mt-3 text-anime-style-2">
-							Law firm expertise
+						WordPress Setup & Customization
 						</h2>
 					</div>
 				</div>
@@ -132,11 +132,10 @@ export default function Section3() {
 											/>
 										</svg>
 										<h6 className="text-white mt-auto">
-											Corporate <strong>law service</strong>
+										Custom Themes <strong> & Plugins</strong>
 										</h6>
 										<p className="text-white text-opacity-75 mb-4">
-											We offer a wide range of digital marketing <br />
-											services that cater.
+										Professionally developed themes and plugins tailored <br /> for security and scalability.
 										</p>
 										<Link href="#" className="text-white text-opacity-50 btn-text">
 
@@ -217,11 +216,10 @@ export default function Section3() {
 											/>
 										</svg>
 										<h6 className="text-white mt-auto">
-											Corporate <strong>law service</strong>
+										Webflow <strong>CMS Development</strong>
 										</h6>
 										<p className="text-white text-opacity-75 mb-4">
-											We offer a wide range of digital marketing <br />
-											services that cater.
+										Professional Webflow and CMS development for <br /> scalable, responsive digital platforms.
 										</p>
 										<Link href="#" className="text-white text-opacity-50 btn-text">
 
@@ -321,14 +319,12 @@ export default function Section3() {
 											</defs>
 										</svg>
 										<h6 className="text-white mt-auto">
-											Intellectual <strong>property</strong>
+										Migration &  <strong>Security Optimization</strong>
 										</h6>
 										<p className="text-white text-opacity-75 mb-4">
-											We offer a wide range of digital marketing <br />
-											services that cater.
+										Professional website migration with <br />advanced security and performance optimization.
 										</p>
 										<Link href="#" className="text-white text-opacity-50 btn-text">
-
 											read more
 										</Link>
 									</div>
@@ -426,11 +422,10 @@ export default function Section3() {
 											/>
 										</svg>
 										<h6 className="text-white mt-auto">
-											Corporate <strong>defense</strong>
+										WordPress Setup  <strong>& Customization</strong>
 										</h6>
 										<p className="text-white text-opacity-75 mb-4">
-											We offer a wide range of digital marketing <br />
-											services that cater.
+										Professional WordPress setup customized for <br /> performance, scalability, and business requirements.
 										</p>
 										<Link href="#" className="text-white text-opacity-50 btn-text">
 											read more

@@ -8,8 +8,8 @@ export default function Section1() {
                 <div className="container position-relative z-1">
                     <div className="row align-items-center">
                         <div className="col-lg-5 col-md-12">
-                            <span className="text-primary">Hi there! Welcome to astrax</span>
-                            <h1 className="text-dark my-3 text-anime-style-2">We empower brands to reach full potential.</h1>
+                            <span className="text-primary">Website Redesign & Optimization</span>
+                            <h1 className="text-dark my-3 text-anime-style-2">Modern Design with Optimized <br /> Performance.</h1>
                             <Link href="/contact" className="btn btn-primary mt-4 hover-up">
                                 <span>Get Started</span>
                                 <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">

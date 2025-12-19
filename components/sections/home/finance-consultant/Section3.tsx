@@ -61,7 +61,7 @@ export default function Section3() {
                                     </div>
                                     <div>
                                         <p className="mb-0">Get Support:</p>
-                                        <p className="text-dark fw-bold mb-0">+(123) 456 789 00</p>
+                                        <p className="text-dark fw-bold mb-0">Contact: +91 98188 06393</p>
                                     </div>
                                 </Link>
                             </div>

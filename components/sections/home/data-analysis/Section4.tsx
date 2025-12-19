@@ -14,10 +14,10 @@ export default function Section4() {
                                     <h2 className="text-anime-style-1">Hire us for your next-gen data analysis project.</h2>
                                     <p className="py-4">Let’s talk today &amp; asap</p>
                                     <Link href="#" className="btn btn-primary hover-up">
-                                        info@astrax.com
+                                        Email: contact@xzect.com
                                     </Link>
                                     <Link href="telto:(123) 456 789 00" className="btn btn-outline-dark ms-md-3 mt-md-0 mt-3 hover-up">
-                                        +(123) 456 789 00
+                                        Contact: +91 98188 06393
                                     </Link>
                                 </div>
                                 <div className="col-lg-6">

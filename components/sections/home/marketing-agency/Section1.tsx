@@ -51,11 +51,11 @@ export default function Section1() {
                         <div className="socials rotate-90 bg-white px-3 py-2 gap-4 rounded-pill d-inline-flex d-flex align-items-center justify-content-center">
                             <Link href="#" className="fs-7">
                                 <i className="ri-mail-open-line text-primary" />
-                                <span className="@@color-text"> &nbsp; info@astrax.com </span>
+                                <span className="@@color-text"> &nbsp; Email: contact@xzect.com </span>
                             </Link>
                             <Link href="telto:(123) 456 789 00" className="fs-7">
                                 <i className="ri-phone-line text-primary" />
-                                <span className="@@color-text"> +(123) 456 789 00 </span>
+                                <span className="@@color-text"> Contact: +91 98188 06393 </span>
                             </Link>
                         </div>
                     </div>

@@ -80,6 +80,366 @@ export default function Section3() {
                     </div>
                 </div>
             </section>
+
+            {/* hosting types cards section */}
+            <section className="it-solutions-home-section-3-hosting position-relative overflow-hidden pt-120 pb-120 bg-white">
+                <div className="container position-relative z-1">
+                    <div className="row g-4">
+                        {/* WordPress hosting */}
+                        <div className="col-xl-3 col-md-6">
+                            <div className="h-100 border rounded-4 p-4 p-lg-5 bg-white">
+                                <div className="d-flex align-items-center mb-4">
+                                    <div className="icon-shape icon-60 rounded-circle bg-primary-subtle d-flex align-items-center justify-content-center me-3">
+                                        <i className="bi bi-wordpress text-primary fs-3" />
+                                    </div>
+                                    <div>
+                                        <h5 className="mb-0 text-dark">WordPress</h5>
+                                        <p className="mb-0 fw-semibold text-dark">hosting</p>
+                                    </div>
+                                </div>
+                                <p className="text-muted mb-4">Build and host your site on WordPress in minutes.</p>
+                                <ul className="list-unstyled text-muted mb-4">
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Free domain 1st year
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Free SSL
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Lightning-fast load times
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        99.99% uptime
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Free AI Builder
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Free site migration
+                                    </li>
+                                    <li>
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Expert WordPress support
+                                    </li>
+                                </ul>
+                                <button type="button" className="btn btn-outline-primary w-100">
+                                    Learn More
+                                </button>
+                            </div>
+                        </div>
+
+                        {/* VPS hosting */}
+                        <div className="col-xl-3 col-md-6">
+                            <div className="h-100 border rounded-4 p-4 p-lg-5 bg-white">
+                                <div className="d-flex align-items-center mb-4">
+                                    <div className="icon-shape icon-60 rounded-circle bg-primary-subtle d-flex align-items-center justify-content-center me-3">
+                                        <i className="bi bi-hdd-network-fill text-primary fs-3" />
+                                    </div>
+                                    <div>
+                                        <h5 className="mb-0 text-dark">VPS</h5>
+                                        <p className="mb-0 fw-semibold text-dark">hosting</p>
+                                    </div>
+                                </div>
+                                <p className="text-muted mb-4">Take charge with a VPS plan for better storage and flexibility.</p>
+                                <ul className="list-unstyled text-muted mb-4">
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Free cPanel available
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Lightning fast speed
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        99.99% uptime
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Unlimited bandwidth
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Full root access
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        1-click installs
+                                    </li>
+                                    <li>
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Managed &amp; self‑managed options
+                                    </li>
+                                </ul>
+                                <button type="button" className="btn btn-outline-primary w-100">
+                                    Learn More
+                                </button>
+                            </div>
+                        </div>
+
+                        {/* WooCommerce hosting */}
+                        <div className="col-xl-3 col-md-6">
+                            <div className="h-100 border rounded-4 p-4 p-lg-5 bg-white">
+                                <div className="d-flex align-items-center mb-4">
+                                    <div className="icon-shape icon-60 rounded-circle bg-primary-subtle d-flex align-items-center justify-content-center me-3">
+                                        <i className="bi bi-cart-check-fill text-primary fs-3" />
+                                    </div>
+                                    <div>
+                                        <h5 className="mb-0 text-dark">WooCommerce</h5>
+                                        <p className="mb-0 fw-semibold text-dark">hosting</p>
+                                    </div>
+                                </div>
+                                <p className="text-muted mb-4">Seamlessly integrate WooCommerce and bundle store plugins.</p>
+                                <ul className="list-unstyled text-muted mb-4">
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Includes premium plugins
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Secure payment processing
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Lightning-fast load times
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        99.99% uptime
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Enterprise‑grade security
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Free AI Builder
+                                    </li>
+                                    <li>
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        SEO tools &amp; expert support
+                                    </li>
+                                </ul>
+                                <button type="button" className="btn btn-outline-primary w-100">
+                                    Learn More
+                                </button>
+                            </div>
+                        </div>
+
+                        {/* Professional service */}
+                        <div className="col-xl-3 col-md-6">
+                            <div className="h-100 border rounded-4 p-4 p-lg-5 bg-white">
+                                <div className="d-flex align-items-center mb-4">
+                                    <div className="icon-shape icon-60 rounded-circle bg-primary-subtle d-flex align-items-center justify-content-center me-3">
+                                        <i className="bi bi-headset text-primary fs-3" />
+                                    </div>
+                                    <div>
+                                        <h5 className="mb-0 text-dark">Professional</h5>
+                                        <p className="mb-0 fw-semibold text-dark">service</p>
+                                    </div>
+                                </div>
+                                <p className="text-muted mb-4">Tailor‑made WordPress site with expert SEO setup, updates and support.</p>
+                                <ul className="list-unstyled text-muted mb-4">
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Lightning-fast load times
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        100% uptime
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Hands‑on website design
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Ongoing website marketing
+                                    </li>
+                                    <li className="mb-2">
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        On‑demand website assessments
+                                    </li>
+                                    <li>
+                                        <i className="bi bi-check-lg text-success me-2" />
+                                        Live WordPress expertise
+                                    </li>
+                                </ul>
+                                <button type="button" className="btn btn-outline-primary w-100">
+                                    Learn More
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            {/* pricing plans section */}
+            <section className="it-solutions-home-section-3-pricing position-relative overflow-hidden pt-120 pb-120 bg-white">
+                <div className="container position-relative z-1">
+                    <div className="row justify-content-center">
+                        <div className="col-xl-8 text-center mb-5">
+                            <h2 className="text-dark display-5 mb-3">Choose the plan to build your brand</h2>
+                            <div className="d-inline-flex align-items-center px-2 py-1 rounded-pill border border-primary-subtle bg-light">
+                                <button type="button" className="btn btn-primary rounded-pill px-4 py-2 me-1">
+                                    STANDARD
+                                </button>
+                                <button type="button" className="btn btn-light rounded-pill px-4 py-2 text-primary">
+                                    ADVANCED
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="row g-4 align-items-stretch">
+                        {/* Starter plan */}
+                        <div className="col-xl-4">
+                            <div className="h-100 border rounded-4 p-4 p-lg-5 bg-white">
+                                <h4 className="text-dark mb-2">Starter</h4>
+                                <p className="text-muted mb-4">Made for a simple website or blog</p>
+                                <div className="d-flex align-items-baseline mb-2">
+                                    <span className="fs-1 fw-bold text-dark">$3.99</span>
+                                    <span className="ms-1 text-dark">/mo</span>
+                                </div>
+                                <p className="text-muted mb-1">For 36 month term</p>
+                                <p className="text-muted mb-3">Renews at $9.99/mo</p>
+                                <span className="badge bg-success mb-4">Save 60%</span>
+                                <button type="button" className="btn btn-primary w-100 mb-4">
+                                    Choose Plan
+                                </button>
+                                <div className="text-start small text-muted">
+                                    <p className="fw-semibold text-primary mb-1">Websites &amp; Hosting</p>
+                                    <ul className="list-unstyled mb-3">
+                                        <li>10 Websites</li>
+                                        <li>10 GB NVMe Storage</li>
+                                        <li>Ideal for 40K visits/mo</li>
+                                    </ul>
+                                    <p className="fw-semibold text-primary mb-1">Security</p>
+                                    <ul className="list-unstyled mb-3">
+                                        <li>Free SSL - Let's Encrypt</li>
+                                        <li>Free Malware Scanning</li>
+                                        <li>Web Application Firewall</li>
+                                        <li>DDoS Protection Included</li>
+                                        <li>Weekly Website Backups</li>
+                                    </ul>
+                                    <p className="fw-semibold text-primary mb-1">Marketing</p>
+                                    <ul className="list-unstyled mb-0">
+                                        <li>Yoast SEO - Free Plugin</li>
+                                        <li>Pro Email - Free Trial</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* Business plan (recommended) */}
+                        <div className="col-xl-4">
+                            <div className="h-100 border border-primary rounded-4 p-4 p-lg-5 bg-primary text-white position-relative shadow-sm">
+                                <div className="position-absolute top-0 start-50 translate-middle-x mt-0">
+                                    <span className="badge bg-white text-primary rounded-pill px-3 py-2 fw-semibold">
+                                        RECOMMENDED
+                                    </span>
+                                </div>
+                                <div className="mt-4 pt-3">
+                                    <h4 className="mb-2">Business</h4>
+                                    <p className="mb-4">Ideal for multiple sites needing storage, security, + backups</p>
+                                    <div className="d-flex align-items-baseline mb-2">
+                                        <span className="fs-1 fw-bold">$6.99</span>
+                                        <span className="ms-1">/mo</span>
+                                    </div>
+                                    <p className="mb-1">For 36 month term</p>
+                                    <p className="mb-3">Renews at $13.99/mo</p>
+                                    <span className="badge bg-success mb-4">Save 50%</span>
+                                    <button type="button" className="btn btn-light text-primary w-100 mb-4">
+                                        Choose Plan
+                                    </button>
+                                    <div className="text-start small">
+                                        <p className="fw-semibold mb-1">Websites &amp; Hosting</p>
+                                        <ul className="list-unstyled mb-3">
+                                            <li>50 Websites</li>
+                                            <li>50 GB NVMe Storage</li>
+                                            <li>Ideal for 200K visits/mo</li>
+                                        </ul>
+                                        <p className="fw-semibold mb-1">Security</p>
+                                        <ul className="list-unstyled mb-3">
+                                            <li>Free SSL - Let's Encrypt</li>
+                                            <li>Free Malware Scanning</li>
+                                            <li>Malware Detection/Removal</li>
+                                            <li>Web Application Firewall</li>
+                                            <li>DDoS Protection Included</li>
+                                            <li>Weekly Website Backups</li>
+                                        </ul>
+                                        <p className="fw-semibold mb-1">Marketing</p>
+                                        <ul className="list-unstyled mb-3">
+                                            <li>Yoast SEO - Free Plugin</li>
+                                            <li>Pro Email - Free Trial</li>
+                                        </ul>
+                                        <p className="fw-semibold mb-1">Advanced</p>
+                                        <ul className="list-unstyled mb-0">
+                                            <li>Static Content Caching</li>
+                                            <li>Object Caching</li>
+                                            <li>SSH &amp; WP-CLI</li>
+                                            <li>WordPress Staging Site</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* eCommerce Essentials plan */}
+                        <div className="col-xl-4">
+                            <div className="h-100 border rounded-4 p-4 p-lg-5 bg-white">
+                                <h4 className="text-dark mb-2">eCommerce Essentials</h4>
+                                <p className="text-muted mb-4">Essential commerce tools to sell your content online</p>
+                                <div className="d-flex align-items-baseline mb-2">
+                                    <span className="fs-1 fw-bold text-dark">$14.99</span>
+                                    <span className="ms-1 text-dark">/mo</span>
+                                </div>
+                                <p className="text-muted mb-1">For 36 month term</p>
+                                <p className="text-muted mb-3">Renews at $21.99/mo</p>
+                                <span className="badge bg-success mb-4">Save 32%</span>
+                                <button type="button" className="btn btn-primary w-100 mb-4">
+                                    Choose Plan
+                                </button>
+                                <div className="text-start small text-muted">
+                                    <p className="fw-semibold text-primary mb-1">Websites &amp; Hosting</p>
+                                    <ul className="list-unstyled mb-3">
+                                        <li>100 Websites</li>
+                                        <li>100 GB NVMe Storage</li>
+                                        <li>Ideal for 400K visits/mo</li>
+                                    </ul>
+                                    <p className="fw-semibold text-primary mb-1">Commerce Tools</p>
+                                    <ul className="list-unstyled mb-3">
+                                        <li>Secure Payment Processing</li>
+                                        <li>WooCommerce Auto‑Install</li>
+                                        <li>Product Subscriptions</li>
+                                        <li>Visitor Memberships</li>
+                                        <li>Offer Paid Courses</li>
+                                        <li>Affiliate Program</li>
+                                    </ul>
+                                    <p className="fw-semibold text-primary mb-1">Security</p>
+                                    <ul className="list-unstyled mb-3">
+                                        <li>Free SSL - Let's Encrypt</li>
+                                        <li>Free Malware Scanning</li>
+                                        <li>Web Application Firewall</li>
+                                        <li>DDoS Protection Included</li>
+                                        <li>Weekly Website Backups</li>
+                                    </ul>
+                                    <p className="fw-semibold text-primary mb-1">Marketing</p>
+                                    <ul className="list-unstyled mb-0">
+                                        <li>Yoast SEO - Free Plugin</li>
+                                        <li>Pro Email - Free Trial</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </>
     );
 }

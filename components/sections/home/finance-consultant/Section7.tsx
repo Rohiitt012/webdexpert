@@ -31,8 +31,8 @@ export default function Section7() {
                                                 <h6 className="mt-5 mb-3 fs-20 text-white">Phone &amp; Email</h6>
                                             </Link>
                                             <p className="mb-0 text-white text-opacity-50">
-                                                +(123) 456 789 00 <br />
-                                                info@astrax.com
+                                                Contact: +91 98188 06393 <br />
+                                                Email: contact@xzect.com
                                             </p>
                                         </div>
                                         <div data-aos="fade-up" data-aos-delay={600}>

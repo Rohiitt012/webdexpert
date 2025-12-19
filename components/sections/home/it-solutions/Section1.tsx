@@ -18,8 +18,7 @@ export default function Section1() {
                         <div className="col-lg-5 col-md-12">
                             <span className="btn-text text-white">quality service provider</span>
                             <h1 className="text-white my-3 text-anime-style-3">
-                                Top #01 IT <br />
-                                Solution Agency
+                            Complete Web Hosting, Domain & SSL Solutions
                             </h1>
                             <ul className="list-unstyled">
                                 <li className="d-flex align-items-center mb-3 gap-3" data-aos="fade-left" data-aos-delay={200}>
@@ -31,7 +30,7 @@ export default function Section1() {
                                             <path d="M9.77752 0.654773C9.54873 0.426023 9.17771 0.426023 8.94893 0.654812L3.77475 5.82899L1.05104 3.10528C0.822246 2.87649 0.45123 2.87649 0.222402 3.10528C-0.00642578 3.33407 -0.00642578 3.70509 0.222402 3.93391L3.36041 7.07192C3.47482 7.18634 3.62478 7.24352 3.77471 7.24352C3.92463 7.24352 4.07463 7.1863 4.189 7.07192L9.77752 1.48341C10.0063 1.25462 10.0063 0.883601 9.77752 0.654773Z" fill="white" />
                                         </svg>
                                     </div>
-                                    <p className="mb-0 text-white">Run loyalty program to reward customers</p>
+                                    <p className="mb-0 text-white">Access world-class productivity tools including a professional email address featuring your domain</p>
                                 </li>
                                 <li className="d-flex align-items-center mb-3 gap-3" data-aos="fade-left" data-aos-delay={400}>
                                     <div className="position-relative">
@@ -42,7 +41,7 @@ export default function Section1() {
                                             <path d="M9.77752 0.654773C9.54873 0.426023 9.17771 0.426023 8.94893 0.654812L3.77475 5.82899L1.05104 3.10528C0.822246 2.87649 0.45123 2.87649 0.222402 3.10528C-0.00642578 3.33407 -0.00642578 3.70509 0.222402 3.93391L3.36041 7.07192C3.47482 7.18634 3.62478 7.24352 3.77471 7.24352C3.92463 7.24352 4.07463 7.1863 4.189 7.07192L9.77752 1.48341C10.0063 1.25462 10.0063 0.883601 9.77752 0.654773Z" fill="white" />
                                         </svg>
                                     </div>
-                                    <p className="mb-0 text-white">Keep notes on valuable customer preferences</p>
+                                    <p className="mb-0 text-white">Reliable infrastructure including hosting, domains, SSL, and business emails.</p>
                                 </li>
                             </ul>
                             <Link href="/contact" className="btn btn-white mt-4" data-aos="zoom-in">
@@ -77,7 +76,7 @@ export default function Section1() {
                                         <path d="M46.7458 32.7843C46.0865 32.5569 45.5879 32.0102 45.4221 31.3328C45.2564 30.6553 45.4463 29.9401 45.9262 29.4341C47.4172 27.8783 46.123 25.2541 43.9711 25.4954C42.8604 25.6146 41.8582 24.824 41.717 23.716C41.2657 20.8393 37.1312 21.102 37.0508 24.0168V45.983C37.1321 48.8992 41.2661 49.1594 41.717 46.2838C41.8584 45.1758 42.8605 44.3839 43.9711 44.5044C46.1247 44.7453 47.4164 42.1206 45.9262 40.5657C45.4463 40.0597 45.2564 39.3445 45.4221 38.667C45.5878 37.9896 46.0864 37.4429 46.7458 37.2155C48.8384 36.4936 48.8374 33.5056 46.7458 32.7843Z" fill="white" fillOpacity="0.5" />
                                         <path d="M30.6068 21.6743C29.4304 21.6743 28.4314 22.5521 28.283 23.7159C28.1416 24.8239 27.1394 25.6146 26.0289 25.4953C23.8758 25.2543 22.5833 27.8787 24.0738 29.4341C24.5537 29.9401 24.7436 30.6552 24.5779 31.3327C24.4122 32.0101 23.9136 32.5569 23.2542 32.7842C21.1615 33.5061 21.1625 36.4942 23.2542 37.2155C23.9134 37.4429 24.412 37.9896 24.5779 38.6671C24.7436 39.3445 24.5537 40.0597 24.0738 40.5657C22.583 42.1212 23.8764 44.7456 26.0289 44.5044C27.1394 44.384 28.1417 45.1759 28.283 46.2838C28.7343 49.1605 32.8688 48.8979 32.9492 45.983V24.0169C32.9492 22.7251 31.8983 21.6743 30.6068 21.6743Z" fill="white" fillOpacity="0.5" />
                                     </svg>
-                                    <p className="btn-text text-white mb-0 mt-4">ai automation</p>
+                                    <p className="btn-text text-white mb-0 mt-4">Hosting</p>
                                 </div>
                                 <div className="backdrop-filter-20 rounded-3 p-7 position-relative z-1 text-center w-lg-18 w-md-33 w-50 hover-up">
                                     <svg xmlns="http://www.w3.org/2000/svg" width={70} height={70} viewBox="0 0 70 70" fill="none">
@@ -88,7 +87,7 @@ export default function Section1() {
                                             fillOpacity="0.5"
                                         />
                                     </svg>
-                                    <p className="btn-text text-white mb-0 mt-4">data solution</p>
+                                    <p className="btn-text text-white mb-0 mt-4">Domains</p>
                                 </div>
                                 <div className="backdrop-filter-20 rounded-3 p-7 position-relative z-1 text-center w-lg-18 w-md-33 w-50 hover-up">
                                     <svg xmlns="http://www.w3.org/2000/svg" width={64} height={70} viewBox="0 0 64 70" fill="none">
@@ -101,11 +100,11 @@ export default function Section1() {
                                             fill="white"
                                         />
                                     </svg>
-                                    <p className="btn-text text-white mb-0 mt-4">game development</p>
+                                    <p className="btn-text text-white mb-0 mt-4">Servers</p>
                                 </div>
                                 <div className="backdrop-filter-20 rounded-3 p-7 position-relative z-1 text-center w-lg-18 w-md-33 w-50 hover-up">
                                     <img src="/assets/img/it-solutions-img/pages/it-solutions/page-home/home-section-1/icon-phone.svg" alt="AstraX" />
-                                    <p className="btn-text text-white mb-0 mt-4">voip service</p>
+                                    <p className="btn-text text-white mb-0 mt-4">SSL</p>
                                 </div>
                                 <div className="backdrop-filter-20 rounded-3 p-7 position-relative z-1 text-center w-lg-18 w-md-33 w-50 hover-up">
                                     <svg xmlns="http://www.w3.org/2000/svg" width={52} height={70} viewBox="0 0 52 70" fill="none">
@@ -118,7 +117,7 @@ export default function Section1() {
                                             fillOpacity="0.5"
                                         />
                                     </svg>
-                                    <p className="btn-text text-white mb-0 mt-4">app development</p>
+                                    <p className="btn-text text-white mb-0 mt-4">Mail</p>
                                 </div>
                             </div>
                         </div>

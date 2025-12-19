@@ -30,16 +30,16 @@ export default function Section1() {
                     <div className="row swipper-root-1">
                         <div className="col-lg-5 col-md-12">
                             <h1 className="text-dark text-anime-style-3">
-                                We help brands
+                                Website Maintenance
                                 <strong className="position-relative d-md-inline-block">
-                                    <span className="position-relative z-1"> businesses </span>
+                                    <span className="position-relative z-1"> Company<br />&nbsp; &nbsp;</span>
                                     <span className="position-absolute bottom-0 start-0 z-0 d-none d-md-block">
                                         <span className="line1" />
                                     </span>
                                 </strong>
-                                get fast results on
-                                <strong className="position-relative d-md-inline-block">
-                                    <span className="position-relative z-1"> market </span>
+
+                                <strong className="position-relative d-md-inline-block"> <br />
+                                    <span className="position-relative z-1">  In India </span>
                                     <span className="position-absolute bottom-0 start-0 z-0 d-none d-md-block">
                                         <span className="line2" />
                                     </span>
@@ -47,7 +47,7 @@ export default function Section1() {
                             </h1>
                         </div>
                         <div className="col-lg-4 mx-lg-auto">
-                            <p className="text-anime-style-1">Our services include comprehensive financial planning, investment management, retirement planning, tax planning, and more.</p>
+                            <p className="text-anime-style-1">Are you looking for website maintenance services in India? Webdexpert is a leading website maintenance company in India, ensuring your website is optimized for optimal performance  and runs without errors. <br /> <br />Request a website<br /> maintenance quote!</p>
                             <Link href="/contact" className="btn btn-outline-dark mt-6">
                                 <span>let’s talk</span>
                                 <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">

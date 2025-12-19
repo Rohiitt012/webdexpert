@@ -1,4 +1,5 @@
 ﻿import Layout from "@/components/layout/Layout";
+import StatsTicker from "@/components/common/StatsTicker";
 import Section1 from "@/components/sections/home/news-magazine/Section1";
 import Section2 from "@/components/sections/home/news-magazine/Section2";
 import Section3 from "@/components/sections/home/news-magazine/Section3";
@@ -11,6 +12,7 @@ export default function Home() {
         <>
             <Layout theme="news-magazine">
                 <Section1 />
+                <StatsTicker />
                 <Section2 />
                 <Section3 />
                 <Section4 />

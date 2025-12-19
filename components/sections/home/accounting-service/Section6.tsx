@@ -7,7 +7,7 @@ export default function Section6() {
             <section className="accounting-service-home-section-6 position-relative overflow-hidden pb-120">
                 <div className="pb-120 wow img-custom-anim-left mask-image ">
                     <div className="scroll-move-left">
-                        <h1 className="fs-140 text-nowrap mb-0 text-primary">Imposed on individuals &amp; businesses based on their income</h1>
+                        <h1 className="fs-140 text-nowrap mb-0 text-primary">Businesses based on their income</h1>
                     </div>
                 </div>
                 <div className="container position-relative z-1">

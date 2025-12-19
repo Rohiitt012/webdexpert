@@ -107,11 +107,6 @@ export default function Section5() {
 						</div>
 					</div>
 				</div>
-				<div className="scroll-move-left">
-					<strong className="text-primary fs-140 text-nowrap wow img-custom-anim-left">
-						Imposed on individuals and businesses based on their income
-					</strong>
-				</div>
 			</section>
 		</>
 

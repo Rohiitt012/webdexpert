@@ -89,9 +89,9 @@ export default function Section4() {
                                     </span>
                                     <span className="btn-text text-primary-2">get started</span>
                                 </Link>
-                                <Link href="tel:+(123) 456 789 00" className="ps-5" data-aos="fade-up" data-aos-delay={200}>
+                                <Link href="tel:+919818806393" className="ps-5" data-aos="fade-up" data-aos-delay={200}>
                                     <p className="mb-0 fs-7">Support</p>
-                                    <span className="fs-7 text-primary-2 fw-semibold">+(123) 456 789 00</span>
+                                    <span className="fs-7 text-primary-2 fw-semibold">Contact: +91 98188 06393</span>
                                 </Link>
                             </div>
                         </div>

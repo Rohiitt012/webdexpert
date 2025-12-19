@@ -17,8 +17,7 @@ export default function Section8() {
                             </svg>
                             <h2 className="text-white my-3 text-anime-style-2">Have a project in mind?</h2>
                             <p className="text-stroke mb-8">
-                                We offer a wide range of digital marketing services that cater to businesses of all <br />
-                                sizes a forward-thinking and clever approach.
+                            We deliver modern website solutions with powerful design, performance optimization,branding <br /> and mobile-first experiences to help businesses grow faster in the digital world.
                             </p>
                             <Link href="/contact" className="btn btn-outline-secondary">
                                 <span>let’s talk</span>
