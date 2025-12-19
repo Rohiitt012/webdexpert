@@ -11,7 +11,7 @@ export default function Section8() {
                             The Path of Custom CRM Development Is Not Easy. But Look at the <span className="bg-info-subtle px-2">Benefits!</span>
                         </h2>
                         <p className="text-dark text-opacity-75 mb-5" style={{ fontSize: '18px', lineHeight: '1.6', maxWidth: '800px', margin: '0 auto' }}>
-                            ScienceSoft is ready to go the extra mile to make sure all your efforts and investments into a custom CRM are rewarded at their best.
+                            WEBDEXPERT is ready to go the extra mile to make sure all your efforts and investments into a custom CRM are rewarded at their best.
                         </p>
                     </div>
                     <div className="row g-4">

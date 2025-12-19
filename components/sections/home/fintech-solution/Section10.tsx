@@ -11,7 +11,7 @@ export default function Section10() {
                             Call It Custom or Customized, We Will Give You the Best-Suited CRM
                         </h2>
                         <p className="text-dark text-opacity-75 mb-5" style={{ fontSize: '18px', lineHeight: '1.6', maxWidth: '800px', margin: '0 auto' }}>
-                            ScienceSoft is a full-cycle custom CRM development company that will treat your requirements seriously and advise you towards a CRM best-suited to your business needs and budget.
+                            WEBDEXPERT is a full-cycle custom CRM development company that will treat your requirements seriously and advise you towards a CRM best-suited to your business needs and budget.
                         </p>
                     </div>
                     <div className="row g-4">

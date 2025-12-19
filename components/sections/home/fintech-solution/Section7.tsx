@@ -8,7 +8,7 @@ export default function Section7() {
                 <div className="container">
                     <div className="mb-5">
                         <h2 className="text-dark mb-3 text-anime-style-2" style={{ fontSize: '42px', fontWeight: 'bold', lineHeight: '1.2' }}>
-                            Custom CRM Solutions Built by ScienceSoft
+                            Custom CRM Solutions Built by WEBDEXPERT
                         </h2>
                         <p className="text-dark text-opacity-75 mb-4" style={{ fontSize: '18px', lineHeight: '1.6' }}>
                             Explore our CRM Development case studies, showcasing the impact of our tailored solutions. Use the filters to browse projects by <strong>industry</strong> and find the most relevant examples for your needs.
@@ -47,7 +47,7 @@ export default function Section7() {
                                                 HIPAA-Compliant Provider-to-Provider Telehealth Platform for Scalable Behavioral Care Delivery
                                             </h4>
                                             <p className="text-dark mb-4" style={{ fontSize: '16px', lineHeight: '1.6' }}>
-                                                ScienceSoft is building a Microsoft-based telehealth platform for a leading behavioral health provider. Using low-code tools and pre-built integrations, core workflows were transitioned in 4 months. Full rollout is projected to cut manual coordination by 40%.
+                                                WEBDEXPERT is building a Microsoft-based telehealth platform for a leading behavioral health provider. Using low-code tools and pre-built integrations, core workflows were transitioned in 4 months. Full rollout is projected to cut manual coordination by 40%.
                                             </p>
                                             <Link href="#" className="btn btn-outline-primary rounded-pill px-4 py-2">
                                                 Project details →
@@ -75,7 +75,7 @@ export default function Section7() {
                                                 Dynamics 365 CRM for Saudia Cargo, Saudi Arabia's Flagship Airfreight Carrier
                                             </h4>
                                             <p className="text-dark mb-4" style={{ fontSize: '16px', lineHeight: '1.6' }}>
-                                                ScienceSoft implemented and customized Dynamics 365 Sales, Dynamics 365 Customer Voice, and Dynamics 365 Customer Service. With a comprehensive sales and customer service automation environment, Saudia Cargo benefits from 30% faster service processes.
+                                                WEBDEXPERT implemented and customized Dynamics 365 Sales, Dynamics 365 Customer Voice, and Dynamics 365 Customer Service. With a comprehensive sales and customer service automation environment, Saudia Cargo benefits from 30% faster service processes.
                                             </p>
                                             <Link href="#" className="btn btn-outline-primary rounded-pill px-4 py-2">
                                                 Project details →
@@ -103,7 +103,7 @@ export default function Section7() {
                                                 Microsoft Dynamics 365 CRM for a Healthcare Advisory Company
                                             </h4>
                                             <p className="text-dark mb-4" style={{ fontSize: '16px', lineHeight: '1.6' }}>
-                                                ScienceSoft used Dynamics 365 Sales, Marketing and Customer Voice, Power Apps and numerous third-party systems to build a comprehensive CRM ecosystem for a healthcare advisory company.
+                                                WEBDEXPERT used Dynamics 365 Sales, Marketing and Customer Voice, Power Apps and numerous third-party systems to build a comprehensive CRM ecosystem for a healthcare advisory company.
                                             </p>
                                             <Link href="#" className="btn btn-outline-primary rounded-pill px-4 py-2">
                                                 Project details →
@@ -131,7 +131,7 @@ export default function Section7() {
                                                 Marketing Software That Helps Reach 100% Assisted Livings Occupancy
                                             </h4>
                                             <p className="text-dark mb-4" style={{ fontSize: '16px', lineHeight: '1.6' }}>
-                                                ScienceSoft created the marketing module for assisted livings to allow them handle prospects effectively, track communications with them, and set task reminders.
+                                                WEBDEXPERT created the marketing module for assisted livings to allow them handle prospects effectively, track communications with them, and set task reminders.
                                             </p>
                                             <Link href="#" className="btn btn-outline-primary rounded-pill px-4 py-2">
                                                 Project details →
@@ -159,7 +159,7 @@ export default function Section7() {
                                                 Dynamics 365 CRM Heavily Customized to Sell Engineering Software
                                             </h4>
                                             <p className="text-dark mb-4" style={{ fontSize: '16px', lineHeight: '1.6' }}>
-                                                ScienceSoft created a CRM customized to sell sophisticated software products and enhanced with two narrowly specific functional modules.
+                                                WEBDEXPERT created a CRM customized to sell sophisticated software products and enhanced with two narrowly specific functional modules.
                                             </p>
                                             <Link href="#" className="btn btn-outline-primary rounded-pill px-4 py-2">
                                                 Project details →

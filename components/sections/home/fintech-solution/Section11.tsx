@@ -13,7 +13,7 @@ export default function Section11() {
                                     Let Us Help You Win and Keep Your Valued Customers
                                 </h2>
                                 <p className="text-dark text-opacity-75 mb-4" style={{ fontSize: '18px', lineHeight: '1.6' }}>
-                                    With a CRM created by ScienceSoft:
+                                    With a CRM created by WEBDEXPERT:
                                 </p>
                                 <ul className="list-unstyled">
                                     <li className="d-flex align-items-start mb-3 gap-3">
