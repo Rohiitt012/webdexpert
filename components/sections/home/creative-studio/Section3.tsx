@@ -8,11 +8,10 @@ export default function Section3({ display, title1, title2, background }: any) {
                 <div className="container">
                     <div className={`text-center mb-80 ${title1} wow img-custom-anim-left`}>
                         <h2>
-                            Great design with zero-hassle<span className="text-primary">.</span>
+                        Our Creative & Digital Marketing Solutions<span className="text-primary">.</span>
                         </h2>
                         <p>
-                            Exclusive collaboration feature designed to make workflows smoother for <br />
-                            your entire team is ready anytime.
+                        We deliver impactful branding, engaging designs, conversion-focused visuals, and SEO-driven content to strengthen your <br />  online presence, build trust, and drive consistent business growth across all digital platforms.
                         </p>
                     </div>
                     <div className={`text-center mb-80 ${title2} wow img-custom-anim-left`}>
@@ -35,13 +34,12 @@ export default function Section3({ display, title1, title2, background }: any) {
                                         <div className="row justify-content-between">
                                             <div className="col-lg-4">
                                                 <Link href=".services-details">
-                                                    <h4 className="mb-0">Product Design</h4>
+                                                    <h4 className="mb-0">Logo & Brand Identity</h4>
                                                 </Link>
                                             </div>
                                             <div className="col-lg-6 offset-lg-1">
                                                 <p className="service-card-text mb-0">
-                                                    Exclusive collaboration feature designed to make workflows <br />
-                                                    smoother for your entire team is ready anytime.
+                                                We create distinctive logos and complete brand identities that reflect your business values, establish credibility, and ensure consistent visual recognition across all digital and offline platforms, helping your brand stand out and connect with your target audience effectively.
                                                 </p>
                                             </div>
                                             <div className="col-lg-1 ms-auto text-end">
@@ -72,13 +70,12 @@ export default function Section3({ display, title1, title2, background }: any) {
                                         <div className="row justify-content-between">
                                             <div className="col-lg-4">
                                                 <Link href=".services-details">
-                                                    <h4 className="mb-0">Web Development</h4>
+                                                    <h4 className="mb-0">Social Media Creatives</h4>
                                                 </Link>
                                             </div>
                                             <div className="col-lg-6 offset-lg-1">
                                                 <p className="service-card-text mb-0">
-                                                    Exclusive collaboration feature designed to make workflows <br />
-                                                    smoother for your entire team is ready anytime.
+                                                We design visually compelling social media creatives tailored to your brand voice, helping you boost engagement, grow followers, and communicate your message clearly across platforms while maintaining consistency, creativity, and a strong visual impact.
                                                 </p>
                                             </div>
                                             <div className="col-lg-1 ms-auto text-end">
@@ -109,13 +106,12 @@ export default function Section3({ display, title1, title2, background }: any) {
                                         <div className="row justify-content-between">
                                             <div className="col-lg-4">
                                                 <Link href=".services-details">
-                                                    <h4 className="mb-0">Game Design</h4>
+                                                    <h4 className="mb-0">Website Banners & UI Graphics</h4>
                                                 </Link>
                                             </div>
                                             <div className="col-lg-6 offset-lg-1">
                                                 <p className="service-card-text mb-0">
-                                                    Exclusive collaboration feature designed to make workflows <br />
-                                                    smoother for your entire team is ready anytime.
+                                                We design modern website banners and UI graphics that enhance user experience, highlight key messages, and improve conversions by combining clean layouts, strategic visuals, and brand-focused design elements optimized for all devices.
                                                 </p>
                                             </div>
                                             <div className="col-lg-1 ms-auto text-end">
@@ -146,13 +142,12 @@ export default function Section3({ display, title1, title2, background }: any) {
                                         <div className="row justify-content-between">
                                             <div className="col-lg-4">
                                                 <Link href=".services-details">
-                                                    <h4 className="mb-0">Business Consultancy</h4>
+                                                    <h4 className="mb-0">SEO Copywriting & Marketing Content</h4>
                                                 </Link>
                                             </div>
                                             <div className="col-lg-6 offset-lg-1">
                                                 <p className="service-card-text mb-0">
-                                                    Exclusive collaboration feature designed to make workflows <br />
-                                                    smoother for your entire team is ready anytime.
+                                                We craft SEO-optimized copy and marketing content that improves search visibility, attracts relevant traffic, and converts visitors into customers through clear messaging, strategic keywords, and persuasive, audience-focused storytelling.
                                                 </p>
                                             </div>
                                             <div className="col-lg-1 ms-auto text-end">

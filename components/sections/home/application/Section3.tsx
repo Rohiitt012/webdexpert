@@ -15,7 +15,7 @@ export default function Section3() {
                         <h2 className="wow img-custom-anim-left">
                             Core features about <br />
                             our business &amp; financial <br />
-                            <img className="img-heading rounded-pill" src="/assets/img/application-img/pages/application/page-home/home-section-3/img-heading.png" alt="AstraX" />
+                            <img className="img-heading rounded-pill" src="assets/imgs/pages/application/page-home/home-section-3/img-heading.png" alt="AstraX" />
                             application
                         </h2>
                     </div>
@@ -140,3 +140,4 @@ export default function Section3() {
         </>
     );
 }
+

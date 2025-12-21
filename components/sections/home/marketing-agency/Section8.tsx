@@ -5,7 +5,7 @@ export default function Section8() {
         <>
             {/*marketing-agency-home home section 8*/}
             <section className="marketing-agency-home-section-8 pt-120 pb-120 position-relative overflow-hidden">
-                <div className="container">
+                <div className="container" style={{ backgroundImage: 'none' }}>
                     <div className="mb-80 text-center">
                         <span className="content-top btn-text text-primary d-flex align-items-center justify-content-center">
                             <div className="line" />

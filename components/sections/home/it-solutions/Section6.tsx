@@ -57,7 +57,7 @@ export default function Section6() {
                                     <Link href="telto:(123) 456 789 00">
                                         <h6 className="mt-5 mb-3 fs-20">+91 98188 06393</h6>
                                     </Link>
-                                    <p className="mb-0">Media strategy encapsulates your intentions.</p>
+                                    <p className="mb-0">Connect with our team for reliable support and professional digital services.</p>
                                 </div>
                             </div>
                         </div>
