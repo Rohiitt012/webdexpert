@@ -10,12 +10,12 @@ export default function Section1() {
                         <div className="row">
                             <div className="col">
                                 <div className="text-center">
-                                    <span className="text-primary btn-text">Automation & Integrations</span>
+                                    <span className="text-primary btn-text">Website Design & Development</span>
                                     <h1 className="mb-2">
-                                    One Platform for  <span className="text-primary text-decoration-underline">WhatsApp, Sales, </span>
-                                        <span className="text-primary"> & Workflow Automation</span>
+                                    Professional <span className="text-primary text-decoration-underline">Business Websites, </span>
+                                        <span className="text-primary">E-commerce &amp; Custom Solutions</span>
                                     </h1>
-                                    <p className="text-anime-style-3">WeWe help businesses automate WhatsApp communication, lead capture, sales and marketing processes, API integrations, and workflows using powerful tools like Zapier, Make, and n8n to save time and boost efficiency.</p>
+                                    <p className="text-anime-style-3">We create stunning, high-performing websites including business websites, e-commerce stores (Shopify & WooCommerce), landing pages & funnels, and custom web applications. Our expert team delivers modern, responsive, and conversion-focused designs tailored to your business needs.</p>
                                     <Link href="/contact" className="btn btn-outline-dark mt-6">
                                         <span>Get Started</span>
                                         <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">

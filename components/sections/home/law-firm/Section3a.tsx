@@ -4,7 +4,7 @@ export default function Section3a() {
 	return (
 		<>
 			{/*law-firm home section 3a - Website Design and Development Company*/}
-			<section className="law-firm-home-section-3a position-relative py-120 bg-white">
+			<section className="law-firm-home-section-3a position-relative py-60 bg-white">
 				<div className="container">
 					<div className="row">
 						<div className="col-12 text-center mb-80">
@@ -16,7 +16,7 @@ export default function Section3a() {
 							</p>
 						</div>
 					</div>
-					<div className="row g-4">
+					<div className="row g-1">
 						<div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={0}>
 							<div className="bg-white rounded-4 p-4 shadow-sm border h-100">
 								<h4 className="text-dark fw-bold mb-3">Custom Website Design</h4>

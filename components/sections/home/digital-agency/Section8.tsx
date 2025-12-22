@@ -37,7 +37,7 @@ export default function Section8() {
                                     </div>
                                     <div className="card-news-title mt-2">
                                         <Link href="#">
-                                            <h6 className="fs-20 text-anime-style-3 fw-semibold">#01 Brace for the 'big one' cyber attack as always.</h6>
+                                            <h6 className="fs-20 text-anime-style-3 fw-semibold">Regular Updates &amp; Backups: Keep Your Website Running Smoothly</h6>
                                         </Link>
                                     </div>
                                 </div>
@@ -62,7 +62,7 @@ export default function Section8() {
                                     </div>
                                     <div className="card-news-title mt-2">
                                         <Link href="#">
-                                            <h6 className="fs-20 text-anime-style-3 fw-semibold">Company updated with the latest trends &amp; business news.</h6>
+                                            <h6 className="fs-20 text-anime-style-3 fw-semibold">Security Fixes &amp; Malware Protection: Safeguard Your Digital Assets</h6>
                                         </Link>
                                     </div>
                                 </div>
@@ -87,7 +87,7 @@ export default function Section8() {
                                     </div>
                                     <div className="card-news-title mt-2">
                                         <Link href="#">
-                                            <h6 className="fs-20 text-anime-style-3 fw-semibold">We make the creative solutions for&nbsp;problems!</h6>
+                                            <h6 className="fs-20 text-anime-style-3 fw-semibold">Content &amp; Product Updates: Keep Your Website Fresh &amp; Current</h6>
                                         </Link>
                                     </div>
                                 </div>

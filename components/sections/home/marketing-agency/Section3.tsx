@@ -46,7 +46,7 @@ export default function Section3() {
     return (
         <>
             {/*marketing-agency-home-section-3*/}
-            <section className="marketing-agency-home-section-3 position-relative overflow-hidden py-120 bg-secondary-2">
+            <section className="marketing-agency-home-section-3 position-relative overflow-hidden py-120 bg-white">
                 <div className="container">
                     <div className="text-center">
                         <span className="content-top btn-text text-primary d-flex align-items-center justify-content-center">

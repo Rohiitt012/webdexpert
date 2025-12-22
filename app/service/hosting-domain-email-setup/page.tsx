@@ -13,6 +13,7 @@ import Section7 from "@/components/sections/home/it-solutions/Section7";
 import Section8 from "@/components/sections/home/it-solutions/Section8";
 import Section9 from "@/components/sections/home/it-solutions/Section9";
 import Section10 from "@/components/sections/home/it-solutions/Section10";
+import Section11 from "@/components/sections/home/it-solutions/Section11";
 export default function Home() {
     return (
         <>
@@ -24,6 +25,7 @@ export default function Home() {
                 <Section2B />
                 <Section2C />
                 <Section3 />
+                <Section11 />
                 <Section4 bg="" />
                 <Section5 />
                 <Section9 />

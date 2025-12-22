@@ -27,7 +27,7 @@ export default function Section3() {
                                             Contact us today <span className="text-decoration-underline">for a free</span> <br />
                                             consultation
                                         </h2>
-                                        <p className="text-white py-3">Build your next landing page fast &amp; easy</p>
+                                        <p className="text-white py-3">Get your professional website, e-commerce store, or custom web application built fast &amp; easy</p>
                                         <div className="row">
                                             <div className="col-lg-6 col-md-10 mx-auto">
                                                 <form className="input-group mb-3 mt-4 position-relative">

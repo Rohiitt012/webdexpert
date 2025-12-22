@@ -47,7 +47,7 @@ export default function Section1() {
                             </h1>
                         </div>
                         <div className="col-lg-4 mx-lg-auto">
-                            <p className="text-anime-style-1">Are you looking for website maintenance services in India? Webdexpert is a leading website maintenance company in India, ensuring your website is optimized for optimal performance  and runs without errors. <br /> <br />Request a website<br /> maintenance quote!</p>
+                            <p className="text-anime-style-1">Are you looking for website maintenance services in India? XzectLabs is a leading website maintenance company in India, offering comprehensive solutions including regular updates & backups, security fixes & malware protection, and content & product updates to ensure your website is optimized for optimal performance and runs without errors. <br /> <br />Request a website<br /> maintenance quote!</p>
                             <Link href="/contact" className="btn btn-outline-dark mt-6">
                                 <span>let’s talk</span>
                                 <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">

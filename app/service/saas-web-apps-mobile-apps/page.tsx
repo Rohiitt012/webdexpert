@@ -25,6 +25,7 @@ import Section6 from "@/components/sections/home/application/Section6";
 import Section7 from "@/components/sections/home/application/Section7";
 import Section7A from "@/components/sections/home/application/Section7A";
 import Section8 from "@/components/sections/home/application/Section8";
+import Section9 from "@/components/sections/home/application/Section9";
 export default function Home() {
     return (
         <>
@@ -34,6 +35,7 @@ export default function Home() {
                 <Section2 />
                 <Section2A />
                 <Section3 />
+                <Section9 />
                 <Section3A />
                 <Section3B />
                 <Section3C />

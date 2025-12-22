@@ -4,7 +4,7 @@ export default function Section2B() {
     return (
         <>
             {/*marketing-agency-home-section-2B - Meta Ads CTA Section */}
-            <section className="marketing-agency-home-section-2b position-relative overflow-hidden py-120" style={{ backgroundColor: '#F5F5DC' }}>
+            <section className="marketing-agency-home-section-2b position-relative overflow-hidden py-120" style={{ backgroundColor: '#fff' }}>
                 <div className="container position-relative">
                     <div className="row align-items-center">
                         <div className="col-lg-8">

@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Section8() {
     return (
         <>
@@ -336,395 +338,6 @@ export default function Section8() {
                                     A custom, well-planned website grows with your business, making it easy to add new
                                     features, services, or products without starting from scratch.
                                 </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    {/* Pricing Intro Heading */}
-                    <div className="row mt-120">
-                        <div className="col-lg-10 mx-auto text-center">
-                            <p
-                                className="mb-3"
-                                style={{
-                                    fontSize: '20px',
-                                    lineHeight: '1.5',
-                                    fontWeight: 400,
-                                    color: '#000',
-                                    fontFamily:
-                                        '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif',
-                                }}
-                            >
-                                Affordable <span style={{ fontWeight: '600' }}>Web Design Packages</span> For Startups, SMEs, And
-                                Enterprises
-                            </p>
-                            <h2
-                                className="mb-4"
-                                style={{
-                                    fontSize: '40px',
-                                    lineHeight: '1.3',
-                                    fontWeight: 'bold',
-                                    color: '#000',
-                                    fontFamily:
-                                        '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif',
-                                }}
-                            >
-                                Website Design Pricing In India At Webdexpert
-                            </h2>
-                            <p
-                                className="mb-0"
-                                style={{
-                                    fontSize: '18px',
-                                    lineHeight: '1.7',
-                                    color: '#333',
-                                    maxWidth: '1100px',
-                                    margin: '0 auto',
-                                }}
-                            >
-                                At Webdexpert, we offer affordable and scalable web design packages to fit every business
-                                size and requirement. Our pricing is transparent, with no hidden costs—just clear, measurable
-                                deliverables.
-                            </p>
-                        </div>
-                    </div>
-
-                    {/* Pricing Cards */}
-                    <div className="row mt-5 g-4">
-                        {/* Basic Website */}
-                        <div className="col-lg-4">
-                            <div
-                                className="h-100 rounded-4 p-4"
-                                style={{
-                                    border: '1px solid #e5e5e5',
-                                    boxShadow: '0 10px 30px rgba(0,0,0,0.03)',
-                                }}
-                            >
-                                <div
-                                    className="text-center text-white mb-4 py-3 rounded-top-4"
-                                    style={{ backgroundColor: '#000' }}
-                                >
-                                    <h3
-                                        className="mb-0"
-                                        style={{ fontSize: '18px', letterSpacing: '1px', textTransform: 'uppercase' }}
-                                    >
-                                        Basic Website
-                                    </h3>
-                                </div>
-                                <div className="text-center mb-4">
-                                    <p
-                                        className="mb-1"
-                                        style={{
-                                            fontSize: '18px',
-                                            fontWeight: 500,
-                                            color: '#000',
-                                        }}
-                                    >
-                                        Design Package
-                                    </p>
-                                    <p
-                                        className="mb-1"
-                                        style={{
-                                            fontSize: '28px',
-                                            fontWeight: 'bold',
-                                            color: '#000',
-                                        }}
-                                    >
-                                        15,000–20,000 INR
-                                    </p>
-                                    <p
-                                        className="mb-2 text-uppercase"
-                                        style={{
-                                            fontSize: '12px',
-                                            letterSpacing: '1px',
-                                            color: '#555',
-                                        }}
-                                    >
-                                        Exclusive of all taxes
-                                    </p>
-                                    <span
-                                        className="d-inline-block px-4 py-2 rounded-pill text-white"
-                                        style={{ backgroundColor: '#000', fontSize: '13px' }}
-                                    >
-                                        Monthly
-                                    </span>
-                                </div>
-                                <ul className="list-unstyled mb-0" style={{ fontSize: '15px', color: '#333' }}>
-                                    <li className="d-flex align-items-start mb-2 gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Ideal for startups &amp; small businesses</span>
-                                    </li>
-                                    <li className="d-flex align-items-start mb-2 gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Up to 5–7 pages</span>
-                                    </li>
-                                    <li className="d-flex align-items-start mb-2 gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Mobile-responsive design</span>
-                                    </li>
-                                    <li className="d-flex align-items-start mb-2 gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Basic contact form integration</span>
-                                    </li>
-                                    <li className="d-flex align-items-start mb-2 gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>SEO-friendly structure</span>
-                                    </li>
-                                    <li className="d-flex align-items-start gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Social media integration</span>
-                                    </li>
-                                </ul>
-                                <div className="text-center mt-4">
-                                    <a
-                                        href="/contact"
-                                        style={{
-                                            display: 'inline-flex',
-                                            alignItems: 'center',
-                                            justifyContent: 'center',
-                                            padding: '10px 32px',
-                                            border: '1px solid #000',
-                                            borderRadius: '2px',
-                                            fontSize: '15px',
-                                            fontWeight: 500,
-                                            textTransform: 'none',
-                                            color: '#000',
-                                            textDecoration: 'none',
-                                        }}
-                                    >
-                                        Get Started Now! <span style={{ marginLeft: '8px' }}>→</span>
-                                    </a>
-                                    <p
-                                        className="mt-2 mb-0"
-                                        style={{ fontSize: '12px', letterSpacing: '0.08em', textTransform: 'uppercase', color: '#555' }}
-                                    >
-                                        T&amp;C Apply
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        {/* Standard Website */}
-                        <div className="col-lg-4">
-                            <div
-                                className="h-100 rounded-4 p-4"
-                                style={{
-                                    border: '1px solid #e5e5e5',
-                                    boxShadow: '0 10px 30px rgba(0,0,0,0.03)',
-                                }}
-                            >
-                                <div
-                                    className="text-center text-white mb-4 py-3 rounded-top-4"
-                                    style={{ backgroundColor: '#00b348' }}
-                                >
-                                    <h3
-                                        className="mb-0"
-                                        style={{ fontSize: '18px', letterSpacing: '1px', textTransform: 'uppercase' }}
-                                    >
-                                        Standard Website
-                                    </h3>
-                                </div>
-                                <div className="text-center mb-4">
-                                    <p
-                                        className="mb-1"
-                                        style={{
-                                            fontSize: '18px',
-                                            fontWeight: 500,
-                                            color: '#000',
-                                        }}
-                                    >
-                                        Design Package
-                                    </p>
-                                    <p
-                                        className="mb-1"
-                                        style={{
-                                            fontSize: '28px',
-                                            fontWeight: 'bold',
-                                            color: '#000',
-                                        }}
-                                    >
-                                        30,000–35,000 INR
-                                    </p>
-                                    <p
-                                        className="mb-2 text-uppercase"
-                                        style={{
-                                            fontSize: '12px',
-                                            letterSpacing: '1px',
-                                            color: '#555',
-                                        }}
-                                    >
-                                        Exclusive of all taxes
-                                    </p>
-                                    <span
-                                        className="d-inline-block px-4 py-2 rounded-pill text-white"
-                                        style={{ backgroundColor: '#000', fontSize: '13px' }}
-                                    >
-                                        Monthly
-                                    </span>
-                                </div>
-                                <ul className="list-unstyled mb-0" style={{ fontSize: '15px', color: '#333' }}>
-                                    <li className="d-flex align-items-start mb-2 gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Suitable for SMEs &amp; growing businesses</span>
-                                    </li>
-                                    <li className="d-flex align-items-start mb-2 gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Up to 10–15 pages</span>
-                                    </li>
-                                    <li className="d-flex align-items-start mb-2 gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Custom layout &amp; branding</span>
-                                    </li>
-                                    <li className="d-flex align-items-start mb-2 gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Advanced forms &amp; CTA integration</span>
-                                    </li>
-                                    <li className="d-flex align-items-start mb-2 gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Blog setup</span>
-                                    </li>
-                                    <li className="d-flex align-items-start gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Basic on-page SEO optimization</span>
-                                    </li>
-                                </ul>
-                                <div className="text-center mt-4">
-                                    <a
-                                        href="/contact"
-                                        style={{
-                                            display: 'inline-flex',
-                                            alignItems: 'center',
-                                            justifyContent: 'center',
-                                            padding: '10px 32px',
-                                            border: '1px solid #000',
-                                            borderRadius: '2px',
-                                            fontSize: '15px',
-                                            fontWeight: 500,
-                                            textTransform: 'none',
-                                            color: '#000',
-                                            textDecoration: 'none',
-                                        }}
-                                    >
-                                        Get Started Now! <span style={{ marginLeft: '8px' }}>→</span>
-                                    </a>
-                                    <p
-                                        className="mt-2 mb-0"
-                                        style={{ fontSize: '12px', letterSpacing: '0.08em', textTransform: 'uppercase', color: '#555' }}
-                                    >
-                                        T&amp;C Apply
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        {/* Enterprise / Custom Website */}
-                        <div className="col-lg-4">
-                            <div
-                                className="h-100 rounded-4 p-4"
-                                style={{
-                                    border: '1px solid #e5e5e5',
-                                    boxShadow: '0 10px 30px rgba(0,0,0,0.03)',
-                                }}
-                            >
-                                <div
-                                    className="text-center text-white mb-4 py-3 rounded-top-4"
-                                    style={{ backgroundColor: '#000' }}
-                                >
-                                    <h3
-                                        className="mb-0"
-                                        style={{ fontSize: '18px', letterSpacing: '1px', textTransform: 'uppercase' }}
-                                    >
-                                        Enterprise/Custom Website
-                                    </h3>
-                                </div>
-                                <div className="text-center mb-4">
-                                    <p
-                                        className="mb-1"
-                                        style={{
-                                            fontSize: '18px',
-                                            fontWeight: 500,
-                                            color: '#000',
-                                        }}
-                                    >
-                                        Design Package
-                                    </p>
-                                    <p
-                                        className="mb-1"
-                                        style={{
-                                            fontSize: '28px',
-                                            fontWeight: 'bold',
-                                            color: '#000',
-                                        }}
-                                    >
-                                        1,00,000+ INR
-                                    </p>
-                                    <p
-                                        className="mb-2 text-uppercase"
-                                        style={{
-                                            fontSize: '12px',
-                                            letterSpacing: '1px',
-                                            color: '#555',
-                                        }}
-                                    >
-                                        Exclusive of all taxes
-                                    </p>
-                                    <span
-                                        className="d-inline-block px-4 py-2 rounded-pill text-white"
-                                        style={{ backgroundColor: '#000', fontSize: '13px' }}
-                                    >
-                                        Monthly
-                                    </span>
-                                </div>
-                                <ul className="list-unstyled mb-0" style={{ fontSize: '15px', color: '#333' }}>
-                                    <li className="d-flex align-items-start mb-2 gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Tailored for enterprises &amp; large-scale websites</span>
-                                    </li>
-                                    <li className="d-flex align-items-start mb-2 gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Unlimited pages &amp; advanced features</span>
-                                    </li>
-                                    <li className="d-flex align-items-start mb-2 gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Multi-language support</span>
-                                    </li>
-                                    <li className="d-flex align-items-start mb-2 gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>API &amp; third-party integrations</span>
-                                    </li>
-                                    <li className="d-flex align-items-start mb-2 gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Scalability for future growth</span>
-                                    </li>
-                                    <li className="d-flex align-items-start gap-2">
-                                        <span style={{ color: '#00b348', fontSize: '18px' }}>✔</span>
-                                        <span>Dedicated project manager</span>
-                                    </li>
-                                </ul>
-                                <div className="text-center mt-4">
-                                    <a
-                                        href="/contact"
-                                        style={{
-                                            display: 'inline-flex',
-                                            alignItems: 'center',
-                                            justifyContent: 'center',
-                                            padding: '10px 32px',
-                                            border: '1px solid #000',
-                                            borderRadius: '2px',
-                                            fontSize: '15px',
-                                            fontWeight: 500,
-                                            textTransform: 'none',
-                                            color: '#000',
-                                            textDecoration: 'none',
-                                        }}
-                                    >
-                                        Get Started Now! <span style={{ marginLeft: '8px' }}>→</span>
-                                    </a>
-                                    <p
-                                        className="mt-2 mb-0"
-                                        style={{ fontSize: '12px', letterSpacing: '0.08em', textTransform: 'uppercase', color: '#555' }}
-                                    >
-                                        T&amp;C Apply
-                                    </p>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -1206,8 +819,8 @@ export default function Section8() {
 
                     {/* Web Design By Business Goal */}
                     <div className="row g-4 mt-4">
-                        {/* Corporate Website Design */}
-                        <div className="col-lg-4">
+                        {/* Business Websites */}
+                        <div className="col-lg-6">
                             <div
                                 className="h-100 p-5"
                                 style={{
@@ -1216,7 +829,7 @@ export default function Section8() {
                                 }}
                             >
                                 <div className="mb-4" style={{ fontSize: '40px' }}>
-                                    <span role="img" aria-label="corporate website">
+                                    <span role="img" aria-label="business website">
                                         💼
                                     </span>
                                 </div>
@@ -1224,20 +837,19 @@ export default function Section8() {
                                     className="mb-3"
                                     style={{ fontSize: '24px', lineHeight: '1.3', fontWeight: 600, color: '#000' }}
                                 >
-                                    Corporate Website Design
+                                    Business Websites
                                 </h3>
                                 <p
                                     className="mb-0"
                                     style={{ fontSize: '16px', lineHeight: '1.8', color: '#333' }}
                                 >
-                                    Professional websites that build authority, showcase your services, and help enterprises
-                                    communicate their brand story effectively.
+                                    Professional websites that build authority, showcase your services, and help businesses communicate their brand story effectively. Perfect for companies looking to establish a strong online presence and connect with their target audience.
                                 </p>
                             </div>
                         </div>
 
-                        {/* Ecommerce Website Design */}
-                        <div className="col-lg-4">
+                        {/* E-commerce (Shopify, WooCommerce) */}
+                        <div className="col-lg-6">
                             <div
                                 className="h-100 p-5"
                                 style={{
@@ -1246,7 +858,7 @@ export default function Section8() {
                                 }}
                             >
                                 <div className="mb-4" style={{ fontSize: '40px' }}>
-                                    <span role="img" aria-label="ecommerce website">
+                                    <span role="img" aria-label="ecommerce">
                                         🛍️
                                     </span>
                                 </div>
@@ -1254,20 +866,21 @@ export default function Section8() {
                                     className="mb-3"
                                     style={{ fontSize: '24px', lineHeight: '1.3', fontWeight: 600, color: '#000' }}
                                 >
-                                    Ecommerce Website Design
+                                    E-commerce (Shopify, WooCommerce)
                                 </h3>
                                 <p
                                     className="mb-0"
                                     style={{ fontSize: '16px', lineHeight: '1.8', color: '#333' }}
                                 >
-                                    Secure, user-friendly online stores designed to maximize sales with smooth checkout flows and
-                                    conversion-focused layouts.
+                                    Secure, user-friendly online stores built on Shopify and WooCommerce platforms. Designed to maximize sales with smooth checkout flows, conversion-focused layouts, and seamless payment integrations. Perfect for businesses ready to sell online.
                                 </p>
                             </div>
                         </div>
+                    </div>
 
-                        {/* Landing Page Design */}
-                        <div className="col-lg-4">
+                    <div className="row g-4 mt-4">
+                        {/* Landing Pages & Funnels */}
+                        <div className="col-lg-6">
                             <div
                                 className="h-100 p-5"
                                 style={{
@@ -1276,7 +889,7 @@ export default function Section8() {
                                 }}
                             >
                                 <div className="mb-4" style={{ fontSize: '40px' }}>
-                                    <span role="img" aria-label="landing page">
+                                    <span role="img" aria-label="landing pages">
                                         🎯
                                     </span>
                                 </div>
@@ -1284,14 +897,42 @@ export default function Section8() {
                                     className="mb-3"
                                     style={{ fontSize: '24px', lineHeight: '1.3', fontWeight: 600, color: '#000' }}
                                 >
-                                    Landing Page Design
+                                    Landing Pages &amp; Funnels
                                 </h3>
                                 <p
                                     className="mb-0"
                                     style={{ fontSize: '16px', lineHeight: '1.8', color: '#333' }}
                                 >
-                                    High-converting landing pages crafted for campaigns, lead generation, product launches, and
-                                    paid advertising traffic.
+                                    High-converting landing pages and sales funnels crafted for campaigns, lead generation, product launches, and paid advertising traffic. Optimized to guide visitors through a strategic conversion path and maximize ROI.
+                                </p>
+                            </div>
+                        </div>
+
+                        {/* Custom Web Applications */}
+                        <div className="col-lg-6">
+                            <div
+                                className="h-100 p-5"
+                                style={{
+                                    border: '1px solid #f0f0f0',
+                                    backgroundColor: '#fff',
+                                }}
+                            >
+                                <div className="mb-4" style={{ fontSize: '40px' }}>
+                                    <span role="img" aria-label="custom web applications">
+                                        ⚙️
+                                    </span>
+                                </div>
+                                <h3
+                                    className="mb-3"
+                                    style={{ fontSize: '24px', lineHeight: '1.3', fontWeight: 600, color: '#000' }}
+                                >
+                                    Custom Web Applications
+                                </h3>
+                                <p
+                                    className="mb-0"
+                                    style={{ fontSize: '16px', lineHeight: '1.8', color: '#333' }}
+                                >
+                                    Tailored web applications built from scratch to meet your unique business requirements. From complex dashboards to interactive platforms, we develop scalable, secure, and feature-rich solutions that perfectly align with your workflow and goals.
                                 </p>
                             </div>
                         </div>
@@ -1804,14 +1445,14 @@ export default function Section8() {
                 </div>
             </section>
 
-            {/* Income & Expense Track Section */}
+            {/* Our Website Design & Development Services Section */}
             <section style={{ paddingTop: '120px', paddingBottom: '120px', backgroundColor: '#f9fafb' }}>
                 <div className="container">
                     <div className="row align-items-center g-5">
                         <div className="col-lg-6">
                             <img
                                 src="/assets/img/tax-software-img/pages/tax-software/page-home/home-section-2/img-3.png"
-                                alt="Income & expense track"
+                                alt="Website Design & Development Services"
                                 className="img-fluid rounded-4"
                                 style={{ width: '100%', height: 'auto' }}
                             />
@@ -1826,15 +1467,14 @@ export default function Section8() {
                                     color: '#000',
                                 }}
                             >
-                                Income &amp; expense{' '}
-                                <span style={{ color: '#7C3AED', textDecoration: 'underline' }}>track</span>
+                                Website Design &amp;{' '}
+                                <span style={{ color: '#7C3AED', textDecoration: 'underline' }}>Development</span>
                             </h2>
                             <p
                                 className="mb-4"
                                 style={{ fontSize: '18px', lineHeight: '1.8', color: '#333' }}
                             >
-                                We offer a wide range of digital marketing services that cater to business of all sizes. A
-                                forward-thinking and clever approach.
+                                We offer comprehensive website design and development services that cater to businesses of all sizes. From professional business websites to custom web applications, we deliver modern, responsive, and conversion-focused solutions.
                             </p>
                             <ul
                                 className="list-unstyled mb-4"
@@ -1842,17 +1482,22 @@ export default function Section8() {
                             >
                                 <li className="d-flex align-items-center mb-2 gap-2">
                                     <span style={{ color: '#7C3AED', fontSize: '18px' }}>✓</span>
-                                    <span>Run loyalty program to reward customers</span>
+                                    <span>Business Websites - Professional sites that build authority and showcase your brand</span>
+                                </li>
+                                <li className="d-flex align-items-center mb-2 gap-2">
+                                    <span style={{ color: '#7C3AED', fontSize: '18px' }}>✓</span>
+                                    <span>E-commerce (Shopify, WooCommerce) - Secure online stores designed to maximize sales</span>
+                                </li>
+                                <li className="d-flex align-items-center mb-2 gap-2">
+                                    <span style={{ color: '#7C3AED', fontSize: '18px' }}>✓</span>
+                                    <span>Landing Pages &amp; Funnels - High-converting pages optimized for lead generation</span>
                                 </li>
                                 <li className="d-flex align-items-center gap-2">
                                     <span style={{ color: '#7C3AED', fontSize: '18px' }}>✓</span>
-                                    <span>Keep notes on valuable customer preferences</span>
+                                    <span>Custom Web Applications - Tailored solutions built to meet your unique requirements</span>
                                 </li>
                             </ul>
-                            <button
-                                type="button"
-                                className="btn"
-                                style={{
+                            <Link href="/contact" className="btn" style={{
                                     border: '1px solid #000',
                                     borderRadius: '999px',
                                     padding: '10px 32px',
@@ -1860,10 +1505,12 @@ export default function Section8() {
                                     fontWeight: 500,
                                     textTransform: 'uppercase',
                                     letterSpacing: '0.08em',
-                                }}
-                            >
-                                Read More
-                            </button>
+                                    textDecoration: 'none',
+                                    color: '#000',
+                                    display: 'inline-block',
+                                }}>
+                                Get Started
+                            </Link>
                         </div>
                     </div>
                 </div>

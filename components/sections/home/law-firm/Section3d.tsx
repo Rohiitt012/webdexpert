@@ -4,7 +4,7 @@ export default function Section3d() {
 	return (
 		<>
 			{/*law-firm home section 3d - CTA Section*/}
-			<section className="law-firm-home-section-3d position-relative py-120 bg-white">
+			<section className="law-firm-home-section-3d position-relative py-60 bg-white">
 				<div className="container">
 					<div className="row align-items-center">
 						<div className="col-lg-8">

@@ -16,8 +16,8 @@ export default function Section1() {
                         <div className="row">
                             <div className="col-lg-7 col-md-12">
                                 <h1 className="mt-3 mb-0 mb-7 ds-1 text-opacity-25 text-white text-anime-style-2">
-                                    Best Social <br />Management <br className="d-block" />
-                                    <span className="text-white text-opacity-100">Company In India.</span>
+                                    Best Social Media <br />Marketing <br className="d-block" />
+                                    <span className="text-white text-opacity-100">Agency In India.</span>
                                 </h1>
                                 <div className="d-flex align-items-center gap-5">
                                     <Link href="/contact" className="btn btn-primary bg-primary" data-aos="fade-up" data-aos-delay={200}>
@@ -70,30 +70,30 @@ export default function Section1() {
                                                 <div className="d-flex flex-wrap align-items-center gap-3 pb-5 mb-4 mt-2 border-bottom">
                                                     <span className="text-primary-2 fw-semibold">
                                                         Select <br className="d-block" />
-                                                        category
+                                                        Service
                                                     </span>
                                                     <div className="form-element">
-                                                        <input type="checkbox" className="favorite" name="options-outlined" id="favorite" />
-                                                        <label className="favorite icon-shape icon-60 rounded-circle bg-secondary-2" htmlFor="favorite">
-                                                            <i className="fa-solid fa-heart text-primary-2 fs-20" />
+                                                        <input type="checkbox" className="social-media" name="options-outlined" id="social-media" />
+                                                        <label className="social-media icon-shape icon-60 rounded-circle bg-secondary-2" htmlFor="social-media">
+                                                            <i className="fa-brands fa-instagram text-primary-2 fs-20" />
                                                         </label>
                                                     </div>
                                                     <div className="form-element">
-                                                        <input type="checkbox" className="car" name="options-outlined" id="car" />
-                                                        <label className="car icon-shape icon-60 rounded-circle bg-secondary-2" htmlFor="car">
-                                                            <i className="fa-solid fa-car text-primary-2 fs-20" />
+                                                        <input type="checkbox" className="paid-ads" name="options-outlined" id="paid-ads" />
+                                                        <label className="paid-ads icon-shape icon-60 rounded-circle bg-secondary-2" htmlFor="paid-ads">
+                                                            <i className="fa-solid fa-bullhorn text-primary-2 fs-20" />
                                                         </label>
                                                     </div>
                                                     <div className="form-element">
-                                                        <input type="checkbox" className="laptop" name="options-outlined" id="laptop" />
-                                                        <label className="laptop icon-shape icon-60 rounded-circle bg-secondary-2" htmlFor="laptop">
-                                                            <i className="fa-solid fa-laptop-medical text-primary-2 fs-20" />
+                                                        <input type="checkbox" className="reels" name="options-outlined" id="reels" />
+                                                        <label className="reels icon-shape icon-60 rounded-circle bg-secondary-2" htmlFor="reels">
+                                                            <i className="fa-solid fa-video text-primary-2 fs-20" />
                                                         </label>
                                                     </div>
                                                     <div className="form-element">
-                                                        <input type="checkbox" className="briefcase" name="options-outlined" id="briefcase" />
-                                                        <label className="briefcase icon-shape icon-60 rounded-circle bg-secondary-2" htmlFor="briefcase">
-                                                            <i className="fa-solid fa-briefcase text-primary-2 fs-20" />
+                                                        <input type="checkbox" className="engagement" name="options-outlined" id="engagement" />
+                                                        <label className="engagement icon-shape icon-60 rounded-circle bg-secondary-2" htmlFor="engagement">
+                                                            <i className="fa-solid fa-chart-line text-primary-2 fs-20" />
                                                         </label>
                                                     </div>
                                                 </div>
@@ -102,7 +102,7 @@ export default function Section1() {
                                                 <div className="d-flex align-items-start gap-2">
                                                     <input type="checkbox" className="form-check-input" name="checkbox" id="checkbox" />
                                                     <label htmlFor="checkbox" className="fs-6 text-secondary ms-2">
-                                                        I agree
+                                                        I agree to
                                                         <Link href="#" className="text-primary-2 fw-bold">
                                                             Terms of service
                                                         </Link>
@@ -111,7 +111,7 @@ export default function Section1() {
                                                             Privacy policy
                                                         </Link>
                                                         <br />
-                                                        of insurance company.
+                                                        of social media marketing agency.
                                                     </label>
                                                 </div>
                                             </div>

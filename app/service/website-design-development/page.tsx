@@ -7,6 +7,7 @@ import Section4 from "@/components/sections/home/tax-software/Section4";
 import Section6 from "@/components/sections/home/tax-software/Section6";
 import Section7 from "@/components/sections/home/tax-software/Section7";
 import Section8 from "@/components/sections/home/tax-software/Section8";
+import Section9 from "@/components/sections/home/tax-software/Section9";
 export default function Home() {
     return (
         <>
@@ -14,6 +15,7 @@ export default function Home() {
                 <Section1 />
                 <StatsTicker />
                 <Section8 />
+                <Section9 />
                 <Section2 />
                 <Section3 />
                 <Section4 />

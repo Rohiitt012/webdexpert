@@ -4,10 +4,15 @@ import Section1 from "@/components/sections/home/startup/Section1";
 import Section2 from "@/components/sections/home/startup/Section2";
 import Section3 from "@/components/sections/home/startup/Section3";
 import Section4 from "@/components/sections/home/startup/Section4";
-import Section4b from "@/components/sections/home/startup/Section4b";
+import Section4A from "@/components/sections/home/startup/Section4A";
+import Section4C from "@/components/sections/home/startup/Section4C";
+import Section4D from "@/components/sections/home/startup/Section4D";
+import Section4E from "@/components/sections/home/startup/Section4E";
+import Section4F from "@/components/sections/home/startup/Section4F";
+import Section4G from "@/components/sections/home/startup/Section4G";
+import Section4H from "@/components/sections/home/startup/Section4H";
+import Section4I from "@/components/sections/home/startup/Section4I";
 import Section5 from "@/components/sections/home/startup/Section5";
-import Section6 from "@/components/sections/home/startup/Section6";
-import Section7 from "@/components/sections/home/startup/Section7";
 import Section8 from "@/components/sections/home/startup/Section8";
 import Section9 from "@/components/sections/home/startup/Section9";
 export default function Home() {
@@ -19,10 +24,15 @@ export default function Home() {
                 <Section2 />
                 <Section3 />
                 <Section4 />
-                <Section4b />
+                <Section4A />
+                <Section4C />
+                <Section4D />
+                <Section4E />
+                <Section4F />
+                <Section4G />
+                <Section4H />
+                <Section4I />
                 <Section5 />
-                <Section6 />
-                <Section7 />
                 <Section9 />
                 <Section8 />
             </Layout>

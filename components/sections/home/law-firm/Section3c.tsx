@@ -4,7 +4,7 @@ export default function Section3c() {
 	return (
 		<>
 			{/*law-firm home section 3c - Technologies*/}
-			<section className="law-firm-home-section-3c position-relative py-120 bg-white">
+			<section className="law-firm-home-section-3c position-relative py-60 bg-white">
 				<div className="container">
 					<div className="row align-items-center">
 						<div className="col-lg-6 mb-lg-0 mb-5">

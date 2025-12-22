@@ -18,7 +18,7 @@ export default function Section7() {
                             <div className="card-news position-relative mb-lg-0 mb-8 hover-up">
                                 <Link href="/blog-details" className="card-news-img position-relative d-block">
                                     <img className="w-100" src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-7/img-1.png" alt="AstraX" />
-                                    <span className="text-uppercase fw-bold fs-8 text-white bg-primary-2 px-2 py-1 position-absolute top-100 end-0 translate-middle-y me-5">pet</span>
+                                    <span className="text-uppercase fw-bold fs-8 text-white bg-primary-2 px-2 py-1 position-absolute top-100 end-0 translate-middle-y me-5">Social Media</span>
                                 </Link>
                                 <div className="card-news-body border p-4 rounded-3 rounded-top-0 border-top-0">
                                     <div className="d-flex card-news-information gap-4">
@@ -36,7 +36,7 @@ export default function Section7() {
                                     </div>
                                     <div className="card-news-title mt-2 mb-4">
                                         <h6 className="fw-semibold text-primary-2">
-                                            <Link href="/blog-details"> 2025: brace for the 'big one' cyber attack. </Link>
+                                            <Link href="/blog-details"> How Social Media Management Can Transform Your Brand Presence </Link>
                                         </h6>
                                     </div>
                                     <Link href="/blog-details" className="text-dark opacity-50 fs-7 fw-semibold">
@@ -49,7 +49,7 @@ export default function Section7() {
                             <div className="card-news position-relative mb-lg-0 mb-8 hover-up">
                                 <Link href="/blog-details" className="card-news-img position-relative d-block">
                                     <img className="w-100" src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-7/img-2.png" alt="AstraX" />
-                                    <span className="text-uppercase fw-bold fs-8 text-white bg-primary-2 px-2 py-1 position-absolute top-100 end-0 translate-middle-y me-5">family</span>
+                                    <span className="text-uppercase fw-bold fs-8 text-white bg-primary-2 px-2 py-1 position-absolute top-100 end-0 translate-middle-y me-5">Paid Ads</span>
                                 </Link>
                                 <div className="card-news-body border p-4 rounded-3 rounded-top-0 border-top-0">
                                     <div className="d-flex card-news-information gap-4">
@@ -67,7 +67,7 @@ export default function Section7() {
                                     </div>
                                     <div className="card-news-title mt-2 mb-4">
                                         <h6 className="fw-semibold text-primary-2">
-                                            <Link href="/blog-details"> 2025: brace for the 'big one' cyber attack. </Link>
+                                            <Link href="/blog-details"> Maximizing ROI with Paid Social Campaigns in 2025 </Link>
                                         </h6>
                                     </div>
                                     <Link href="/blog-details" className="text-dark opacity-50 fs-7 fw-semibold">
@@ -80,7 +80,7 @@ export default function Section7() {
                             <div className="card-news position-relative mb-lg-0 mb-8 hover-up">
                                 <Link href="/blog-details" className="card-news-img position-relative d-block">
                                     <img className="w-100" src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-7/img-3.png" alt="AstraX" />
-                                    <span className="text-uppercase fw-bold fs-8 text-white bg-primary-2 px-2 py-1 position-absolute top-100 end-0 translate-middle-y me-5">accident</span>
+                                    <span className="text-uppercase fw-bold fs-8 text-white bg-primary-2 px-2 py-1 position-absolute top-100 end-0 translate-middle-y me-5">Reels</span>
                                 </Link>
                                 <div className="card-news-body border p-4 rounded-3 rounded-top-0 border-top-0">
                                     <div className="d-flex card-news-information gap-4">
@@ -98,7 +98,7 @@ export default function Section7() {
                                     </div>
                                     <div className="card-news-title mt-2 mb-4">
                                         <h6 className="fw-semibold text-primary-2">
-                                            <Link href="/blog-details"> 2025: brace for the 'big one' cyber attack. </Link>
+                                            <Link href="/blog-details"> Why Reels & Creative Strategy Are Key to Brand Growth </Link>
                                         </h6>
                                     </div>
                                     <Link href="/blog-details" className="text-dark opacity-50 fs-7 fw-semibold">

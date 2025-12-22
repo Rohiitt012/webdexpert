@@ -21,6 +21,7 @@ export default function Home() {
                 <StatsTicker />
                 <Section2 />
                 <Section3 />
+                <Section9 />
                 <Section3A />
                 <Section4 />
                 <Section4A />
@@ -30,7 +31,6 @@ export default function Home() {
                 <Section6 />
                 <Section7 />
                 <Section8A />
-                <Section9 />
             </Layout>
         </>
     );

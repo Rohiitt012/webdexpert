@@ -9,11 +9,11 @@ export default function Section4() {
                     <div className="row">
                         <div className="col-lg-6 pe-lg-5">
                             <h2 className="text-primary-2 text-anime-style-3">
-                                Get the quote you need for a <span className="text-primary">insurance</span> that is in demand.
+                                Get the strategy you need for <span className="text-primary">Social Media Management & Marketing</span> that drives results.
                             </h2>
                         </div>
                         <div className="col-lg-6 ps-lg-5">
-                            <p className="text-anime-style-1">We offer a wide range of digital marketing services that cater to business of all sizes. A forward-thinking and clever approach, our team will develop a practical.</p>
+                            <p className="text-anime-style-1">We offer comprehensive social media marketing services that cater to businesses of all sizes. A forward-thinking and creative approach, our team will develop a practical strategy to grow your brand presence and engagement.</p>
                             <div className="mt-5">
                                 <Link href="/about">
                                     <span className="text-primary-2 btn-text text-decoration-underline">how it works?</span>

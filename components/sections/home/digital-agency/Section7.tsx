@@ -33,13 +33,6 @@ export default function Section7() {
                 <div className="carouselTicker carouselTicker-left py-8 position-relative z-1 bg-dark wow img-custom-anim-top">
                     <div className="position-absolute top-0 start-0">
                         <svg xmlns="http://www.w3.org/2000/svg" width={783} height={180} viewBox="0 0 783 180" fill="none">
-                            <path d="M0 0H783V180H0V0Z" fill="url(#paint0_linear_698_2317)" />
-                            <defs>
-                                <linearGradient id="paint0_linear_698_2317" x1={0} y1={90} x2={783} y2={90} gradientUnits="userSpaceOnUse">
-                                    <stop stopColor="#24222C" />
-                                    <stop offset={1} stopColor="#24222C" stopOpacity={0} />
-                                </linearGradient>
-                            </defs>
                         </svg>
                     </div>
                     <div className="position-absolute top-0 end-0">

@@ -20,14 +20,14 @@ export default function Section3() {
                             </h2>
                         </div>
                         <div className="col-lg-4 mx-lg-auto">
-                            <p className="fs-18 text-white text-opacity-75 text-anime-style-1">Our services include comprehensive financial planning, investment management, retirement planning, tax planning, and more. We provide customized solutions that cater to your unique needs and financial objectives.</p>
+                            <p className="fs-18 text-white text-opacity-75 text-anime-style-1">Our website maintenance services include regular updates & backups to keep your site running smoothly, security fixes & malware protection to safeguard your digital assets, and content & product updates to keep your website fresh and current. We provide comprehensive solutions that ensure your website remains secure, up-to-date, and performing optimally.</p>
                         </div>
                     </div>
                     <div className="row g-5">
                         <div className="col-lg-6 align-self-stretch">
                             <div className="bg-white p-5 rounded-3 h-100 wow" data-aos="fade-up" data-aos-delay={0}>
                                 <p className="fs-18 mb-4">Mission &amp; vision</p>
-                                <h5 className="fw-medium fs-30">Our app is tailored to meet the unique scheduling needs of event agencies. With features designed for managing complex event calendars, coordinate with clients and vendors, &amp; ensuring seamless execution.</h5>
+                                <h5 className="fw-medium fs-30">We provide comprehensive website maintenance services including regular updates & backups, security fixes & malware protection, and content & product updates. Our mission is to ensure your website remains secure, up-to-date, and performing at its best, allowing you to focus on growing your business.</h5>
                                 <Link href="/contact" className="btn btn-outline-dark mt-6">
                                     <span>get in touch</span>
                                     <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">
@@ -56,7 +56,7 @@ export default function Section3() {
                                     <div className="bg-primary p-4">
                                         <p className="fs-18 text-dark">Mission &amp; vision</p>
                                         <Link href="/about">
-                                            <h5 className="fw-medium fs-30">Easily create and manage tasks on your calendar.</h5>
+                                            <h5 className="fw-medium fs-30">Trusted website maintenance partner ensuring your site stays secure, updated, and optimized with regular backups, security protection, and content management.</h5>
                                         </Link>
                                     </div>
                                 </div>

@@ -80,16 +80,16 @@ export default function Section6() {
                                                 <i className="bi bi-star-fill text-primary" />
                                                 <i className="bi bi-star-fill text-primary" />
                                             </div>
-                                            <h6 className="mb-0 mt-5 fw-medium">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</h6>
+                                            <h6 className="mb-0 mt-5 fw-medium">" XzectLabs transformed our website with exceptional UI/UX redesign services. The new interface is intuitive, modern, and conversion-focused. Our user engagement increased significantly, and the improved navigation has made a world of difference. Highly professional team with outstanding design expertise. "</h6>
                                             <div className="d-flex align-items-center justify-content-center mt-5">
                                                 <Link href="#">
                                                     <img className="rounded-circle icon-shape icon-50" src="/assets/img/startup-img/pages/startup/page-about/avatar-1.png" alt="AstraX" />
                                                 </Link>
                                                 <div className="text-start ms-3">
                                                     <Link href="#">
-                                                        <span className="btn-text">Kristin Watson</span>
+                                                        <span className="btn-text">Sarah Mitchell</span>
                                                     </Link>
-                                                    <p className="mb-0 fs-7">Head Of Idea, Treve LLC</p>
+                                                    <p className="mb-0 fs-7">Marketing Director, TechStart Inc.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -111,16 +111,16 @@ export default function Section6() {
                                                 <i className="bi bi-star-fill text-primary" />
                                                 <i className="bi bi-star-fill text-primary" />
                                             </div>
-                                            <h6 className="mb-0 mt-5 fw-medium">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</h6>
+                                            <h6 className="mb-0 mt-5 fw-medium">" The speed and performance optimization services from XzectLabs exceeded our expectations. Our website now loads in seconds, and Core Web Vitals scores have improved dramatically. The team's technical expertise in caching, code optimization, and asset management is truly impressive. "</h6>
                                             <div className="d-flex align-items-center justify-content-center mt-5">
                                                 <Link href="#">
                                                     <img className="rounded-circle icon-shape icon-50" src="/assets/img/startup-img/pages/startup/page-about/avatar-1.png" alt="AstraX" />
                                                 </Link>
                                                 <div className="text-start ms-3">
                                                     <Link href="#">
-                                                        <span className="btn-text">Kristin Watson</span>
+                                                        <span className="btn-text">David Chen</span>
                                                     </Link>
-                                                    <p className="mb-0 fs-7">Head Of Idea, Treve LLC</p>
+                                                    <p className="mb-0 fs-7">CTO, Digital Solutions Ltd.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -142,16 +142,47 @@ export default function Section6() {
                                                 <i className="bi bi-star-fill text-primary" />
                                                 <i className="bi bi-star-fill text-primary" />
                                             </div>
-                                            <h6 className="mb-0 mt-5 fw-medium">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</h6>
+                                            <h6 className="mb-0 mt-5 fw-medium">" XzectLabs ensured our website delivers a seamless experience across all devices. Their mobile responsiveness services fixed all layout issues, and now our site looks perfect on phones, tablets, and desktops. The touch-friendly UI elements and consistent design have significantly improved our mobile user experience. "</h6>
                                             <div className="d-flex align-items-center justify-content-center mt-5">
                                                 <Link href="#">
                                                     <img className="rounded-circle icon-shape icon-50" src="/assets/img/startup-img/pages/startup/page-about/avatar-1.png" alt="AstraX" />
                                                 </Link>
                                                 <div className="text-start ms-3">
                                                     <Link href="#">
-                                                        <span className="btn-text">Kristin Watson</span>
+                                                        <span className="btn-text">Emily Rodriguez</span>
                                                     </Link>
-                                                    <p className="mb-0 fs-7">Head Of Idea, Treve LLC</p>
+                                                    <p className="mb-0 fs-7">Product Manager, E-Commerce Plus</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </SwiperSlide>
+                                    <SwiperSlide>
+                                        <div className="card-testimonial mb-lg-0 mb-5 text-center" data-aos="fade-up">
+                                            <div className="quote icon-shape icon-60 bg-linear-1 rounded-circle mb-5">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width={28} height={20} viewBox="0 0 28 20" fill="none">
+                                                    <g clipPath="url(#clip0_349_1749)">
+                                                        <path d="M0.0761719 -0.0566406V19.9434L10.5762 9.94336V-0.0566406H0.0761719Z" fill="white" />
+                                                        <path d="M17.5762 -0.0566406V19.9434L28.0762 9.94336V-0.0566406H17.5762Z" fill="white" />
+                                                    </g>
+                                                </svg>
+                                            </div>
+                                            <div className="d-flex justify-content-center gap-2">
+                                                <i className="bi bi-star-fill text-primary" />
+                                                <i className="bi bi-star-fill text-primary" />
+                                                <i className="bi bi-star-fill text-primary" />
+                                                <i className="bi bi-star-fill text-primary" />
+                                                <i className="bi bi-star-fill text-primary" />
+                                            </div>
+                                            <h6 className="mb-0 mt-5 fw-medium">" The SEO-optimized structure implemented by XzectLabs has been a game-changer for our search visibility. Their technical SEO foundation, proper heading hierarchy, and optimized meta tags have significantly improved our rankings. The sitemap and robots.txt setup was done perfectly. Highly recommended for long-term SEO success. "</h6>
+                                            <div className="d-flex align-items-center justify-content-center mt-5">
+                                                <Link href="#">
+                                                    <img className="rounded-circle icon-shape icon-50" src="/assets/img/startup-img/pages/startup/page-about/avatar-1.png" alt="AstraX" />
+                                                </Link>
+                                                <div className="text-start ms-3">
+                                                    <Link href="#">
+                                                        <span className="btn-text">Michael Thompson</span>
+                                                    </Link>
+                                                    <p className="mb-0 fs-7">SEO Director, Growth Marketing Agency</p>
                                                 </div>
                                             </div>
                                         </div>

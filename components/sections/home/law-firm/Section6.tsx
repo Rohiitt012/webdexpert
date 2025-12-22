@@ -47,17 +47,15 @@ export default function Section6() {
 															<i className="bi bi-star-fill text-primary fs-7" />
 														</div>
 														<h5 className="mt-3 pb-7 mb-auto pe-lg-8">
-															" Unrivaled brilliance surpassing all others. Highly
-															recommended for novices and experts alike. We will
-															hire them for sure anytime. "
+															" XzectLabs provided exceptional WordPress setup and customization services. They transformed our website with a professional design that perfectly matches our brand. The team was responsive, knowledgeable, and delivered exactly what we needed. Highly recommended! "
 														</h5>
 														<div className="d-flex align-items-center justify-content-between flex-column flex-md-row border-top pt-3">
 															<div className="text-start mt-3">
 																<Link href="#">
-																	<span className="btn-text">Alonso J. Carter</span>
+																	<span className="btn-text">Sarah Mitchell</span>
 																</Link>
 																<p className="fs-7 text-primary">
-																	Head Of Idea, Treve LLC
+																	Marketing Director, TechStart Inc.
 																</p>
 															</div>
 															<div className="right d-flex gap-2 pe-lg-8 ">
@@ -115,17 +113,15 @@ export default function Section6() {
 															<i className="bi bi-star-fill text-primary fs-7" />
 														</div>
 														<h5 className="mt-3 pb-7 mb-auto pe-lg-8">
-															" Unrivaled brilliance surpassing all others. Highly
-															recommended for novices and experts alike. We will
-															hire them for sure anytime. "
+															" The custom themes and plugins developed by XzectLabs exceeded our expectations. They created a unique WordPress solution tailored to our business needs. The functionality is flawless, and the design is stunning. Our website now stands out from competitors! "
 														</h5>
 														<div className="d-flex align-items-center justify-content-between flex-column flex-md-row border-top pt-3">
 															<div className="text-start mt-3">
 																<Link href="#">
-																	<span className="btn-text">Alonso J. Carter</span>
+																	<span className="btn-text">David Chen</span>
 																</Link>
 																<p className="fs-7 text-primary">
-																	Head Of Idea, Treve LLC
+																	CEO, Digital Solutions Pro
 																</p>
 															</div>
 															<div className="right d-flex gap-2 pe-lg-8 ">
@@ -183,17 +179,15 @@ export default function Section6() {
 															<i className="bi bi-star-fill text-primary fs-7" />
 														</div>
 														<h5 className="mt-3 pb-7 mb-auto pe-lg-8">
-															" Unrivaled brilliance surpassing all others. Highly
-															recommended for novices and experts alike. We will
-															hire them for sure anytime. "
+															" XzectLabs helped us migrate to Webflow and set up our CMS perfectly. The transition was seamless, and our content management is now effortless. Their expertise in CMS development is unmatched. We couldn't be happier with the results! "
 														</h5>
 														<div className="d-flex align-items-center justify-content-between flex-column flex-md-row border-top pt-3">
 															<div className="text-start mt-3">
 																<Link href="#">
-																	<span className="btn-text">Alonso J. Carter</span>
+																	<span className="btn-text">Emily Rodriguez</span>
 																</Link>
 																<p className="fs-7 text-primary">
-																	Head Of Idea, Treve LLC
+																	Content Manager, Creative Agency
 																</p>
 															</div>
 															<div className="right d-flex gap-2 pe-lg-8 ">
@@ -251,17 +245,15 @@ export default function Section6() {
 															<i className="bi bi-star-fill text-primary fs-7" />
 														</div>
 														<h5 className="mt-3 pb-7 mb-auto pe-lg-8">
-															" Unrivaled brilliance surpassing all others. Highly
-															recommended for novices and experts alike. We will
-															hire them for sure anytime. "
+															" Migration and security optimization services from XzectLabs were outstanding. They migrated our entire WordPress site without any downtime and implemented robust security measures. Our website is now faster, more secure, and performing better than ever! "
 														</h5>
 														<div className="d-flex align-items-center justify-content-between flex-column flex-md-row border-top pt-3">
 															<div className="text-start mt-3">
 																<Link href="#">
-																	<span className="btn-text">Alonso J. Carter</span>
+																	<span className="btn-text">Michael Thompson</span>
 																</Link>
 																<p className="fs-7 text-primary">
-																	Head Of Idea, Treve LLC
+																	IT Director, Enterprise Solutions Ltd.
 																</p>
 															</div>
 															<div className="right d-flex gap-2 pe-lg-8 ">
