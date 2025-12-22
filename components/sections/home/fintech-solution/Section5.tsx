@@ -12,7 +12,7 @@ export default function Section5() {
                             <span className="mx-3">how it works</span>
                             <div className="line bg-white" />
                         </span>
-                        <h2 className="text-white my-3 text-anime-style-2">Our working process</h2>
+                        <h2 className="text-white my-3 text-anime-style-2">How our custom CRM process works</h2>
                     </div>
                     <div className="row wow img-custom-anim-left">
                         <div className="col-lg-4 pe-lg-0">
@@ -23,8 +23,10 @@ export default function Section5() {
                                     </div>
                                 </div>
                                 <span className="stroke-white fs-120">01</span>
-                                <h6 className="text-white mt-8">Make a new account</h6>
-                                <p className="text-white text-opacity-75">Hands down one of the best shirts I’ve ever owned fits great, feels amazing, seems to stay cool.</p>
+                                <h6 className="text-white mt-8">Plan your custom CRM system</h6>
+                                <p className="text-white text-opacity-75">
+                                    We map your sales process, lead sources, teams and dashboards to design a custom CRM that fits how you actually work.
+                                </p>
                             </div>
                         </div>
                         <div className="col-lg-4 px-lg-0">
@@ -35,15 +37,19 @@ export default function Section5() {
                                     </div>
                                 </div>
                                 <span className="stroke-white fs-120">02</span>
-                                <h6 className="text-white mt-8">Make request for fund</h6>
-                                <p className="text-white text-opacity-75">Hands down one of the best shirts I’ve ever owned fits great, feels amazing, seems to stay cool.</p>
+                                <h6 className="text-white mt-8">Set up pipelines, tracking &amp; automations</h6>
+                                <p className="text-white text-opacity-75">
+                                    We configure lead &amp; deal pipelines, client &amp; sales tracking, and automated WhatsApp / email follow‑ups for every stage.
+                                </p>
                             </div>
                         </div>
                         <div className="col-lg-4 px-lg-0">
                             <div className="tag-process p-5 rounded-end-lg-4 rounded-bottom-4 rounded-bottom-lg-0">
                                 <span className="stroke-white fs-120">03</span>
-                                <h6 className="text-white mt-8">Get amazing deal</h6>
-                                <p className="text-white text-opacity-75">Hands down one of the best shirts I’ve ever owned fits great, feels amazing, seems to stay cool.</p>
+                                <h6 className="text-white mt-8">Connect CRM &amp; launch with integrations</h6>
+                                <p className="text-white text-opacity-75">
+                                    We plug in CRM + API integrations (Meta, Google, WhatsApp and more), go live, and optimise based on your team’s real usage.
+                                </p>
                             </div>
                         </div>
                     </div>

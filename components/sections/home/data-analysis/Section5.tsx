@@ -15,41 +15,25 @@ export default function Section5() {
                             </svg>
                         </Link>
                     </div>
-                    <div className="d-flex flex-wrap align-items-center justify-content-center gap-md-5 py-120">
+                    <div className="d-flex flex-wrap align-items-center justify-content-center gap-md-5 py-60">
                         <Link href="#" className="border-bottom tg-img-reveal-item" data-fx={1}>
-                            <span className="fs-64 fw-semibold">Augmenting</span>
+                            <span className="fs-64 fw-semibold">AI Chatbots &amp; Assistants</span>
                         </Link>
                         <span className="opacity-10 fs-64 fw-semibold">/</span>
                         <Link href="#" className="border-bottom tg-img-reveal-item" data-fx={1}>
-                            <span className="fs-64 fw-semibold">Humanoid</span>
+                            <span className="fs-64 fw-semibold">AI Content &amp; Post Generation</span>
                         </Link>
                         <span className="opacity-10 fs-64 fw-semibold">/</span>
                         <Link href="#" className="border-bottom tg-img-reveal-item" data-fx={1}>
-                            <span className="fs-64 fw-semibold">Industry</span>
+                            <span className="fs-64 fw-semibold">AI Automation for Lead Follow-ups</span>
                         </Link>
                         <span className="opacity-10 fs-64 fw-semibold">/</span>
                         <Link href="#" className="border-bottom tg-img-reveal-item" data-fx={1}>
-                            <span className="fs-64 fw-semibold">Teleoperated</span>
+                            <span className="fs-64 fw-semibold">AI-based Recommendation Systems</span>
                         </Link>
                         <span className="opacity-10 fs-64 fw-semibold">/</span>
                         <Link href="#" className="border-bottom tg-img-reveal-item" data-fx={1}>
-                            <span className="fs-64 fw-semibold">Ai</span>
-                        </Link>
-                        <span className="opacity-10 fs-64 fw-semibold">/</span>
-                        <Link href="#" className="border-bottom tg-img-reveal-item" data-fx={1}>
-                            <span className="fs-64 fw-semibold">Gaming</span>
-                        </Link>
-                        <span className="opacity-10 fs-64 fw-semibold">/</span>
-                        <Link href="#" className="border-bottom tg-img-reveal-item" data-fx={1}>
-                            <span className="fs-64 fw-semibold">Hospitality</span>
-                        </Link>
-                        <span className="opacity-10 fs-64 fw-semibold">/</span>
-                        <Link href="#" className="border-bottom tg-img-reveal-item" data-fx={1}>
-                            <span className="fs-64 fw-semibold">UX Design</span>
-                        </Link>
-                        <span className="opacity-10 fs-64 fw-semibold">/</span>
-                        <Link href="#" className="border-bottom tg-img-reveal-item" data-fx={1}>
-                            <span className="fs-64 fw-semibold">Cloud Data</span>
+                            <span className="fs-64 fw-semibold">AI Tools for Business</span>
                         </Link>
                     </div>
                 </div>

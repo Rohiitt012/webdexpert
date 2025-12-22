@@ -2,7 +2,7 @@ export default function Section2() {
     return (
         <>
             {/*data-analysis home section 2*/}
-            <section className="data-analysis-home-section-2 position-relative overflow-hidden pt-120 pb-120">
+            <section className="data-analysis-home-section-2 position-relative overflow-hidden pt-80 pb-80">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-3">
@@ -14,16 +14,16 @@ export default function Section2() {
                         </div>
                         <div className="col-lg-9 ps-lg-5 mt-lg-0 mt-md-8 mt-5">
                             <h2 className="text-anime-style-1">
-                                Our team of data analyst experts is dedicated to <span className="text-primary">empowering businesses</span> to thrive basis online.
+                                Our team of AI experts is dedicated to <span className="text-primary">empowering businesses</span> with intelligent solutions that drive growth and innovation.
                             </h2>
                             <div className="d-flex flex-md-row flex-column gap-3 gap-md-5 gap-lg-0 mt-md-8 mt-5 pe-md-10">
                                 <div className="w-md-50 w-lg-auto" data-aos="fade-up" data-aos-delay={200}>
-                                    <h6 className="mb-3">Our mission</h6>
-                                    <p className="pe-lg-10">We offer a wide range of digital marketing services that cater to business of all sizes. A forward-thinking and clever approach to maintaining sales tax compliance amidst the digital era.</p>
+                                    <h6 className="mb-3 fw-bold">Our Mission</h6>
+                                    <p className="pe-lg-10">We deliver cutting-edge AI solutions including intelligent chatbots, automated content generation, lead follow-up automation, recommendation systems, and custom AI models. Our comprehensive suite empowers businesses of all sizes to automate processes, enhance customer engagement, and achieve measurable results through innovative AI technology.</p>
                                 </div>
                                 <div className="pe-lg-10 w-md-50 w-lg-auto" data-aos="fade-up" data-aos-delay={600}>
-                                    <h6 className="mb-3">Company approch</h6>
-                                    <p>Through AI-powered chatbots and recommendation engines, we ensure your customers receive personalized.</p>
+                                    <h6 className="mb-3 fw-bold">Our Approach</h6>
+                                    <p>We combine AI-powered chatbots, intelligent content generation, automated lead management, recommendation engines, and custom business workflows to create seamless, personalized experiences. Our strategic approach ensures each solution integrates perfectly with your existing infrastructure, delivering maximum ROI and competitive advantage.</p>
                                 </div>
                             </div>
                         </div>

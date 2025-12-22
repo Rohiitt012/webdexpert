@@ -4,7 +4,7 @@ export default function Section2M() {
     return (
         <>
             {/*tax-software section 2m - Types of Automated Messages*/}
-            <section className="tax-software-section-2m position-relative overflow-hidden py-120 bg-light-2">
+            <section className="tax-software-section-2m position-relative overflow-hidden py-120 bg-white">
                 <div className="container">
                     <div className="text-center mb-5">
                         <h2 className="text-dark mb-4 fw-bold" style={{ fontSize: "2.5rem" }}>

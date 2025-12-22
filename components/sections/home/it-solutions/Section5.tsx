@@ -105,9 +105,9 @@ export default function Section5() {
                                                     <i className="bi bi-star-fill text-white fs-10" />
                                                 </div>
                                                 <Link href="#">
-                                                    <h6 className="text-white mt-2">Amazing design solution</h6>
+                                                    <h6 className="text-white mt-2">Excellent Web Hosting & Server Setup</h6>
                                                 </Link>
-                                                <p className="mb-0 mt-4 text-white">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</p>
+                                                <p className="mb-0 mt-4 text-white">" Professional hosting setup and server configuration exceeded our expectations. Fast, reliable, and excellent technical support. Highly recommended for businesses looking for seamless hosting solutions. "</p>
                                                 <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                     <Link href="#">
                                                         <img className="rounded-circle icon-shape icon-50" src="/assets/img/it-solutions-img/pages/it-solutions/page-home/home-section-8/avatar-1.png" alt="AstraX" />
@@ -138,9 +138,9 @@ export default function Section5() {
                                                     <i className="bi bi-star-fill text-white fs-10" />
                                                 </div>
                                                 <Link href="#">
-                                                    <h6 className="text-white mt-2">Good user experience</h6>
+                                                    <h6 className="text-white mt-2">Seamless Domain Management</h6>
                                                 </Link>
-                                                <p className="mb-0 mt-4 text-white">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</p>
+                                                <p className="mb-0 mt-4 text-white">" Outstanding domain management assistance. They handled everything professionally, from registration to DNS configuration. Our domain is now perfectly set up and easy to manage. "</p>
                                                 <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                     <Link href="#">
                                                         <img className="rounded-circle icon-shape icon-50" src="/assets/img/it-solutions-img/pages/it-solutions/page-home/home-section-8/avatar-2.png" alt="AstraX" />
@@ -171,9 +171,9 @@ export default function Section5() {
                                                     <i className="bi bi-star-fill text-white fs-10" />
                                                 </div>
                                                 <Link href="#">
-                                                    <h6 className="text-white mt-2">100% satisfied</h6>
+                                                    <h6 className="text-white mt-2">Secure SSL Installation</h6>
                                                 </Link>
-                                                <p className="mb-0 mt-4 text-white">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</p>
+                                                <p className="mb-0 mt-4 text-white">" Quick and professional SSL installation service. Our website is now secure with proper SSL certificates. The team ensured everything was configured correctly and provided excellent support throughout. "</p>
                                                 <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                     <Link href="#">
                                                         <img className="rounded-circle icon-shape icon-50" src="/assets/img/it-solutions-img/pages/it-solutions/page-home/home-section-8/avatar-3.png" alt="AstraX" />
@@ -204,9 +204,9 @@ export default function Section5() {
                                                     <i className="bi bi-star-fill text-white fs-10" />
                                                 </div>
                                                 <Link href="#">
-                                                    <h6 className="text-white mt-2">Good user experience</h6>
+                                                    <h6 className="text-white mt-2">Perfect Business Email Setup</h6>
                                                 </Link>
-                                                <p className="mb-0 mt-4 text-white">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</p>
+                                                <p className="mb-0 mt-4 text-white">" Flawless G Suite email configuration and setup. All our business emails are working perfectly with Outlook integration. Professional service and excellent ongoing support. Highly satisfied! "</p>
                                                 <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                     <Link href="#">
                                                         <img className="rounded-circle icon-shape icon-50" src="/assets/img/it-solutions-img/pages/it-solutions/page-home/home-section-8/avatar-2.png" alt="AstraX" />

@@ -2,7 +2,7 @@ export default function Section2E() {
     return (
         <>
             {/*fintech-solution section 2e - More Benefits*/}
-            <section className="fintech-solution-section-2e position-relative overflow-hidden py-120 bg-light-2">
+            <section className="fintech-solution-section-2e position-relative overflow-hidden py-120 bg-white">
                 <div className="container">
                     <div className="row g-5">
                         <div className="col-lg-4 text-center">

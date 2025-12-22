@@ -2,7 +2,7 @@ export default function Section2H() {
     return (
         <>
             {/*fintech-solution section 2h - Three Services*/}
-            <section className="fintech-solution-section-2h position-relative overflow-hidden py-120 bg-light-2">
+            <section className="fintech-solution-section-2h position-relative overflow-hidden py-120 bg-white">
                 <div className="container">
                     <div className="row g-5">
                         <div className="col-lg-4 text-center">

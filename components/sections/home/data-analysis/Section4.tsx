@@ -4,7 +4,7 @@ export default function Section4() {
     return (
         <>
             {/*data-analysis-home section 4*/}
-            <section className="data-analysis-home-section-4 position-relative overflow-hidden pb-120">
+            <section className="data-analysis-home-section-4 position-relative overflow-hidden pb-80">
                 <div className="position-relative">
                     <div className="bg-secondary-2 position-absolute bottom-50 start-0 end-0 w-100 h-50 z-0" />
                     <div className="container position-relative z-1">

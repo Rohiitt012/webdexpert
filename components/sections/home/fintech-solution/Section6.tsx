@@ -12,7 +12,7 @@ export default function Section6({ pt }: any) {
                                 <span className="small-line" />
                                 <span className="btn-text text-primary">pricing plan</span>
                             </div>
-                            <h2 className="text-dark mt-3 mb-0 text-anime-style-2">Fintech pricing plan</h2>
+                            <h2 className="text-dark mt-3 mb-0 text-anime-style-2">CRM &amp; Sales Automation Pricing Plans</h2>
                         </div>
                         <div className="col-lg-auto align-self-end">
                             <div className="d-flex justify-content-lg-end justify-content-center">
@@ -27,32 +27,41 @@ export default function Section6({ pt }: any) {
                     <div className="row g-lg-5 g-4">
                         <div className="col-lg-4" data-aos="fade-up" data-aos-delay={0}>
                             <div className="card-pricing rounded-4 border p-md-6 p-4">
-                                <span className="text-primary btn-text">Basic</span>
-                                <div className="d-flex mb-3 pricing__price">
-                                    <h1 className="mb-0">$</h1>
-                                    <h1 className="mb-0 price monthly_price">39</h1>
-                                    <h1 className="mb-0 price annual_price">99</h1>
+                                <span className="text-primary btn-text">Basic CRM</span>
+                                <div className="mb-3 pricing__price">
+                                    <div className="d-flex align-items-baseline">
+                                        <h1 className="mb-0 me-1">₹</h1>
+                                        <h1 className="mb-0 price monthly_price">2,999</h1>
+                                        <span className="fs-7 ms-2 text-muted">/ month</span>
+                                    </div>
+                                    <p className="mb-0 mt-1 fs-7 text-muted">
+                                        Starting at <span className="fw-semibold">₹9,999</span> (one-time setup)
+                                    </p>
                                 </div>
-                                <p className="fs-7">Best for small business owners, startups who needes landing page.</p>
+                                <p className="fs-7">Best for small teams &amp; service businesses.</p>
                                 <Link href="#" className="btn btn-outline-dark w-100 mb-6">
-                                    try for free
+                                    get started
                                 </Link>
                                 <span className="btn-text">What’s included:</span>
                                 <ul className="list-unstyled mt-3 mb-0">
                                     <li className="d-flex align-items-center justify-content-between border-top py-3">
-                                        <p className="fs-7 mb-0 text-decoration-line-through">Marketing strategy</p>
+                                        <p className="fs-7 mb-0">Custom CRM dashboard (basic)</p>
                                         <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top py-3">
-                                        <p className="fs-7 mb-0">Competitive work analysis</p>
+                                        <p className="fs-7 mb-0">Lead &amp; contact management</p>
                                         <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top py-3">
-                                        <p className="fs-7 mb-0 text-decoration-line-through">Social media share audit</p>
+                                        <p className="fs-7 mb-0">Sales pipeline tracking</p>
                                         <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top pt-3">
-                                        <p className="fs-7 mb-0">24/7 online support</p>
+                                        <p className="fs-7 mb-0">Manual WhatsApp / Email follow-ups</p>
+                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
+                                    </li>
+                                    <li className="d-flex align-items-center justify-content-between border-top pt-3">
+                                        <p className="fs-7 mb-0">Basic CRM training &amp; support</p>
                                         <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                 </ul>
@@ -60,66 +69,92 @@ export default function Section6({ pt }: any) {
                         </div>
                         <div className="col-lg-4" data-aos="fade-up" data-aos-delay={200}>
                             <div className="card-pricing rounded-4 border border-primary p-md-6 p-4 position-relative">
-                                <span className="text-primary btn-text">advanced</span>
-                                <div className="d-flex mb-3 pricing__price">
-                                    <h1 className="mb-0">$</h1>
-                                    <h1 className="mb-0 price monthly_price">59</h1>
-                                    <h1 className="mb-0 price annual_price">499</h1>
+                                <span className="text-primary btn-text">Standard CRM</span>
+                                <div className="mb-3 pricing__price">
+                                    <div className="d-flex align-items-baseline">
+                                        <h1 className="mb-0 me-1">₹</h1>
+                                        <h1 className="mb-0 price monthly_price">5,999</h1>
+                                        <span className="fs-7 ms-2 text-muted">/ month</span>
+                                    </div>
+                                    <p className="mb-0 mt-1 fs-7 text-muted">
+                                        Starting at <span className="fw-semibold">₹19,999</span> (one-time setup)
+                                    </p>
                                 </div>
-                                <p className="fs-7">Best for small business owners, startups who needes landing page.</p>
+                                <p className="fs-7">Best for growing sales teams.</p>
                                 <Link href="#" className="btn btn-primary border-dark w-100 mb-6">
-                                    try for free
+                                    get started
                                 </Link>
                                 <span className="btn-text">What’s included:</span>
                                 <ul className="list-unstyled mt-3 mb-0">
                                     <li className="d-flex align-items-center justify-content-between border-top py-3">
-                                        <p className="fs-7 mb-0">Marketing strategy</p>
+                                        <p className="fs-7 mb-0">Custom CRM system with pipelines</p>
                                         <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top py-3">
-                                        <p className="fs-7 mb-0">Competitive work analysis</p>
+                                        <p className="fs-7 mb-0">Lead &amp; pipeline automation</p>
                                         <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top py-3">
-                                        <p className="fs-7 mb-0 text-decoration-line-through">Social media share audit</p>
+                                        <p className="fs-7 mb-0">Client &amp; sales performance tracking</p>
                                         <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top pt-3">
-                                        <p className="fs-7 mb-0">24/7 online support</p>
+                                        <p className="fs-7 mb-0">Automated WhatsApp &amp; Email follow-ups</p>
+                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
+                                    </li>
+                                    <li className="d-flex align-items-center justify-content-between border-top pt-3">
+                                        <p className="fs-7 mb-0">Meta / Google lead integration</p>
+                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
+                                    </li>
+                                    <li className="d-flex align-items-center justify-content-between border-top pt-3">
+                                        <p className="fs-7 mb-0">Priority support</p>
                                         <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                 </ul>
-                                <span className="sale-off text-primary fs-8 position-absolute top-0 end-0 me-6 px-3 fw-semibold">-25% off</span>
+                                <span className="sale-off text-primary fs-8 position-absolute top-0 end-0 me-6 px-3 fw-semibold">Most Popular</span>
                             </div>
                         </div>
                         <div className="col-lg-4" data-aos="fade-up" data-aos-delay={400}>
                             <div className="card-pricing rounded-4 border p-md-6 p-4">
-                                <span className="text-primary btn-text">team</span>
-                                <div className="d-flex mb-3 pricing__price">
-                                    <h1 className="mb-0">$</h1>
-                                    <h1 className="mb-0 price monthly_price">99</h1>
-                                    <h1 className="mb-0 price annual_price">999</h1>
+                                <span className="text-primary btn-text">Advanced CRM</span>
+                                <div className="mb-3 pricing__price">
+                                    <div className="d-flex align-items-baseline">
+                                        <h1 className="mb-0 me-1">₹</h1>
+                                        <h1 className="mb-0 price monthly_price">9,999</h1>
+                                        <span className="fs-7 ms-2 text-muted">/ month</span>
+                                    </div>
+                                    <p className="mb-0 mt-1 fs-7 text-muted">
+                                        Starting at <span className="fw-semibold">₹39,999</span> (one-time setup)
+                                    </p>
                                 </div>
-                                <p className="fs-7">Best for small business owners, startups who needes landing page.</p>
+                                <p className="fs-7">Best for high-volume &amp; enterprise-ready businesses.</p>
                                 <Link href="#" className="btn btn-outline-dark w-100 mb-6">
-                                    try for free
+                                    get started
                                 </Link>
                                 <span className="btn-text">What’s included:</span>
                                 <ul className="list-unstyled mt-3 mb-0">
                                     <li className="d-flex align-items-center justify-content-between border-top py-3">
-                                        <p className="fs-7 mb-0">Marketing strategy</p>
+                                        <p className="fs-7 mb-0">Fully customized CRM system</p>
                                         <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top py-3">
-                                        <p className="fs-7 mb-0">Competitive work analysis</p>
+                                        <p className="fs-7 mb-0">Advanced lead &amp; deal automation</p>
                                         <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top py-3">
-                                        <p className="fs-7 mb-0">Social media share audit</p>
+                                        <p className="fs-7 mb-0">Client lifecycle &amp; revenue tracking</p>
                                         <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top pt-3">
-                                        <p className="fs-7 mb-0">24/7 online support</p>
+                                        <p className="fs-7 mb-0">WhatsApp, Email &amp; workflow automation</p>
+                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
+                                    </li>
+                                    <li className="d-flex align-items-center justify-content-between border-top pt-3">
+                                        <p className="fs-7 mb-0">CRM + API integrations (Meta, Google, WhatsApp)</p>
+                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
+                                    </li>
+                                    <li className="d-flex align-items-center justify-content-between border-top pt-3">
+                                        <p className="fs-7 mb-0">Dedicated support &amp; optimization</p>
                                         <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                 </ul>

@@ -24,9 +24,9 @@ export default function Section4() {
                                     <i className="bi bi-star-fill text-white fs-10" />
                                 </div>
                                 <Link href="#">
-                                    <h6 className="mt-2 fs-20 text-white">Amazing design solution</h6>
+                                    <h6 className="mt-2 fs-20 text-white">Logo & Brand Identity</h6>
                                 </Link>
-                                <p className="mb-0 mt-4 text-white">“ I've owned a lot of shirts, but this one stands out as a favorite for so many reasons. The fit is absolutely perfect—not too tight, not too loose—just right. The fabric is incredibly soft against the skin, making it feel like you're wearing a cloud. But what really sets it apart is how it seems to stay cool no matter the temperature. Plus, the water-resistant quality is a game-changer. I’ve worn it on drizzly days, and it barely showed any signs of moisture. Whether I'm out for a casual day or dressing up a bit, this shirt always delivers. Highly recommend! “</p>
+                                <p className="mb-0 mt-4 text-white">“ XzectLabs created an incredible logo and complete brand identity for our startup. The team understood our vision perfectly and delivered a cohesive design system including colors, typography, and brand guidelines that truly represent who we are. Our brand now stands out in the market, and we've received countless compliments on our professional appearance. The attention to detail and creative approach exceeded our expectations. Highly recommend their branding services! “</p>
                                 <div className="d-flex align-items-center mt-5 position-relative z-1">
                                     <Link href="#">
                                         <img className="rounded-circle icon-shape icon-50" src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-4/img-1.png" alt="AstraX" />
@@ -49,9 +49,9 @@ export default function Section4() {
                                     <i className="bi bi-star-fill text-primary fs-10" />
                                 </div>
                                 <Link href="#">
-                                    <h6 className="mt-2 fs-20">Great support</h6>
+                                    <h6 className="mt-2 fs-20">Social Media Creatives</h6>
                                 </Link>
-                                <p className="mb-0 mt-4 text-dark">“ I've owned a lot of shirts, but this one stands out as a favorite for so many reasons. The fit is absolutely perfect—incredibly soft against the skin, making it feel like you're not too tight, not too loose—just right. ”</p>
+                                <p className="mb-0 mt-4 text-dark">“ Working with XzectLabs for our social media creatives has been a game-changer. They consistently deliver eye-catching designs that align perfectly with our brand voice. Our engagement rates have increased significantly, and we're getting more followers than ever. The team is responsive, creative, and always delivers on time. Our social media presence has never looked better! ”</p>
                                 <div className="d-flex align-items-center mt-5 position-relative z-1">
                                     <Link href="#">
                                         <img className="rounded-circle icon-shape icon-50" src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-4/img-2.png" alt="AstraX" />
@@ -74,9 +74,9 @@ export default function Section4() {
                                     <i className="bi bi-star-fill text-primary fs-10" />
                                 </div>
                                 <Link href="#">
-                                    <h6 className="mt-2 fs-20">Web development</h6>
+                                    <h6 className="mt-2 fs-20">Website Banners & UI Graphics</h6>
                                 </Link>
-                                <p className="mb-0 mt-4 text-dark">“ I've owned a lot of shirts, but this one stands out as a favorite for so many reasons. The fit is absolutely perfect—incredibly soft against the skin, making it feel like you're not too tight, not too loose—just right. ”</p>
+                                <p className="mb-0 mt-4 text-dark">“ XzectLabs designed stunning website banners and UI graphics that transformed our website's user experience. The designs are modern, clean, and maintain perfect brand consistency. Our bounce rate decreased, and conversions improved significantly. The team's understanding of user interface design principles is impressive, and they always deliver pixel-perfect graphics. ”</p>
                                 <div className="d-flex align-items-center mt-5 position-relative z-1">
                                     <Link href="#">
                                         <img className="rounded-circle icon-shape icon-50" src="/assets/img/creative-studio-img/pages/creative-studio/page-home/home-section-4/img-3.png" alt="AstraX" />

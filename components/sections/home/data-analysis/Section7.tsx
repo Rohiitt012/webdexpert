@@ -2,7 +2,7 @@ export default function Section7() {
     return (
         <>
             {/*data-analysis home section 7*/}
-            <section className="data-analysis-home-section-7 position-relative overflow-hidden py-120">
+            <section className="data-analysis-home-section-7 position-relative overflow-hidden py-80">
                 <div className="container position-relative z-1">
                     <div className="row align-items-center">
                         <div className="col-lg-6 wow img-custom-anim-top">

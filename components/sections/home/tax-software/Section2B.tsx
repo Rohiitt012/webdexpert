@@ -4,7 +4,7 @@ export default function Section2B() {
     return (
         <>
             {/*tax-software section 2b - More reasons to choose xzectlabs*/}
-            <section className="tax-software-section-2b position-relative overflow-hidden py-120 bg-light-2">
+            <section className="tax-software-section-2b position-relative overflow-hidden py-120 bg-white">
                 <div className="container">
                     <div className="text-center mb-80">
                         <h2 className="text-dark mb-3 text-anime-style-2">More reasons to choose xzectlabs</h2>

@@ -35,7 +35,7 @@ export default function Section8({ background }: any) {
                                     </div>
                                     <div className="card-news-title mt-2">
                                         <Link href="#">
-                                            <h6 className="fs-20 text-anime-style-1">#01 Brace for the 'big one' cyber attack as always.</h6>
+                                            <h6 className="fs-20 text-anime-style-1">How a strong logo &amp; brand identity builds trust.</h6>
                                         </Link>
                                     </div>
                                 </div>
@@ -60,7 +60,7 @@ export default function Section8({ background }: any) {
                                     </div>
                                     <div className="card-news-title mt-2">
                                         <Link href="#">
-                                            <h6 className="fs-20 text-anime-style-1">Company updated with the latest trends &amp; business news.</h6>
+                                            <h6 className="fs-20 text-anime-style-1">Designing scroll-stopping social media creatives.</h6>
                                         </Link>
                                     </div>
                                 </div>
@@ -85,7 +85,7 @@ export default function Section8({ background }: any) {
                                     </div>
                                     <div className="card-news-title mt-2">
                                         <Link href="#">
-                                            <h6 className="fs-20 text-anime-style-1">We make the creative solutions for&nbsp;problems!</h6>
+                                            <h6 className="fs-20 text-anime-style-1">High-converting website banners &amp; SEO content.</h6>
                                         </Link>
                                     </div>
                                 </div>

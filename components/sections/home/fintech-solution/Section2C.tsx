@@ -2,7 +2,7 @@ export default function Section2C() {
     return (
         <>
             {/*fintech-solution section 2c - Step Up Customer Service*/}
-            <section className="fintech-solution-section-2c position-relative overflow-hidden py-120 bg-light-2">
+            <section className="fintech-solution-section-2c position-relative overflow-hidden py-120 bg-white">
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-5">

@@ -32,7 +32,7 @@ export default function Section7({ bg_section, classList, bg_card }: any) {
                                                 </g>
                                             </svg>
                                             <span className="btn-text opacity-50">advanced</span>
-                                            <h1 className="mb-3 mt-1">$49</h1>
+                                            <h1 className="mb-3 mt-1">₹49</h1>
                                             <p className="fs-7">
                                                 Best for small business owners, <br />
                                                 startups who needs.
@@ -79,7 +79,7 @@ export default function Section7({ bg_section, classList, bg_card }: any) {
                                                 </g>
                                             </svg>
                                             <span className="btn-text opacity-50">team</span>
-                                            <h1 className="mb-3 mt-1">$199</h1>
+                                            <h1 className="mb-3 mt-1">₹199</h1>
                                             <p className="fs-7">
                                                 Best for small business owners, <br />
                                                 startups who needs.

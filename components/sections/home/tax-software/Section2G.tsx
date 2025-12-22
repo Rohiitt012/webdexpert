@@ -4,7 +4,7 @@ export default function Section2G() {
     return (
         <>
             {/*tax-software section 2g - Popular WhatsApp Business Cloud workflows*/}
-            <section className="tax-software-section-2g position-relative overflow-hidden py-120 bg-light-2">
+            <section className="tax-software-section-2g position-relative overflow-hidden py-120 bg-white">
                 <div className="container">
                     <div className="text-end mb-4">
                         <Link href="#" className="btn rounded-pill px-4 py-3 fw-bold" style={{ backgroundColor: "#ff00ff", color: "white", border: "none" }}>

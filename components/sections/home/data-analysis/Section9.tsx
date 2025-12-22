@@ -9,7 +9,7 @@ export default function Section9() {
     return (
         <>
             {/*data-analysis home section 9*/}
-            <section className="data-analysis-home-section-9 position-relative overflow-hidden py-150 ">
+            <section className="data-analysis-home-section-9 position-relative overflow-hidden py-80 ">
                 <div className="container position-relative z-3">
                     <div className="row">
                         <div className="text-center">

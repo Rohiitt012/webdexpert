@@ -29,6 +29,7 @@ export default function Home() {
                 <Section1 />
                 <StatsTicker />
                 <Section2 />
+                <Section4 />
                 <Section2A />
                 <Section2B />
                 <Section2C />
@@ -45,7 +46,6 @@ export default function Home() {
                 <Section2N />
                 <Section2O />
                 <Section3 />
-                <Section4 />
                 <Section6 />
                 <Section6A />
                 <Section7 />

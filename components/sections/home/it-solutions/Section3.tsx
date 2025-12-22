@@ -285,155 +285,176 @@ export default function Section3() {
                 <div className="container position-relative z-1">
                     <div className="row justify-content-center">
                         <div className="col-xl-8 text-center mb-5">
-                            <h2 className="text-dark display-5 mb-3">Choose the plan to build your brand</h2>
-                            <div className="d-inline-flex align-items-center px-2 py-1 rounded-pill border border-primary-subtle bg-light">
-                                <button type="button" className="btn btn-primary rounded-pill px-4 py-2 me-1">
-                                    STANDARD
-                                </button>
-                                <button type="button" className="btn btn-light rounded-pill px-4 py-2 text-primary">
-                                    ADVANCED
-                                </button>
-                            </div>
+                            <h2 className="text-dark display-5 mb-3">Web Hosting &amp; Email Pricing Plans</h2>
                         </div>
                     </div>
                     <div className="row g-4 align-items-stretch">
-                        {/* Starter plan */}
+                        {/* Basic Hosting plan */}
                         <div className="col-xl-4">
                             <div className="h-100 border rounded-4 p-4 p-lg-5 bg-white">
-                                <h4 className="text-dark mb-2">Starter</h4>
-                                <p className="text-muted mb-4">Made for a simple website or blog</p>
-                                <div className="d-flex align-items-baseline mb-2">
-                                    <span className="fs-1 fw-bold text-dark">$3.99</span>
-                                    <span className="ms-1 text-dark">/mo</span>
+                                <h4 className="text-dark mb-2">Basic Hosting – Starter Use</h4>
+                                <div className="d-flex align-items-baseline mb-3">
+                                    <span className="fs-1 fw-bold text-dark">₹1,499</span>
+                                    <span className="ms-1 text-dark">/ year</span>
                                 </div>
-                                <p className="text-muted mb-1">For 36 month term</p>
-                                <p className="text-muted mb-3">Renews at $9.99/mo</p>
-                                <span className="badge bg-success mb-4">Save 60%</span>
+                                <p className="text-muted mb-4">Starting at ₹1,499 / year</p>
                                 <button type="button" className="btn btn-primary w-100 mb-4">
                                     Choose Plan
                                 </button>
                                 <div className="text-start small text-muted">
-                                    <p className="fw-semibold text-primary mb-1">Websites &amp; Hosting</p>
-                                    <ul className="list-unstyled mb-3">
-                                        <li>10 Websites</li>
-                                        <li>10 GB NVMe Storage</li>
-                                        <li>Ideal for 40K visits/mo</li>
-                                    </ul>
-                                    <p className="fw-semibold text-primary mb-1">Security</p>
-                                    <ul className="list-unstyled mb-3">
-                                        <li>Free SSL - Let's Encrypt</li>
-                                        <li>Free Malware Scanning</li>
-                                        <li>Web Application Firewall</li>
-                                        <li>DDoS Protection Included</li>
-                                        <li>Weekly Website Backups</li>
-                                    </ul>
-                                    <p className="fw-semibold text-primary mb-1">Marketing</p>
                                     <ul className="list-unstyled mb-0">
-                                        <li>Yoast SEO - Free Plugin</li>
-                                        <li>Pro Email - Free Trial</li>
+                                        <li className="mb-2">
+                                            <i className="bi bi-check-lg text-success me-2" />
+                                            Shared hosting setup
+                                        </li>
+                                        <li className="mb-2">
+                                            <i className="bi bi-check-lg text-success me-2" />
+                                            Server &amp; hosting configuration
+                                        </li>
+                                        <li className="mb-2">
+                                            <i className="bi bi-check-lg text-success me-2" />
+                                            1 Website hosting
+                                        </li>
+                                        <li className="mb-2">
+                                            <i className="bi bi-check-lg text-success me-2" />
+                                            Free SSL installation
+                                        </li>
+                                        <li className="mb-2">
+                                            <i className="bi bi-check-lg text-success me-2" />
+                                            Basic technical support
+                                        </li>
                                     </ul>
+                                    <p className="fw-semibold text-primary mt-4 mb-0">Best for: Personal websites &amp; small businesses</p>
                                 </div>
                             </div>
                         </div>
 
-                        {/* Business plan (recommended) */}
+                        {/* Business Hosting plan (most popular) */}
                         <div className="col-xl-4">
                             <div className="h-100 border border-primary rounded-4 p-4 p-lg-5 bg-primary text-white position-relative shadow-sm">
                                 <div className="position-absolute top-0 start-50 translate-middle-x mt-0">
                                     <span className="badge bg-white text-primary rounded-pill px-3 py-2 fw-semibold">
-                                        RECOMMENDED
+                                        Most Popular
                                     </span>
                                 </div>
                                 <div className="mt-4 pt-3">
-                                    <h4 className="mb-2">Business</h4>
-                                    <p className="mb-4">Ideal for multiple sites needing storage, security, + backups</p>
-                                    <div className="d-flex align-items-baseline mb-2">
-                                        <span className="fs-1 fw-bold">$6.99</span>
-                                        <span className="ms-1">/mo</span>
+                                    <h4 className="mb-2">Business Hosting</h4>
+                                    <div className="d-flex align-items-baseline mb-3">
+                                        <span className="fs-1 fw-bold">₹3,999</span>
+                                        <span className="ms-1">/ year</span>
                                     </div>
-                                    <p className="mb-1">For 36 month term</p>
-                                    <p className="mb-3">Renews at $13.99/mo</p>
-                                    <span className="badge bg-success mb-4">Save 50%</span>
+                                    <p className="mb-4">Starting at ₹3,999 / year</p>
                                     <button type="button" className="btn btn-light text-primary w-100 mb-4">
                                         Choose Plan
                                     </button>
                                     <div className="text-start small">
-                                        <p className="fw-semibold mb-1">Websites &amp; Hosting</p>
-                                        <ul className="list-unstyled mb-3">
-                                            <li>50 Websites</li>
-                                            <li>50 GB NVMe Storage</li>
-                                            <li>Ideal for 200K visits/mo</li>
-                                        </ul>
-                                        <p className="fw-semibold mb-1">Security</p>
-                                        <ul className="list-unstyled mb-3">
-                                            <li>Free SSL - Let's Encrypt</li>
-                                            <li>Free Malware Scanning</li>
-                                            <li>Malware Detection/Removal</li>
-                                            <li>Web Application Firewall</li>
-                                            <li>DDoS Protection Included</li>
-                                            <li>Weekly Website Backups</li>
-                                        </ul>
-                                        <p className="fw-semibold mb-1">Marketing</p>
-                                        <ul className="list-unstyled mb-3">
-                                            <li>Yoast SEO - Free Plugin</li>
-                                            <li>Pro Email - Free Trial</li>
-                                        </ul>
-                                        <p className="fw-semibold mb-1">Advanced</p>
                                         <ul className="list-unstyled mb-0">
-                                            <li>Static Content Caching</li>
-                                            <li>Object Caching</li>
-                                            <li>SSH &amp; WP-CLI</li>
-                                            <li>WordPress Staging Site</li>
+                                            <li className="mb-2">
+                                                <i className="bi bi-check-lg text-white me-2" />
+                                                Optimized hosting &amp; server setup
+                                            </li>
+                                            <li className="mb-2">
+                                                <i className="bi bi-check-lg text-white me-2" />
+                                                Domain management assistance
+                                            </li>
+                                            <li className="mb-2">
+                                                <i className="bi bi-check-lg text-white me-2" />
+                                                Free SSL installation &amp; renewal
+                                            </li>
+                                            <li className="mb-2">
+                                                <i className="bi bi-check-lg text-white me-2" />
+                                                5 Business email IDs
+                                            </li>
+                                            <li className="mb-2">
+                                                <i className="bi bi-check-lg text-white me-2" />
+                                                Email setup (G Suite / Outlook)
+                                            </li>
+                                            <li className="mb-2">
+                                                <i className="bi bi-check-lg text-white me-2" />
+                                                Priority support
+                                            </li>
                                         </ul>
+                                        <p className="fw-semibold mt-4 mb-0">Best for: Small &amp; growing businesses</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        {/* eCommerce Essentials plan */}
+                        {/* Professional Hosting plan */}
                         <div className="col-xl-4">
                             <div className="h-100 border rounded-4 p-4 p-lg-5 bg-white">
-                                <h4 className="text-dark mb-2">eCommerce Essentials</h4>
-                                <p className="text-muted mb-4">Essential commerce tools to sell your content online</p>
-                                <div className="d-flex align-items-baseline mb-2">
-                                    <span className="fs-1 fw-bold text-dark">$14.99</span>
-                                    <span className="ms-1 text-dark">/mo</span>
+                                <h4 className="text-dark mb-2">Professional Hosting – High Performance</h4>
+                                <div className="d-flex align-items-baseline mb-3">
+                                    <span className="fs-1 fw-bold text-dark">₹7,999</span>
+                                    <span className="ms-1 text-dark">/ year</span>
                                 </div>
-                                <p className="text-muted mb-1">For 36 month term</p>
-                                <p className="text-muted mb-3">Renews at $21.99/mo</p>
-                                <span className="badge bg-success mb-4">Save 32%</span>
+                                <p className="text-muted mb-4">Starting at ₹7,999 / year</p>
                                 <button type="button" className="btn btn-primary w-100 mb-4">
                                     Choose Plan
                                 </button>
                                 <div className="text-start small text-muted">
-                                    <p className="fw-semibold text-primary mb-1">Websites &amp; Hosting</p>
-                                    <ul className="list-unstyled mb-3">
-                                        <li>100 Websites</li>
-                                        <li>100 GB NVMe Storage</li>
-                                        <li>Ideal for 400K visits/mo</li>
-                                    </ul>
-                                    <p className="fw-semibold text-primary mb-1">Commerce Tools</p>
-                                    <ul className="list-unstyled mb-3">
-                                        <li>Secure Payment Processing</li>
-                                        <li>WooCommerce Auto‑Install</li>
-                                        <li>Product Subscriptions</li>
-                                        <li>Visitor Memberships</li>
-                                        <li>Offer Paid Courses</li>
-                                        <li>Affiliate Program</li>
-                                    </ul>
-                                    <p className="fw-semibold text-primary mb-1">Security</p>
-                                    <ul className="list-unstyled mb-3">
-                                        <li>Free SSL - Let's Encrypt</li>
-                                        <li>Free Malware Scanning</li>
-                                        <li>Web Application Firewall</li>
-                                        <li>DDoS Protection Included</li>
-                                        <li>Weekly Website Backups</li>
-                                    </ul>
-                                    <p className="fw-semibold text-primary mb-1">Marketing</p>
                                     <ul className="list-unstyled mb-0">
-                                        <li>Yoast SEO - Free Plugin</li>
-                                        <li>Pro Email - Free Trial</li>
+                                        <li className="mb-2">
+                                            <i className="bi bi-check-lg text-success me-2" />
+                                            High-performance server setup
+                                        </li>
+                                        <li className="mb-2">
+                                            <i className="bi bi-check-lg text-success me-2" />
+                                            Domain &amp; DNS management
+                                        </li>
+                                        <li className="mb-2">
+                                            <i className="bi bi-check-lg text-success me-2" />
+                                            Advanced SSL security
+                                        </li>
+                                        <li className="mb-2">
+                                            <i className="bi bi-check-lg text-success me-2" />
+                                            10+ Business email IDs
+                                        </li>
+                                        <li className="mb-2">
+                                            <i className="bi bi-check-lg text-success me-2" />
+                                            G Suite / Outlook configuration
+                                        </li>
+                                        <li className="mb-2">
+                                            <i className="bi bi-check-lg text-success me-2" />
+                                            Backup &amp; uptime monitoring
+                                        </li>
                                     </ul>
+                                    <p className="fw-semibold text-primary mt-4 mb-0">Best for: Business &amp; high-traffic websites</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    {/* Individual Service Pricing */}
+                    <div className="row mt-5">
+                        <div className="col-xl-8 mx-auto">
+                            <div className="border rounded-4 p-4 p-lg-5 bg-light">
+                                <h4 className="text-dark mb-4">Individual Service Pricing (Minimum)</h4>
+                                <div className="row g-4">
+                                    <div className="col-md-6">
+                                        <div className="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
+                                            <span className="text-dark fw-semibold">Web hosting setup</span>
+                                            <span className="text-primary fw-bold">₹999 / year</span>
+                                        </div>
+                                        <div className="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
+                                            <span className="text-dark fw-semibold">Domain management</span>
+                                            <span className="text-primary fw-bold">₹499 / year</span>
+                                        </div>
+                                    </div>
+                                    <div className="col-md-6">
+                                        <div className="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
+                                            <span className="text-dark fw-semibold">SSL installation</span>
+                                            <span className="text-primary fw-bold">₹499 / year</span>
+                                        </div>
+                                        <div className="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
+                                            <span className="text-dark fw-semibold">Business email setup</span>
+                                            <span className="text-primary fw-bold">₹999 (one-time)</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="alert alert-warning mt-4 mb-0">
+                                    <i className="bi bi-exclamation-triangle me-2" />
+                                    <strong>Note:</strong> Email subscription charges by Google/Microsoft are separate.
                                 </div>
                             </div>
                         </div>

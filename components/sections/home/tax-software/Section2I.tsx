@@ -4,8 +4,14 @@ export default function Section2I() {
     return (
         <>
             {/*tax-software section 2i - Three Step Process*/}
-            <section className="tax-software-section-2i position-relative overflow-hidden py-120 bg-light-2">
+            <section className="tax-software-section-2i position-relative overflow-hidden py-120 bg-white">
                 <div className="container">
+                    <div className="row mb-5">
+                        <div className="col text-center">
+                            <span className="text-primary btn-text">How it works</span>
+                            <h2 className="text-dark mt-3 mb-0">Automated Messaging in 3 Steps</h2>
+                        </div>
+                    </div>
                     <div className="row g-4">
                         <div className="col-lg-4">
                             <div className="bg-white rounded-4 p-5 h-100 shadow-sm">

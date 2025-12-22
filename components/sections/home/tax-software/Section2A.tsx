@@ -9,7 +9,7 @@ export default function Section2A() {
                 <div className="container">
                     <div className="row py-120 align-items-center">
                         <div className="col-lg-5">
-                            <img className="mt-lg-0 mb-md-5 mb-3 wow img-custom-anim-left" src="/assets/img/tax-software-img/pages/tax-software/page-home/home-section-2/img-card.png" alt="WhatsApp Automation" />
+                            <img className="mt-lg-0 mb-md-5 mb-3" src="/assets/img/tax-software-img/pages/tax-software/page-home/home-section-2/img-card.png" alt="WhatsApp Automation" />
                         </div>
                         <div className="col-lg-6 offset-lg-1">
                             <h2 className="mb-3 text-anime-style-2">WhatsApp Automation (chatbots, flows, broadcasts)</h2>
@@ -22,11 +22,11 @@ export default function Section2A() {
             </section>
 
             {/* Lead Capture Automation - Image Right, Content Left */}
-            <section className="tax-software-section-2b position-relative overflow-hidden py-120 bg-light-2">
+            <section className="tax-software-section-2b position-relative overflow-hidden py-120 bg-white">
                 <div className="container">
                     <div className="row py-120 align-items-center">
                         <div className="col-lg-5 order-lg-2 offset-lg-1">
-                            <img className="mt-lg-0 mb-md-5 mb-3 wow img-custom-anim-right" src="/assets/img/tax-software-img/pages/tax-software/page-home/home-section-2/img-card.png" alt="Lead Capture Automation" />
+                            <img className="mt-lg-0 mb-md-5 mb-3" src="/assets/img/tax-software-img/pages/tax-software/page-home/home-section-2/img-card.png" alt="Lead Capture Automation" />
                         </div>
                         <div className="col-lg-6 order-lg-1">
                             <h2 className="mb-3 text-anime-style-2">Lead Capture → Follow-up Automation</h2>
@@ -43,7 +43,7 @@ export default function Section2A() {
                 <div className="container">
                     <div className="row py-120 align-items-center">
                         <div className="col-lg-5">
-                            <img className="mt-lg-0 mb-md-5 mb-3 wow img-custom-anim-left" src="/assets/img/tax-software-img/pages/tax-software/page-home/home-section-2/img-card.png" alt="Sales & Marketing Automation" />
+                            <img className="mt-lg-0 mb-md-5 mb-3" src="/assets/img/tax-software-img/pages/tax-software/page-home/home-section-2/img-card.png" alt="Sales & Marketing Automation" />
                         </div>
                         <div className="col-lg-6 offset-lg-1">
                             <h2 className="mb-3 text-anime-style-2">Sales & Marketing Automation</h2>
@@ -56,11 +56,11 @@ export default function Section2A() {
             </section>
 
             {/* API Integrations - Image Right, Content Left */}
-            <section className="tax-software-section-2d position-relative overflow-hidden py-120 bg-light-2">
+            <section className="tax-software-section-2d position-relative overflow-hidden py-120 bg-white">
                 <div className="container">
                     <div className="row py-120 align-items-center">
                         <div className="col-lg-5 order-lg-2 offset-lg-1">
-                            <img className="mt-lg-0 mb-md-5 mb-3 wow img-custom-anim-right" src="/assets/img/tax-software-img/pages/tax-software/page-home/home-section-2/img-card.png" alt="API Integrations" />
+                            <img className="mt-lg-0 mb-md-5 mb-3" src="/assets/img/tax-software-img/pages/tax-software/page-home/home-section-2/img-card.png" alt="API Integrations" />
                         </div>
                         <div className="col-lg-6 order-lg-1">
                             <h2 className="mb-3 text-anime-style-2">API Integrations (Payment, CRM, ERP)</h2>
@@ -77,7 +77,7 @@ export default function Section2A() {
                 <div className="container">
                     <div className="row py-120 align-items-center">
                         <div className="col-lg-5">
-                            <img className="mt-lg-0 mb-md-5 mb-3 wow img-custom-anim-left" src="/assets/img/tax-software-img/pages/tax-software/page-home/home-section-2/img-card.png" alt="Workflow Automation" />
+                            <img className="mt-lg-0 mb-md-5 mb-3" src="/assets/img/tax-software-img/pages/tax-software/page-home/home-section-2/img-card.png" alt="Workflow Automation" />
                         </div>
                         <div className="col-lg-6 offset-lg-1">
                             <h2 className="mb-3 text-anime-style-2">Zapier, Make, n8n Workflow Automation</h2>

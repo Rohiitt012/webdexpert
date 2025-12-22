@@ -16,8 +16,8 @@ export default function Section3() {
                                                 <img className="mt-lg-0 mb-md-5 mb-3 wow img-custom-anim-top" src="/assets/img/fintech-solution-img/pages/fintech-solution/page-home/home-section-3/img-1.png" alt="AstraX" />
                                             </div>
                                             <div className="col-lg-5 offset-lg-1">
-                                                <h2 className="mb-3 text-anime-style-2">User authentication</h2>
-                                                <p className="pb-md-4 text-anime-style-3">Secure and reliable user authentication ensuring protected access and smooth user experience.</p>
+                                                <h2 className="mb-3 text-anime-style-2">Custom CRM systems</h2>
+                                                <p className="pb-md-4 text-anime-style-3">We design and build CRM systems around your exact sales process, teams, and workflows.</p>
                                                 <ul className="list-unstyled">
                                                     <li className="d-flex align-items-center mb-3 gap-3" data-aos="fade-up" data-aos-delay={0}>
                                                         <div className="position-relative">
@@ -28,7 +28,7 @@ export default function Section3() {
                                                                 <path d="M9.77752 0.654773C9.54873 0.426023 9.17771 0.426023 8.94893 0.654812L3.77475 5.82899L1.05104 3.10528C0.822246 2.87649 0.45123 2.87649 0.222402 3.10528C-0.00642578 3.33407 -0.00642578 3.70509 0.222402 3.93391L3.36041 7.07192C3.47482 7.18634 3.62478 7.24352 3.77471 7.24352C3.92463 7.24352 4.07463 7.1863 4.189 7.07192L9.77752 1.48341C10.0063 1.25462 10.0063 0.883601 9.77752 0.654773Z" fill="#794AFF" />
                                                             </svg>
                                                         </div>
-                                                        <p className="mb-0 text-dark">We deliver complete web, CRM, and automation solutions tailored for businesses of all sizes.</p>
+                                                        <p className="mb-0 text-dark">Centralise all leads, clients, and deals in one custom CRM built for your business.</p>
                                                     </li>
                                                     <li className="d-flex align-items-center mb-3 gap-3" data-aos="fade-up" data-aos-delay={200}>
                                                         <div className="position-relative">
@@ -39,7 +39,7 @@ export default function Section3() {
                                                                 <path d="M9.77752 0.654773C9.54873 0.426023 9.17771 0.426023 8.94893 0.654812L3.77475 5.82899L1.05104 3.10528C0.822246 2.87649 0.45123 2.87649 0.222402 3.10528C-0.00642578 3.33407 -0.00642578 3.70509 0.222402 3.93391L3.36041 7.07192C3.47482 7.18634 3.62478 7.24352 3.77471 7.24352C3.92463 7.24352 4.07463 7.1863 4.189 7.07192L9.77752 1.48341C10.0063 1.25462 10.0063 0.883601 9.77752 0.654773Z" fill="#794AFF" />
                                                             </svg>
                                                         </div>
-                                                        <p className="mb-0 text-dark">Launch smart loyalty programs to reward customers, increase engagement, and build long-term brand relationships.</p>
+                                                        <p className="mb-0 text-dark">Track every interaction and deal stage so your team always knows what to do next.</p>
                                                     </li>
                                                 </ul>
                                                 <Link href="/services-details" className="btn btn-white border-dark mt-md-4 hover-up">
@@ -61,8 +61,8 @@ export default function Section3() {
                                                 <img className="mt-lg-0 mb-md-5 mb-3 wow img-custom-anim-top" src="/assets/img/fintech-solution-img/pages/fintech-solution/page-home/home-section-3/img-2.png" alt="AstraX" />
                                             </div>
                                             <div className="col-lg-5 order-lg-1">
-                                                <h2 className="mb-3 text-anime-style-2">Tax form integration</h2>
-                                                <p className="pb-md-4 text-anime-style-3">We offer a wide range of digital marketing services that cater to business of all sizes.</p>
+                                                <h2 className="mb-3 text-anime-style-2">Lead &amp; pipeline management</h2>
+                                                <p className="pb-md-4 text-anime-style-3">Convert more opportunities with pipelines that mirror how your sales team actually works.</p>
                                                 <ul className="list-unstyled">
                                                     <li className="d-flex align-items-center mb-3 gap-3" data-aos="fade-up" data-aos-delay={0}>
                                                         <div className="position-relative">
@@ -73,7 +73,7 @@ export default function Section3() {
                                                                 <path d="M9.77752 0.654773C9.54873 0.426023 9.17771 0.426023 8.94893 0.654812L3.77475 5.82899L1.05104 3.10528C0.822246 2.87649 0.45123 2.87649 0.222402 3.10528C-0.00642578 3.33407 -0.00642578 3.70509 0.222402 3.93391L3.36041 7.07192C3.47482 7.18634 3.62478 7.24352 3.77471 7.24352C3.92463 7.24352 4.07463 7.1863 4.189 7.07192L9.77752 1.48341C10.0063 1.25462 10.0063 0.883601 9.77752 0.654773Z" fill="#794AFF" />
                                                             </svg>
                                                         </div>
-                                                        <p className="mb-0 text-dark">Run loyalty program to reward customers</p>
+                                                        <p className="mb-0 text-dark">Capture leads from forms, ads, and campaigns directly into the right pipeline.</p>
                                                     </li>
                                                     <li className="d-flex align-items-center mb-3 gap-3" data-aos="fade-up" data-aos-delay={200}>
                                                         <div className="position-relative">
@@ -84,7 +84,7 @@ export default function Section3() {
                                                                 <path d="M9.77752 0.654773C9.54873 0.426023 9.17771 0.426023 8.94893 0.654812L3.77475 5.82899L1.05104 3.10528C0.822246 2.87649 0.45123 2.87649 0.222402 3.10528C-0.00642578 3.33407 -0.00642578 3.70509 0.222402 3.93391L3.36041 7.07192C3.47482 7.18634 3.62478 7.24352 3.77471 7.24352C3.92463 7.24352 4.07463 7.1863 4.189 7.07192L9.77752 1.48341C10.0063 1.25462 10.0063 0.883601 9.77752 0.654773Z" fill="#794AFF" />
                                                             </svg>
                                                         </div>
-                                                        <p className="mb-0 text-dark">Keep notes on valuable customer preferences</p>
+                                                        <p className="mb-0 text-dark">Assign owners, set stages, and never lose track of what’s moving or stuck.</p>
                                                     </li>
                                                 </ul>
                                                 <Link href="/services-details" className="btn btn-white border-dark mt-md-4 hover-up">
@@ -106,8 +106,8 @@ export default function Section3() {
                                                 <img className="mt-lg-0 mb-md-5 mb-3 wow img-custom-anim-top" src="/assets/img/fintech-solution-img/pages/fintech-solution/page-home/home-section-3/img-3.png" alt="AstraX" />
                                             </div>
                                             <div className="col-lg-6 offset-lg-1">
-                                                <h2 className="mb-3 text-anime-style-2">Income &amp; expense track</h2>
-                                                <p className="pb-md-4 text-anime-style-3 text-opacity-75">We offer a wide range of digital marketing services that cater to business of all sizes.</p>
+                                                <h2 className="mb-3 text-anime-style-2">Automation, tracking &amp; integrations</h2>
+                                                <p className="pb-md-4 text-anime-style-3 text-opacity-75">Automate follow‑ups and connect your CRM with the tools you already use.</p>
                                                 <ul className="list-unstyled">
                                                     <li className="d-flex align-items-center mb-3 gap-3" data-aos="fade-up" data-aos-delay={0}>
                                                         <div className="position-relative">
@@ -118,7 +118,7 @@ export default function Section3() {
                                                                 <path d="M9.77752 0.654773C9.54873 0.426023 9.17771 0.426023 8.94893 0.654812L3.77475 5.82899L1.05104 3.10528C0.822246 2.87649 0.45123 2.87649 0.222402 3.10528C-0.00642578 3.33407 -0.00642578 3.70509 0.222402 3.93391L3.36041 7.07192C3.47482 7.18634 3.62478 7.24352 3.77471 7.24352C3.92463 7.24352 4.07463 7.1863 4.189 7.07192L9.77752 1.48341C10.0063 1.25462 10.0063 0.883601 9.77752 0.654773Z" fill="#794AFF" />
                                                             </svg>
                                                         </div>
-                                                        <p className="mb-0 text-dark">Run loyalty program to reward customers</p>
+                                                        <p className="mb-0 text-dark">Automated WhatsApp &amp; email follow‑ups that trigger from lead and deal actions.</p>
                                                     </li>
                                                     <li className="d-flex align-items-center mb-3 gap-3" data-aos="fade-up" data-aos-delay={200}>
                                                         <div className="position-relative">
@@ -129,7 +129,7 @@ export default function Section3() {
                                                                 <path d="M9.77752 0.654773C9.54873 0.426023 9.17771 0.426023 8.94893 0.654812L3.77475 5.82899L1.05104 3.10528C0.822246 2.87649 0.45123 2.87649 0.222402 3.10528C-0.00642578 3.33407 -0.00642578 3.70509 0.222402 3.93391L3.36041 7.07192C3.47482 7.18634 3.62478 7.24352 3.77471 7.24352C3.92463 7.24352 4.07463 7.1863 4.189 7.07192L9.77752 1.48341C10.0063 1.25462 10.0063 0.883601 9.77752 0.654773Z" fill="#794AFF" />
                                                             </svg>
                                                         </div>
-                                                        <p className="mb-0 text-dark">Keep notes on valuable customer preferences</p>
+                                                        <p className="mb-0 text-dark">CRM + API integrations with Meta, Google, WhatsApp and more for a single source of truth.</p>
                                                     </li>
                                                 </ul>
                                                 <Link href="/services-details" className="btn btn-white border-dark mt-md-4 hover-up">

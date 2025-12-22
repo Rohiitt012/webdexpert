@@ -2,7 +2,7 @@ export default function Section2J() {
     return (
         <>
             {/*fintech-solution section 2j - CRM Implementation Services*/}
-            <section className="fintech-solution-section-2j position-relative overflow-hidden py-120 bg-light-2">
+            <section className="fintech-solution-section-2j position-relative overflow-hidden py-120 bg-white">
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-5 order-lg-2 offset-lg-1">

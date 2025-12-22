@@ -4,7 +4,7 @@ export default function Section3() {
     return (
         <>
             {/*data-analysis home section 3*/}
-            <section className="data-analysis-home-section-3 position-relative overflow-hidden pb-120 pt-120 bg-secondary-2">
+            <section className="data-analysis-home-section-3 position-relative overflow-hidden pb-80 pt-80 bg-secondary-2">
                 <div className="container position-relative z-1">
                     <span className="btn-text text-primary">our expertise</span>
                     <div className="row">
