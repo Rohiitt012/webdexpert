@@ -37,47 +37,36 @@ export default function Section3D() {
                                 </p>
                                 <ul className="list-unstyled mb-0">
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Up to 10 social accounts</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Unlimited post scheduling</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Best time to post recommendations</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>AI assistant with image and caption generator</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Canva and Adobe Express templates</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>One inbox for all social accounts</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>DM automations</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Search the past 7 days for brand and competitor mentions</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Analyze brand and competitor sentiment</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Benchmark against 5 competitors</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Assign DMs to teammates**</span>
                                     </li>
                                     <li className="mb-0">
@@ -119,51 +108,39 @@ export default function Section3D() {
                                     </p>
                                     <ul className="list-unstyled mb-0">
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Unlimited social accounts</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Customizable analytics reports and templates</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Saved message replies and auto-responses</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Team approval workflows**</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Bulk schedule up to 350 posts at once</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Auto-route and tag messages</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Benchmark against 20 competitors</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Export, email, and schedule reports</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Inbox reporting and analytics</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Search the past 30 days for brand and competitor mentions</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Outbound post tagging and reporting</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Custom user access permissions**</span>
                                         </li>
                                         <li className="mb-0">
@@ -196,23 +173,18 @@ export default function Section3D() {
                                 </p>
                                 <ul className="list-unstyled mb-0">
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>A fully customized plan to maximize your investment</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Add as many users as you need</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Exclusive access to our most powerful tools</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Enterprise customer support</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span className="text-primary me-2" style={{ fontSize: '18px' }}>✓</span>
                                         <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Single sign-on (SSO)</span>
                                     </li>
                                 </ul>

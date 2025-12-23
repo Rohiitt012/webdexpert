@@ -9,7 +9,7 @@ export default function Section1() {
                     <div className="row g-4">
                         <div className="col-lg-4 col-md-6">
                             <div className="card-contact card rounded-4 position-relative h-100" data-aos="fade-up" data-aos-delay={0}>
-                                    <Link href="#" className="card-contact-img position-relative d-block zoom-img rounded-3 rounded-bottom-0 overflow-hidden">
+                                <Link href="#" className="card-contact-img position-relative d-block zoom-img rounded-3 rounded-bottom-0 overflow-hidden">
                                     <img className="w-100" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-contact/img-1.png" alt="Xzect Labs" />
                                 </Link>
                                 <div className="card-contact-body p-4 d-flex flex-column">
@@ -29,66 +29,6 @@ export default function Section1() {
                                         <Link href="telto:(123) 456 789 00" className="fs-7">
                                             <i className="ri-phone-line text-primary" />
                                             <span className="@@color-text"> +91 98188 06393 </span>
-                                        </Link>
-                                    </div>
-                                    <Link href="#" className="text-decoration-underline text-uppercase">
-                                        View on Google Map
-                                    </Link>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-lg-4 col-md-6">
-                            <div className="card-contact card rounded-4 position-relative h-100" data-aos="fade-up" data-aos-delay={200}>
-                                    <Link href="#" className="card-contact-img position-relative d-block zoom-img rounded-3 rounded-bottom-0 overflow-hidden">
-                                    <img className="w-100" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-contact/img-2.png" alt="Xzect Labs" />
-                                </Link>
-                                <div className="card-contact-body p-4 d-flex flex-column">
-                                    <div className="card-contact-info mt-2 mb-auto">
-                                        <Link href="#">
-                                            <h6>London</h6>
-                                        </Link>
-                                        <p className="mb-0">456 Tech Lane, Floor 7</p>
-                                        <p className="mb-0">London, EC1A 1BB</p>
-                                        <p className="mb-0">United Kingdom</p>
-                                    </div>
-                                    <div className="d-flex flex-column mt-3 gap-2 mb-4">
-                                        <Link href="#" className="fs-7">
-                                            <i className="ri-mail-open-line text-primary" />
-                                            <span className="@@color-text"> &nbsp; Email: contact@xzect.com </span>
-                                        </Link>
-                                        <Link href="telto:(123) 456 789 00" className="fs-7">
-                                            <i className="ri-phone-line text-primary" />
-                                            <span className="@@color-text"> Contact: +91 98188 06393 </span>
-                                        </Link>
-                                    </div>
-                                    <Link href="#" className="text-decoration-underline text-uppercase">
-                                        View on Google Map
-                                    </Link>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-lg-4 col-md-6">
-                            <div className="card-contact card rounded-4 position-relative h-100" data-aos="fade-up" data-aos-delay={400}>
-                                    <Link href="#" className="card-img-top position-relative d-block zoom-img rounded-3 rounded-bottom-0 overflow-hidden">
-                                    <img className="w-100" src="/assets/img/ai-solutions-img/pages/ai-solutions/page-contact/img-3.png" alt="Xzect Labs" />
-                                </Link>
-                                <div className="card-contact-body p-4 d-flex flex-column">
-                                    <div className="card-contact-info mt-2 mb-auto">
-                                        <Link href="#">
-                                            <h6>Singapore</h6>
-                                        </Link>
-                                        <p className="mb-0">12789 Future Street, #12-34</p>
-                                        <p className="mb-0">Singapore 068987</p>
-                                        <p className="mb-0">Singapore</p>
-                                    </div>
-                                    <div className="d-flex flex-column mt-3 gap-2 mb-4">
-                                        <Link href="#" className="fs-7">
-                                            <i className="ri-mail-open-line text-primary" />
-                                            <span className="@@color-text"> &nbsp; Email: contact@xzect.com </span>
-                                        </Link>
-                                        <Link href="telto:(123) 456 789 00" className="fs-7">
-                                            <i className="ri-phone-line text-primary" />
-                                            <span className="@@color-text"> Contact: +91 98188 06393 </span>
                                         </Link>
                                     </div>
                                     <Link href="#" className="text-decoration-underline text-uppercase">

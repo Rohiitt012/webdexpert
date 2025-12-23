@@ -2,10 +2,10 @@ export default function Section11() {
     return (
         <>
             {/*it-solutions-home section 11 - Hosting, Domain & Email Services Pricing*/}
-            <section className="it-solutions-home-section-11 position-relative overflow-hidden py-80 bg-white">
+            <section className="it-solutions-home-section-11 position-relative overflow-hidden py-5 bg-white">
                 <div className="container">
                     {/* Section Header */}
-                    <div className="row mb-60">
+                    <div className="row mb-5">
                         <div className="col-12 text-center">
                             <h2 style={{ fontSize: '40px', fontWeight: 'bold', color: '#000', marginBottom: '15px' }}>
                                 🌐 Hosting, Domain & Email Services — Pricing
@@ -17,7 +17,7 @@ export default function Section11() {
                     </div>
 
                     {/* Individual Services */}
-                    <div className="row g-4 mb-60">
+                    <div className="row g-4 mb-5">
                         {/* Web Hosting & Server Setup */}
                         <div className="col-lg-3 col-md-6">
                             <div style={{
@@ -40,29 +40,24 @@ export default function Section11() {
                                 </p>
                                 <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         Hosting account setup
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         Server configuration
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         Performance & security basics
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         Backup configuration
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         Email & DNS setup
                                     </li>
                                 </ul>
-                                <div style={{ 
-                                    marginTop: '20px', 
-                                    paddingTop: '15px', 
+                                <div style={{
+                                    marginTop: '20px',
+                                    paddingTop: '15px',
                                     borderTop: '1px solid #e0e0e0',
                                     fontSize: '14px',
                                     color: '#666',
@@ -95,25 +90,21 @@ export default function Section11() {
                                 </p>
                                 <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         Domain registration / transfer
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         DNS management
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         Renewal reminders
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         Domain security settings
                                     </li>
                                 </ul>
-                                <div style={{ 
-                                    marginTop: '20px', 
-                                    paddingTop: '15px', 
+                                <div style={{
+                                    marginTop: '20px',
+                                    paddingTop: '15px',
                                     borderTop: '1px solid #e0e0e0',
                                     fontSize: '14px',
                                     color: '#666',
@@ -146,25 +137,21 @@ export default function Section11() {
                                 </p>
                                 <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         SSL certificate installation
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         HTTPS configuration
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         Browser security setup
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         Basic SSL verification
                                     </li>
                                 </ul>
-                                <div style={{ 
-                                    marginTop: '20px', 
-                                    paddingTop: '15px', 
+                                <div style={{
+                                    marginTop: '20px',
+                                    paddingTop: '15px',
                                     borderTop: '1px solid #e0e0e0',
                                     fontSize: '14px',
                                     color: '#666',
@@ -200,25 +187,21 @@ export default function Section11() {
                                 </p>
                                 <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         Email account setup
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         DNS & MX record configuration
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         Web & mobile access
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '10px' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '8px' }}></i>
                                         Spam & security setup
                                     </li>
                                 </ul>
-                                <div style={{ 
-                                    marginTop: '20px', 
-                                    paddingTop: '15px', 
+                                <div style={{
+                                    marginTop: '20px',
+                                    paddingTop: '15px',
                                     borderTop: '1px solid #e0e0e0',
                                     fontSize: '14px',
                                     color: '#666',
@@ -231,10 +214,10 @@ export default function Section11() {
                     </div>
 
                     {/* Comparison Table */}
-                    <div className="row mb-60">
+                    <div className="row mb-5">
                         <div className="col-12">
-                            <div style={{ 
-                                padding: '40px', 
+                            <div style={{
+                                padding: '40px',
                                 backgroundColor: '#fff',
                                 border: '1px solid #e0e0e0',
                                 borderRadius: '8px'
@@ -285,7 +268,7 @@ export default function Section11() {
                     </div>
 
                     {/* Packages Section Header */}
-                    <div className="row mb-40">
+                    <div className="row mb-5">
                         <div className="col-12 text-center">
                             <h3 style={{ fontSize: '32px', fontWeight: 'bold', color: '#000', marginBottom: '15px' }}>
                                 📦 Hosting & Email Packages
@@ -297,7 +280,7 @@ export default function Section11() {
                     </div>
 
                     {/* Package Cards */}
-                    <div className="row g-4 mb-60">
+                    <div className="row g-4 mb-5">
                         {/* Starter Package */}
                         <div className="col-lg-4">
                             <div style={{
@@ -321,21 +304,18 @@ export default function Section11() {
                                 </div>
                                 <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 25px 0' }}>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '12px', display: 'flex', alignItems: 'flex-start' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '10px', marginTop: '3px' }}></i>
                                         <span>Web hosting & server setup</span>
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '12px', display: 'flex', alignItems: 'flex-start' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '10px', marginTop: '3px' }}></i>
                                         <span>Domain management</span>
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '12px', display: 'flex', alignItems: 'flex-start' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '10px', marginTop: '3px' }}></i>
                                         <span>SSL installation</span>
                                     </li>
                                 </ul>
-                                <div style={{ 
-                                    marginTop: '20px', 
-                                    paddingTop: '20px', 
+                                <div style={{
+                                    marginTop: '20px',
+                                    paddingTop: '20px',
                                     borderTop: '1px solid #e0e0e0',
                                     fontSize: '14px',
                                     color: '#666',
@@ -385,25 +365,21 @@ export default function Section11() {
                                 </div>
                                 <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 25px 0' }}>
                                     <li style={{ fontSize: '16px', color: '#fff', marginBottom: '12px', display: 'flex', alignItems: 'flex-start' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '10px', marginTop: '3px' }}></i>
                                         <span>Hosting & server optimization</span>
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#fff', marginBottom: '12px', display: 'flex', alignItems: 'flex-start' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '10px', marginTop: '3px' }}></i>
                                         <span>Domain management</span>
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#fff', marginBottom: '12px', display: 'flex', alignItems: 'flex-start' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '10px', marginTop: '3px' }}></i>
                                         <span>SSL installation</span>
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#fff', marginBottom: '12px', display: 'flex', alignItems: 'flex-start' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '10px', marginTop: '3px' }}></i>
                                         <span>Business email setup (Up to 5 users)</span>
                                     </li>
                                 </ul>
-                                <div style={{ 
-                                    marginTop: '20px', 
-                                    paddingTop: '20px', 
+                                <div style={{
+                                    marginTop: '20px',
+                                    paddingTop: '20px',
                                     borderTop: '1px solid #FDB913',
                                     fontSize: '14px',
                                     color: '#fff',
@@ -437,29 +413,24 @@ export default function Section11() {
                                 </div>
                                 <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 25px 0' }}>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '12px', display: 'flex', alignItems: 'flex-start' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '10px', marginTop: '3px' }}></i>
                                         <span>High-performance server setup</span>
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '12px', display: 'flex', alignItems: 'flex-start' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '10px', marginTop: '3px' }}></i>
                                         <span>Advanced security & backups</span>
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '12px', display: 'flex', alignItems: 'flex-start' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '10px', marginTop: '3px' }}></i>
                                         <span>Domain & SSL management</span>
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '12px', display: 'flex', alignItems: 'flex-start' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '10px', marginTop: '3px' }}></i>
                                         <span>Business emails (Up to 15 users)</span>
                                     </li>
                                     <li style={{ fontSize: '16px', color: '#666', marginBottom: '12px', display: 'flex', alignItems: 'flex-start' }}>
-                                        <i className="bi bi-check-circle-fill" style={{ color: '#FDB913', marginRight: '10px', marginTop: '3px' }}></i>
                                         <span>Priority support</span>
                                     </li>
                                 </ul>
-                                <div style={{ 
-                                    marginTop: '20px', 
-                                    paddingTop: '20px', 
+                                <div style={{
+                                    marginTop: '20px',
+                                    paddingTop: '20px',
                                     borderTop: '1px solid #e0e0e0',
                                     fontSize: '14px',
                                     color: '#666',
@@ -472,7 +443,7 @@ export default function Section11() {
                     </div>
 
                     {/* CTA Section */}
-                    <div className="row mb-60">
+                    <div className="row mb-5">
                         <div className="col-12">
                             <div style={{
                                 padding: '50px',
@@ -487,8 +458,8 @@ export default function Section11() {
                                     We manage everything so you can focus on growth.
                                 </p>
                                 <div style={{ display: 'flex', gap: '15px', justifyContent: 'center', flexWrap: 'wrap' }}>
-                                    <a 
-                                        href="/contact" 
+                                    <a
+                                        href="/contact"
                                         style={{
                                             padding: '15px 35px',
                                             backgroundColor: '#FDB913',
@@ -504,8 +475,8 @@ export default function Section11() {
                                     >
                                         👉 Get Hosting Now
                                     </a>
-                                    <a 
-                                        href="/contact" 
+                                    <a
+                                        href="/contact"
                                         style={{
                                             padding: '15px 35px',
                                             backgroundColor: 'transparent',
@@ -521,8 +492,8 @@ export default function Section11() {
                                     >
                                         👉 Set Up Business Email
                                     </a>
-                                    <a 
-                                        href="/contact" 
+                                    <a
+                                        href="/contact"
                                         style={{
                                             padding: '15px 35px',
                                             backgroundColor: '#fff',

@@ -27,7 +27,7 @@ export default function Home() {
             <Layout theme="fintech-solution">
                 <Section1 />
                 <StatsTicker />
-                <Section2 />
+                <Section2 showLogos={false} />
                 <Section2A />
                 <Section2B />
                 <Section2C />

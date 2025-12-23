@@ -4,12 +4,12 @@ export default function Section4C() {
 	return (
 		<>
 			{/*startup home section 4C - Website Optimization & UX Services Pricing*/}
-			<section className="startup-home-section-4c position-relative py-120 bg-white">
+			<section className="startup-home-section-4c position-relative py-5 bg-white">
 				<div className="container position-relative z-1">
 					<div className="row justify-content-center">
 						<div className="col-xl-10 text-center mb-5">
 							<span className="btn-text text-primary">Our Pricing</span>
-							<h2 className="text-dark my-3 text-anime-style-2 fw-bold">
+							<h2 className="text-dark my-3 fw-bold">
 								💎 Website Optimization &amp; UX Services
 							</h2>
 						</div>
@@ -33,19 +33,15 @@ export default function Section4C() {
 								</p>
 								<ul className="list-unstyled mb-0 small text-muted">
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Modern, conversion-focused design</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Improved navigation &amp; layout hierarchy</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>CTA &amp; user flow optimization</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Desktop &amp; mobile UI alignment</span>
 									</li>
 								</ul>
@@ -68,19 +64,15 @@ export default function Section4C() {
 								</p>
 								<ul className="list-unstyled mb-0 small text-muted">
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Image &amp; asset optimization</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Caching &amp; code minification</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Performance audit &amp; fixes</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Improved page load speed</span>
 									</li>
 								</ul>
@@ -103,19 +95,15 @@ export default function Section4C() {
 								</p>
 								<ul className="list-unstyled mb-0 small text-muted">
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Mobile &amp; tablet layout fixes</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Touch-friendly UI elements</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Cross-device testing</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Consistent design across devices</span>
 									</li>
 								</ul>
@@ -138,19 +126,15 @@ export default function Section4C() {
 								</p>
 								<ul className="list-unstyled mb-0 small text-muted">
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>SEO-friendly URL structure</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Proper heading hierarchy (H1–H6)</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Meta tags &amp; image optimization</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Sitemap &amp; robots.txt setup</span>
 									</li>
 								</ul>
@@ -175,20 +159,17 @@ export default function Section4C() {
 								<div className="d-flex align-items-baseline mb-3">
 									<span className="fs-1 fw-bold text-dark">₹24,999</span>
 								</div>
-								<Link href="/contact" className="btn btn-primary w-100 mb-4 hover-up">
+								<Link href="/contact" className="btn btn-primary w-100 mb-4">
 									Choose Plan
 								</Link>
 								<ul className="list-unstyled mb-0 small text-muted">
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Speed &amp; performance optimization</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Mobile responsiveness</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Basic SEO-optimized structure</span>
 									</li>
 								</ul>
@@ -198,42 +179,53 @@ export default function Section4C() {
 
 						{/* Package 2: UX & Growth Package (Most Popular) */}
 						<div className="col-xl-4">
-							<div className="h-100 border border-primary rounded-4 p-4 p-lg-5 bg-primary text-white position-relative shadow-sm">
+							<div
+								className="h-100 border rounded-4 p-4 p-lg-5 text-white position-relative shadow-sm"
+								style={{ backgroundColor: '#000', border: '2px solid #FDB913' }}
+							>
 								<div className="position-absolute top-0 start-50 translate-middle-x mt-0">
-									<span className="badge bg-white text-primary rounded-pill px-3 py-2 fw-semibold">
+									<span
+										className="badge rounded-pill px-3 py-2 fw-semibold"
+										style={{ backgroundColor: '#FDB913', color: '#000' }}
+									>
 										Most Popular
 									</span>
 								</div>
 								<div className="mt-4 pt-3">
 									<div className="mb-3">
 										<span className="fs-4">🚀</span>
-										<h4 className="mb-0 d-inline-block ms-2">UX &amp; Growth Package</h4>
+										<h4 className="mb-0 d-inline-block ms-2 text-white">UX &amp; Growth Package</h4>
 									</div>
 									<div className="d-flex align-items-baseline mb-3">
-										<span className="fs-1 fw-bold">₹49,999</span>
+										<span className="fs-1 fw-bold text-white">₹49,999</span>
 									</div>
-									<Link href="/contact" className="btn btn-light text-primary w-100 mb-4 hover-up">
+									<Link
+										href="/contact"
+										className="btn w-100 mb-4"
+										style={{
+											backgroundColor: '#FDB913',
+											color: '#000',
+											fontWeight: 'bold',
+											border: 'none'
+										}}
+									>
 										Choose Plan
 									</Link>
 									<ul className="list-unstyled mb-0 small">
 										<li className="mb-2 d-flex align-items-start">
-											<i className="bi bi-check-lg text-white me-2 mt-1" />
 											<span>Complete UI/UX redesign</span>
 										</li>
 										<li className="mb-2 d-flex align-items-start">
-											<i className="bi bi-check-lg text-white me-2 mt-1" />
 											<span>Speed &amp; performance optimization</span>
 										</li>
 										<li className="mb-2 d-flex align-items-start">
-											<i className="bi bi-check-lg text-white me-2 mt-1" />
 											<span>Mobile responsiveness</span>
 										</li>
 										<li className="mb-2 d-flex align-items-start">
-											<i className="bi bi-check-lg text-white me-2 mt-1" />
 											<span>SEO-optimized structure</span>
 										</li>
 									</ul>
-									<p className="fw-semibold mt-4 mb-0 small">Ideal for: Conversion-focused business websites</p>
+									<p className="fw-semibold mt-4 mb-0 small" style={{ color: '#FDB913' }}>Ideal for: Conversion-focused business websites</p>
 								</div>
 							</div>
 						</div>
@@ -248,28 +240,23 @@ export default function Section4C() {
 								<div className="d-flex align-items-baseline mb-3">
 									<span className="fs-1 fw-bold text-dark">₹89,999</span>
 								</div>
-								<Link href="/contact" className="btn btn-primary w-100 mb-4 hover-up">
+								<Link href="/contact" className="btn btn-primary w-100 mb-4">
 									Choose Plan
 								</Link>
 								<ul className="list-unstyled mb-0 small text-muted">
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Advanced UI/UX redesign</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>High-performance optimization</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Mobile-first experience</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Advanced technical SEO structure</span>
 									</li>
 									<li className="mb-2 d-flex align-items-start">
-										<i className="bi bi-check-lg text-success me-2 mt-1" />
 										<span>Conversion-focused improvements</span>
 									</li>
 								</ul>

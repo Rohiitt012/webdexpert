@@ -19,7 +19,7 @@ export default function StatsTicker() {
                     display: inline-block;
                     white-space: nowrap;
                     will-change: transform;
-                    animation: tickerMove 28s linear infinite;
+                    animation: tickerMove 60s linear infinite;
                     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
                     font-size: 26px;
                     font-weight: 600;
@@ -39,15 +39,42 @@ export default function StatsTicker() {
                 }
                 @keyframes tickerMove {
                     0% {
-                        transform: translateX(100%);
+                        transform: translateX(0);
                     }
                     100% {
-                        transform: translateX(-100%);
+                        transform: translateX(-50%);
                     }
                 }
             `}</style>
             <div className="ticker" aria-label="key-highlights">
                 <div className="ticker__track">
+                    {/* First Half */}
+                    <span className="ticker__item">1000+ Projects</span>
+                    <span className="ticker__item">20+ Team members</span>
+                    <span className="ticker__item">Top Rated plus on Upwork</span>
+                    <span className="ticker__item">world wide clients</span>
+                    <span className="ticker__item">1000+ Projects</span>
+                    <span className="ticker__item">20+ Team members</span>
+                    <span className="ticker__item">Top Rated plus on Upwork</span>
+                    <span className="ticker__item">world wide clients</span>
+                    <span className="ticker__item">1000+ Projects</span>
+                    <span className="ticker__item">20+ Team members</span>
+                    <span className="ticker__item">Top Rated plus on Upwork</span>
+                    <span className="ticker__item">world wide clients</span>
+                    <span className="ticker__item">1000+ Projects</span>
+                    <span className="ticker__item">20+ Team members</span>
+                    <span className="ticker__item">Top Rated plus on Upwork</span>
+                    <span className="ticker__item">world wide clients</span>
+
+                    {/* Second Half (Identical copy) */}
+                    <span className="ticker__item">1000+ Projects</span>
+                    <span className="ticker__item">20+ Team members</span>
+                    <span className="ticker__item">Top Rated plus on Upwork</span>
+                    <span className="ticker__item">world wide clients</span>
+                    <span className="ticker__item">1000+ Projects</span>
+                    <span className="ticker__item">20+ Team members</span>
+                    <span className="ticker__item">Top Rated plus on Upwork</span>
+                    <span className="ticker__item">world wide clients</span>
                     <span className="ticker__item">1000+ Projects</span>
                     <span className="ticker__item">20+ Team members</span>
                     <span className="ticker__item">Top Rated plus on Upwork</span>

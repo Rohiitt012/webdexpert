@@ -2,7 +2,7 @@ export default function Section9() {
     return (
         <>
             {/*application-home-section-9 - Product & Application Development Pricing*/}
-            <section className="application-home-section-9 position-relative overflow-hidden py-120 bg-white">
+            <section className="application-home-section-9 position-relative overflow-hidden py-5 bg-white">
                 <div className="container">
                     {/* Header */}
                     <div className="row mb-5">
@@ -33,11 +33,11 @@ export default function Section9() {
                                     </p>
                                 </div>
                                 <ul className="list-unstyled" style={{ fontSize: '16px' }}>
-                                    <li className="mb-2">✔ Custom product architecture</li>
-                                    <li className="mb-2">✔ User authentication & roles</li>
-                                    <li className="mb-2">✔ Subscription & billing logic</li>
-                                    <li className="mb-2">✔ API & third-party integrations</li>
-                                    <li className="mb-2">✔ Scalable cloud-ready setup</li>
+                                    <li className="mb-2">Custom product architecture</li>
+                                    <li className="mb-2">User authentication & roles</li>
+                                    <li className="mb-2">Subscription & billing logic</li>
+                                    <li className="mb-2">API & third-party integrations</li>
+                                    <li className="mb-2">Scalable cloud-ready setup</li>
                                 </ul>
                                 <div className="mt-3 pt-3 border-top">
                                     <strong style={{ fontSize: '14px', color: '#FDB913' }}>Best for:</strong>
@@ -61,11 +61,11 @@ export default function Section9() {
                                     </p>
                                 </div>
                                 <ul className="list-unstyled" style={{ fontSize: '16px' }}>
-                                    <li className="mb-2">✔ Custom UI/UX for dashboards</li>
-                                    <li className="mb-2">✔ Role-based access control</li>
-                                    <li className="mb-2">✔ Data visualization & reports</li>
-                                    <li className="mb-2">✔ Secure admin workflows</li>
-                                    <li className="mb-2">✔ Performance-optimized backend</li>
+                                    <li className="mb-2">Custom UI/UX for dashboards</li>
+                                    <li className="mb-2">Role-based access control</li>
+                                    <li className="mb-2">Data visualization & reports</li>
+                                    <li className="mb-2">Secure admin workflows</li>
+                                    <li className="mb-2">Performance-optimized backend</li>
                                 </ul>
                                 <div className="mt-3 pt-3 border-top">
                                     <strong style={{ fontSize: '14px', color: '#FDB913' }}>Best for:</strong>
@@ -89,11 +89,11 @@ export default function Section9() {
                                     </p>
                                 </div>
                                 <ul className="list-unstyled" style={{ fontSize: '16px' }}>
-                                    <li className="mb-2">✔ Android & iOS app development</li>
-                                    <li className="mb-2">✔ Modern UI/UX design</li>
-                                    <li className="mb-2">✔ API integration & backend</li>
-                                    <li className="mb-2">✔ Push notifications</li>
-                                    <li className="mb-2">✔ App store deployment support</li>
+                                    <li className="mb-2">Android & iOS app development</li>
+                                    <li className="mb-2">Modern UI/UX design</li>
+                                    <li className="mb-2">API integration & backend</li>
+                                    <li className="mb-2">Push notifications</li>
+                                    <li className="mb-2">App store deployment support</li>
                                 </ul>
                                 <div className="mt-3 pt-3 border-top">
                                     <strong style={{ fontSize: '14px', color: '#FDB913' }}>Best for:</strong>
@@ -117,11 +117,11 @@ export default function Section9() {
                                     </p>
                                 </div>
                                 <ul className="list-unstyled" style={{ fontSize: '16px' }}>
-                                    <li className="mb-2">✔ PWA architecture & setup</li>
-                                    <li className="mb-2">✔ Offline functionality</li>
-                                    <li className="mb-2">✔ App-like UX</li>
-                                    <li className="mb-2">✔ Performance & security optimization</li>
-                                    <li className="mb-2">✔ SEO-friendly structure</li>
+                                    <li className="mb-2">PWA architecture & setup</li>
+                                    <li className="mb-2">Offline functionality</li>
+                                    <li className="mb-2">App-like UX</li>
+                                    <li className="mb-2">Performance & security optimization</li>
+                                    <li className="mb-2">SEO-friendly structure</li>
                                 </ul>
                                 <div className="mt-3 pt-3 border-top">
                                     <strong style={{ fontSize: '14px', color: '#FDB913' }}>Best for:</strong>
@@ -151,24 +151,24 @@ export default function Section9() {
                                     <tbody>
                                         <tr>
                                             <td style={{ padding: '16px' }}>Custom UI/UX</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✔</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✔</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✔</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✔</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>Yes</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>Yes</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>Yes</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>Yes</td>
                                         </tr>
                                         <tr style={{ backgroundColor: '#f8f9fa' }}>
                                             <td style={{ padding: '16px' }}>Authentication & Roles</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✔</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✔</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✔</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✔</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>Yes</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>Yes</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>Yes</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>Yes</td>
                                         </tr>
                                         <tr>
                                             <td style={{ padding: '16px' }}>API Integrations</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✔</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✔</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✔</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✔</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>Yes</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>Yes</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>Yes</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>Yes</td>
                                         </tr>
                                         <tr style={{ backgroundColor: '#f8f9fa' }}>
                                             <td style={{ padding: '16px' }}>Scalability</td>
@@ -179,17 +179,17 @@ export default function Section9() {
                                         </tr>
                                         <tr>
                                             <td style={{ padding: '16px' }}>App Store Deployment</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✖</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✖</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✔</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✖</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>No</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>No</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>Yes</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>No</td>
                                         </tr>
                                         <tr style={{ backgroundColor: '#f8f9fa' }}>
                                             <td style={{ padding: '16px' }}>Offline Support</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✖</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✖</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✔</td>
-                                            <td style={{ padding: '16px', textAlign: 'center' }}>✔</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>No</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>No</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>Yes</td>
+                                            <td style={{ padding: '16px', textAlign: 'center' }}>Yes</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -220,19 +220,15 @@ export default function Section9() {
                                 </div>
                                 <ul className="list-unstyled mb-4" style={{ fontSize: '16px' }}>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>SaaS platform (core modules)</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>Admin dashboard</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>Subscription logic</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>MVP-ready build</span>
                                     </li>
                                 </ul>
@@ -255,23 +251,18 @@ export default function Section9() {
                                 </div>
                                 <ul className="list-unstyled mb-4" style={{ fontSize: '16px' }}>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span style={{ color: '#fff' }}>SaaS platform</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span style={{ color: '#fff' }}>Admin dashboard</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span style={{ color: '#fff' }}>Mobile app OR PWA</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span style={{ color: '#fff' }}>Advanced integrations</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span style={{ color: '#fff' }}>Security & scalability setup</span>
                                     </li>
                                 </ul>
@@ -291,27 +282,21 @@ export default function Section9() {
                                 </div>
                                 <ul className="list-unstyled mb-4" style={{ fontSize: '16px' }}>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>Full SaaS platform</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>Advanced dashboards</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>Mobile apps (Android + iOS)</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>PWA version</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>Enterprise-grade security</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>Dedicated support</span>
                                     </li>
                                 </ul>

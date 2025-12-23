@@ -12,7 +12,7 @@ export default function Section7() {
                             <span className="btn-text">news &amp; insights</span>
                         </div>
                         <h2 className="text-dark my-3 text-anime-style-3">
-                            Astrax charity
+                            Automation & Integrations
                             <span className="bg-white border border-dark rounded-5 px-2">updates</span>
                         </h2>
                     </div>
@@ -38,7 +38,7 @@ export default function Section7() {
                                     </div>
                                     <div className="card-news-title mt-2">
                                         <Link href="#">
-                                            <h6 className="fs-20 text-anime-style-3">#01 Brace for the 'big one' cyber attack as always.</h6>
+                                            <h6 className="fs-20 text-anime-style-3">Smart Digital Solutions Built for Business Growth</h6>
                                         </Link>
                                     </div>
                                 </div>
@@ -63,7 +63,7 @@ export default function Section7() {
                                     </div>
                                     <div className="card-news-title mt-2">
                                         <Link href="#">
-                                            <h6 className="fs-20 text-anime-style-3">Company updated with the latest trends &amp; business news.</h6>
+                                            <h6 className="fs-20 text-anime-style-3">Innovative Digital Systems That Drive Results</h6>
                                         </Link>
                                     </div>
                                 </div>
@@ -88,7 +88,7 @@ export default function Section7() {
                                     </div>
                                     <div className="card-news-title mt-2">
                                         <Link href="#">
-                                            <h6 className="fs-20 text-anime-style-3">We make the creative solutions for&nbsp;problems!</h6>
+                                            <h6 className="fs-20 text-anime-style-3">Technology-Driven Solutions for Modern Businesses</h6>
                                         </Link>
                                     </div>
                                 </div>

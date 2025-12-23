@@ -84,49 +84,76 @@ export default function Section6({ background }: any) {
                             </div>
                         </div>
                         <div className="col-lg-6">
-                            <div className="card-pricing bg-white border border-primary position-relative p-md-7 p-5 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay={400}>
-                                <span className="tag-recommended position-absolute btn-text text-white">recommended</span>
+                            <div
+                                className="card-pricing border position-relative p-md-7 p-5 mb-lg-0 mb-5"
+                                data-aos="fade-up"
+                                data-aos-delay={400}
+                                style={{ backgroundColor: '#000', border: '2px solid #FDB913', color: '#fff' }}
+                            >
+                                <span
+                                    className="tag-recommended position-absolute btn-text"
+                                    style={{
+                                        backgroundColor: '#FDB913',
+                                        color: '#000',
+                                        top: '0',
+                                        right: '0',
+                                        padding: '4px 12px',
+                                        borderBottomLeftRadius: '8px',
+                                        fontWeight: 'bold'
+                                    }}
+                                >
+                                    recommended
+                                </span>
                                 <div className="row">
                                     <div className="col-md-6">
                                         <div className="d-flex flex-column h-100">
                                             <svg className="mb-md-auto mb-5" xmlns="http://www.w3.org/2000/svg" width={100} height={100} viewBox="0 0 100 100" fill="none">
                                                 <g clipPath="url(#clip0_349_2680)">
-                                                    <path d="M97.069 94.1405H93.944V36.3288C93.944 34.7109 92.6323 33.3992 91.0144 33.3992H79.2958C77.6778 33.3992 76.3661 34.7109 76.3661 36.3288V94.1405H70.5069V55.8598C70.5069 54.2419 69.1952 52.9302 67.5772 52.9302H55.8586C54.2407 52.9302 52.929 54.2419 52.929 55.8598V94.1405H47.0697V66.6018C47.0697 64.9839 45.758 63.6722 44.14 63.6722H32.4214C30.8035 63.6722 29.4918 64.9839 29.4918 66.6018V94.1405H23.6325V73.633C23.6325 72.015 22.3208 70.7033 20.7028 70.7033H8.98425C7.36631 70.7033 6.05461 72.015 6.05461 73.633V94.1405H2.92965C1.3117 94.1405 0 95.4522 0 97.0702C0 98.6881 1.3117 99.9998 2.92965 99.9998H97.069C98.6869 99.9998 99.9986 98.6881 99.9986 97.0702C99.9986 95.4522 98.6869 94.1405 97.069 94.1405Z" fill="#292929" />
-                                                    <path className="fill-primary" d="M2.92965 62.9501C21.2142 62.9501 41.0424 56.3834 58.7621 44.4595C72.6398 35.1208 84.2082 23.1907 91.3941 10.9747L94.2393 21.5931C94.5901 22.902 96.2836 24.0329 97.8274 23.6645C99.4012 23.2891 100.318 21.6394 99.8988 20.0765L95.1014 2.17243C94.6825 0.609754 93.0768 -0.317967 91.5134 0.100972L73.6093 4.89837C72.0465 5.31711 71.1191 6.92354 71.5379 8.48641C71.9568 10.0493 73.5625 10.977 75.1259 10.5579L86.6599 7.46728C79.9559 19.1167 68.8764 30.5908 55.4908 39.5983C38.7278 50.8786 20.0612 57.0908 2.92965 57.0908C1.3117 57.0908 0 58.4025 0 60.0205C0 61.6384 1.3117 62.9501 2.92965 62.9501Z" fill="#0D6EFD" />
+                                                    <path d="M97.069 94.1405H93.944V36.3288C93.944 34.7109 92.6323 33.3992 91.0144 33.3992H79.2958C77.6778 33.3992 76.3661 34.7109 76.3661 36.3288V94.1405H70.5069V55.8598C70.5069 54.2419 69.1952 52.9302 67.5772 52.9302H55.8586C54.2407 52.9302 52.929 54.2419 52.929 55.8598V94.1405H47.0697V66.6018C47.0697 64.9839 45.758 63.6722 44.14 63.6722H32.4214C30.8035 63.6722 29.4918 64.9839 29.4918 66.6018V94.1405H23.6325V73.633C23.6325 72.015 22.3208 70.7033 20.7028 70.7033H8.98425C7.36631 70.7033 6.05461 72.015 6.05461 73.633V94.1405H2.92965C1.3117 94.1405 0 95.4522 0 97.0702C0 98.6881 1.3117 99.9998 2.92965 99.9998H97.069C98.6869 99.9998 99.9986 98.6881 99.9986 97.0702C99.9986 95.4522 98.6869 94.1405 97.069 94.1405Z" fill="#FDB913" />
+                                                    <path d="M2.92965 62.9501C21.2142 62.9501 41.0424 56.3834 58.7621 44.4595C72.6398 35.1208 84.2082 23.1907 91.3941 10.9747L94.2393 21.5931C94.5901 22.902 96.2836 24.0329 97.8274 23.6645C99.4012 23.2891 100.318 21.6394 99.8988 20.0765L95.1014 2.17243C94.6825 0.609754 93.0768 -0.317967 91.5134 0.100972L73.6093 4.89837C72.0465 5.31711 71.1191 6.92354 71.5379 8.48641C71.9568 10.0493 73.5625 10.977 75.1259 10.5579L86.6599 7.46728C79.9559 19.1167 68.8764 30.5908 55.4908 39.5983C38.7278 50.8786 20.0612 57.0908 2.92965 57.0908C1.3117 57.0908 0 58.4025 0 60.0205C0 61.6384 1.3117 62.9501 2.92965 62.9501Z" fill="#fff" />
                                                 </g>
                                             </svg>
-                                            <span className="btn-text opacity-50">business (Sponsor)</span>
-                                            <h1 className="mb-3 mt-1 text-price-business">$199</h1>
-                                            <p className="fs-7">
+                                            <span className="btn-text opacity-75" style={{ color: '#FDB913' }}>business (Sponsor)</span>
+                                            <h1 className="mb-3 mt-1" style={{ color: '#FDB913', fontSize: '3.5rem', fontWeight: 'bold' }}>$199</h1>
+                                            <p className="fs-7" style={{ color: '#ccc' }}>
                                                 Best for small business owners, <br />
                                                 startups who needs.
                                             </p>
                                         </div>
                                     </div>
-                                    <div className="col-md-6 ps-md-7 border-start-md mt-md-0 mt-4">
-                                        <span className="btn-text">What’s included:</span>
+                                    <div className="col-md-6 ps-md-7 border-start-md mt-md-0 mt-4" style={{ borderColor: 'rgba(255,255,255,0.1)' }}>
+                                        <span className="btn-text" style={{ color: '#fff' }}>What’s included:</span>
                                         <ul className="list-unstyled mt-3 mb-0">
-                                            <li className="d-flex align-items-center border-top py-3">
-                                                <i className="ri-check-line text-primary" />
-                                                <p className="fs-7 mb-0 ms-3">10x entry ticket</p>
+                                            <li className="d-flex align-items-center border-top py-3" style={{ borderColor: 'rgba(255,255,255,0.1)' }}>
+                                                <i className="bi bi-check-lg" style={{ color: '#FDB913' }} />
+                                                <p className="fs-7 mb-0 ms-3" style={{ color: '#ccc' }}>10x entry ticket</p>
                                             </li>
-                                            <li className="d-flex align-items-center border-top py-3">
-                                                <i className="ri-check-line text-primary" />
-                                                <p className="fs-7 mb-0 ms-3">Free buffet &amp; liflet</p>
+                                            <li className="d-flex align-items-center border-top py-3" style={{ borderColor: 'rgba(255,255,255,0.1)' }}>
+                                                <i className="bi bi-check-lg" style={{ color: '#FDB913' }} />
+                                                <p className="fs-7 mb-0 ms-3" style={{ color: '#ccc' }}>Free buffet &amp; liflet</p>
                                             </li>
-                                            <li className="d-flex align-items-center border-top py-3">
-                                                <i className="ri-check-line text-primary" />
-                                                <p className="fs-7 mb-0 ms-3">Gold sponsor</p>
+                                            <li className="d-flex align-items-center border-top py-3" style={{ borderColor: 'rgba(255,255,255,0.1)' }}>
+                                                <i className="bi bi-check-lg" style={{ color: '#FDB913' }} />
+                                                <p className="fs-7 mb-0 ms-3" style={{ color: '#ccc' }}>Gold sponsor</p>
                                             </li>
-                                            <li className="d-flex align-items-center border-top pt-3">
-                                                <i className="ri-check-line text-primary" />
-                                                <p className="fs-7 mb-0 ms-3">10 min stage talk</p>
+                                            <li className="d-flex align-items-center border-top pt-3" style={{ borderColor: 'rgba(255,255,255,0.1)' }}>
+                                                <i className="bi bi-check-lg" style={{ color: '#FDB913' }} />
+                                                <p className="fs-7 mb-0 ms-3" style={{ color: '#ccc' }}>10 min stage talk</p>
                                             </li>
                                         </ul>
-                                        <Link href="#" className="btn btn-dark mt-5 mb-3 w-100 hover-up">
+                                        <Link
+                                            href="#"
+                                            className="btn mt-5 mb-3 w-100 hover-up"
+                                            style={{
+                                                backgroundColor: '#FDB913',
+                                                color: '#000',
+                                                fontWeight: 'bold',
+                                                border: 'none'
+                                            }}
+                                        >
                                             purchase now
                                         </Link>
-                                        <p className="fs-7 mb-0">24/7 online support</p>
+                                        <p className="fs-7 mb-0" style={{ color: '#ccc' }}>24/7 online support</p>
                                     </div>
                                 </div>
                             </div>

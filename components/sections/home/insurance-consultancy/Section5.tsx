@@ -97,7 +97,7 @@ export default function Section5() {
                                             <Link href="#">
                                                 <h6 className=" mt-2">Social Media Management</h6>
                                             </Link>
-                                            <p className="mb-0 mt-4 ">“ Webdexpert's social media management team transformed our online presence. They handle everything from content creation to community engagement, and our brand visibility has increased significantly. “</p>
+                                            <p className="mb-0 mt-4 ">“ XzectLabs's social media management team transformed our online presence. They handle everything from content creation to community engagement, and our brand visibility has increased significantly. “</p>
                                             <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                 <Link href="#">
                                                     <img className="rounded-circle icon-shape icon-50" src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-5/avatar-1.png" alt="AstraX" />
@@ -130,7 +130,7 @@ export default function Section5() {
                                             <Link href="#">
                                                 <h6 className=" mt-2">Paid Social Campaigns</h6>
                                             </Link>
-                                            <p className="mb-0 mt-4 ">“ Their paid social campaigns are incredibly effective. We've seen a 3x increase in leads and conversions since partnering with Webdexpert. The ROI on our ad spend has been outstanding. “</p>
+                                            <p className="mb-0 mt-4 ">“ Their paid social campaigns are incredibly effective. We've seen a 3x increase in leads and conversions since partnering with XzectLabs. The ROI on our ad spend has been outstanding. “</p>
                                             <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                 <Link href="#">
                                                     <img className="rounded-circle icon-shape icon-50" src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-5/avatar-2.png" alt="AstraX" />
@@ -163,7 +163,7 @@ export default function Section5() {
                                             <Link href="#">
                                                 <h6 className=" mt-2">Reels & Creative Strategy</h6>
                                             </Link>
-                                            <p className="mb-0 mt-4 ">“ The creative team at Webdexpert produces stunning reels and content that truly resonates with our audience. Our engagement rates have skyrocketed, and we're getting more organic reach than ever. “</p>
+                                            <p className="mb-0 mt-4 ">“ The creative team at XzectLabs produces stunning reels and content that truly resonates with our audience. Our engagement rates have skyrocketed, and we're getting more organic reach than ever. “</p>
                                             <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                 <Link href="#">
                                                     <img className="rounded-circle icon-shape icon-50" src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-5/avatar-3.png" alt="AstraX" />
@@ -196,7 +196,7 @@ export default function Section5() {
                                             <Link href="#">
                                                 <h6 className=" mt-2">Brand Growth & Engagement</h6>
                                             </Link>
-                                            <p className="mb-0 mt-4 ">“ Webdexpert has been instrumental in our brand growth. Their strategic approach to engagement and community building has helped us build a loyal following and establish our brand as an industry leader. “</p>
+                                            <p className="mb-0 mt-4 ">“ XzectLabs has been instrumental in our brand growth. Their strategic approach to engagement and community building has helped us build a loyal following and establish our brand as an industry leader. “</p>
                                             <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                 <Link href="#">
                                                     <img className="rounded-circle icon-shape icon-50" src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-5/avatar-4.png" alt="AstraX" />
@@ -229,7 +229,7 @@ export default function Section5() {
                                             <Link href="#">
                                                 <h6 className=" mt-2">Social Media Management</h6>
                                             </Link>
-                                            <p className="mb-0 mt-4 ">“ Working with Webdexpert has been a game-changer. Their comprehensive social media management approach covers strategy, content planning, posting, and analytics. Our follower growth and engagement have never been better. “</p>
+                                            <p className="mb-0 mt-4 ">“ Working with XzectLabs has been a game-changer. Their comprehensive social media management approach covers strategy, content planning, posting, and analytics. Our follower growth and engagement have never been better. “</p>
                                             <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                 <Link href="#">
                                                     <img className="rounded-circle icon-shape icon-50" src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-5/avatar-1.png" alt="AstraX" />

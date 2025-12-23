@@ -11,13 +11,12 @@ export default function Section1() {
                             <div className="position-relative z-1">
                                 <div className="number-step d-flex align-items-center gap-3">
                                     <i className="fa-solid fa-heart text-primary" />
-                                    <span className="btn-text">We are Creating a brighter tomorrow</span>
+                                    <span className="btn-text">Automate processes, connect systems, and scale faster.</span>
                                 </div>
                                 <div className="row">
                                     <div className="col-lg-6 mb-4 mt-3">
                                         <h1 className="ds-1 text-anime-style-2">
-                                            Assistance <br />
-                                            for the <span className="bg-white border rounded-5 px-2">hopeless</span>
+                                            End-to-End <br /> Automation <br /> & Integration <br /> Services
                                         </h1>
                                     </div>
                                 </div>

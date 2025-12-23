@@ -10,8 +10,8 @@ export default function Section1() {
                         <div className="col-lg-6 col-md-12">
                             <span className="text-primary btn-text rounded-4 border border-primary px-2 py-1 bg-white">seo agency</span>
                             <h1 className="text-dark my-3 text-anime-style-3">Best SEO Company In India: Expert SEO Services At Low Prices</h1>
-                            <h3>Looking for Organic SEO Rankings? Just Webdexpert!</h3>
-                            <p className="wow img-custom-anim-top">Webdexpert, an award-winning SEO company in India, boasts a rich 14-year history of proven expertise in the SEO industry. Our SEO experts have completed over 1000 SEO projects worldwide with a job success rate of 98%, a testament to our extensive experience and capabilities.<br /> </p>
+                            <h3>Looking for Organic SEO Rankings? Just XzectLabs!</h3>
+                            <p className="wow img-custom-anim-top">XzectLabs, an award-winning SEO company in India, boasts a rich 14-year history of proven expertise in the SEO industry. Our SEO experts have completed over 1000 SEO projects worldwide with a job success rate of 98%, a testament to our extensive experience and capabilities.<br /> </p>
                             <form className="input-group mb-3 mt-4 position-relative" data-aos="fade-left" data-aos-delay={200}>
                                 <input type="text" className="py-3 form-control email rounded-start-4 border-end-0 border-primary" name="name" placeholder="Website link" />
                                 <div className="border border-start-0 border-primary rounded-end-4 bg-white">

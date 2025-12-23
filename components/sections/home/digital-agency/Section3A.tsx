@@ -184,43 +184,58 @@ export default function Section3A() {
 
                                     {/* Business Care Plan (Most Popular) */}
                                     <div className="col-md-4">
-                                        <div className="d-flex flex-column justify-content-between h-100 bg-primary text-white rounded-4 p-4 shadow-sm border border-primary position-relative">
+                                        <div
+                                            className="d-flex flex-column justify-content-between h-100 rounded-4 p-4 shadow-sm position-relative"
+                                            style={{ backgroundColor: '#000', border: '2px solid #FDB913', color: '#fff' }}
+                                        >
                                             <div className="position-absolute top-0 start-50 translate-middle-x mt-0">
-                                                <span className="badge bg-white text-primary rounded-pill px-3 py-2 fw-semibold">
+                                                <span
+                                                    className="badge rounded-pill px-3 py-2 fw-semibold"
+                                                    style={{ backgroundColor: '#FDB913', color: '#000' }}
+                                                >
                                                     Most Popular
                                                 </span>
                                             </div>
                                             <div className="mt-4 pt-3">
                                                 <div className="d-flex align-items-center gap-2 mb-3">
                                                     <span className="fs-3">🚀</span>
-                                                    <h5 className="mb-0">Business Care Plan</h5>
+                                                    <h5 className="mb-0" style={{ color: '#FDB913' }}>Business Care Plan</h5>
                                                 </div>
                                                 <div className="d-flex align-items-baseline mb-3">
                                                     <span className="fs-1 fw-bold">₹6,999</span>
                                                 </div>
-                                                <p className="mb-4">/ month</p>
+                                                <p className="mb-4" style={{ color: '#ccc' }}>/ month</p>
                                                 <ul className="list-unstyled mb-0 text-start small">
                                                     <li className="mb-2 d-flex align-items-start">
-                                                        <i className="bi bi-check-lg text-white me-2 mt-1" />
+                                                        <i className="bi bi-check-lg me-2 mt-1" style={{ color: '#FDB913' }} />
                                                         <span>Regular updates &amp; backups</span>
                                                     </li>
                                                     <li className="mb-2 d-flex align-items-start">
-                                                        <i className="bi bi-check-lg text-white me-2 mt-1" />
+                                                        <i className="bi bi-check-lg me-2 mt-1" style={{ color: '#FDB913' }} />
                                                         <span>Advanced security &amp; malware protection</span>
                                                     </li>
                                                     <li className="mb-2 d-flex align-items-start">
-                                                        <i className="bi bi-check-lg text-white me-2 mt-1" />
+                                                        <i className="bi bi-check-lg me-2 mt-1" style={{ color: '#FDB913' }} />
                                                         <span>Up to 10 content / product updates</span>
                                                     </li>
                                                     <li className="mb-2 d-flex align-items-start">
-                                                        <i className="bi bi-check-lg text-white me-2 mt-1" />
+                                                        <i className="bi bi-check-lg me-2 mt-1" style={{ color: '#FDB913' }} />
                                                         <span>Performance monitoring</span>
                                                     </li>
                                                 </ul>
                                             </div>
                                             <div className="mt-4">
-                                                <p className="fw-semibold mb-0">Best for: Active business &amp; trading websites</p>
-                                                <Link href="/contact" className="btn btn-light text-primary w-100 mt-3 hover-up">
+                                                <p className="fw-semibold mb-0" style={{ color: '#FDB913' }}>Best for: Active business &amp; trading websites</p>
+                                                <Link
+                                                    href="/contact"
+                                                    className="btn w-100 mt-3 hover-up"
+                                                    style={{
+                                                        backgroundColor: '#FDB913',
+                                                        color: '#000',
+                                                        fontWeight: 'bold',
+                                                        border: 'none'
+                                                    }}
+                                                >
                                                     Choose Plan
                                                 </Link>
                                             </div>

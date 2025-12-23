@@ -3,16 +3,16 @@ import Link from "next/link";
 export default function Section6({ pt }: any) {
     return (
         <>
-            {/*fintech-solution section 6*/}
-            <section className={`fintech-solution-section-6 position-relative overflow-hidden py-120 ${pt}`}>
-                <div className="container position-relative z-1">
+            {/*fintech-solution-home section 6 - Fintech Pricing*/}
+            <section className={`fintech-solution-home-section-6 position-relative overflow-hidden py-5 bg-white ${pt}`}>
+                <div className="container">
                     <div className="row g-5 mb-80 align-items-center">
                         <div className="col-lg-auto me-lg-auto">
-                            <div className="d-flex align-items-center gap-3" data-aos="fade-up" data-aos-delay={200}>
+                            <div className="d-flex align-items-center gap-3">
                                 <span className="small-line" />
                                 <span className="btn-text text-primary">pricing plan</span>
                             </div>
-                            <h2 className="text-dark mt-3 mb-0 text-anime-style-2">CRM &amp; Sales Automation Pricing Plans</h2>
+                            <h2 className="text-dark mt-3 mb-0">CRM &amp; Sales Automation Pricing Plans</h2>
                         </div>
                         <div className="col-lg-auto align-self-end">
                             <div className="d-flex justify-content-lg-end justify-content-center">
@@ -25,7 +25,7 @@ export default function Section6({ pt }: any) {
                         </div>
                     </div>
                     <div className="row g-lg-5 g-4">
-                        <div className="col-lg-4" data-aos="fade-up" data-aos-delay={0}>
+                        <div className="col-lg-4">
                             <div className="card-pricing rounded-4 border p-md-6 p-4">
                                 <span className="text-primary btn-text">Basic CRM</span>
                                 <div className="mb-3 pricing__price">
@@ -46,75 +46,81 @@ export default function Section6({ pt }: any) {
                                 <ul className="list-unstyled mt-3 mb-0">
                                     <li className="d-flex align-items-center justify-content-between border-top py-3">
                                         <p className="fs-7 mb-0">Custom CRM dashboard (basic)</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top py-3">
                                         <p className="fs-7 mb-0">Lead &amp; contact management</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top py-3">
                                         <p className="fs-7 mb-0">Sales pipeline tracking</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top pt-3">
                                         <p className="fs-7 mb-0">Manual WhatsApp / Email follow-ups</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top pt-3">
                                         <p className="fs-7 mb-0">Basic CRM training &amp; support</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <div className="col-lg-4" data-aos="fade-up" data-aos-delay={200}>
-                            <div className="card-pricing rounded-4 border border-primary p-md-6 p-4 position-relative">
-                                <span className="text-primary btn-text">Standard CRM</span>
+                        <div className="col-lg-4">
+                            <div
+                                className="card-pricing rounded-4 p-md-6 p-4 position-relative"
+                                style={{ backgroundColor: '#000', border: '2px solid #FDB913', color: '#fff' }}
+                            >
+                                <span className="btn-text" style={{ color: '#FDB913' }}>Standard CRM</span>
                                 <div className="mb-3 pricing__price">
-                                    <div className="d-flex align-items-baseline">
-                                        <h1 className="mb-0 me-1">₹</h1>
-                                        <h1 className="mb-0 price monthly_price">5,999</h1>
-                                        <span className="fs-7 ms-2 text-muted">/ month</span>
+                                    <div className="d-flex align-items-baseline" style={{ color: '#fff' }}>
+                                        <h1 className="mb-0 me-1" style={{ color: '#fff' }}>₹</h1>
+                                        <h1 className="mb-0 price monthly_price" style={{ color: '#fff' }}>5,999</h1>
+                                        <span className="fs-7 ms-2" style={{ color: '#ccc' }}>/ month</span>
                                     </div>
-                                    <p className="mb-0 mt-1 fs-7 text-muted">
-                                        Starting at <span className="fw-semibold">₹19,999</span> (one-time setup)
+                                    <p className="mb-0 mt-1 fs-7" style={{ color: '#ccc' }}>
+                                        Starting at <span className="fw-semibold" style={{ color: '#fff' }}>₹19,999</span> (one-time setup)
                                     </p>
                                 </div>
-                                <p className="fs-7">Best for growing sales teams.</p>
-                                <Link href="#" className="btn btn-primary border-dark w-100 mb-6">
+                                <p className="fs-7" style={{ color: '#ccc' }}>Best for growing sales teams.</p>
+                                <Link
+                                    href="/contact"
+                                    className="btn w-100 mb-6"
+                                    style={{
+                                        backgroundColor: '#FDB913',
+                                        color: '#000',
+                                        fontWeight: 'bold',
+                                        border: 'none'
+                                    }}
+                                >
                                     get started
                                 </Link>
-                                <span className="btn-text">What’s included:</span>
+                                <span className="btn-text" style={{ color: '#fff' }}>What’s included:</span>
                                 <ul className="list-unstyled mt-3 mb-0">
-                                    <li className="d-flex align-items-center justify-content-between border-top py-3">
-                                        <p className="fs-7 mb-0">Custom CRM system with pipelines</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
+                                    <li className="d-flex align-items-center justify-content-between border-top py-3" style={{ borderColor: 'rgba(255,255,255,0.1) !important' }}>
+                                        <p className="fs-7 mb-0" style={{ color: '#ccc' }}>Custom CRM system with pipelines</p>
                                     </li>
-                                    <li className="d-flex align-items-center justify-content-between border-top py-3">
-                                        <p className="fs-7 mb-0">Lead &amp; pipeline automation</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
+                                    <li className="d-flex align-items-center justify-content-between border-top py-3" style={{ borderColor: 'rgba(255,255,255,0.1) !important' }}>
+                                        <p className="fs-7 mb-0" style={{ color: '#ccc' }}>Lead &amp; pipeline automation</p>
                                     </li>
-                                    <li className="d-flex align-items-center justify-content-between border-top py-3">
-                                        <p className="fs-7 mb-0">Client &amp; sales performance tracking</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
+                                    <li className="d-flex align-items-center justify-content-between border-top py-3" style={{ borderColor: 'rgba(255,255,255,0.1) !important' }}>
+                                        <p className="fs-7 mb-0" style={{ color: '#ccc' }}>Client &amp; sales performance tracking</p>
                                     </li>
-                                    <li className="d-flex align-items-center justify-content-between border-top pt-3">
-                                        <p className="fs-7 mb-0">Automated WhatsApp &amp; Email follow-ups</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
+                                    <li className="d-flex align-items-center justify-content-between border-top pt-3" style={{ borderColor: 'rgba(255,255,255,0.1) !important' }}>
+                                        <p className="fs-7 mb-0" style={{ color: '#ccc' }}>Automated WhatsApp &amp; Email follow-ups</p>
                                     </li>
-                                    <li className="d-flex align-items-center justify-content-between border-top pt-3">
-                                        <p className="fs-7 mb-0">Meta / Google lead integration</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
+                                    <li className="d-flex align-items-center justify-content-between border-top pt-3" style={{ borderColor: 'rgba(255,255,255,0.1) !important' }}>
+                                        <p className="fs-7 mb-0" style={{ color: '#ccc' }}>Meta / Google lead integration</p>
                                     </li>
-                                    <li className="d-flex align-items-center justify-content-between border-top pt-3">
-                                        <p className="fs-7 mb-0">Priority support</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
+                                    <li className="d-flex align-items-center justify-content-between border-top pt-3" style={{ borderColor: 'rgba(255,255,255,0.1) !important' }}>
+                                        <p className="fs-7 mb-0" style={{ color: '#ccc' }}>Priority support</p>
                                     </li>
                                 </ul>
-                                <span className="sale-off text-primary fs-8 position-absolute top-0 end-0 me-6 px-3 fw-semibold">Most Popular</span>
+                                <span
+                                    className="sale-off fs-8 position-absolute top-0 end-0 me-6 px-3 fw-semibold"
+                                    style={{ color: '#FDB913', backgroundColor: 'rgba(253, 185, 19, 0.1)', borderRadius: '4px', padding: '2px 8px' }}
+                                >
+                                    Most Popular
+                                </span>
                             </div>
                         </div>
-                        <div className="col-lg-4" data-aos="fade-up" data-aos-delay={400}>
+                        <div className="col-lg-4">
                             <div className="card-pricing rounded-4 border p-md-6 p-4">
                                 <span className="text-primary btn-text">Advanced CRM</span>
                                 <div className="mb-3 pricing__price">
@@ -139,23 +145,18 @@ export default function Section6({ pt }: any) {
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top py-3">
                                         <p className="fs-7 mb-0">Advanced lead &amp; deal automation</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top py-3">
                                         <p className="fs-7 mb-0">Client lifecycle &amp; revenue tracking</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top pt-3">
                                         <p className="fs-7 mb-0">WhatsApp, Email &amp; workflow automation</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top pt-3">
                                         <p className="fs-7 mb-0">CRM + API integrations (Meta, Google, WhatsApp)</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                     <li className="d-flex align-items-center justify-content-between border-top pt-3">
                                         <p className="fs-7 mb-0">Dedicated support &amp; optimization</p>
-                                        <img src="/assets/img/fintech-solution-img//template/icons/check.svg" alt="AstraX" />
                                     </li>
                                 </ul>
                             </div>
@@ -163,7 +164,7 @@ export default function Section6({ pt }: any) {
                     </div>
                     <div className="row mt-8">
                         <div className="d-flex flex-wrap align-items-center justify-content-center gap-5">
-                            <div className="d-flex align-items-center gap-3" data-aos="fade-up" data-aos-delay={0}>
+                            <div className="d-flex align-items-center gap-3">
                                 <div className="d-block">
                                     <svg className="fill-primary" xmlns="http://www.w3.org/2000/svg" width={18} height={18} viewBox="0 0 18 18" fill="none">
                                         <g clipPath="url(#clip0_349_1213)">
@@ -178,7 +179,7 @@ export default function Section6({ pt }: any) {
                                 </div>
                                 <p className="text-dark mb-0">Get 30 day free trial</p>
                             </div>
-                            <div className="d-flex align-items-center gap-3" data-aos="fade-up" data-aos-delay={200}>
+                            <div className="d-flex align-items-center gap-3">
                                 <div className="d-block">
                                     <svg className="fill-primary" xmlns="http://www.w3.org/2000/svg" width={18} height={18} viewBox="0 0 18 18" fill="none">
                                         <g clipPath="url(#clip0_349_1225)">
@@ -191,7 +192,7 @@ export default function Section6({ pt }: any) {
                                 </div>
                                 <p className="text-dark mb-0">No any hidden fees pay</p>
                             </div>
-                            <div className="d-flex align-items-center gap-3" data-aos="fade-up" data-aos-delay={400}>
+                            <div className="d-flex align-items-center gap-3">
                                 <div className="d-block">
                                     <svg className="fill-primary" xmlns="http://www.w3.org/2000/svg" width={18} height={18} viewBox="0 0 18 18" fill="none">
                                         <g clipPath="url(#clip0_349_1230)">

@@ -4,7 +4,7 @@ export default function Section9() {
 	return (
 		<>
 			{/*seo-agency section 9 - SEO Services Pricing*/}
-			<section className="seo-agency-section-9 overflow-hidden py-120 bg-white">
+			<section className="seo-agency-section-9 overflow-hidden py-5 bg-white">
 				<div className="container">
 					{/* Pricing Cards Section */}
 					<div className="row justify-content-center text-center mb-5">
@@ -75,15 +75,15 @@ export default function Section9() {
 									className="list-unstyled text-start mb-4"
 									style={{ fontSize: '14px', lineHeight: '1.8', color: '#333' }}
 								>
-									<li>✔ On-page optimization (titles, meta, headings)</li>
-									<li>✔ Technical SEO audit & fixes</li>
-									<li>✔ Internal linking optimization</li>
-									<li>✔ Sitemap & robots.txt setup</li>
-									<li>✔ Monthly performance tracking</li>
+									<li>On-page optimization (titles, meta, headings)</li>
+									<li>Technical SEO audit & fixes</li>
+									<li>Internal linking optimization</li>
+									<li>Sitemap & robots.txt setup</li>
+									<li>Monthly performance tracking</li>
 								</ul>
 								<Link
 									href="/contact"
-									className="btn btn-primary hover-up"
+									className="btn btn-primary"
 									style={{
 										border: '2px solid #000',
 										borderRadius: '999px',
@@ -140,15 +140,15 @@ export default function Section9() {
 									className="list-unstyled text-start mb-4"
 									style={{ fontSize: '14px', lineHeight: '1.8', color: '#333' }}
 								>
-									<li>✔ Google Business Profile optimization</li>
-									<li>✔ Local keyword targeting</li>
-									<li>✔ NAP consistency (Name, Address, Phone)</li>
-									<li>✔ Local citations & reviews strategy</li>
-									<li>✔ Monthly local ranking report</li>
+									<li>Google Business Profile optimization</li>
+									<li>Local keyword targeting</li>
+									<li>NAP consistency (Name, Address, Phone)</li>
+									<li>Local citations & reviews strategy</li>
+									<li>Monthly local ranking report</li>
 								</ul>
 								<Link
 									href="/contact"
-									className="btn btn-primary hover-up"
+									className="btn btn-primary"
 									style={{
 										border: '2px solid #000',
 										borderRadius: '999px',
@@ -205,14 +205,14 @@ export default function Section9() {
 									className="list-unstyled text-start mb-4"
 									style={{ fontSize: '14px', lineHeight: '1.8', color: '#333' }}
 								>
-									<li>✔ Industry & competitor analysis</li>
-									<li>✔ High-intent keyword research</li>
-									<li>✔ Search volume & difficulty analysis</li>
-									<li>✔ Content & page mapping</li>
+									<li>Industry & competitor analysis</li>
+									<li>High-intent keyword research</li>
+									<li>Search volume & difficulty analysis</li>
+									<li>Content & page mapping</li>
 								</ul>
 								<Link
 									href="/contact"
-									className="btn btn-primary hover-up"
+									className="btn btn-primary"
 									style={{
 										border: '2px solid #000',
 										borderRadius: '999px',
@@ -269,14 +269,14 @@ export default function Section9() {
 									className="list-unstyled text-start mb-4"
 									style={{ fontSize: '14px', lineHeight: '1.8', color: '#333' }}
 								>
-									<li>✔ Page speed audit</li>
-									<li>✔ LCP, CLS & INP optimization</li>
-									<li>✔ Image & asset optimization</li>
-									<li>✔ Performance improvement report</li>
+									<li>Page speed audit</li>
+									<li>LCP, CLS & INP optimization</li>
+									<li>Image & asset optimization</li>
+									<li>Performance improvement report</li>
 								</ul>
 								<Link
 									href="/contact"
-									className="btn btn-primary hover-up"
+									className="btn btn-primary"
 									style={{
 										border: '2px solid #000',
 										borderRadius: '999px',
@@ -298,7 +298,7 @@ export default function Section9() {
 					</div>
 
 					{/* Service Comparison Table */}
-					<div className="row mt-160">
+					<div className="row mt-5">
 						<div className="col-12 text-center mb-5">
 							<h2
 								className="mb-3"
@@ -340,33 +340,33 @@ export default function Section9() {
 											<td style={{ padding: '16px', textAlign: 'left', fontWeight: 500 }}>
 												Search Visibility
 											</td>
-											<td style={{ padding: '16px' }}>✔</td>
-											<td style={{ padding: '16px' }}>✔</td>
-											<td style={{ padding: '16px' }}>✔</td>
-											<td style={{ padding: '16px' }}>✔</td>
+											<td style={{ padding: '16px' }}>Yes</td>
+											<td style={{ padding: '16px' }}>Yes</td>
+											<td style={{ padding: '16px' }}>Yes</td>
+											<td style={{ padding: '16px' }}>Yes</td>
 										</tr>
 										<tr style={{ backgroundColor: '#f9f9f9' }}>
 											<td style={{ padding: '16px', textAlign: 'left', fontWeight: 500 }}>Google Ranking Boost</td>
-											<td style={{ padding: '16px' }}>✔</td>
-											<td style={{ padding: '16px' }}>✔</td>
-											<td style={{ padding: '16px' }}>✔</td>
-											<td style={{ padding: '16px' }}>✔</td>
+											<td style={{ padding: '16px' }}>Yes</td>
+											<td style={{ padding: '16px' }}>Yes</td>
+											<td style={{ padding: '16px' }}>Yes</td>
+											<td style={{ padding: '16px' }}>Yes</td>
 										</tr>
 										<tr>
 											<td style={{ padding: '16px', textAlign: 'left', fontWeight: 500 }}>Technical Optimization</td>
-											<td style={{ padding: '16px' }}>✔</td>
-											<td style={{ padding: '16px' }}>✖</td>
-											<td style={{ padding: '16px' }}>✖</td>
-											<td style={{ padding: '16px' }}>✔</td>
+											<td style={{ padding: '16px' }}>Yes</td>
+											<td style={{ padding: '16px' }}>No</td>
+											<td style={{ padding: '16px' }}>No</td>
+											<td style={{ padding: '16px' }}>Yes</td>
 										</tr>
 										<tr style={{ backgroundColor: '#f9f9f9' }}>
 											<td style={{ padding: '16px', textAlign: 'left', fontWeight: 500 }}>
 												Local Map Results
 											</td>
-											<td style={{ padding: '16px' }}>✖</td>
-											<td style={{ padding: '16px' }}>✔</td>
-											<td style={{ padding: '16px' }}>✖</td>
-											<td style={{ padding: '16px' }}>✖</td>
+											<td style={{ padding: '16px' }}>No</td>
+											<td style={{ padding: '16px' }}>Yes</td>
+											<td style={{ padding: '16px' }}>No</td>
+											<td style={{ padding: '16px' }}>No</td>
 										</tr>
 										<tr>
 											<td style={{ padding: '16px', textAlign: 'left', fontWeight: 500 }}>One-Time / Monthly</td>
@@ -389,7 +389,7 @@ export default function Section9() {
 					</div>
 
 					{/* SEO Packages Section */}
-					<div className="row mt-160">
+					<div className="row mt-5">
 						<div className="col-12 text-center mb-5">
 							<h2
 								className="mb-3"
@@ -424,7 +424,7 @@ export default function Section9() {
 										fontWeight: 'bold',
 									}}
 								>
-									SEO Starter Package
+									Starter SEO Plan
 								</h3>
 								<div className="mb-4">
 									<h4
@@ -434,20 +434,41 @@ export default function Section9() {
 											color: '#000',
 										}}
 									>
-										₹19,999<span style={{ fontSize: '16px', fontWeight: 400 }}> / month</span>
+										₹14,999<span style={{ fontSize: '18px', fontWeight: 400 }}> / month</span>
 									</h4>
+									<p style={{ fontSize: '16px', color: '#666' }}>
+										Perfect for small businesses starting with SEO.
+									</p>
 								</div>
 								<ul
 									className="list-unstyled text-start mb-4"
 									style={{ fontSize: '16px', lineHeight: '2', color: '#333' }}
 								>
-									<li>✔ On-page & technical SEO</li>
-									<li>✔ Keyword strategy (initial)</li>
-									<li>✔ Basic site speed optimization</li>
+									<li>Keyword research & analysis</li>
+									<li>On-page SEO optimization</li>
+									<li>4 blog posts / month</li>
+									<li>Google My Business setup</li>
+									<li>✔ Monthly performance report</li>
 								</ul>
-								<p style={{ fontSize: '14px', color: '#666', fontStyle: 'italic' }}>
-									Best for: Small business websites
-								</p>
+								<Link
+									href="/contact"
+									className="btn btn-primary"
+									style={{
+										border: '2px solid #000',
+										borderRadius: '999px',
+										padding: '12px 32px',
+										fontSize: '16px',
+										fontWeight: 600,
+										textTransform: 'uppercase',
+										letterSpacing: '0.05em',
+										backgroundColor: '#000',
+										color: '#fff',
+										display: 'inline-block',
+										textDecoration: 'none',
+									}}
+								>
+									Get Started
+								</Link>
 							</div>
 						</div>
 
@@ -469,7 +490,7 @@ export default function Section9() {
 										color: '#FDB913',
 									}}
 								>
-									SEO Growth Package
+									Growth SEO Plan
 								</h3>
 								<div className="mb-4">
 									<h4
@@ -479,21 +500,41 @@ export default function Section9() {
 											color: '#FDB913',
 										}}
 									>
-										₹34,999<span style={{ fontSize: '16px', fontWeight: 400 }}> / month</span>
+										₹29,999<span style={{ fontSize: '18px', fontWeight: 400, color: '#fff' }}> / month</span>
 									</h4>
+									<p style={{ fontSize: '16px', color: '#ddd' }}>
+										Best for growing businesses needing aggressive SEO.
+									</p>
 								</div>
 								<ul
 									className="list-unstyled text-start mb-4"
 									style={{ fontSize: '16px', lineHeight: '2', color: '#fff' }}
 								>
-									<li>✔ Advanced on-page & technical SEO</li>
-									<li>✔ Local SEO optimization</li>
-									<li>✔ Keyword tracking & optimization</li>
-									<li>✔ Core Web Vitals optimization</li>
+									<li>Advanced keyword strategy</li>
+									<li>Technical SEO audit & fixes</li>
+									<li>8 blog posts / month</li>
+									<li>High-quality backlink building</li>
+									<li>Competitor analysis & reporting</li>
 								</ul>
-								<p style={{ fontSize: '14px', color: '#ddd', fontStyle: 'italic' }}>
-									Best for: Business & trading websites
-								</p>
+								<Link
+									href="/contact"
+									className="btn"
+									style={{
+										border: '2px solid #FDB913',
+										borderRadius: '999px',
+										padding: '12px 32px',
+										fontSize: '16px',
+										fontWeight: 600,
+										textTransform: 'uppercase',
+										letterSpacing: '0.05em',
+										backgroundColor: '#FDB913',
+										color: '#000',
+										display: 'inline-block',
+										textDecoration: 'none',
+									}}
+								>
+									Grow Your Rankings
+								</Link>
 							</div>
 						</div>
 
@@ -514,7 +555,7 @@ export default function Section9() {
 										fontWeight: 'bold',
 									}}
 								>
-									SEO Authority Package
+									Enterprise SEO Plan
 								</h3>
 								<div className="mb-4">
 									<h4
@@ -524,28 +565,47 @@ export default function Section9() {
 											color: '#000',
 										}}
 									>
-										₹59,999<span style={{ fontSize: '16px', fontWeight: 400 }}> / month</span>
+										₹49,999<span style={{ fontSize: '18px', fontWeight: 400 }}> / month</span>
 									</h4>
+									<p style={{ fontSize: '16px', color: '#666' }}>
+										Complete SEO dominance for established brands.
+									</p>
 								</div>
 								<ul
 									className="list-unstyled text-start mb-4"
 									style={{ fontSize: '16px', lineHeight: '2', color: '#333' }}
 								>
-									<li>✔ Full technical SEO & site optimization</li>
-									<li>✔ Advanced local SEO</li>
-									<li>✔ Conversion-focused keyword strategy</li>
-									<li>✔ Ongoing speed & performance monitoring</li>
-									<li>✔ Priority support & reporting</li>
+									<li>National & International SEO</li>
+									<li>extensive content strategy (12+ posts)</li>
+									<li>PR & outreach campaigns</li>
+									<li>Dedicated SEO account manager</li>
+									<li>Weekly strategy calls & reports</li>
 								</ul>
-								<p style={{ fontSize: '14px', color: '#666', fontStyle: 'italic' }}>
-									Best for: High-competition & enterprise websites
-								</p>
+								<Link
+									href="/contact"
+									className="btn btn-primary"
+									style={{
+										border: '2px solid #000',
+										borderRadius: '999px',
+										padding: '12px 32px',
+										fontSize: '16px',
+										fontWeight: 600,
+										textTransform: 'uppercase',
+										letterSpacing: '0.05em',
+										backgroundColor: '#000',
+										color: '#fff',
+										display: 'inline-block',
+										textDecoration: 'none',
+									}}
+								>
+									Dominate Search
+								</Link>
 							</div>
 						</div>
 					</div>
 
 					{/* CTA Section */}
-					<div className="row mt-160">
+					<div className="row mt-5">
 						<div className="col-12">
 							<div
 								className="text-center py-5 px-4 rounded-4"
@@ -557,6 +617,7 @@ export default function Section9() {
 										fontSize: '40px',
 										lineHeight: '1.3',
 										fontWeight: 600,
+										color: '#fff',
 									}}
 								>
 									🔔 Ready to improve your search rankings and website performance?
@@ -576,7 +637,7 @@ export default function Section9() {
 								<div className="d-flex flex-wrap justify-content-center gap-3">
 									<Link
 										href="/contact"
-										className="btn hover-up"
+										className="btn"
 										style={{
 											border: '2px solid #FDB913',
 											borderRadius: '999px',
@@ -595,7 +656,7 @@ export default function Section9() {
 									</Link>
 									<Link
 										href="/contact"
-										className="btn hover-up"
+										className="btn"
 										style={{
 											border: '2px solid #fff',
 											borderRadius: '999px',
@@ -614,7 +675,7 @@ export default function Section9() {
 									</Link>
 									<Link
 										href="/contact"
-										className="btn hover-up"
+										className="btn"
 										style={{
 											border: '2px solid #fff',
 											borderRadius: '999px',
@@ -623,7 +684,7 @@ export default function Section9() {
 											fontWeight: 600,
 											textTransform: 'uppercase',
 											letterSpacing: '0.05em',
-											backgroundColor: '#fff',
+											backgroundColor: '#FDB913',
 											color: '#000',
 											display: 'inline-block',
 											textDecoration: 'none',

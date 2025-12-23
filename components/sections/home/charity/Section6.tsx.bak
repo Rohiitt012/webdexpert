@@ -80,16 +80,16 @@ export default function Section6() {
                                         <i className="bi bi-star-fill text-primary fs-10" />
                                     </div>
                                     <Link href="#">
-                                        <h6 className="mt-2 fs-20 text-white">WhatsApp Automation Excellence</h6>
+                                        <h6 className="mt-2 fs-20 text-white">Good support team</h6>
                                     </Link>
-                                    <p className="mb-0 mt-4 content">" xzect labs transformed our customer engagement with their WhatsApp automation. The chatbot flows and broadcast campaigns they built increased our response rate by 300%. Their expertise in automating conversations is outstanding! "</p>
+                                    <p className="mb-0 mt-4 content">“ Hands down one of the best shirts I’ve ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. “</p>
                                     <div className="d-flex align-items-center mt-5 position-relative z-1">
                                         <Link href="#">
                                             <img className="rounded-circle icon-shape icon-50" src="/assets/img/charity-img/pages/charity/page-home/home-section-5/img-3.png" alt="AstraX" />
                                         </Link>
                                         <div className="text-start ms-3">
                                             <Link href="#">
-                                                <h6 className="fw-regular fs-6 text-white">Rajesh Kumar, CEO</h6>
+                                                <h6 className="fw-regular fs-6 text-white">Isabella F. Monroe</h6>
                                             </Link>
                                         </div>
                                     </div>
@@ -105,16 +105,16 @@ export default function Section6() {
                                         <i className="bi bi-star-fill text-primary fs-10" />
                                     </div>
                                     <Link href="#">
-                                        <h6 className="mt-2 fs-20 text-white">Lead Capture & Automation</h6>
+                                        <h6 className="mt-2 fs-20 text-white">Volunteer</h6>
                                     </Link>
-                                    <p className="mb-0 mt-4 content">" The lead capture and follow-up automation system by xzect labs is a game changer. We went from manual follow-ups to a fully automated nurture sequence. Our conversion rate doubled and our sales team saves 20+ hours weekly! "</p>
+                                    <p className="mb-0 mt-4 content">“ Hands down one of the best shirts I’ve ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. “</p>
                                     <div className="d-flex align-items-center mt-5 position-relative z-1">
                                         <Link href="#">
                                             <img className="rounded-circle icon-shape icon-50" src="/assets/img/charity-img/pages/charity/page-home/home-section-5/img-4.png" alt="AstraX" />
                                         </Link>
                                         <div className="text-start ms-3">
                                             <Link href="#">
-                                                <h6 className="fw-regular fs-6 text-white">Priya Sharma, Marketing Head</h6>
+                                                <h6 className="fw-regular fs-6 text-white">Isabella F. Monroe</h6>
                                             </Link>
                                         </div>
                                     </div>
@@ -130,16 +130,16 @@ export default function Section6() {
                                         <i className="bi bi-star-fill text-primary fs-10" />
                                     </div>
                                     <Link href="#">
-                                        <h6 className="mt-2 fs-20 text-white">API Integration Specialists</h6>
+                                        <h6 className="mt-2 fs-20 text-white">Development team</h6>
                                     </Link>
-                                    <p className="mb-0 mt-4 content">" xzect labs seamlessly integrated our payment gateway, CRM, and ERP systems using Make and n8n. The workflow automation they built saves us hours daily. Their technical expertise and support throughout the project was exceptional! "</p>
+                                    <p className="mb-0 mt-4 content">“ Hands down one of the best shirts I’ve ever owned. Fits great, feels amazing, seems to stay cool and is somewhat water resistant anyway. “</p>
                                     <div className="d-flex align-items-center mt-5 position-relative z-1">
                                         <Link href="#">
                                             <img className="rounded-circle icon-shape icon-50" src="/assets/img/charity-img/pages/charity/page-home/home-section-5/img-5.png" alt="AstraX" />
                                         </Link>
                                         <div className="text-start ms-3">
                                             <Link href="#">
-                                                <h6 className="fw-regular fs-6 text-white">Amit Patel, CTO</h6>
+                                                <h6 className="fw-regular fs-6 text-white">Sophia J. Carter</h6>
                                             </Link>
                                         </div>
                                     </div>

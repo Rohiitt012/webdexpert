@@ -57,7 +57,7 @@ export default function Section2() {
                     <div className="row g-5">
                         <div className="col-lg-5">
                             <div className="border-top border-primary-2 border-2 d-flex flex-column h-100 wow img-custom-anim-top">
-                                <p className="mb-4 mt-4">Are you searching for the best social media management services in india? Webdexpert is a trusted social media management company with real results. We don't just "post".We manage, strategize, and grow your brand's presence across platforms like Instagram, Facebook, Twitter, and LinkedIn turning your social profiles into active sales channels.</p>
+                                <p className="mb-4 mt-4">Are you searching for the best social media management services in india? XzectLabs is a trusted social media management company with real results. We don't just "post".We manage, strategize, and grow your brand's presence across platforms like Instagram, Facebook, Twitter, and LinkedIn turning your social profiles into active sales channels.</p>
                                 <Link href="#" className="text-primary btn-text">
                                     read more
                                 </Link>
@@ -78,10 +78,10 @@ export default function Section2() {
                                 </div>
                             </div>
                             <h2 className="text-primary-2 mb-4 text-anime-style-3">Build Visibility, Earn Trust, Drive Sales with Best Social Media Management Services</h2>
-                            <p className="wow img-custom-anim-top">In a world where attention spans are short and the scroll never stops, your brand has just three seconds to stand out or be forgotten. That's where Webdexpert comes in. We help businesses not just exist on social media, but dominate it.
+                            <p className="wow img-custom-anim-top">In a world where attention spans are short and the scroll never stops, your brand has just three seconds to stand out or be forgotten. That's where XzectLabs comes in. We help businesses not just exist on social media, but dominate it.
 
-At Webdexpert, we don’t believe in posting randomly or using generic content calendars. We believe in strategy, storytelling, and sales. Our social media management services are designed for one clear purpose: growth. Whether you're looking to build brand awareness, drive traffic, or generate qualified leads, our team turns your social presence into a performance powerhouse.
-</p>
+                                At XzectLabs, we don’t believe in posting randomly or using generic content calendars. We believe in strategy, storytelling, and sales. Our social media management services are designed for one clear purpose: growth. Whether you're looking to build brand awareness, drive traffic, or generate qualified leads, our team turns your social presence into a performance powerhouse.
+                            </p>
                             <Link href="/contact" className="btn btn-outline-secondary mt-6" data-aos="fade-up" data-aos-delay={0}>
                                 <span>get in touch</span>
                                 <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">
@@ -151,10 +151,10 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                                 <span style={{ fontWeight: 'bold' }}>Skyrocket Your Brand</span> With An Expert Social Media Management Company In India
                             </h2>
                             <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
-                                In a world where attention spans are short and the scroll never stops, your brand has just three seconds to stand out or be forgotten. That's where Webdexpert Technologies comes in. We help businesses not just exist on social media, but dominate it.
+                                In a world where attention spans are short and the scroll never stops, your brand has just three seconds to stand out or be forgotten. That's where XzectLabs Technologies comes in. We help businesses not just exist on social media, but dominate it.
                             </p>
                             <p className="mb-0" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
-                                At Webdexpert Technologies, we don't believe in posting randomly or using generic content calendars. We believe in strategy, storytelling, and sales. Our social media management services are designed for one clear purpose: growth. Whether you're looking to build brand awareness, drive traffic, or generate qualified leads, our team turns your social presence into a performance powerhouse.
+                                At XzectLabs Technologies, we don't believe in posting randomly or using generic content calendars. We believe in strategy, storytelling, and sales. Our social media management services are designed for one clear purpose: growth. Whether you're looking to build brand awareness, drive traffic, or generate qualified leads, our team turns your social presence into a performance powerhouse.
                             </p>
                         </div>
                         <div className="col-lg-6">
@@ -179,7 +179,7 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                                 Your customers are online, scrolling through Instagram, searching on Facebook, connecting on LinkedIn, and sharing on Twitter. But here's the catch: they won't notice you unless you stand out. That's where expert social media management comes in.
                             </p>
                             <p className="mb-0" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
-                                It's not just about posting pretty pictures or going viral; it's about building trust, authority, and ultimately, driving real business results. From brand awareness to lead generation, social media is the most powerful tool to scale your brand in 2026—<span style={{ fontWeight: 'bold' }}>and Webdexpert Technologies helps you harness it strategically.</span>
+                                It's not just about posting pretty pictures or going viral; it's about building trust, authority, and ultimately, driving real business results. From brand awareness to lead generation, social media is the most powerful tool to scale your brand in 2026—<span style={{ fontWeight: 'bold' }}>and XzectLabs Technologies helps you harness it strategically.</span>
                             </p>
                         </div>
                     </div>
@@ -211,18 +211,18 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                     <div className="row g-5 mt-120 align-items-center">
                         <div className="col-lg-6">
                             <div className="text-center">
-                                <img src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-2/hire-illustration.png" alt="Why Hire Webdexpert Technologies" className="img-fluid" style={{ maxWidth: '100%', height: 'auto' }} />
+                                <img src="/assets/img/insurance-consultancy-img/pages/insurance-consultancy/page-home/home-section-2/hire-illustration.png" alt="Why Hire XzectLabs Technologies" className="img-fluid" style={{ maxWidth: '100%', height: 'auto' }} />
                             </div>
                         </div>
                         <div className="col-lg-6">
                             <h2 className="mb-4" style={{ fontSize: '40px', lineHeight: '1.3', fontWeight: '400', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
-                                Why Should You Hire Webdexpert Technologies As <span style={{ fontWeight: 'bold' }}>Your Social Media Management Company In India</span>
+                                Why Should You Hire XzectLabs Technologies As <span style={{ fontWeight: 'bold' }}>Your Social Media Management Company In India</span>
                             </h2>
                             <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
                                 With 4.8 billion social media users, do you still think there could be any other place where you can find your target audience? Grab today's consumers on social media with the right social media management services!
                             </p>
                             <p className="mb-5" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
-                                With <span style={{ fontWeight: 'bold' }}>12+ years of experience</span> and a portfolio that spans <span style={{ fontWeight: 'bold' }}>500+ successful clients globally</span>, Webdexpert Technologies is one of India's most trusted digital growth partners. We've helped brands across India, the US, UK, Canada, Australia, UAE, and other parts of the world break through the noise and become leaders in their industries.
+                                With <span style={{ fontWeight: 'bold' }}>12+ years of experience</span> and a portfolio that spans <span style={{ fontWeight: 'bold' }}>500+ successful clients globally</span>, XzectLabs Technologies is one of India's most trusted digital growth partners. We've helped brands across India, the US, UK, Canada, Australia, UAE, and other parts of the world break through the noise and become leaders in their industries.
                             </p>
                             <a href="/contact" className="btn btn-outline-dark px-5 py-3" style={{ fontSize: '16px', fontWeight: '500', border: '2px solid #000', borderRadius: '4px', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
                                 Let's Talk To Expert →
@@ -234,7 +234,7 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                     <div className="row mt-120">
                         <div className="col-lg-12 text-center mb-5">
                             <h2 className="mb-4" style={{ fontSize: '40px', lineHeight: '1.3', fontWeight: '400', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
-                                What You Get With Webdexpert's <span style={{ fontWeight: 'bold' }}>Social Media Management Services</span>
+                                What You Get With XzectLabs's <span style={{ fontWeight: 'bold' }}>Social Media Management Services</span>
                             </h2>
                             <p className="mx-auto" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', maxWidth: '900px', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
                                 Every business is different, and so is our strategy. We build a <span style={{ fontWeight: 'bold' }}>customized roadmap</span> that reflects your brand voice, speaks to your target audience, and focuses on <span style={{ fontWeight: 'bold' }}>revenue—not just reach</span>.
@@ -247,9 +247,9 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                             <div className="card h-100 border rounded-3 p-5 text-center" style={{ borderColor: '#e0e0e0' }}>
                                 <div className="mb-4 d-flex justify-content-center">
                                     <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <rect width="80" height="80" rx="10" fill="#f5f5f5"/>
-                                        <path d="M30 25C28.3431 25 27 26.3431 27 28V52C27 53.6569 28.3431 55 30 55H34C35.6569 55 37 53.6569 37 52V28C37 26.3431 35.6569 25 34 25H30ZM30 28H34V52H30V28Z" fill="#000"/>
-                                        <path d="M46 25C44.3431 25 43 26.3431 43 28V52C43 53.6569 44.3431 55 46 55H50C51.6569 55 53 53.6569 53 52V28C53 26.3431 51.6569 25 50 25H46ZM46 28H50V52H46V28Z" fill="#000"/>
+                                        <rect width="80" height="80" rx="10" fill="#f5f5f5" />
+                                        <path d="M30 25C28.3431 25 27 26.3431 27 28V52C27 53.6569 28.3431 55 30 55H34C35.6569 55 37 53.6569 37 52V28C37 26.3431 35.6569 25 34 25H30ZM30 28H34V52H30V28Z" fill="#000" />
+                                        <path d="M46 25C44.3431 25 43 26.3431 43 28V52C43 53.6569 44.3431 55 46 55H50C51.6569 55 53 53.6569 53 52V28C53 26.3431 51.6569 25 50 25H46ZM46 28H50V52H46V28Z" fill="#000" />
                                     </svg>
                                 </div>
                                 <h4 className="mb-3" style={{ fontSize: '20px', fontWeight: 'bold', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
@@ -264,10 +264,10 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                             <div className="card h-100 border rounded-3 p-5 text-center" style={{ borderColor: '#e0e0e0' }}>
                                 <div className="mb-4 d-flex justify-content-center">
                                     <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <rect width="80" height="80" rx="10" fill="#f5f5f5"/>
-                                        <path d="M30 25C28.3431 25 27 26.3431 27 28V47H30V28H48V31H51V28C51 26.3431 49.6569 25 48 25H30Z" fill="#000"/>
-                                        <path d="M27 50H30V53H27V50Z" fill="#000"/>
-                                        <path d="M33 50H51V53H33V50Z" fill="#000"/>
+                                        <rect width="80" height="80" rx="10" fill="#f5f5f5" />
+                                        <path d="M30 25C28.3431 25 27 26.3431 27 28V47H30V28H48V31H51V28C51 26.3431 49.6569 25 48 25H30Z" fill="#000" />
+                                        <path d="M27 50H30V53H27V50Z" fill="#000" />
+                                        <path d="M33 50H51V53H33V50Z" fill="#000" />
                                     </svg>
                                 </div>
                                 <h4 className="mb-3" style={{ fontSize: '20px', fontWeight: 'bold', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
@@ -282,11 +282,11 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                             <div className="card h-100 border rounded-3 p-5 text-center" style={{ borderColor: '#e0e0e0' }}>
                                 <div className="mb-4 d-flex justify-content-center">
                                     <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <rect width="80" height="80" rx="10" fill="#f5f5f5"/>
-                                        <path d="M30 25C28.3431 25 27 26.3431 27 28V48C27 49.6569 28.3431 51 30 51H50C51.6569 51 53 49.6569 53 48V28C53 26.3431 51.6569 25 50 25H30ZM30 28H50V48H30V28Z" fill="#000"/>
-                                        <path d="M35 32H38V35H35V32Z" fill="#000"/>
-                                        <path d="M42 32H45V35H42V32Z" fill="#000"/>
-                                        <path d="M35 38H45V41H35V38Z" fill="#000"/>
+                                        <rect width="80" height="80" rx="10" fill="#f5f5f5" />
+                                        <path d="M30 25C28.3431 25 27 26.3431 27 28V48C27 49.6569 28.3431 51 30 51H50C51.6569 51 53 49.6569 53 48V28C53 26.3431 51.6569 25 50 25H30ZM30 28H50V48H30V28Z" fill="#000" />
+                                        <path d="M35 32H38V35H35V32Z" fill="#000" />
+                                        <path d="M42 32H45V35H42V32Z" fill="#000" />
+                                        <path d="M35 38H45V41H35V38Z" fill="#000" />
                                     </svg>
                                 </div>
                                 <h4 className="mb-3" style={{ fontSize: '20px', fontWeight: 'bold', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
@@ -301,11 +301,11 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                             <div className="card h-100 border rounded-3 p-5 text-center" style={{ borderColor: '#e0e0e0' }}>
                                 <div className="mb-4 d-flex justify-content-center">
                                     <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <rect width="80" height="80" rx="10" fill="#f5f5f5"/>
-                                        <path d="M40 25C35.5817 25 32 28.5817 32 33C32 37.4183 35.5817 41 40 41C44.4183 41 48 37.4183 48 33C48 28.5817 44.4183 25 40 25ZM40 28C42.7614 28 45 30.2386 45 33C45 35.7614 42.7614 38 40 38C37.2386 38 35 35.7614 35 33C35 30.2386 37.2386 28 40 28Z" fill="#000"/>
-                                        <path d="M28 44C26.3431 44 25 45.3431 25 47V52C25 53.6569 26.3431 55 28 55C29.6569 55 31 53.6569 31 52V47C31 45.3431 29.6569 44 28 44Z" fill="#000"/>
-                                        <path d="M40 44C38.3431 44 37 45.3431 37 47V52C37 53.6569 38.3431 55 40 55C41.6569 55 43 53.6569 43 52V47C43 45.3431 41.6569 44 40 44Z" fill="#000"/>
-                                        <path d="M52 44C50.3431 44 49 45.3431 49 47V52C49 53.6569 50.3431 55 52 55C53.6569 55 55 53.6569 55 52V47C55 45.3431 53.6569 44 52 44Z" fill="#000"/>
+                                        <rect width="80" height="80" rx="10" fill="#f5f5f5" />
+                                        <path d="M40 25C35.5817 25 32 28.5817 32 33C32 37.4183 35.5817 41 40 41C44.4183 41 48 37.4183 48 33C48 28.5817 44.4183 25 40 25ZM40 28C42.7614 28 45 30.2386 45 33C45 35.7614 42.7614 38 40 38C37.2386 38 35 35.7614 35 33C35 30.2386 37.2386 28 40 28Z" fill="#000" />
+                                        <path d="M28 44C26.3431 44 25 45.3431 25 47V52C25 53.6569 26.3431 55 28 55C29.6569 55 31 53.6569 31 52V47C31 45.3431 29.6569 44 28 44Z" fill="#000" />
+                                        <path d="M40 44C38.3431 44 37 45.3431 37 47V52C37 53.6569 38.3431 55 40 55C41.6569 55 43 53.6569 43 52V47C43 45.3431 41.6569 44 40 44Z" fill="#000" />
+                                        <path d="M52 44C50.3431 44 49 45.3431 49 47V52C49 53.6569 50.3431 55 52 55C53.6569 55 55 53.6569 55 52V47C55 45.3431 53.6569 44 52 44Z" fill="#000" />
                                     </svg>
                                 </div>
                                 <h4 className="mb-3" style={{ fontSize: '20px', fontWeight: 'bold', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
@@ -320,10 +320,10 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                             <div className="card h-100 border rounded-3 p-5 text-center" style={{ borderColor: '#e0e0e0' }}>
                                 <div className="mb-4 d-flex justify-content-center">
                                     <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <rect width="80" height="80" rx="10" fill="#f5f5f5"/>
-                                        <path d="M30 25C28.3431 25 27 26.3431 27 28V48C27 49.6569 28.3431 51 30 51H50C51.6569 51 53 49.6569 53 48V28C53 26.3431 51.6569 25 50 25H30ZM30 28H50V48H30V28Z" fill="#000"/>
-                                        <circle cx="40" cy="34" r="3" fill="#000"/>
-                                        <path d="M33 40H47L42 45L38 42L33 40Z" fill="#000"/>
+                                        <rect width="80" height="80" rx="10" fill="#f5f5f5" />
+                                        <path d="M30 25C28.3431 25 27 26.3431 27 28V48C27 49.6569 28.3431 51 30 51H50C51.6569 51 53 49.6569 53 48V28C53 26.3431 51.6569 25 50 25H30ZM30 28H50V48H30V28Z" fill="#000" />
+                                        <circle cx="40" cy="34" r="3" fill="#000" />
+                                        <path d="M33 40H47L42 45L38 42L33 40Z" fill="#000" />
                                     </svg>
                                 </div>
                                 <h4 className="mb-3" style={{ fontSize: '20px', fontWeight: 'bold', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
@@ -338,11 +338,11 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                             <div className="card h-100 border rounded-3 p-5 text-center" style={{ borderColor: '#e0e0e0' }}>
                                 <div className="mb-4 d-flex justify-content-center">
                                     <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <rect width="80" height="80" rx="10" fill="#f5f5f5"/>
-                                        <path d="M30 30C28.3431 30 27 31.3431 27 33V47C27 48.6569 28.3431 50 30 50H50C51.6569 50 53 48.6569 53 47V33C53 31.3431 51.6569 30 50 30H30ZM30 33H50V47H30V33Z" fill="#000"/>
-                                        <rect x="32" y="36" width="4" height="8" fill="#000"/>
-                                        <rect x="38" y="40" width="4" height="4" fill="#000"/>
-                                        <rect x="44" y="38" width="4" height="6" fill="#000"/>
+                                        <rect width="80" height="80" rx="10" fill="#f5f5f5" />
+                                        <path d="M30 30C28.3431 30 27 31.3431 27 33V47C27 48.6569 28.3431 50 30 50H50C51.6569 50 53 48.6569 53 47V33C53 31.3431 51.6569 30 50 30H30ZM30 33H50V47H30V33Z" fill="#000" />
+                                        <rect x="32" y="36" width="4" height="8" fill="#000" />
+                                        <rect x="38" y="40" width="4" height="4" fill="#000" />
+                                        <rect x="44" y="38" width="4" height="6" fill="#000" />
                                     </svg>
                                 </div>
                                 <h4 className="mb-3" style={{ fontSize: '20px', fontWeight: 'bold', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
@@ -675,7 +675,7 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                             </a>
                         </div>
                     </div>
-                    
+
                     {/* Content Creation Section */}
                     <div className="row g-5 mt-5 align-items-center">
                         <div className="col-lg-6">
@@ -735,7 +735,7 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                                 Facebook is the most used Social media platform in the world. However, managing Facebook is no easy task. As a business, you want to get the most out of your Facebook page and make sure that it's driving the ROI. Thankfully! We're here to derive outcomes from your Facebook page.
                             </p>
                             <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
-                                <span style={{ fontWeight: 'bold' }}>Webdexpert Technologies</span>, a social media marketing agency, helps businesses leverage the potential of Facebook marketing. To do this, we have a team of highly skilled experts who are passionate about Facebook marketing. Moreover, we offer strategy recommendations, content creation, inbound marketing, and Facebook advertising.
+                                <span style={{ fontWeight: 'bold' }}>XzectLabs Technologies</span>, a social media marketing agency, helps businesses leverage the potential of Facebook marketing. To do this, we have a team of highly skilled experts who are passionate about Facebook marketing. Moreover, we offer strategy recommendations, content creation, inbound marketing, and Facebook advertising.
                             </p>
                             <a href="/contact" className="btn btn-dark px-5 py-3" style={{ fontSize: '16px', fontWeight: '500', backgroundColor: '#000', color: '#fff', border: 'none', borderRadius: '4px', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
                                 Read More →
@@ -763,7 +763,7 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                                 Twitter is one of the most eminent social networking sites with nearly 300 million users. Twitter marketing is a great way to get your business to grow and develop. However, it is not an easy task.
                             </p>
                             <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
-                                At <span style={{ fontWeight: 'bold' }}>Webdexpert Technologies</span>, we will ensure your Twitter account is running smoothly and delivering the most value for your investment. We will help the right followers reach and retain at your account.
+                                At <span style={{ fontWeight: 'bold' }}>XzectLabs Technologies</span>, we will ensure your Twitter account is running smoothly and delivering the most value for your investment. We will help the right followers reach and retain at your account.
                             </p>
                             <a href="/contact" className="btn btn-dark px-5 py-3" style={{ fontSize: '16px', fontWeight: '500', backgroundColor: '#000', color: '#fff', border: 'none', borderRadius: '4px', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
                                 Read More →
@@ -824,7 +824,7 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                                 YouTube Management
                             </h3>
                             <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
-                                It's no secret that YouTube is one of the most popular sites on the internet. However, the problem with YouTube is that among millions of videos, it can be very difficult to come into sight of the audience. Webdexpert Technologies has a solution for this problem. We offer social media management services that can help put your company's YouTube channel and content on the map. We can help you find new viewers and fans for your channel, as well as assist you in managing the channel itself.
+                                It's no secret that YouTube is one of the most popular sites on the internet. However, the problem with YouTube is that among millions of videos, it can be very difficult to come into sight of the audience. XzectLabs Technologies has a solution for this problem. We offer social media management services that can help put your company's YouTube channel and content on the map. We can help you find new viewers and fans for your channel, as well as assist you in managing the channel itself.
                             </p>
                             <a href="/contact" className="btn btn-dark px-5 py-3" style={{ fontSize: '16px', fontWeight: '500', backgroundColor: '#000', color: '#fff', border: 'none', borderRadius: '4px', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
                                 Read More →
@@ -855,7 +855,7 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                                 It is a social media platform that is almost exclusively used for sharing images and videos. From pictures of dresses to videos of dogs, people use this platform to share a wide range of content.
                             </p>
                             <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
-                                With Pinterest social media management services from Webdexpert Technologies, you gain comprehensive analytics and insights into what your target audience wants.
+                                With Pinterest social media management services from XzectLabs Technologies, you gain comprehensive analytics and insights into what your target audience wants.
                             </p>
                             <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
                                 From scheduling fresh pins, joining community boards, to strategically performing inbound marketing and ensuring the relevancy of content to the target audience, we do it all!
@@ -874,7 +874,7 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                     <div className="row">
                         <div className="col-12 text-center mb-5">
                             <h2 className="mb-5" style={{ fontSize: '40px', lineHeight: '1.3', fontWeight: 'normal', color: '#fff', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
-                                Why Choose <span style={{ color: '#FDB913', fontWeight: 'bold' }}>Webdexpert Technologies</span> For Best Social Media Management Services?
+                                Why Choose <span style={{ color: '#FDB913', fontWeight: 'bold' }}>XzectLabs Technologies</span> For Best Social Media Management Services?
                             </h2>
                         </div>
                     </div>
@@ -1000,13 +1000,13 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                                 Our <span style={{ fontWeight: 'bold' }}>Social Media Management</span> Process
                             </h2>
                             <h3 className="mb-5" style={{ fontSize: '32px', lineHeight: '1.4', fontWeight: 'normal', color: '#000', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
-                                Managed By Pros. Designed To Sell. <span style={{ fontWeight: 'bold' }}>Powered By Webdexpert Technologies.</span>
+                                Managed By Pros. Designed To Sell. <span style={{ fontWeight: 'bold' }}>Powered By XzectLabs Technologies.</span>
                             </h3>
                             <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif', maxWidth: '1100px', margin: '0 auto 30px' }}>
                                 It is crucial to follow the right social media management process for the success of any social media campaign. If you plan on hiring a social media agency, then it's crucial to make sure you comprehend how they handle your social media. What tactics do they employ? How are results determined?
                             </p>
                             <p style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif', maxWidth: '1100px', margin: '0 auto' }}>
-                                At Webdexpert Technologies, we are known for our transparency and take onus of everything we do. We don't hesitate to share our methodologies and work processes with the entire world. We believe that our clients have the right to know what social media management strategies we follow to make their social media thrive.
+                                At XzectLabs Technologies, we are known for our transparency and take onus of everything we do. We don't hesitate to share our methodologies and work processes with the entire world. We believe that our clients have the right to know what social media management strategies we follow to make their social media thrive.
                             </p>
                         </div>
                     </div>
@@ -1034,7 +1034,7 @@ At Webdexpert, we don’t believe in posting randomly or using generic content c
                                 Research and Analysis
                             </h3>
                             <p className="mb-4" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
-                                Research and analysis are recognized as essential components of social media management. At Webdexpert Technologies, we conduct thorough research and analysis to target the right audience for your business. The success of any social media efforts needs proper research and analysis.
+                                Research and analysis are recognized as essential components of social media management. At XzectLabs Technologies, we conduct thorough research and analysis to target the right audience for your business. The success of any social media efforts needs proper research and analysis.
                             </p>
                             <p className="mb-0" style={{ fontSize: '16px', lineHeight: '1.8', color: '#333', fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
                                 We start the social media management process by doing extensive research and analysis. This requires carefully examining the client's industry and target market. By doing this, we ensure that we tailor the plan to the client's requirements rather than using a generic strategy.

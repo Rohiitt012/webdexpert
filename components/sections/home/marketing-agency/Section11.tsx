@@ -1,8 +1,10 @@
+import Link from "next/link";
+
 export default function Section11() {
     return (
         <>
             {/*marketing-agency-home-section-11 - Performance Marketing Pricing*/}
-            <section className="marketing-agency-home-section-11 position-relative overflow-hidden py-120 bg-white">
+            <section className="marketing-agency-home-section-11 position-relative overflow-hidden py-5 bg-white">
                 <div className="container">
                     {/* Header */}
                     <div className="row mb-5">
@@ -36,15 +38,28 @@ export default function Section11() {
                                     </p>
                                 </div>
                                 <ul className="list-unstyled mb-4" style={{ fontSize: '16px' }}>
-                                    <li className="mb-2">✔ Account & campaign setup</li>
-                                    <li className="mb-2">✔ Keyword research & ad copy</li>
-                                    <li className="mb-2">✔ Search, Display & Performance Max</li>
-                                    <li className="mb-2">✔ Conversion tracking setup</li>
-                                    <li className="mb-2">✔ Monthly optimization & reporting</li>
+                                    <li className="mb-2">Account & campaign setup</li>
+                                    <li className="mb-2">Keyword research & ad copy</li>
+                                    <li className="mb-2">Search, Display & Performance Max</li>
+                                    <li className="mb-2">Conversion tracking setup</li>
+                                    <li className="mb-2">Monthly optimization & reporting</li>
                                 </ul>
-                                <button className="btn w-100" style={{ backgroundColor: '#FDB913', color: '#000', fontWeight: '600', border: 'none' }}>
+                                <Link
+                                    href="/contact"
+                                    className="btn w-100"
+                                    style={{
+                                        backgroundColor: '#FDB913',
+                                        color: '#000',
+                                        fontWeight: '600',
+                                        border: 'none',
+                                        borderRadius: '999px',
+                                        padding: '12px 24px',
+                                        textTransform: 'uppercase',
+                                        letterSpacing: '0.05em',
+                                    }}
+                                >
                                     Run Google Ads
-                                </button>
+                                </Link>
                             </div>
                         </div>
 
@@ -66,15 +81,28 @@ export default function Section11() {
                                     </p>
                                 </div>
                                 <ul className="list-unstyled mb-4" style={{ fontSize: '16px' }}>
-                                    <li className="mb-2">✔ Campaign strategy & setup</li>
-                                    <li className="mb-2">✔ Creative & audience targeting</li>
-                                    <li className="mb-2">✔ Retargeting & lookalike audiences</li>
-                                    <li className="mb-2">✔ A/B testing & optimization</li>
-                                    <li className="mb-2">✔ Monthly performance report</li>
+                                    <li className="mb-2">Campaign strategy & setup</li>
+                                    <li className="mb-2">Creative & audience targeting</li>
+                                    <li className="mb-2">Retargeting & lookalike audiences</li>
+                                    <li className="mb-2">A/B testing & optimization</li>
+                                    <li className="mb-2">Monthly performance report</li>
                                 </ul>
-                                <button className="btn w-100" style={{ backgroundColor: '#FDB913', color: '#000', fontWeight: '600', border: 'none' }}>
+                                <Link
+                                    href="/contact"
+                                    className="btn w-100"
+                                    style={{
+                                        backgroundColor: '#FDB913',
+                                        color: '#000',
+                                        fontWeight: '600',
+                                        border: 'none',
+                                        borderRadius: '999px',
+                                        padding: '12px 24px',
+                                        textTransform: 'uppercase',
+                                        letterSpacing: '0.05em',
+                                    }}
+                                >
                                     Launch Meta Ads
-                                </button>
+                                </Link>
                             </div>
                         </div>
 
@@ -96,15 +124,28 @@ export default function Section11() {
                                     </p>
                                 </div>
                                 <ul className="list-unstyled mb-4" style={{ fontSize: '16px' }}>
-                                    <li className="mb-2">✔ YouTube ad strategy</li>
-                                    <li className="mb-2">✔ In-stream & discovery ads</li>
-                                    <li className="mb-2">✔ Audience targeting & placements</li>
-                                    <li className="mb-2">✔ Video optimization guidance</li>
-                                    <li className="mb-2">✔ Performance tracking & reports</li>
+                                    <li className="mb-2">YouTube ad strategy</li>
+                                    <li className="mb-2">In-stream & discovery ads</li>
+                                    <li className="mb-2">Audience targeting & placements</li>
+                                    <li className="mb-2">Video optimization guidance</li>
+                                    <li className="mb-2">Performance tracking & reports</li>
                                 </ul>
-                                <button className="btn w-100" style={{ backgroundColor: '#FDB913', color: '#000', fontWeight: '600', border: 'none' }}>
+                                <Link
+                                    href="/contact"
+                                    className="btn w-100"
+                                    style={{
+                                        backgroundColor: '#FDB913',
+                                        color: '#000',
+                                        fontWeight: '600',
+                                        border: 'none',
+                                        borderRadius: '999px',
+                                        padding: '12px 24px',
+                                        textTransform: 'uppercase',
+                                        letterSpacing: '0.05em',
+                                    }}
+                                >
                                     Advertise on YouTube
-                                </button>
+                                </Link>
                             </div>
                         </div>
 
@@ -126,14 +167,27 @@ export default function Section11() {
                                     </p>
                                 </div>
                                 <ul className="list-unstyled mb-4" style={{ fontSize: '16px' }}>
-                                    <li className="mb-2">✔ Google Tag Manager setup</li>
-                                    <li className="mb-2">✔ GA4 & event tracking</li>
-                                    <li className="mb-2">✔ Meta CAPI configuration</li>
-                                    <li className="mb-2">✔ Conversion verification & testing</li>
+                                    <li className="mb-2">Google Tag Manager setup</li>
+                                    <li className="mb-2">GA4 & event tracking</li>
+                                    <li className="mb-2">Meta CAPI configuration</li>
+                                    <li className="mb-2">Conversion verification & testing</li>
                                 </ul>
-                                <button className="btn w-100" style={{ backgroundColor: '#FDB913', color: '#000', fontWeight: '600', border: 'none' }}>
+                                <Link
+                                    href="/contact"
+                                    className="btn w-100"
+                                    style={{
+                                        backgroundColor: '#FDB913',
+                                        color: '#000',
+                                        fontWeight: '600',
+                                        border: 'none',
+                                        borderRadius: '999px',
+                                        padding: '12px 24px',
+                                        textTransform: 'uppercase',
+                                        letterSpacing: '0.05em',
+                                    }}
+                                >
                                     Fix My Tracking
-                                </button>
+                                </Link>
                             </div>
                         </div>
 
@@ -152,15 +206,28 @@ export default function Section11() {
                                     </p>
                                 </div>
                                 <ul className="list-unstyled mb-4" style={{ fontSize: '16px' }}>
-                                    <li className="mb-2">✔ Funnel & user journey analysis</li>
-                                    <li className="mb-2">✔ Landing page optimization</li>
-                                    <li className="mb-2">✔ CTA & form improvements</li>
-                                    <li className="mb-2">✔ A/B testing recommendations</li>
-                                    <li className="mb-2">✔ Conversion insights & reporting</li>
+                                    <li className="mb-2">Funnel & user journey analysis</li>
+                                    <li className="mb-2">Landing page optimization</li>
+                                    <li className="mb-2">CTA & form improvements</li>
+                                    <li className="mb-2">A/B testing recommendations</li>
+                                    <li className="mb-2">Conversion insights & reporting</li>
                                 </ul>
-                                <button className="btn w-100" style={{ backgroundColor: '#FDB913', color: '#000', fontWeight: '600', border: 'none' }}>
+                                <Link
+                                    href="/contact"
+                                    className="btn w-100"
+                                    style={{
+                                        backgroundColor: '#FDB913',
+                                        color: '#000',
+                                        fontWeight: '600',
+                                        border: 'none',
+                                        borderRadius: '999px',
+                                        padding: '12px 24px',
+                                        textTransform: 'uppercase',
+                                        letterSpacing: '0.05em',
+                                    }}
+                                >
                                     Increase Conversions
-                                </button>
+                                </Link>
                             </div>
                         </div>
                     </div>
@@ -241,15 +308,12 @@ export default function Section11() {
                                 </div>
                                 <ul className="list-unstyled mb-4" style={{ fontSize: '16px' }}>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>Google Ads OR Meta Ads</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>Conversion tracking setup</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>Basic funnel optimization</span>
                                     </li>
                                 </ul>
@@ -276,19 +340,15 @@ export default function Section11() {
                                 </div>
                                 <ul className="list-unstyled mb-4" style={{ fontSize: '16px' }}>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span style={{ color: '#fff' }}>Google Ads + Meta Ads</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span style={{ color: '#fff' }}>Conversion tracking (GTM + CAPI)</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span style={{ color: '#fff' }}>Landing page & funnel optimization</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span style={{ color: '#fff' }}>Weekly optimization</span>
                                     </li>
                                 </ul>
@@ -312,19 +372,15 @@ export default function Section11() {
                                 </div>
                                 <ul className="list-unstyled mb-4" style={{ fontSize: '16px' }}>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>Google Ads, Meta Ads & YouTube Ads</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>Advanced conversion tracking</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>CRO & funnel optimization</span>
                                     </li>
                                     <li className="mb-3 d-flex align-items-start">
-                                        <span style={{ color: '#FDB913', marginRight: '12px', fontSize: '20px' }}>✔</span>
                                         <span>Priority support & detailed reporting</span>
                                     </li>
                                 </ul>

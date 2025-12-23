@@ -3,8 +3,8 @@ import Link from "next/link";
 export default function Section9() {
     return (
         <>
-            {/*tax-software section 9 - Website Design & Development Pricing*/}
-            <section className="tax-software-section-9 overflow-hidden py-120 bg-white">
+            {/*tax-software-home section 9 - Tax Software Pricing*/}
+            <section className="tax-software-home-section-9 position-relative overflow-hidden py-5 bg-white">
                 <div className="container">
                     {/* Pricing Cards Section */}
                     <div className="row justify-content-center text-center mb-5">
@@ -75,15 +75,15 @@ export default function Section9() {
                                     className="list-unstyled text-start mb-4"
                                     style={{ fontSize: '16px', lineHeight: '2', color: '#333' }}
                                 >
-                                    <li>✔ Up to 5 pages</li>
-                                    <li>✔ Responsive design</li>
-                                    <li>✔ Basic SEO setup</li>
-                                    <li>✔ Contact form integration</li>
-                                    <li>✔ 30 days support</li>
+                                    <li>Up to 5 pages</li>
+                                    <li>Responsive design</li>
+                                    <li>Basic SEO setup</li>
+                                    <li>Contact form integration</li>
+                                    <li>30 days support</li>
                                 </ul>
                                 <Link
                                     href="/contact"
-                                    className="btn btn-primary hover-up"
+                                    className="btn btn-primary"
                                     style={{
                                         border: '2px solid #000',
                                         borderRadius: '999px',
@@ -141,15 +141,15 @@ export default function Section9() {
                                     className="list-unstyled text-start mb-4"
                                     style={{ fontSize: '16px', lineHeight: '2', color: '#fff' }}
                                 >
-                                    <li>✔ Up to 10 pages</li>
-                                    <li>✔ Premium responsive design</li>
-                                    <li>✔ Advanced SEO optimization</li>
-                                    <li>✔ CMS integration</li>
-                                    <li>✔ 90 days support & maintenance</li>
+                                    <li>Up to 10 pages</li>
+                                    <li>Premium responsive design</li>
+                                    <li>Advanced SEO optimization</li>
+                                    <li>CMS integration</li>
+                                    <li>90 days support & maintenance</li>
                                 </ul>
                                 <Link
                                     href="/contact"
-                                    className="btn hover-up"
+                                    className="btn"
                                     style={{
                                         border: '2px solid #FDB913',
                                         borderRadius: '999px',
@@ -206,15 +206,15 @@ export default function Section9() {
                                     className="list-unstyled text-start mb-4"
                                     style={{ fontSize: '16px', lineHeight: '2', color: '#333' }}
                                 >
-                                    <li>✔ Unlimited pages</li>
-                                    <li>✔ Custom design & development</li>
-                                    <li>✔ Enterprise SEO & analytics</li>
-                                    <li>✔ Custom CMS & integrations</li>
-                                    <li>✔ 1 year support & maintenance</li>
+                                    <li>Unlimited pages</li>
+                                    <li>Custom design & development</li>
+                                    <li>Enterprise SEO & analytics</li>
+                                    <li>Custom CMS & integrations</li>
+                                    <li>1 year support & maintenance</li>
                                 </ul>
                                 <Link
                                     href="/contact"
-                                    className="btn btn-primary hover-up"
+                                    className="btn btn-primary"
                                     style={{
                                         border: '2px solid #000',
                                         borderRadius: '999px',
@@ -267,7 +267,7 @@ export default function Section9() {
                                 <div className="d-flex flex-wrap justify-content-center gap-3">
                                     <Link
                                         href="/contact"
-                                        className="btn hover-up"
+                                        className="btn"
                                         style={{
                                             border: '2px solid #FDB913',
                                             borderRadius: '999px',
@@ -286,7 +286,7 @@ export default function Section9() {
                                     </Link>
                                     <Link
                                         href="/contact"
-                                        className="btn hover-up"
+                                        className="btn"
                                         style={{
                                             border: '2px solid #fff',
                                             borderRadius: '999px',

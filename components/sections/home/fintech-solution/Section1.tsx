@@ -35,7 +35,7 @@ export default function Section1() {
                             <div className="col-lg-5 col-md-12 px-md-0 position-relative">
                                 <div className="d-flex align-items-center justify-content-center justify-content-lg-start gap-3 mb-3">
                                     <span className="small-line" />
-                                    <span className="btn-text text-primary">Webdexpert</span>
+                                    <span className="btn-text text-primary">XzectLabs</span>
                                 </div>
                                 <h1 className="mb-8 text-anime-style-2">Custom CRM <br /> Development.</h1>
                                 <Link href="/contact" className="btn btn-primary" data-aos="fade-up">

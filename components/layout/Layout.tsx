@@ -20,9 +20,10 @@ interface LayoutProps {
 	children?: React.ReactNode
 	breadcrumbTitle?: string
 	theme?: string
+	hideLogo?: boolean
 }
 
-export default function Layout({ headerStyle, footerStyle, breadcrumbTitle, children, theme = 'ai-solutions' }: LayoutProps) {
+export default function Layout({ headerStyle, footerStyle, breadcrumbTitle, children, theme = 'ai-solutions', hideLogo }: LayoutProps) {
 	const [scroll, setScroll] = useState<boolean>(false)
 	// Mobile Menu
 	const [isMobileMenu, setMobileMenu] = useState<boolean>(false)
@@ -66,7 +67,7 @@ export default function Layout({ headerStyle, footerStyle, breadcrumbTitle, chil
 			<div id="top" />
 			<BootstrapComponents />
 			<ThemeUtils theme={theme} />
-			<Header scroll={scroll} isMobileMenu={isMobileMenu} handleMobileMenu={handleMobileMenu} />
+			<Header scroll={scroll} isMobileMenu={isMobileMenu} handleMobileMenu={handleMobileMenu} hideLogo={hideLogo} />
 
 			<main>
 				{breadcrumbTitle && <Breadcrumb breadcrumbTitle={breadcrumbTitle} />}

@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function Section2() {
+export default function Section2({ showLogos = true }: { showLogos?: boolean }) {
     return (
         <>
             {/*fintech-solution section 2*/}
@@ -67,7 +67,7 @@ export default function Section2() {
                         </div>
                     </div>
                 </div>
-                <div className="container position-relative pt-120 z-1 border-top">
+                {showLogos && <div className="container position-relative pt-120 z-1 border-top">
                     <div className="row position-relative">
                         <div className="d-flex flex-lg-nowrap flex-wrap justify-content-center justify-content-lg-between gap-5">
                             <Link href="#" className="d-flex align-items-center rounded-start-lg-3" data-aos="fade-up" data-aos-delay={0}>
@@ -80,7 +80,7 @@ export default function Section2() {
                                         <path fillRule="evenodd" clipRule="evenodd" d="M11.9834 21.9268C16.2006 15.3305 22.8738 10.1083 31.0119 9.38978C29.9915 0.948352 13.8928 2.69842 12.0826 20.6926C12.0407 21.1133 12.0072 21.5243 11.9834 21.9254" fill="#0D6EFD" />
                                     </g>
                                 </svg>
-                                <h5 className=" mb-0 fw-regular fs-30 fw-bold text-dark ms-2">WEBDEXPERT</h5>
+                                <h5 className=" mb-0 fw-regular fs-30 fw-bold text-dark ms-2">XZECTLABS</h5>
                             </Link>
                             <Link href="#" className="d-flex align-items-center" data-aos="fade-up" data-aos-delay={200}>
                                 <svg className="fill-primary" xmlns="http://www.w3.org/2000/svg" width={36} height={40} viewBox="0 0 36 40" fill="none">
@@ -156,7 +156,7 @@ export default function Section2() {
                             </p>
                         </div>
                     </div>
-                </div>
+                </div>}
             </section>
         </>
     );

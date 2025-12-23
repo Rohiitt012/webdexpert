@@ -2,7 +2,7 @@ export default function Section2L() {
     return (
         <>
             {/*fintech-solution section 2l - CRM Features List*/}
-            <section className="fintech-solution-section-2l position-relative overflow-hidden py-120 bg-light-2">
+            <section className="fintech-solution-section-2l position-relative overflow-hidden py-120 bg-white">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6">
@@ -91,15 +91,15 @@ export default function Section2L() {
                             <div className="d-flex justify-content-center align-items-center h-100">
                                 <div style={{ width: "400px", height: "400px" }}>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" fill="none">
-                                        <rect x="50" y="50" width="300" height="250" stroke="#2C2E3C" strokeWidth="2" fill="none" rx="4"/>
-                                        <circle cx="150" cy="120" r="30" stroke="#ff8c00" strokeWidth="2" fill="none"/>
-                                        <path d="M130 150 Q150 170 170 150" stroke="#ff8c00" strokeWidth="2" fill="none"/>
-                                        <rect x="200" y="100" width="120" height="8" fill="#2C2E3C"/>
-                                        <rect x="200" y="120" width="80" height="8" fill="#2C2E3C"/>
-                                        <rect x="200" y="140" width="100" height="8" fill="#2C2E3C"/>
-                                        <rect x="80" y="200" width="80" height="60" stroke="#2C2E3C" strokeWidth="2" fill="none"/>
-                                        <rect x="180" y="200" width="80" height="60" stroke="#2C2E3C" strokeWidth="2" fill="none"/>
-                                        <rect x="280" y="200" width="50" height="60" stroke="#2C2E3C" strokeWidth="2" fill="none"/>
+                                        <rect x="50" y="50" width="300" height="250" stroke="#2C2E3C" strokeWidth="2" fill="none" rx="4" />
+                                        <circle cx="150" cy="120" r="30" stroke="#ff8c00" strokeWidth="2" fill="none" />
+                                        <path d="M130 150 Q150 170 170 150" stroke="#ff8c00" strokeWidth="2" fill="none" />
+                                        <rect x="200" y="100" width="120" height="8" fill="#2C2E3C" />
+                                        <rect x="200" y="120" width="80" height="8" fill="#2C2E3C" />
+                                        <rect x="200" y="140" width="100" height="8" fill="#2C2E3C" />
+                                        <rect x="80" y="200" width="80" height="60" stroke="#2C2E3C" strokeWidth="2" fill="none" />
+                                        <rect x="180" y="200" width="80" height="60" stroke="#2C2E3C" strokeWidth="2" fill="none" />
+                                        <rect x="280" y="200" width="50" height="60" stroke="#2C2E3C" strokeWidth="2" fill="none" />
                                     </svg>
                                 </div>
                             </div>

@@ -370,7 +370,7 @@ export default function Section8() {
                                     margin: '0 auto',
                                 }}
                             >
-                                At Webdexpert, we go beyond just designing beautiful websites; we deliver complete
+                                At XzectLabs, we go beyond just designing beautiful websites; we deliver complete
                                 solutions that help your business grow online. When you hire us for web design, here&apos;s what
                                 you can expect:
                             </p>
@@ -691,7 +691,7 @@ export default function Section8() {
                                         '-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif',
                                 }}
                             >
-                                <span style={{ fontWeight: 'bold' }}>Web Designing Services</span> We Offer At Webdexpert
+                                <span style={{ fontWeight: 'bold' }}>Web Designing Services</span> We Offer At XzectLabs
                             </h2>
                         </div>
                         <div className="col-12 text-center mb-3">
@@ -718,7 +718,7 @@ export default function Section8() {
                                     margin: '0 auto',
                                 }}
                             >
-                                At Webdexpert, we provide comprehensive web design services tailored to meet the diverse
+                                At XzectLabs, we provide comprehensive web design services tailored to meet the diverse
                                 needs of different businesses, industries, and platforms. Whether you&apos;re a startup, a local
                                 business, or an enterprise, we have the right web design solution for you.
                             </p>
@@ -1313,7 +1313,7 @@ export default function Section8() {
                                     style={{ fontSize: '16px', lineHeight: '1.8', color: '#333' }}
                                 >
                                     No matter your industry or business size,{' '}
-                                    <span style={{ fontWeight: '600' }}>Webdexpert</span> builds websites that are
+                                    <span style={{ fontWeight: '600' }}>XzectLabs</span> builds websites that are
                                     designed to perform, scale, and convert—aligned with your specific business model.
                                 </p>
                             </div>
@@ -1349,7 +1349,7 @@ export default function Section8() {
                                     margin: '0 auto',
                                 }}
                             >
-                                At Webdexpert, our design philosophy is built on four pillars that ensure every website we
+                                At XzectLabs, our design philosophy is built on four pillars that ensure every website we
                                 design delivers both beauty and business results.
                             </p>
                         </div>
@@ -1498,17 +1498,17 @@ export default function Section8() {
                                 </li>
                             </ul>
                             <Link href="/contact" className="btn" style={{
-                                    border: '1px solid #000',
-                                    borderRadius: '999px',
-                                    padding: '10px 32px',
-                                    fontSize: '15px',
-                                    fontWeight: 500,
-                                    textTransform: 'uppercase',
-                                    letterSpacing: '0.08em',
-                                    textDecoration: 'none',
-                                    color: '#000',
-                                    display: 'inline-block',
-                                }}>
+                                border: '1px solid #000',
+                                borderRadius: '999px',
+                                padding: '10px 32px',
+                                fontSize: '15px',
+                                fontWeight: 500,
+                                textTransform: 'uppercase',
+                                letterSpacing: '0.08em',
+                                textDecoration: 'none',
+                                color: '#000',
+                                display: 'inline-block',
+                            }}>
                                 Get Started
                             </Link>
                         </div>
@@ -1534,7 +1534,7 @@ export default function Section8() {
                         className="mb-5"
                         style={{ fontSize: '18px', lineHeight: '1.8', color: '#333', maxWidth: '1000px', margin: '0 auto' }}
                     >
-                        At Webdexpert, we believe great design comes from the perfect mix of creativity and the right website design
+                        At XzectLabs, we believe great design comes from the perfect mix of creativity and the right website design
                         tools. Our web designers in India use the latest web design tools and technologies to deliver websites that are
                         modern, responsive, and user-friendly. Here’s what powers our designs:
                     </p>
@@ -1829,7 +1829,7 @@ export default function Section8() {
                         className="mt-5 text-center"
                         style={{ fontSize: '18px', lineHeight: '1.8', color: '#333', maxWidth: '1100px', margin: '0 auto' }}
                     >
-                        By combining these tools with our 10+ years of experience, Webdexpert delivers websites that are not only
+                        By combining these tools with our 10+ years of experience, XzectLabs delivers websites that are not only
                         creative but also functional, scalable, and future-ready.
                     </p>
                 </div>
@@ -1853,7 +1853,7 @@ export default function Section8() {
                             className="mb-0"
                             style={{ fontSize: '18px', lineHeight: '1.8', maxWidth: '1100px', margin: '0 auto', color: '#ccc' }}
                         >
-                            At Webdexpert, we recognize that every industry has its unique challenges, target audience, and digital
+                            At XzectLabs, we recognize that every industry has its unique challenges, target audience, and digital
                             objectives. That&apos;s why we create industry-specific web design solutions that not only look stunning but
                             also drive measurable results.
                         </p>
@@ -2009,7 +2009,7 @@ export default function Section8() {
                 </div>
             </section>
 
-            {/* Why Hire Webdexpert Section */}
+            {/* Why Hire XzectLabs Section */}
             <section style={{ paddingTop: '80px', paddingBottom: '80px', backgroundColor: '#fff' }}>
                 <div className="container">
                     <div className="text-center mb-5">
@@ -2022,7 +2022,7 @@ export default function Section8() {
                                 color: '#000',
                             }}
                         >
-                            Why Hire <span style={{ fontWeight: 800 }}>Webdexpert</span> As Your Website Design Agency In India
+                            Why Hire <span style={{ fontWeight: 800 }}>XzectLabs</span> As Your Website Design Agency In India
                         </h2>
                         <p
                             className="mb-0"
@@ -2035,7 +2035,7 @@ export default function Section8() {
                             }}
                         >
                             Choosing the right web design company in India can make all the difference in how your brand is
-                            perceived online. At Webdexpert, we combine creativity, technology, and strategy to deliver websites
+                            perceived online. At XzectLabs, we combine creativity, technology, and strategy to deliver websites
                             that don&apos;t just look stunning but also drive measurable business growth.
                         </p>
                     </div>
@@ -2089,7 +2089,7 @@ export default function Section8() {
                 </div>
             </section>
 
-            {/* Additional Reasons to Choose Webdexpert */}
+            {/* Additional Reasons to Choose XzectLabs */}
             <section style={{ paddingTop: '80px', paddingBottom: '80px', backgroundColor: '#fff' }}>
                 <div className="container">
                     <div className="row g-4 text-start mb-4">
@@ -2143,7 +2143,7 @@ export default function Section8() {
                         className="text-center mb-0"
                         style={{ fontSize: '18px', lineHeight: '1.8', color: '#333', maxWidth: '1100px', margin: '0 auto' }}
                     >
-                        When you hire <span style={{ fontWeight: 600 }}>Webdexpert</span> for website design services, you don&apos;t
+                        When you hire <span style={{ fontWeight: 600 }}>XzectLabs</span> for website design services, you don&apos;t
                         just get a website designed; you get a website design company committed to your long-term success.
                     </p>
                 </div>
@@ -2167,7 +2167,7 @@ export default function Section8() {
                         className="mb-4"
                         style={{ fontSize: '18px', lineHeight: '1.8', maxWidth: '1100px', margin: '0 auto', color: '#ddd' }}
                     >
-                        Your website is the face of your brand online. We make sure it leaves the right impression. At Webdexpert,
+                        Your website is the face of your brand online. We make sure it leaves the right impression. At XzectLabs,
                         we create digital experiences that attract, engage, and convert. Whether you&apos;re a startup, a growing
                         business, or an enterprise, our team is here to craft a web design that aligns perfectly with your goals.
                     </p>
@@ -2243,7 +2243,7 @@ export default function Section8() {
                                             style={{ fontSize: '16px', lineHeight: '1.8', color: '#333' }}
                                         >
                                             Website design costs in India vary based on the scope, features, and complexity of the
-                                            project. At Webdexpert, we offer packages for startups, small businesses, and enterprises,
+                                            project. At XzectLabs, we offer packages for startups, small businesses, and enterprises,
                                             and share a transparent quote after understanding your requirements.
                                         </div>
                                     </div>
@@ -2415,7 +2415,7 @@ export default function Section8() {
                                                 fontWeight: 500,
                                             }}
                                         >
-                                            Why Should I Hire Webdexpert For Web Services?
+                                            Why Should I Hire XzectLabs For Web Services?
                                         </button>
                                     </h2>
                                     <div
@@ -2428,7 +2428,7 @@ export default function Section8() {
                                             className="accordion-body px-4 py-3"
                                             style={{ fontSize: '16px', lineHeight: '1.8', color: '#333' }}
                                         >
-                                            Webdexpert combines 10+ years of experience, a skilled in‑house team, and a structured
+                                            XzectLabs combines 10+ years of experience, a skilled in‑house team, and a structured
                                             process to deliver modern, conversion‑focused websites. We focus on strategy,
                                             user‑experience, performance, and long‑term support so your website becomes a strong
                                             growth engine for your business.

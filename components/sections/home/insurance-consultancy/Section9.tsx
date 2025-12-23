@@ -4,7 +4,7 @@ export default function Section9() {
     return (
         <>
             {/*insurance-consultancy section 9 - Social Media Marketing Pricing*/}
-            <section className="insurance-consultancy-section-9 overflow-hidden py-120 bg-white">
+            <section className="insurance-consultancy-section-9 overflow-hidden py-5 bg-white">
                 <div className="container">
                     {/* Pricing Cards Section */}
                     <div className="row justify-content-center text-center mb-5">
@@ -75,15 +75,15 @@ export default function Section9() {
                                     className="list-unstyled text-start mb-4"
                                     style={{ fontSize: '16px', lineHeight: '2', color: '#333' }}
                                 >
-                                    <li>✔ Social media management</li>
-                                    <li>✔ 12 posts / month</li>
-                                    <li>✔ Content calendar & scheduling</li>
-                                    <li>✔ Basic engagement monitoring</li>
-                                    <li>✔ Monthly performance report</li>
+                                    <li>Social media management</li>
+                                    <li>12 posts / month</li>
+                                    <li>Content calendar & scheduling</li>
+                                    <li>Basic engagement monitoring</li>
+                                    <li>Monthly performance report</li>
                                 </ul>
                                 <Link
                                     href="/contact"
-                                    className="btn btn-primary hover-up"
+                                    className="btn btn-primary"
                                     style={{
                                         border: '2px solid #000',
                                         borderRadius: '999px',
@@ -141,15 +141,15 @@ export default function Section9() {
                                     className="list-unstyled text-start mb-4"
                                     style={{ fontSize: '16px', lineHeight: '2', color: '#fff' }}
                                 >
-                                    <li>✔ Social media management</li>
-                                    <li>✔ Reels & creative strategy</li>
-                                    <li>✔ Paid ads management (1 platform)*</li>
-                                    <li>✔ Audience targeting & optimization</li>
-                                    <li>✔ Monthly analytics report</li>
+                                    <li>Social media management</li>
+                                    <li>Reels & creative strategy</li>
+                                    <li>Paid ads management (1 platform)*</li>
+                                    <li>Audience targeting & optimization</li>
+                                    <li>Monthly analytics report</li>
                                 </ul>
                                 <Link
                                     href="/contact"
-                                    className="btn hover-up"
+                                    className="btn"
                                     style={{
                                         border: '2px solid #FDB913',
                                         borderRadius: '999px',
@@ -206,15 +206,15 @@ export default function Section9() {
                                     className="list-unstyled text-start mb-4"
                                     style={{ fontSize: '16px', lineHeight: '2', color: '#333' }}
                                 >
-                                    <li>✔ Complete social media management</li>
-                                    <li>✔ Advanced reels & creative strategy</li>
-                                    <li>✔ Paid ads (multi-platform)*</li>
-                                    <li>✔ Brand growth & engagement strategy</li>
-                                    <li>✔ Priority support & detailed reporting</li>
+                                    <li>Complete social media management</li>
+                                    <li>Advanced reels & creative strategy</li>
+                                    <li>Paid ads (multi-platform)*</li>
+                                    <li>Brand growth & engagement strategy</li>
+                                    <li>Priority support & detailed reporting</li>
                                 </ul>
                                 <Link
                                     href="/contact"
-                                    className="btn btn-primary hover-up"
+                                    className="btn btn-primary"
                                     style={{
                                         border: '2px solid #000',
                                         borderRadius: '999px',
@@ -245,7 +245,7 @@ export default function Section9() {
                     </div>
 
                     {/* Package Comparison Table */}
-                    <div className="row mt-160">
+                    <div className="row mt-5">
                         <div className="col-12 text-center mb-5">
                             <h2
                                 className="mb-3"
@@ -288,9 +288,9 @@ export default function Section9() {
                                             <td style={{ padding: '16px', textAlign: 'left', fontWeight: 500 }}>
                                                 Account Management
                                             </td>
-                                            <td style={{ padding: '16px' }}>✔</td>
-                                            <td style={{ padding: '16px', backgroundColor: '#fffbf0' }}>✔</td>
-                                            <td style={{ padding: '16px' }}>✔</td>
+                                            <td style={{ padding: '16px' }}>Yes</td>
+                                            <td style={{ padding: '16px', backgroundColor: '#fffbf0' }}>Yes</td>
+                                            <td style={{ padding: '16px' }}>Yes</td>
                                         </tr>
                                         <tr style={{ backgroundColor: '#f9f9f9' }}>
                                             <td style={{ padding: '16px', textAlign: 'left', fontWeight: 500 }}>Monthly Posts</td>
@@ -300,15 +300,15 @@ export default function Section9() {
                                         </tr>
                                         <tr>
                                             <td style={{ padding: '16px', textAlign: 'left', fontWeight: 500 }}>Reels Strategy</td>
-                                            <td style={{ padding: '16px' }}>✖</td>
-                                            <td style={{ padding: '16px', backgroundColor: '#fffbf0' }}>✔</td>
-                                            <td style={{ padding: '16px' }}>✔</td>
+                                            <td style={{ padding: '16px' }}>No</td>
+                                            <td style={{ padding: '16px', backgroundColor: '#fffbf0' }}>Yes</td>
+                                            <td style={{ padding: '16px' }}>Yes</td>
                                         </tr>
                                         <tr style={{ backgroundColor: '#f9f9f9' }}>
                                             <td style={{ padding: '16px', textAlign: 'left', fontWeight: 500 }}>
                                                 Paid Ads Management
                                             </td>
-                                            <td style={{ padding: '16px' }}>✖</td>
+                                            <td style={{ padding: '16px' }}>No</td>
                                             <td style={{ padding: '16px', backgroundColor: '#fffbf0' }}>✔ (1 platform)</td>
                                             <td style={{ padding: '16px' }}>✔ (Multi-platform)</td>
                                         </tr>
@@ -324,9 +324,9 @@ export default function Section9() {
                                             <td style={{ padding: '16px', textAlign: 'left', fontWeight: 500 }}>
                                                 Monthly Reports
                                             </td>
-                                            <td style={{ padding: '16px' }}>✔</td>
-                                            <td style={{ padding: '16px', backgroundColor: '#fffbf0' }}>✔</td>
-                                            <td style={{ padding: '16px' }}>✔</td>
+                                            <td style={{ padding: '16px' }}>Yes</td>
+                                            <td style={{ padding: '16px', backgroundColor: '#fffbf0' }}>Yes</td>
+                                            <td style={{ padding: '16px' }}>Yes</td>
                                         </tr>
                                         <tr>
                                             <td style={{ padding: '16px', textAlign: 'left', fontWeight: 500 }}>Best For</td>
@@ -341,7 +341,7 @@ export default function Section9() {
                     </div>
 
                     {/* Annual Plans Section */}
-                    <div className="row mt-160">
+                    <div className="row mt-5">
                         <div className="col-12 text-center mb-5">
                             <h2
                                 className="mb-3"
@@ -470,16 +470,16 @@ export default function Section9() {
                                     className="list-unstyled mb-0"
                                     style={{ fontSize: '16px', lineHeight: '2', color: '#333' }}
                                 >
-                                    <li>✔ Priority support</li>
-                                    <li>✔ Long-term growth planning</li>
-                                    <li>✔ Dedicated account manager (Premium)</li>
+                                    <li>Priority support</li>
+                                    <li>Long-term growth planning</li>
+                                    <li>Dedicated account manager (Premium)</li>
                                 </ul>
                             </div>
                         </div>
                     </div>
 
                     {/* Add-On Services Section */}
-                    <div className="row mt-160">
+                    <div className="row mt-5">
                         <div className="col-12 text-center mb-5">
                             <h2
                                 className="mb-3"
@@ -583,7 +583,7 @@ export default function Section9() {
                     </div>
 
                     {/* CTA Section */}
-                    <div className="row mt-160">
+                    <div className="row mt-5">
                         <div className="col-12">
                             <div
                                 className="text-center py-5 px-4 rounded-4"
@@ -595,6 +595,7 @@ export default function Section9() {
                                         fontSize: '40px',
                                         lineHeight: '1.3',
                                         fontWeight: 600,
+                                        color: '#fff',
                                     }}
                                 >
                                     🚀 Ready to grow your brand on social media?
@@ -614,7 +615,7 @@ export default function Section9() {
                                 <div className="d-flex flex-wrap justify-content-center gap-3">
                                     <Link
                                         href="/contact"
-                                        className="btn hover-up"
+                                        className="btn"
                                         style={{
                                             border: '2px solid #FDB913',
                                             borderRadius: '999px',
@@ -633,7 +634,7 @@ export default function Section9() {
                                     </Link>
                                     <Link
                                         href="/contact"
-                                        className="btn hover-up"
+                                        className="btn"
                                         style={{
                                             border: '2px solid #fff',
                                             borderRadius: '999px',
@@ -652,7 +653,7 @@ export default function Section9() {
                                     </Link>
                                     <Link
                                         href="/contact"
-                                        className="btn hover-up"
+                                        className="btn"
                                         style={{
                                             border: '2px solid #fff',
                                             borderRadius: '999px',
