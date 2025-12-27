@@ -19,7 +19,7 @@ export default function Section6() {
 	return (
 		<>
 			{/*law-firm section 6*/}
-			<section className="law-firm-home-section-6 position-relative overflow-hidden pt-120 pb-120">
+			<section className="law-firm-home-section-6 position-relative pt-20 pb-20">
 				<div className="container">
 					<div className="text-center">
 						<span className="content-top btn-text text-primary fw-semibold rounded-pill border border-primary px-3 py-2 bg-white">

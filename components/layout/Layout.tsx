@@ -5,11 +5,14 @@ import 'aos/dist/aos.css'
 import dynamic from 'next/dynamic'
 import type { FC } from 'react'
 import { useEffect, useState } from "react"
+import { usePathname } from 'next/navigation'
 import BackToTop from '../elements/BackToTop'
 import Breadcrumb from './Breadcrumb'
 import Footer from './footer/Footer'
 import Header from "./header/Header"
 import ThemeUtils from './ThemeUtils'
+import DisableAnimations from '../common/DisableAnimations'
+import GlobalFAQStyles from '../common/GlobalFAQStyles'
 
 // Define the props interface (same as above)
 interface BootstrapComponentsProps { }
@@ -65,6 +68,13 @@ export default function Layout({ headerStyle, footerStyle, breadcrumbTitle, chil
 	return (
 		<>
 			<div id="top" />
+			{/* Disable animations for all service pages */}
+			{usePathname()?.startsWith('/service/') && (
+				<>
+					<DisableAnimations />
+					<GlobalFAQStyles />
+				</>
+			)}
 			<BootstrapComponents />
 			<ThemeUtils theme={theme} />
 			<Header scroll={scroll} isMobileMenu={isMobileMenu} handleMobileMenu={handleMobileMenu} hideLogo={hideLogo} />

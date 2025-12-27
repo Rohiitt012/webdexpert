@@ -10,7 +10,6 @@ export default function PageHeader({ title, current_page }: PageHeaderProps) {
         <>
             {/*tax-software section header*/}
             <section className="ai-solutions-section-header position-relative bg-dark-1">
-                <img className="position-absolute bottom-0 end-0" data-aos="fade-left" data-aos-delay={400} src="/assets/img/ai-solutions-img/pages/ai-solutions/page-home/banner-header.png" alt="Xzect Labs" />
 
                 <div className="position-relative">
                     <div className="container position-relative">
@@ -18,7 +17,7 @@ export default function PageHeader({ title, current_page }: PageHeaderProps) {
                         <div className="container position-relative z-1 py-120-keep">
                             <div className="row align-items-center">
                                 <div className="col-lg-9">
-                                    <h2 className="text-white text-anime-style-2">{title}</h2>
+                                    <h2 className="text-white">{title}</h2>
                                 </div>
                             </div>
                             <Breadcrumb page={current_page} />

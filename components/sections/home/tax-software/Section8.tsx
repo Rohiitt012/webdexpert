@@ -2210,24 +2210,17 @@ export default function Section8() {
                                 </h2>
                             </div>
 
-                            <div className="accordion" id="webDesignFaqAccordion">
+                            <div className="accordion service-faq-accordion" id="webDesignFaqAccordion">
                                 {/* FAQ Item 1 */}
-                                <div className="accordion-item mb-3" style={{ border: 'none', borderRadius: 0 }}>
+                                <div className="accordion-item">
                                     <h2 className="accordion-header" id="webFaqHeadingOne">
                                         <button
-                                            className="accordion-button d-flex align-items-center justify-content-between px-4 py-3"
+                                            className="accordion-button d-flex align-items-center justify-content-between"
                                             type="button"
                                             data-bs-toggle="collapse"
                                             data-bs-target="#webFaqCollapseOne"
                                             aria-expanded="true"
                                             aria-controls="webFaqCollapseOne"
-                                            style={{
-                                                backgroundColor: '#f2f2f2',
-                                                borderRadius: 0,
-                                                boxShadow: 'none',
-                                                fontSize: '20px',
-                                                fontWeight: 500,
-                                            }}
                                         >
                                             How Much Does A Website Design Cost In India?
                                         </button>
@@ -2238,10 +2231,7 @@ export default function Section8() {
                                         aria-labelledby="webFaqHeadingOne"
                                         data-bs-parent="#webDesignFaqAccordion"
                                     >
-                                        <div
-                                            className="accordion-body px-4 py-3"
-                                            style={{ fontSize: '16px', lineHeight: '1.8', color: '#333' }}
-                                        >
+                                        <div className="accordion-body">
                                             Website design costs in India vary based on the scope, features, and complexity of the
                                             project. At XzectLabs, we offer packages for startups, small businesses, and enterprises,
                                             and share a transparent quote after understanding your requirements.
@@ -2250,22 +2240,15 @@ export default function Section8() {
                                 </div>
 
                                 {/* FAQ Item 2 */}
-                                <div className="accordion-item mb-3" style={{ border: 'none', borderRadius: 0 }}>
+                                <div className="accordion-item">
                                     <h2 className="accordion-header" id="webFaqHeadingTwo">
                                         <button
-                                            className="accordion-button collapsed d-flex align-items-center justify-content-between px-4 py-3"
+                                            className="accordion-button collapsed d-flex align-items-center justify-content-between"
                                             type="button"
                                             data-bs-toggle="collapse"
                                             data-bs-target="#webFaqCollapseTwo"
                                             aria-expanded="false"
                                             aria-controls="webFaqCollapseTwo"
-                                            style={{
-                                                backgroundColor: '#f2f2f2',
-                                                borderRadius: 0,
-                                                boxShadow: 'none',
-                                                fontSize: '20px',
-                                                fontWeight: 500,
-                                            }}
                                         >
                                             How Long Does It Take To Design A Website?
                                         </button>
@@ -2276,10 +2259,7 @@ export default function Section8() {
                                         aria-labelledby="webFaqHeadingTwo"
                                         data-bs-parent="#webDesignFaqAccordion"
                                     >
-                                        <div
-                                            className="accordion-body px-4 py-3"
-                                            style={{ fontSize: '16px', lineHeight: '1.8', color: '#333' }}
-                                        >
+                                        <div className="accordion-body">
                                             A typical business website takes 3–6 weeks from planning to launch, depending on the
                                             number of pages, content readiness, and the feedback/approval cycle.
                                         </div>
@@ -2287,22 +2267,15 @@ export default function Section8() {
                                 </div>
 
                                 {/* FAQ Item 3 */}
-                                <div className="accordion-item mb-3" style={{ border: 'none', borderRadius: 0 }}>
+                                <div className="accordion-item">
                                     <h2 className="accordion-header" id="webFaqHeadingThree">
                                         <button
-                                            className="accordion-button collapsed d-flex align-items-center justify-content-between px-4 py-3"
+                                            className="accordion-button collapsed d-flex align-items-center justify-content-between"
                                             type="button"
                                             data-bs-toggle="collapse"
                                             data-bs-target="#webFaqCollapseThree"
                                             aria-expanded="false"
                                             aria-controls="webFaqCollapseThree"
-                                            style={{
-                                                backgroundColor: '#f2f2f2',
-                                                borderRadius: 0,
-                                                boxShadow: 'none',
-                                                fontSize: '20px',
-                                                fontWeight: 500,
-                                            }}
                                         >
                                             Will My Website Be Mobile-Friendly?
                                         </button>
@@ -2313,10 +2286,7 @@ export default function Section8() {
                                         aria-labelledby="webFaqHeadingThree"
                                         data-bs-parent="#webDesignFaqAccordion"
                                     >
-                                        <div
-                                            className="accordion-body px-4 py-3"
-                                            style={{ fontSize: '16px', lineHeight: '1.8', color: '#333' }}
-                                        >
+                                        <div className="accordion-body">
                                             Yes. Every website we build is fully responsive, which means it adapts perfectly to
                                             mobiles, tablets, and desktops for a smooth user experience.
                                         </div>
@@ -2324,22 +2294,15 @@ export default function Section8() {
                                 </div>
 
                                 {/* FAQ Item 4 */}
-                                <div className="accordion-item mb-3" style={{ border: 'none', borderRadius: 0 }}>
+                                <div className="accordion-item">
                                     <h2 className="accordion-header" id="webFaqHeadingFour">
                                         <button
-                                            className="accordion-button collapsed d-flex align-items-center justify-content-between px-4 py-3"
+                                            className="accordion-button collapsed d-flex align-items-center justify-content-between"
                                             type="button"
                                             data-bs-toggle="collapse"
                                             data-bs-target="#webFaqCollapseFour"
                                             aria-expanded="false"
                                             aria-controls="webFaqCollapseFour"
-                                            style={{
-                                                backgroundColor: '#f2f2f2',
-                                                borderRadius: 0,
-                                                boxShadow: 'none',
-                                                fontSize: '20px',
-                                                fontWeight: 500,
-                                            }}
                                         >
                                             Do You Also Provide Website Development Or Only Design?
                                         </button>
@@ -2350,10 +2313,7 @@ export default function Section8() {
                                         aria-labelledby="webFaqHeadingFour"
                                         data-bs-parent="#webDesignFaqAccordion"
                                     >
-                                        <div
-                                            className="accordion-body px-4 py-3"
-                                            style={{ fontSize: '16px', lineHeight: '1.8', color: '#333' }}
-                                        >
+                                        <div className="accordion-body">
                                             We provide end-to-end solutions including UI/UX design, front-end and back-end development,
                                             CMS integration, and on-page SEO so you get a complete, ready-to-use website.
                                         </div>
@@ -2361,22 +2321,15 @@ export default function Section8() {
                                 </div>
 
                                 {/* FAQ Item 5 */}
-                                <div className="accordion-item mb-3" style={{ border: 'none', borderRadius: 0 }}>
+                                <div className="accordion-item">
                                     <h2 className="accordion-header" id="webFaqHeadingFive">
                                         <button
-                                            className="accordion-button collapsed d-flex align-items-center justify-content-between px-4 py-3"
+                                            className="accordion-button collapsed d-flex align-items-center justify-content-between"
                                             type="button"
                                             data-bs-toggle="collapse"
                                             data-bs-target="#webFaqCollapseFive"
                                             aria-expanded="false"
                                             aria-controls="webFaqCollapseFive"
-                                            style={{
-                                                backgroundColor: '#f2f2f2',
-                                                borderRadius: 0,
-                                                boxShadow: 'none',
-                                                fontSize: '20px',
-                                                fontWeight: 500,
-                                            }}
                                         >
                                             Do You Provide Support And Maintenance After Launch?
                                         </button>
@@ -2387,10 +2340,7 @@ export default function Section8() {
                                         aria-labelledby="webFaqHeadingFive"
                                         data-bs-parent="#webDesignFaqAccordion"
                                     >
-                                        <div
-                                            className="accordion-body px-4 py-3"
-                                            style={{ fontSize: '16px', lineHeight: '1.8', color: '#333' }}
-                                        >
+                                        <div className="accordion-body">
                                             Yes. We offer ongoing support, updates, backups, and maintenance plans so your website stays
                                             secure, up to date, and performs well.
                                         </div>
@@ -2398,22 +2348,15 @@ export default function Section8() {
                                 </div>
 
                                 {/* FAQ Item 6 */}
-                                <div className="accordion-item mb-3" style={{ border: 'none', borderRadius: 0 }}>
+                                <div className="accordion-item">
                                     <h2 className="accordion-header" id="webFaqHeadingSix">
                                         <button
-                                            className="accordion-button collapsed d-flex align-items-center justify-content-between px-4 py-3"
+                                            className="accordion-button collapsed d-flex align-items-center justify-content-between"
                                             type="button"
                                             data-bs-toggle="collapse"
                                             data-bs-target="#webFaqCollapseSix"
                                             aria-expanded="false"
                                             aria-controls="webFaqCollapseSix"
-                                            style={{
-                                                backgroundColor: '#f2f2f2',
-                                                borderRadius: 0,
-                                                boxShadow: 'none',
-                                                fontSize: '20px',
-                                                fontWeight: 500,
-                                            }}
                                         >
                                             Why Should I Hire XzectLabs For Web Services?
                                         </button>
@@ -2424,10 +2367,7 @@ export default function Section8() {
                                         aria-labelledby="webFaqHeadingSix"
                                         data-bs-parent="#webDesignFaqAccordion"
                                     >
-                                        <div
-                                            className="accordion-body px-4 py-3"
-                                            style={{ fontSize: '16px', lineHeight: '1.8', color: '#333' }}
-                                        >
+                                        <div className="accordion-body">
                                             XzectLabs combines 10+ years of experience, a skilled in‑house team, and a structured
                                             process to deliver modern, conversion‑focused websites. We focus on strategy,
                                             user‑experience, performance, and long‑term support so your website becomes a strong

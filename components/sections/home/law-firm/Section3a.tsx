@@ -4,7 +4,7 @@ export default function Section3a() {
 	return (
 		<>
 			{/*law-firm home section 3a - Website Design and Development Company*/}
-			<section className="law-firm-home-section-3a position-relative py-60 bg-white">
+			<section className="law-firm-home-section-3a position-relative pt-10 pb-0 bg-white">
 				<div className="container">
 					<div className="row">
 						<div className="col-12 text-center mb-80">

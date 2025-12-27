@@ -4,7 +4,7 @@ export default function Section4H() {
 	return (
 		<>
 			{/*law-firm home section 4H - Additional Advantages*/}
-			<section className="law-firm-home-section-4h position-relative py-60 bg-white">
+			<section className="law-firm-home-section-4h position-relative pt-0 pb-10 bg-white">
 				<div className="container position-relative z-1">
 					<div className="row g-1">
 						{/* Card 1: Flexible Development */}

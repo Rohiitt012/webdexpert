@@ -4,7 +4,7 @@ export default function Section10() {
 	return (
 		<>
 			{/*law-firm home faq section*/}
-			<section className="law-firm-home-section-10 position-relative overflow-hidden py-120" style={{ backgroundColor: "#eff4f9" }}>
+			<section className="law-firm-home-section-10 position-relative pt-10 pb-20" style={{ backgroundColor: "#eff4f9" }}>
 				<div className="container position-relative z-1">
 					<div className="text-center">
 						<div className="d-flex align-items-center justify-content-center gap-3">

@@ -4,10 +4,10 @@ export default function Section8() {
 	return (
 		<>
 			{/*law-firm home section 8*/}
-			<section className="law-firm-home-section-8 pt-120 pb-120 position-relative overflow-hidden bg-white">
+			<section className="law-firm-home-section-8 pt-50 pb-10 position-relative bg-white">
 				<div className="container">
 					<div className="newsletter-bg rounded-top-5 position-relative">
-						<div className="container pt-120 pb-120">
+						<div className="container pt-20 pb-20">
 							<div className="row">
 								<div className="col-lg-5">
 									<span className="content-top btn-text text-primary fw-semibold rounded-pill border border-primary px-3 py-2 bg-transparent">

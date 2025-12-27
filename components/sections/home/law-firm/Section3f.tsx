@@ -4,7 +4,7 @@ export default function Section3f() {
 	return (
 		<>
 			{/* law-firm home section 3f - Our Process to Website Development */}
-			<section className="law-firm-home-section-3f position-relative py-60 bg-white">
+			<section className="law-firm-home-section-3f position-relative pt-10 pb-4 bg-white">
 				<div className="container text-center">
 					<h2 className="text-dark text-anime-style-2 mb-3 fw-bold">
 						Our Process to Website Development

@@ -8,7 +8,7 @@ export default function Section4C() {
 				<div className="container position-relative z-1">
 					<div className="row justify-content-center">
 						<div className="col-xl-10 text-center mb-5">
-							<span className="btn-text text-primary">Our Pricing</span>
+							<span className="btn-text" style={{ color: '#FDB913' }}>Our Pricing</span>
 							<h2 className="text-dark my-3 fw-bold">
 								💎 Website Optimization &amp; UX Services
 							</h2>
@@ -159,7 +159,7 @@ export default function Section4C() {
 								<div className="d-flex align-items-baseline mb-3">
 									<span className="fs-1 fw-bold text-dark">₹24,999</span>
 								</div>
-								<Link href="/contact" className="btn btn-primary w-100 mb-4">
+								<Link href="/contact" className="btn w-100 mb-4" style={{ backgroundColor: '#FDB913', color: '#000', fontWeight: 'bold', border: 'none' }}>
 									Choose Plan
 								</Link>
 								<ul className="list-unstyled mb-0 small text-muted">
@@ -173,7 +173,7 @@ export default function Section4C() {
 										<span>Basic SEO-optimized structure</span>
 									</li>
 								</ul>
-								<p className="fw-semibold text-primary mt-4 mb-0 small">Ideal for: Existing business &amp; trading websites</p>
+								<p className="fw-semibold mt-4 mb-0 small" style={{ color: '#FDB913' }}>Ideal for: Existing business &amp; trading websites</p>
 							</div>
 						</div>
 
@@ -240,7 +240,7 @@ export default function Section4C() {
 								<div className="d-flex align-items-baseline mb-3">
 									<span className="fs-1 fw-bold text-dark">₹89,999</span>
 								</div>
-								<Link href="/contact" className="btn btn-primary w-100 mb-4">
+								<Link href="/contact" className="btn w-100 mb-4" style={{ backgroundColor: '#FDB913', color: '#000', fontWeight: 'bold', border: 'none' }}>
 									Choose Plan
 								</Link>
 								<ul className="list-unstyled mb-0 small text-muted">
@@ -260,7 +260,7 @@ export default function Section4C() {
 										<span>Conversion-focused improvements</span>
 									</li>
 								</ul>
-								<p className="fw-semibold text-primary mt-4 mb-0 small">Ideal for: High-traffic &amp; enterprise websites</p>
+								<p className="fw-semibold mt-4 mb-0 small" style={{ color: '#FDB913' }}>Ideal for: High-traffic &amp; enterprise websites</p>
 							</div>
 						</div>
 					</div>

@@ -45,14 +45,14 @@ export default function Section3() {
 	return (
 		<>
 			{/*law-firm-section-3*/}
-			<section className="law-firm-home-section-3 position-relative py-120 bg-dark">
+			<section className="law-firm-home-section-3 position-relative overflow-hidden py-120 bg-dark">
 				<div className="container">
 					<div className="mb-80 swipper-root">
 						<span className="content-top btn-text text-primary fw-semibold rounded-pill border border-primary px-3 py-2">
-						WordPress &amp; & CMS Development
+							WordPress &amp; & CMS Development
 						</span>
 						<h2 className="text-white mt-3 text-anime-style-2">
-						WordPress Setup & Customization
+							WordPress Setup & Customization
 						</h2>
 					</div>
 				</div>
@@ -61,37 +61,10 @@ export default function Section3() {
 					<Swiper {...swiperOptions} className="swiper slider-4">
 						<div className="swiper-wrapper z-1">
 							<SwiperSlide>
-								<div className="card-service position-relative d-inline-block overflow-hidden">
-									<div className="card-btn">
-										<img
-											src="/assets/img/law-firm-img/pages/law-firm/page-home/home-section-3/img-1.png"
-											alt="AstraX"
-										/>
-										<div className="position-absolute top-50 start-50 translate-middle">
-											<Link
-												href="/single-service"
-												className="btn btn-primary hover-up"
-											>
-												<span>read more</span>
-												<svg
-													xmlns="http://www.w3.org/2000/svg"
-													width={16}
-													height={16}
-													viewBox="0 0 16 16"
-													fill="none"
-												>
-													<g clipPath="url(#clip0_1008_648)">
-														<path
-															d="M15.8167 7.55759C15.8165 7.5574 15.8163 7.55719 15.8161 7.557L12.5504 4.307C12.3057 4.06353 11.91 4.06444 11.6665 4.30912C11.423 4.55378 11.4239 4.9495 11.6686 5.193L13.8612 7.375H0.625C0.279813 7.375 0 7.65481 0 8C0 8.34519 0.279813 8.625 0.625 8.625H13.8612L11.6686 10.807C11.4239 11.0505 11.423 11.4462 11.6665 11.6909C11.91 11.9356 12.3058 11.9364 12.5504 11.693L15.8162 8.443C15.8163 8.44281 15.8165 8.44259 15.8167 8.4424C16.0615 8.19809 16.0607 7.80109 15.8167 7.55759Z"
-															fill="white"
-														/>
-													</g>
-												</svg>
-											</Link>
-										</div>
-									</div>
+								<div className="card-service position-relative d-block w-100 h-100">
+
 									<div
-										className="card-content position-absolute top-50 start-50 w-100 h-100 z-1 translate-middle p-5 d-flex flex-column border border-white border-opacity-10 bg-transparent d-inline-block"
+										className="card-content position-relative z-1 p-5 d-flex flex-column border border-white border-opacity-10 bg-transparent h-100"
 										data-aos="fade-left"
 										data-aos-delay={500}
 									>
@@ -132,10 +105,10 @@ export default function Section3() {
 											/>
 										</svg>
 										<h6 className="text-white mt-auto">
-										Custom Themes <strong> & Plugins</strong>
+											Custom Themes <strong> & Plugins</strong>
 										</h6>
 										<p className="text-white text-opacity-75 mb-4">
-										Professionally developed themes and plugins tailored <br /> for security and scalability.
+											Professionally developed themes and plugins tailored <br /> for security and scalability.
 										</p>
 										<Link href="#" className="text-white text-opacity-50 btn-text">
 
@@ -145,37 +118,10 @@ export default function Section3() {
 								</div>
 							</SwiperSlide>
 							<SwiperSlide>
-								<div className="card-service position-relative d-inline-block overflow-hidden">
-									<div className="card-btn">
-										<img
-											src="/assets/img/law-firm-img/pages/law-firm/page-home/home-section-3/img-1.png"
-											alt="AstraX"
-										/>
-										<div className="position-absolute top-50 start-50 translate-middle">
-											<Link
-												href="/single-service"
-												className="btn btn-primary hover-up"
-											>
-												<span>read more</span>
-												<svg
-													xmlns="http://www.w3.org/2000/svg"
-													width={16}
-													height={16}
-													viewBox="0 0 16 16"
-													fill="none"
-												>
-													<g clipPath="url(#clip0_1008_648)">
-														<path
-															d="M15.8167 7.55759C15.8165 7.5574 15.8163 7.55719 15.8161 7.557L12.5504 4.307C12.3057 4.06353 11.91 4.06444 11.6665 4.30912C11.423 4.55378 11.4239 4.9495 11.6686 5.193L13.8612 7.375H0.625C0.279813 7.375 0 7.65481 0 8C0 8.34519 0.279813 8.625 0.625 8.625H13.8612L11.6686 10.807C11.4239 11.0505 11.423 11.4462 11.6665 11.6909C11.91 11.9356 12.3058 11.9364 12.5504 11.693L15.8162 8.443C15.8163 8.44281 15.8165 8.44259 15.8167 8.4424C16.0615 8.19809 16.0607 7.80109 15.8167 7.55759Z"
-															fill="white"
-														/>
-													</g>
-												</svg>
-											</Link>
-										</div>
-									</div>
+								<div className="card-service position-relative d-block w-100 h-100">
+
 									<div
-										className="card-content position-absolute top-50 start-50 w-100 h-100 z-1 translate-middle p-5 d-flex flex-column border border-white border-opacity-10 bg-transparent d-inline-block"
+										className="card-content position-relative z-1 p-5 d-flex flex-column border border-white border-opacity-10 bg-transparent h-100"
 										data-aos="fade-left"
 										data-aos-delay={500}
 									>
@@ -216,10 +162,10 @@ export default function Section3() {
 											/>
 										</svg>
 										<h6 className="text-white mt-auto">
-										Webflow <strong>CMS Development</strong>
+											Webflow <strong>CMS Development</strong>
 										</h6>
 										<p className="text-white text-opacity-75 mb-4">
-										Professional Webflow and CMS development for <br /> scalable, responsive digital platforms.
+											Professional Webflow and CMS development for <br /> scalable, responsive digital platforms.
 										</p>
 										<Link href="#" className="text-white text-opacity-50 btn-text">
 
@@ -229,37 +175,10 @@ export default function Section3() {
 								</div>
 							</SwiperSlide>
 							<SwiperSlide>
-								<div className="card-service position-relative d-inline-block overflow-hidden">
-									<div className="card-btn">
-										<img
-											src="/assets/img/law-firm-img/pages/law-firm/page-home/home-section-3/img-1.png"
-											alt="AstraX"
-										/>
-										<div className="position-absolute top-50 start-50 translate-middle">
-											<Link
-												href="/single-service"
-												className="btn btn-primary hover-up"
-											>
-												<span>read more</span>
-												<svg
-													xmlns="http://www.w3.org/2000/svg"
-													width={16}
-													height={16}
-													viewBox="0 0 16 16"
-													fill="none"
-												>
-													<g clipPath="url(#clip0_1008_648)">
-														<path
-															d="M15.8167 7.55759C15.8165 7.5574 15.8163 7.55719 15.8161 7.557L12.5504 4.307C12.3057 4.06353 11.91 4.06444 11.6665 4.30912C11.423 4.55378 11.4239 4.9495 11.6686 5.193L13.8612 7.375H0.625C0.279813 7.375 0 7.65481 0 8C0 8.34519 0.279813 8.625 0.625 8.625H13.8612L11.6686 10.807C11.4239 11.0505 11.423 11.4462 11.6665 11.6909C11.91 11.9356 12.3058 11.9364 12.5504 11.693L15.8162 8.443C15.8163 8.44281 15.8165 8.44259 15.8167 8.4424C16.0615 8.19809 16.0607 7.80109 15.8167 7.55759Z"
-															fill="white"
-														/>
-													</g>
-												</svg>
-											</Link>
-										</div>
-									</div>
+								<div className="card-service position-relative d-block w-100 h-100">
+
 									<div
-										className="card-content position-absolute top-50 start-50 w-100 h-100 z-1 translate-middle p-5 d-flex flex-column border border-white border-opacity-10 bg-transparent d-inline-block"
+										className="card-content position-relative z-1 p-5 d-flex flex-column border border-white border-opacity-10 bg-transparent h-100"
 										data-aos="fade-left"
 										data-aos-delay={500}
 									>
@@ -319,10 +238,10 @@ export default function Section3() {
 											</defs>
 										</svg>
 										<h6 className="text-white mt-auto">
-										Migration &  <strong>Security Optimization</strong>
+											Migration &  <strong>Security Optimization</strong>
 										</h6>
 										<p className="text-white text-opacity-75 mb-4">
-										Professional website migration with <br />advanced security and performance optimization.
+											Professional website migration with <br />advanced security and performance optimization.
 										</p>
 										<Link href="#" className="text-white text-opacity-50 btn-text">
 											read more
@@ -331,37 +250,10 @@ export default function Section3() {
 								</div>
 							</SwiperSlide>
 							<SwiperSlide>
-								<div className="card-service position-relative d-inline-block overflow-hidden">
-									<div className="card-btn">
-										<img
-											src="/assets/img/law-firm-img/pages/law-firm/page-home/home-section-3/img-1.png"
-											alt="AstraX"
-										/>
-										<div className="position-absolute top-50 start-50 translate-middle">
-											<Link
-												href="/single-service"
-												className="btn btn-primary hover-up"
-											>
-												<span>read more</span>
-												<svg
-													xmlns="http://www.w3.org/2000/svg"
-													width={16}
-													height={16}
-													viewBox="0 0 16 16"
-													fill="none"
-												>
-													<g clipPath="url(#clip0_1008_648)">
-														<path
-															d="M15.8167 7.55759C15.8165 7.5574 15.8163 7.55719 15.8161 7.557L12.5504 4.307C12.3057 4.06353 11.91 4.06444 11.6665 4.30912C11.423 4.55378 11.4239 4.9495 11.6686 5.193L13.8612 7.375H0.625C0.279813 7.375 0 7.65481 0 8C0 8.34519 0.279813 8.625 0.625 8.625H13.8612L11.6686 10.807C11.4239 11.0505 11.423 11.4462 11.6665 11.6909C11.91 11.9356 12.3058 11.9364 12.5504 11.693L15.8162 8.443C15.8163 8.44281 15.8165 8.44259 15.8167 8.4424C16.0615 8.19809 16.0607 7.80109 15.8167 7.55759Z"
-															fill="white"
-														/>
-													</g>
-												</svg>
-											</Link>
-										</div>
-									</div>
+								<div className="card-service position-relative d-block w-100 h-100">
+
 									<div
-										className="card-content position-absolute top-50 start-50 w-100 h-100 z-1 translate-middle p-5 d-flex flex-column border border-white border-opacity-10 bg-transparent d-inline-block"
+										className="card-content position-relative z-1 p-5 d-flex flex-column border border-white border-opacity-10 bg-transparent h-100"
 										data-aos="fade-left"
 										data-aos-delay={500}
 									>
@@ -422,10 +314,10 @@ export default function Section3() {
 											/>
 										</svg>
 										<h6 className="text-white mt-auto">
-										WordPress Setup  <strong>& Customization</strong>
+											WordPress Setup  <strong>& Customization</strong>
 										</h6>
 										<p className="text-white text-opacity-75 mb-4">
-										Professional WordPress setup customized for <br /> performance, scalability, and business requirements.
+											Professional WordPress setup customized for <br /> performance, scalability, and business requirements.
 										</p>
 										<Link href="#" className="text-white text-opacity-50 btn-text">
 											read more
@@ -434,37 +326,10 @@ export default function Section3() {
 								</div>
 							</SwiperSlide>
 							<SwiperSlide>
-								<div className="card-service position-relative d-inline-block overflow-hidden">
-									<div className="card-btn">
-										<img
-											src="/assets/img/law-firm-img/pages/law-firm/page-home/home-section-3/img-1.png"
-											alt="AstraX"
-										/>
-										<div className="position-absolute top-50 start-50 translate-middle">
-											<Link
-												href="/single-service"
-												className="btn btn-primary hover-up"
-											>
-												<span>read more</span>
-												<svg
-													xmlns="http://www.w3.org/2000/svg"
-													width={16}
-													height={16}
-													viewBox="0 0 16 16"
-													fill="none"
-												>
-													<g clipPath="url(#clip0_1008_648)">
-														<path
-															d="M15.8167 7.55759C15.8165 7.5574 15.8163 7.55719 15.8161 7.557L12.5504 4.307C12.3057 4.06353 11.91 4.06444 11.6665 4.30912C11.423 4.55378 11.4239 4.9495 11.6686 5.193L13.8612 7.375H0.625C0.279813 7.375 0 7.65481 0 8C0 8.34519 0.279813 8.625 0.625 8.625H13.8612L11.6686 10.807C11.4239 11.0505 11.423 11.4462 11.6665 11.6909C11.91 11.9356 12.3058 11.9364 12.5504 11.693L15.8162 8.443C15.8163 8.44281 15.8165 8.44259 15.8167 8.4424C16.0615 8.19809 16.0607 7.80109 15.8167 7.55759Z"
-															fill="white"
-														/>
-													</g>
-												</svg>
-											</Link>
-										</div>
-									</div>
+								<div className="card-service position-relative d-block w-100 h-100">
+
 									<div
-										className="card-content position-absolute top-50 start-50 w-100 h-100 z-1 translate-middle p-5 d-flex flex-column border border-white border-opacity-10 bg-transparent d-inline-block"
+										className="card-content position-relative z-1 p-5 d-flex flex-column border border-white border-opacity-10 bg-transparent h-100"
 										data-aos="fade-left"
 										data-aos-delay={500}
 									>
@@ -538,37 +403,10 @@ export default function Section3() {
 								</div>
 							</SwiperSlide>
 							<SwiperSlide>
-								<div className="card-service position-relative d-inline-block overflow-hidden">
-									<div className="card-btn">
-										<img
-											src="/assets/img/law-firm-img/pages/law-firm/page-home/home-section-3/img-1.png"
-											alt="AstraX"
-										/>
-										<div className="position-absolute top-50 start-50 translate-middle">
-											<Link
-												href="/single-service"
-												className="btn btn-primary hover-up"
-											>
-												<span>read more</span>
-												<svg
-													xmlns="http://www.w3.org/2000/svg"
-													width={16}
-													height={16}
-													viewBox="0 0 16 16"
-													fill="none"
-												>
-													<g clipPath="url(#clip0_1008_648)">
-														<path
-															d="M15.8167 7.55759C15.8165 7.5574 15.8163 7.55719 15.8161 7.557L12.5504 4.307C12.3057 4.06353 11.91 4.06444 11.6665 4.30912C11.423 4.55378 11.4239 4.9495 11.6686 5.193L13.8612 7.375H0.625C0.279813 7.375 0 7.65481 0 8C0 8.34519 0.279813 8.625 0.625 8.625H13.8612L11.6686 10.807C11.4239 11.0505 11.423 11.4462 11.6665 11.6909C11.91 11.9356 12.3058 11.9364 12.5504 11.693L15.8162 8.443C15.8163 8.44281 15.8165 8.44259 15.8167 8.4424C16.0615 8.19809 16.0607 7.80109 15.8167 7.55759Z"
-															fill="white"
-														/>
-													</g>
-												</svg>
-											</Link>
-										</div>
-									</div>
+								<div className="card-service position-relative d-block w-100 h-100">
+
 									<div
-										className="card-content position-absolute top-50 start-50 w-100 h-100 z-1 translate-middle p-5 d-flex flex-column border border-white border-opacity-10 bg-transparent d-inline-block"
+										className="card-content position-relative z-1 p-5 d-flex flex-column border border-white border-opacity-10 bg-transparent h-100"
 										data-aos="fade-left"
 										data-aos-delay={500}
 									>

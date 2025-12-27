@@ -2,7 +2,7 @@
 
 export default function StatsTicker() {
     return (
-        <div className="mt-4">
+        <div className="mt-0 mb-4">
             <style jsx>{`
                 .ticker {
                     width: 100vw;

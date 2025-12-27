@@ -248,6 +248,7 @@ export default function Section9() {
                                         fontSize: '40px',
                                         lineHeight: '1.3',
                                         fontWeight: 600,
+                                        color: '#fff',
                                     }}
                                 >
                                     🚀 Ready to build your dream website?

@@ -25,6 +25,7 @@ import Section7 from "@/components/sections/home/law-firm/Section7";
 import Section8 from "@/components/sections/home/law-firm/Section8";
 import Section9 from "@/components/sections/home/law-firm/Section9";
 import Section10 from "@/components/sections/home/law-firm/Section10";
+
 export default function Home() {
     return (
         <>
@@ -49,7 +50,7 @@ export default function Home() {
                 <Section4F />
                 <Section4G />
                 <Section4H />
-                <Section5 />
+                {/* <Section5 /> */}
                 <Section6 />
                 <Section7 />
                 <Section8 />

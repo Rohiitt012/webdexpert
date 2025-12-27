@@ -4,7 +4,7 @@ export default function Section3b() {
 	return (
 		<>
 			{/*law-firm home section 3b - Additional Services*/}
-			<section className="law-firm-home-section-3b position-relative py-60 bg-white">
+			<section className="law-firm-home-section-3b position-relative pt-0 pb-10 bg-white">
 				<div className="container">
 					<div className="row g-1">
 						<div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={0}>

@@ -4,7 +4,7 @@ export default function Section4F() {
 	return (
 		<>
 			{/*law-firm home section 4F - Additional WordPress Services*/}
-			<section className="law-firm-home-section-4f position-relative py-60 bg-white">
+			<section className="law-firm-home-section-4f position-relative pt-0 pb-60 bg-white">
 				<div className="container position-relative z-1">
 					<div className="row g-1">
 						{/* Card 1: EDD Development */}

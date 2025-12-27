@@ -11,75 +11,105 @@ export default function Footer() {
                         <div className="container position-relative z-2">
                             <div className="py-120 d-flex flex-wrap gap-4 justify-content-between">
                                 <div>
-                                    <h3 className="text-primary btn-text pb-3">popular promt</h3>
-                                    <div className="d-flex flex-column align-items-start">
-                                        <Link href="#">
-                                            <p>Science</p>
+                                    <Link className="navbar-brand d-flex align-items-center gap-2 mb-4" href="/">
+                                        <img src="/assets/img/ai-solutions-img/template/icons/logo.svg" alt="Xzect Labs Logo" width={40} height={40} />
+                                        <h5 className="mb-0 text-white">Xzect Labs</h5>
+                                    </Link>
+                                    <h3 className="btn-text pb-1" style={{ fontSize: "24px", color: "yellow" }}>NEW DELHI</h3>
+                                    <div className="d-flex flex-column align-items-start text-white gap-1">
+                                        <p className="text-white m-0" style={{ fontSize: "18px" }}>203, 2-A/3, Asaf Ali Rd, Delhi - 110002</p>
+                                        <p className="text-white m-0" style={{ fontSize: "18px" }}>Delhi - 110002</p>
+                                        <p className="m-0" style={{ color: "yellow", fontSize: "18px" }}>INDIA</p>
+                                        <Link href="mailto:contact@xzect.com" className="mt-3">
+                                            <p className="text-white m-0" style={{ fontSize: "18px" }}>contact@xzect.com</p>
                                         </Link>
-                                        <Link href="#">
-                                            <p>Sports</p>
-                                        </Link>
-                                        <Link href="#">
-                                            <p>Architecture</p>
-                                        </Link>
-                                        <Link href="#">
-                                            <p>Design</p>
-                                        </Link>
-                                    </div>
-                                </div>
-                                <div>
-                                    <h3 className="text-primary btn-text pb-3">COMPANY</h3>
-                                    <div className="d-flex flex-column align-items-start">
-                                        <Link href="#">
-                                            <p>About</p>
-                                        </Link>
-                                        <Link href="#">
-                                            <p>Features</p>
-                                        </Link>
-                                        <Link href="#">
-                                            <p>Works</p>
-                                        </Link>
-                                        <Link href="#">
-                                            <p>Career</p>
+                                        <Link href="tel:+919818806393">
+                                            <p className="text-white m-0" style={{ fontSize: "18px" }}>+91 98188 06393</p>
                                         </Link>
                                     </div>
                                 </div>
                                 <div>
-                                    <h3 className="text-primary btn-text pb-3">Help</h3>
+                                    <h3 className="btn-text pb-3" style={{ fontSize: "24px", color: "yellow" }}>Helpful Links</h3>
                                     <div className="d-flex flex-column align-items-start">
-                                        <Link href="#">
-                                            <p>Customer Support</p>
+                                        <Link href="/pricing">
+                                            <p className="text-white" style={{ fontSize: "18px" }}>Pricing</p>
+                                        </Link>
+                                        <Link href="/about">
+                                            <p className="text-white" style={{ fontSize: "18px" }}>About Us</p>
+                                        </Link>
+                                        <Link href="/contact">
+                                            <p className="text-white" style={{ fontSize: "18px" }}>Contact Us</p>
                                         </Link>
                                         <Link href="#">
-                                            <p>Delivery Details</p>
+                                            <p className="text-white" style={{ fontSize: "18px" }}>Terms &amp; Conditions</p>
                                         </Link>
                                         <Link href="#">
-                                            <p>Terms &amp; Conditions</p>
-                                        </Link>
-                                        <Link href="#">
-                                            <p>Privacy Policy</p>
+                                            <p className="text-white" style={{ fontSize: "18px" }}>Privacy Policy</p>
                                         </Link>
                                     </div>
                                 </div>
                                 <div>
-                                    <h3 className="text-primary btn-text pb-3">services</h3>
+                                    <h3 className="btn-text pb-3" style={{ fontSize: "24px", color: "yellow" }}>
+                                        Marketing</h3>
                                     <div className="d-flex flex-column align-items-start">
                                         <Link href="#">
-                                            <p>Website Design</p>
+                                            <p className="text-white" style={{ fontSize: "18px" }}>Branding &amp; Graphics</p>
                                         </Link>
                                         <Link href="#">
-                                            <p>Business Consultancy</p>
+                                            <p className="text-white" style={{ fontSize: "18px" }}>Performance Marketing</p>
                                         </Link>
                                         <Link href="#">
-                                            <p>Tax &amp; Finance</p>
+                                            <p className="text-white" style={{ fontSize: "18px" }}>Social Media Marketing</p>
                                         </Link>
                                         <Link href="#">
-                                            <p>ROI Business Growth</p>
+                                            <p className="text-white" style={{ fontSize: "18px" }}>SEO Services</p>
                                         </Link>
                                     </div>
                                 </div>
                                 <div>
-                                    <h3 className="text-primary btn-text pb-3">get daily updates</h3>
+                                    <h3 className="btn-text pb-3" style={{ fontSize: "24px", color: "yellow" }}>Build</h3>
+                                    <div className="d-flex flex-column align-items-start">
+                                        <Link href="#">
+                                            <p className="text-white" style={{ fontSize: "18px" }}>AI Solutions</p>
+                                        </Link>
+                                        <Link href="#">
+                                            <p className="text-white" style={{ fontSize: "18px" }}>CRM Development</p>
+                                        </Link>
+                                        <Link href="#">
+                                            <p className="text-white" style={{ fontSize: "18px" }}>SaaS, Web &amp; Mobile Apps</p>
+                                        </Link>
+                                        <Link href="#">
+                                            <p className="text-white" style={{ fontSize: "18px" }}>Website Development</p>
+                                        </Link>
+                                        <Link href="#">
+                                            <p className="text-white" style={{ fontSize: "18px" }}>WordPress &amp; CMS</p>
+                                        </Link>
+                                    </div>
+                                </div>
+                                <div>
+                                    <h3 className="btn-text pb-3" style={{ fontSize: "24px", color: "yellow" }}>Scale</h3>
+                                    <div className="d-flex flex-column align-items-start">
+                                        <Link href="#">
+                                            <p className="text-white" style={{ fontSize: "18px" }}>Automation &amp; Integrations</p>
+                                        </Link>
+                                        <Link href="#">
+                                            <p className="text-white" style={{ fontSize: "18px" }}>Website Optimization</p>
+                                        </Link>
+                                        <Link href="#">
+                                            <p className="text-white" style={{ fontSize: "18px" }}>Maintenance &amp; Support</p>
+                                        </Link>
+                                        <Link href="#">
+                                            <p className="text-white" style={{ fontSize: "18px" }}>Hosting &amp; Email</p>
+                                        </Link>
+                                        <Link href="#">
+                                            <p className="text-white" style={{ fontSize: "18px" }}>Security &amp; Performance</p>
+                                        </Link>
+                                    </div>
+                                </div>
+
+
+                                <div>
+                                    <h3 className="text-white btn-text pb-3">get daily updates</h3>
                                     <form action="#" className="input-group mb-3 mt-4 position-relative">
                                         <div className="row">
                                             <div className="col-12">

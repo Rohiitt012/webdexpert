@@ -4,8 +4,8 @@ export default function Section2() {
 	return (
 		<>
 			{/*law-firm home section 2*/}
-			<section className="law-firm-home-section-2 position-relative overflow-hidden">
-				<div className="container position-relative z-1 py-120">
+			<section className="law-firm-home-section-2 position-relative">
+				<div className="container position-relative z-1 py-20">
 					<div className="row">
 						<div className="col-lg-2">
 							<div className="position-relative z-1">
@@ -50,10 +50,10 @@ export default function Section2() {
 						<div className="col-lg-8">
 							<div className="position-relative">
 								<h2 className="text-dark text-anime-style-3">
-								Our expert team delivers WordPress customization, custom themes, CMS development, and secure website migrations  <span className="text-primary">to build </span> 
-								powerful, scalable, and 
+									Our expert team delivers WordPress customization, custom themes, CMS development, and secure website migrations  <span className="text-primary">to build </span>
+									powerful, scalable, and
 									<strong className="text-primary text-decoration-underline">
-									performance-driven 
+										performance-driven
 									</strong>
 									to <span className="text-primary"> digital</span> solutions.
 								</h2>
@@ -71,9 +71,9 @@ export default function Section2() {
 									/>
 								</div>
 								<div className="col-lg-5 col-md-8 mt-lg-0 mt-5 marketing-info">
-									<div className="text-start wow img-custom-anim-left">
-										<svg width="40%" className="w-md-40 w-50">
-											<text className="fs-70" x="50%" y="50%">
+									<div className="text-start wow img-custom-anim-left mb-4">
+										<svg width="40%" height={100} className="w-md-40 w-50" style={{ overflow: "visible" }}>
+											<text className="fs-70" x="50%" y="50%" dominantBaseline="middle" textAnchor="middle">
 												100%
 											</text>
 										</svg>
@@ -82,7 +82,7 @@ export default function Section2() {
 										Success <strong>rate</strong>
 									</h4>
 									<p>
-									We provide complete web design, development, and optimization services tailored for businesses of all sizes, using smart strategies and modern technologies to drive growth..
+										We provide complete web design, development, and optimization services tailored for businesses of all sizes, using smart strategies and modern technologies to drive growth..
 									</p>
 									<Link
 										href="/contact"

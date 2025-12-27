@@ -4,12 +4,12 @@ export default function Section4E() {
 	return (
 		<>
 			{/*law-firm home section 4E - Expertise We Have As a WordPress Development Company*/}
-			<section className="law-firm-home-section-4e position-relative py-60 bg-white">
+			<section className="law-firm-home-section-4e position-relative pt-60 pb-0 bg-white">
 				<div className="container position-relative z-1">
 					<div className="row">
 						<div className="col-12 text-center mb-5">
 							<h2 className="text-dark mb-4 text-anime-style-2 fw-bold">
-								Expertise We Have As a WordPress Development Company
+								Expertise We Have As a WordPress Development <br /> Company
 							</h2>
 							<p className="text-dark text-opacity-75 fs-6 mx-auto" style={{ maxWidth: "900px" }}>
 								When you look for a WordPress Development company, our name i.e., XzectLabs comes to the top as we provide impeccable service to our clients no matter what industry they belong to. Our team has experience and expertise in delivering exceptional outcomes that go beyond the expectations of our clients. If you want the best service for yourself, shake hands with us.

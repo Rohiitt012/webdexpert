@@ -25,7 +25,7 @@ export default function Section3e() {
 								<div className="mb-4 d-flex justify-content-center">
 									<div className="rounded-circle d-flex align-items-center justify-content-center" style={{ width: "80px", height: "80px", backgroundColor: "#d4edda" }}>
 										<svg xmlns="http://www.w3.org/2000/svg" width={40} height={40} viewBox="0 0 24 24" fill="none">
-											<path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="#ffc107"/>
+											<path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="#ffc107" />
 										</svg>
 									</div>
 								</div>
@@ -40,9 +40,9 @@ export default function Section3e() {
 								<div className="mb-4 d-flex justify-content-center">
 									<div className="rounded-circle d-flex align-items-center justify-content-center" style={{ width: "80px", height: "80px", backgroundColor: "#d1ecf1" }}>
 										<svg xmlns="http://www.w3.org/2000/svg" width={40} height={40} viewBox="0 0 24 24" fill="none">
-											<circle cx="12" cy="12" r="10" stroke="#007bff" strokeWidth="2" fill="none"/>
-											<circle cx="12" cy="8" r="1.5" fill="#007bff"/>
-											<path d="M12 11V16" stroke="#007bff" strokeWidth="2" strokeLinecap="round"/>
+											<circle cx="12" cy="12" r="10" stroke="#007bff" strokeWidth="2" fill="none" />
+											<circle cx="12" cy="8" r="1.5" fill="#007bff" />
+											<path d="M12 11V16" stroke="#007bff" strokeWidth="2" strokeLinecap="round" />
 										</svg>
 									</div>
 								</div>
@@ -57,9 +57,9 @@ export default function Section3e() {
 								<div className="mb-4 d-flex justify-content-center">
 									<div className="rounded-circle d-flex align-items-center justify-content-center" style={{ width: "80px", height: "80px", backgroundColor: "#ffe5cc" }}>
 										<svg xmlns="http://www.w3.org/2000/svg" width={40} height={40} viewBox="0 0 24 24" fill="none">
-											<path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="#ff8c00" strokeWidth="2" fill="none"/>
-											<path d="M2 17L12 22L22 17" stroke="#ff8c00" strokeWidth="2" fill="none"/>
-											<path d="M2 12L12 17L22 12" stroke="#ff8c00" strokeWidth="2" fill="none"/>
+											<path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="#ff8c00" strokeWidth="2" fill="none" />
+											<path d="M2 17L12 22L22 17" stroke="#ff8c00" strokeWidth="2" fill="none" />
+											<path d="M2 12L12 17L22 12" stroke="#ff8c00" strokeWidth="2" fill="none" />
 										</svg>
 									</div>
 								</div>

@@ -9,7 +9,7 @@ export default function Section3c() {
 					<div className="row align-items-center">
 						<div className="col-lg-6 mb-lg-0 mb-5">
 							<h2 className="text-dark text-anime-style-2 mb-4 fw-bold">
-								Technologies we use for website Development
+								Technologies we use for <br /> website Development
 							</h2>
 							<p className="text-dark text-opacity-75 fs-6">
 								From creating engaging website design & development solutions to crafting cutting-edge web application development, we excel in making your digital presence truly remarkable.
@@ -20,8 +20,8 @@ export default function Section3c() {
 								<div className="position-absolute top-0 start-0" style={{ marginLeft: "-40px", marginTop: "10px", zIndex: 1 }}>
 									<div style={{ width: "70px", height: "70px", backgroundColor: "#e8f4f8", borderRadius: "50%", display: "flex", alignItems: "center", justifyContent: "center", border: "3px solid #e8f4f8" }}>
 										<svg xmlns="http://www.w3.org/2000/svg" width={50} height={50} viewBox="0 0 24 24" fill="none">
-											<circle cx="12" cy="12" r="10" stroke="#0d7377" strokeWidth="2" fill="none"/>
-											<rect x="8" y="9" width="8" height="6" rx="1" fill="#0d7377"/>
+											<circle cx="12" cy="12" r="10" stroke="#0d7377" strokeWidth="2" fill="none" />
+											<rect x="8" y="9" width="8" height="6" rx="1" fill="#0d7377" />
 											<text x="10" y="15" fontSize="8" fill="white" fontWeight="bold">www.</text>
 										</svg>
 									</div>

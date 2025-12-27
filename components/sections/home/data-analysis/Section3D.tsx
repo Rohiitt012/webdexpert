@@ -19,7 +19,7 @@ export default function Section3D() {
                     <div className="row justify-content-center g-lg-5 g-4 mt-3">
                         {/* Standard Plan */}
                         <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={0}>
-                            <div className="card-provide hover-up rounded-3 p-lg-7 p-md-5 p-4 bg-white h-100 border" style={{ borderColor: '#1a1a1a' }}>
+                            <div className="card-provide hover-up rounded-3 p-lg-7 p-md-5 p-4 bg-white h-100 border" style={{ borderColor: '#e9e9e9' }}>
                                 <h4 className="mb-3" style={{ fontSize: '24px', fontWeight: '700', color: '#1a1a1a' }}>
                                     Standard
                                 </h4>
@@ -27,11 +27,11 @@ export default function Section3D() {
                                     <span className="fs-2 fw-bold text-dark">₹2,600</span>
                                     <span className="text-muted ms-2">per user/mo*</span>
                                 </div>
-                                <button className="btn btn-primary w-100 mb-3 py-2" style={{ backgroundColor: '#794AFF', border: 'none' }}>
+                                <button className="btn w-100 mb-3 py-2 rounded-pill" style={{ backgroundColor: '#000', color: '#fff', border: 'none' }}>
                                     Free 30-day trial
                                 </button>
                                 <p className="text-center mb-4">
-                                    <Link href="#" className="text-decoration-underline text-primary" style={{ fontSize: '14px' }}>
+                                    <Link href="#" className="text-decoration-underline text-dark" style={{ fontSize: '14px' }}>
                                         Skip trial, get 10% off*
                                     </Link>
                                 </p>
@@ -74,7 +74,7 @@ export default function Section3D() {
                                     </li>
                                 </ul>
                                 <div className="mt-4 pt-4 border-top">
-                                    <Link href="#" className="link text-uppercase btn-text text-primary">
+                                    <Link href="#" className="link text-uppercase btn-text fw-bold" style={{ color: '#FFB700' }}>
                                         Learn more about Standard →
                                     </Link>
                                 </div>
@@ -83,72 +83,72 @@ export default function Section3D() {
 
                         {/* Advanced Plan - Most Popular */}
                         <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={200}>
-                            <div className="card-provide hover-up rounded-3 p-lg-7 p-md-5 p-4 bg-white h-100 border position-relative" style={{ borderColor: '#dc3545', borderWidth: '2px' }}>
-                                <div className="position-absolute top-0 start-50 translate-middle-x" style={{ backgroundColor: '#dc3545', color: '#fff', padding: '4px 16px', borderRadius: '0 0 4px 4px', fontSize: '12px', fontWeight: '600' }}>
+                            <div className="card-provide hover-up rounded-3 p-lg-7 p-md-5 p-4 h-100 border position-relative" style={{ backgroundColor: '#000', borderColor: '#FFB700', borderWidth: '1px' }}>
+                                <div className="position-absolute top-0 start-50 translate-middle-x" style={{ backgroundColor: '#FFB700', color: '#000', padding: '4px 16px', borderRadius: '0 0 4px 4px', fontSize: '12px', fontWeight: '700' }}>
                                     Most popular
                                 </div>
                                 <div className="mt-3">
-                                    <h4 className="mb-3" style={{ fontSize: '24px', fontWeight: '700', color: '#1a1a1a' }}>
+                                    <h4 className="mb-3" style={{ fontSize: '24px', fontWeight: '700', color: '#FFB700' }}>
                                         Advanced
                                     </h4>
                                     <div className="mb-4">
-                                        <span className="fs-2 fw-bold text-dark">₹10,500</span>
-                                        <span className="text-muted ms-2">per user/mo*</span>
+                                        <span className="fs-2 fw-bold text-white">₹10,500</span>
+                                        <span className="text-white-50 ms-2">per user/mo*</span>
                                     </div>
-                                    <button className="btn btn-primary w-100 mb-3 py-2" style={{ backgroundColor: '#794AFF', border: 'none' }}>
+                                    <button className="btn w-100 mb-3 py-2 rounded-pill" style={{ backgroundColor: '#FFB700', color: '#000', border: 'none', fontWeight: '600' }}>
                                         Free 30-day trial
                                     </button>
                                     <p className="text-center mb-4">
-                                        <Link href="#" className="text-decoration-underline text-primary" style={{ fontSize: '14px' }}>
+                                        <Link href="#" className="text-decoration-underline text-white" style={{ fontSize: '14px' }}>
                                             Skip trial, get 10% off*
                                         </Link>
                                     </p>
-                                    <p className="mb-3 fw-bold" style={{ fontSize: '16px', color: '#1a1a1a' }}>
+                                    <p className="mb-3 fw-bold" style={{ fontSize: '16px', color: '#fff' }}>
                                         Everything in Standard, PLUS:
                                     </p>
                                     <ul className="list-unstyled mb-0">
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Unlimited social accounts</span>
+                                            <span style={{ fontSize: '16px', color: '#fff' }}>Unlimited social accounts</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Customizable analytics reports and templates</span>
+                                            <span style={{ fontSize: '16px', color: '#fff' }}>Customizable analytics reports and templates</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Saved message replies and auto-responses</span>
+                                            <span style={{ fontSize: '16px', color: '#fff' }}>Saved message replies and auto-responses</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Team approval workflows**</span>
+                                            <span style={{ fontSize: '16px', color: '#fff' }}>Team approval workflows**</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Bulk schedule up to 350 posts at once</span>
+                                            <span style={{ fontSize: '16px', color: '#fff' }}>Bulk schedule up to 350 posts at once</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Auto-route and tag messages</span>
+                                            <span style={{ fontSize: '16px', color: '#fff' }}>Auto-route and tag messages</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Benchmark against 20 competitors</span>
+                                            <span style={{ fontSize: '16px', color: '#fff' }}>Benchmark against 20 competitors</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Export, email, and schedule reports</span>
+                                            <span style={{ fontSize: '16px', color: '#fff' }}>Export, email, and schedule reports</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Inbox reporting and analytics</span>
+                                            <span style={{ fontSize: '16px', color: '#fff' }}>Inbox reporting and analytics</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Search the past 30 days for brand and competitor mentions</span>
+                                            <span style={{ fontSize: '16px', color: '#fff' }}>Search the past 30 days for brand and competitor mentions</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Outbound post tagging and reporting</span>
+                                            <span style={{ fontSize: '16px', color: '#fff' }}>Outbound post tagging and reporting</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Custom user access permissions**</span>
+                                            <span style={{ fontSize: '16px', color: '#fff' }}>Custom user access permissions**</span>
                                         </li>
                                         <li className="mb-0">
-                                            <span style={{ fontSize: '16px', color: '#4a4a4a', fontStyle: 'italic' }}>...and much more!</span>
+                                            <span style={{ fontSize: '16px', color: '#fff', fontStyle: 'italic' }}>...and much more!</span>
                                         </li>
                                     </ul>
-                                    <div className="mt-4 pt-4 border-top">
-                                        <Link href="#" className="link text-uppercase btn-text text-primary">
+                                    <div className="mt-4 pt-4 border-top" style={{ borderColor: 'rgba(255,255,255,0.2)' }}>
+                                        <Link href="#" className="link text-uppercase btn-text fw-bold" style={{ color: '#FFB700' }}>
                                             Learn more about Advanced →
                                         </Link>
                                     </div>
@@ -158,14 +158,14 @@ export default function Section3D() {
 
                         {/* Enterprise Custom Plan */}
                         <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={400}>
-                            <div className="card-provide hover-up rounded-3 p-lg-7 p-md-5 p-4 bg-white h-100 border" style={{ borderColor: '#1a1a1a' }}>
+                            <div className="card-provide hover-up rounded-3 p-lg-7 p-md-5 p-4 bg-white h-100 border" style={{ borderColor: '#e9e9e9' }}>
                                 <h4 className="mb-3" style={{ fontSize: '24px', fontWeight: '700', color: '#1a1a1a' }}>
                                     Enterprise Custom
                                 </h4>
                                 <div className="mb-4">
                                     <span className="fs-5 fw-bold text-dark">Custom Pricing</span>
                                 </div>
-                                <button className="btn btn-primary w-100 mb-3 py-2" style={{ backgroundColor: '#794AFF', border: 'none' }}>
+                                <button className="btn w-100 mb-3 py-2 rounded-pill" style={{ backgroundColor: '#000', color: '#fff', border: 'none' }}>
                                     Request a Demo
                                 </button>
                                 <p className="mb-3 fw-bold" style={{ fontSize: '16px', color: '#1a1a1a' }}>
@@ -194,49 +194,49 @@ export default function Section3D() {
                                     </h6>
                                     <ul className="list-unstyled mb-0">
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>+</span>
+                                            <span className="me-2" style={{ fontSize: '18px', color: '#000' }}>+</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Employee Advocacy (Amplify)</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>+</span>
+                                            <span className="me-2" style={{ fontSize: '18px', color: '#000' }}>+</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Listening powered by Talkwalker</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>+</span>
+                                            <span className="me-2" style={{ fontSize: '18px', color: '#000' }}>+</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Advanced Analytics</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>+</span>
+                                            <span className="me-2" style={{ fontSize: '18px', color: '#000' }}>+</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Advanced Inbox</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>+</span>
+                                            <span className="me-2" style={{ fontSize: '18px', color: '#000' }}>+</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Generative AI Chatbot</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>+</span>
+                                            <span className="me-2" style={{ fontSize: '18px', color: '#000' }}>+</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Review Management</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>+</span>
+                                            <span className="me-2" style={{ fontSize: '18px', color: '#000' }}>+</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Premier Services</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>+</span>
+                                            <span className="me-2" style={{ fontSize: '18px', color: '#000' }}>+</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Social Selling</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>+</span>
+                                            <span className="me-2" style={{ fontSize: '18px', color: '#000' }}>+</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Salesforce integration</span>
                                         </li>
                                         <li className="mb-3 d-flex align-items-start">
-                                            <span className="text-primary me-2" style={{ fontSize: '18px' }}>+</span>
+                                            <span className="me-2" style={{ fontSize: '18px', color: '#000' }}>+</span>
                                             <span style={{ fontSize: '16px', color: '#4a4a4a' }}>Compliance integration (Proofpoint)</span>
                                         </li>
                                     </ul>
                                 </div>
                                 <div className="mt-4 pt-4 border-top">
-                                    <Link href="#" className="link text-uppercase btn-text text-primary">
+                                    <Link href="#" className="link text-uppercase btn-text fw-bold" style={{ color: '#FFB700' }}>
                                         Learn more about Enterprise →
                                     </Link>
                                 </div>
@@ -247,9 +247,11 @@ export default function Section3D() {
                     {/* Disclaimer */}
                     <div className="row mt-5">
                         <div className="col-12 text-center">
-                            <p className="mb-0" style={{ fontSize: '14px', color: '#4a4a4a' }}>
-                                *Prices displayed in INR, based on monthly billing, but do not include applicable taxes. Skip trial discount only applies when you pay annually.
-                            </p>
+                            <div className="d-inline-block p-3 rounded-3 border" style={{ backgroundColor: '#fffbe6', borderColor: '#FFB700', maxWidth: '900px' }}>
+                                <p className="mb-0" style={{ fontSize: '14px', color: '#4a4a4a' }}>
+                                    📌 <span className="fst-italic fw-bold">Pricing Disclaimer:</span> Prices displayed in INR, based on monthly billing, but do not include applicable taxes. Skip trial discount only applies when you pay annually.
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -4,7 +4,7 @@ export default function Section4D() {
 	return (
 		<>
 			{/*law-firm home section 4D - CTA Banner*/}
-			<section className="law-firm-home-section-4d position-relative py-60 bg-primary">
+			<section className="law-firm-home-section-4d position-relative py-20 bg-primary">
 				<div className="container position-relative z-1">
 					<div className="row">
 						<div className="col-12 text-center">

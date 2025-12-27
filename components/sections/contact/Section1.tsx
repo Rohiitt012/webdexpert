@@ -37,11 +37,11 @@ export default function Section1() {
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div className="container-fluid wow img-custom-anim-top pt-90">
-                    <div className="contact-map">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.5876794017618!2d77.23031607495713!3d28.642117283646346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd2389e98491%3A0x2a5c4c1ba14b5b0e!2s203%202%2C%20Jawahar%20Mal%20Mansion%2C%20A%203%2F15%2C%20Asaf%20Ali%20Rd%2C%20Turkman%20Gate%2C%20Chandni%20Chowk%2C%20New%20Delhi%2C%20Delhi%2C%20110002!5e0!3m2!1sen!2sin!4v1765529317127!5m2!1sen!2sin" width={600} height={450} style={{ border: 0 }} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
+                        <div className="col-lg-8 col-md-6">
+                            <div className="contact-map h-100">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.5876794017618!2d77.23031607495713!3d28.642117283646346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd2389e98491%3A0x2a5c4c1ba14b5b0e!2s203%202%2C%20Jawahar%20Mal%20Mansion%2C%20A%203%2F15%2C%20Asaf%20Ali%20Rd%2C%20Turkman%20Gate%2C%20Chandni%20Chowk%2C%20New%20Delhi%2C%20Delhi%2C%20110002!5e0!3m2!1sen!2sin!4v1765529317127!5m2!1sen!2sin" className="w-100 h-100 rounded-4" style={{ border: 0, minHeight: "450px" }} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>

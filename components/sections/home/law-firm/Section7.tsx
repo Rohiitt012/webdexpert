@@ -37,7 +37,7 @@ export default function Section7() {
 	return (
 		<>
 			{/*law-firm section 7*/}
-			<section className="law-firm-home-section-7 position-relative overflow-hidden pt-120 pb-120 bg-secondary-2">
+			<section className="law-firm-home-section-7 position-relative pt-20 pb-50 bg-white">
 				<div className="container">
 					<div className="text-center">
 						<span className="content-top btn-text text-primary fw-semibold rounded-pill border border-primary px-3 py-2 bg-white">
@@ -54,7 +54,7 @@ export default function Section7() {
 								<div className="swiper-wrapper z-1">
 									<SwiperSlide>
 										<div
-											className="card-team overflow-hidden"
+											className="card-team"
 											data-aos="fade-up"
 											data-aos-delay={0}
 										>
@@ -126,7 +126,7 @@ export default function Section7() {
 									</SwiperSlide>
 									<SwiperSlide>
 										<div
-											className="card-team overflow-hidden"
+											className="card-team"
 											data-aos="fade-up"
 											data-aos-delay={200}
 										>
@@ -198,7 +198,7 @@ export default function Section7() {
 									</SwiperSlide>
 									<SwiperSlide>
 										<div
-											className="card-team overflow-hidden"
+											className="card-team"
 											data-aos="fade-up"
 											data-aos-delay={400}
 										>
@@ -270,7 +270,7 @@ export default function Section7() {
 									</SwiperSlide>
 									<SwiperSlide>
 										<div
-											className="card-team overflow-hidden"
+											className="card-team"
 											data-aos="fade-up"
 											data-aos-delay={600}
 										>
@@ -342,7 +342,7 @@ export default function Section7() {
 									</SwiperSlide>
 									<SwiperSlide>
 										<div
-											className="card-team overflow-hidden"
+											className="card-team"
 											data-aos="fade-up"
 											data-aos-delay={800}
 										>

@@ -5,7 +5,7 @@ export default function Section4() {
 	return (
 		<>
 			{/*law-firm home section 4*/}
-			<section className="law-firm-home-section-4 position-relative overflow-hidden pt-120">
+			<section className="law-firm-home-section-4 position-relative pt-120">
 				<div className="container position-relative z-1 pb-md-250">
 					<div className="row align-items-center">
 						<div className="col-lg-6 order-2 order-lg-1">

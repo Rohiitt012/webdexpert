@@ -9,7 +9,7 @@ export default function Section9({ bordertop }: any) {
                     <div className="text-center">
                         <div className="d-flex align-items-center justify-content-center gap-3">
                             <span className="small-line" />
-                            <span className="btn-text text-primary">Blogs </span>
+                            <span className="btn-text text-warning">Blogs </span>
                             <span className="small-line" />
                         </div>
                         <h2 className="text-dark mt-3 mb-8">Read Latest Articles & Post</h2>
@@ -85,7 +85,7 @@ export default function Section9({ bordertop }: any) {
                                             <img src="/assets/img/ai-solutions-img/template/icons/icon-1.svg" alt="Xzect Labs" />
                                             <p className="mb-0">December 21, 2025</p>
                                         </div>
-                                         {/* <div className="d-flex align-items-center gap-1">
+                                        {/* <div className="d-flex align-items-center gap-1">
                                             <img src="/assets/img/ai-solutions-img/template/icons/icon-2.svg" alt="Xzect Labs" />
                                             <span className="opacity-50">By</span>
                                             <Link href="#" className="mb-0">

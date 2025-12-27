@@ -41,7 +41,7 @@ export default function Section5() {
 		<>
 			{/*law-firm home section 5*/}
 			<section className="law-firm-home-section-5 position-relative overflow-hidden d-none d-lg-block">
-				<div className="container pb-120 border-top border-primary pt-120">
+				<div className="container pb-20 border-top border-primary pt-20">
 					<div className="row">
 						<div className="col-lg-2">
 							<h5 className="mt-3 me-auto text-anime-style-2 d-block">

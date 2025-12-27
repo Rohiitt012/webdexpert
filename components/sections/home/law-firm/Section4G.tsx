@@ -4,7 +4,7 @@ export default function Section4G() {
 	return (
 		<>
 			{/*law-firm home section 4G - What Advantages you will receive*/}
-			<section className="law-firm-home-section-4g position-relative py-60 bg-white">
+			<section className="law-firm-home-section-4g position-relative pt-10 pb-0 bg-white">
 				<div className="container position-relative z-1">
 					<div className="row">
 						<div className="col-12 text-center mb-5">
